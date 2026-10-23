@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>
+:root{color-scheme:light}
+body{margin:0;font-size:14px;font-family:system-ui,sans-serif}
+[hidden]{display:none!important}
+</style>
+<title>Middle School Complementary Courses - Alberta Curriculum · Student</title>
+<meta name="description" content="Practise and take tests for the lessons your teacher has opened.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@500;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<style>
+.sbar{position:sticky;top:0;z-index:15;background:var(--side);color:var(--side-ink);display:flex;align-items:center;gap:12px;padding:12px max(16px,env(safe-area-inset-left,0px))}
+.sbar .logo{padding:0}
+.sbar .who{margin-left:auto;display:flex;align-items:center;gap:10px;font-size:.86rem;min-width:0}
+.sbar .who span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sbar button{font:inherit;font-size:.8rem;font-weight:700;color:var(--side-hi);background:var(--side-act);border:1px solid rgba(255,255,255,.18);border-radius:7px;padding:5px 10px;cursor:pointer}
+.spage{max-width:920px;margin:0 auto;padding:26px 16px 60px}
+.spage h1{font-family:var(--f-display);font-size:1.7rem;margin:0 0 4px}
+.lessonrow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px 16px;align-items:center;padding:14px 18px;border-top:1px solid var(--line2)}
+.lessonrow:first-child{border-top:0}
+.lessonrow .meta{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.8rem;color:var(--muted);margin-top:4px}
+.pill{display:inline-flex;align-items:center;gap:5px;font-size:.78rem;font-weight:700;border-radius:99px;padding:2px 9px;background:var(--sunk2);color:var(--muted)}
+.pill.ok{background:var(--l3s);color:var(--l3)} .pill.todo{background:var(--accent-soft);color:var(--accent)}
+.q{display:grid;grid-template-columns:34px minmax(0,1fr);gap:10px;padding:14px 0;border-top:1px solid var(--line2)}
+.q:first-child{border-top:0}
+.q .n{font-family:var(--f-mono);font-weight:700;font-size:.8rem;color:var(--muted);text-align:right;padding-top:2px}
+.q .qt{font-size:1rem}
+.q input[type=text],.q textarea{width:100%;margin-top:8px;font-size:1rem}
+.q textarea{min-height:70px;resize:vertical}
+.choices{display:grid;gap:6px;margin-top:8px}
+.choice{display:flex;gap:9px;align-items:flex-start;border:1px solid var(--line);border-radius:9px;padding:9px 12px;cursor:pointer;background:var(--surface)}
+.choice:has(input:checked){border-color:var(--accent);background:var(--accent-soft)}
+.choice input{margin-top:3px;accent-color:var(--accent)}
+.fb{margin-top:8px;font-size:.88rem;display:flex;gap:6px;align-items:flex-start}
+.fb.right{color:var(--l3)} .fb.wrong{color:var(--l1)} .fb.read{color:var(--muted)}
+.q.right{box-shadow:inset 3px 0 0 var(--l3)} .q.wrong{box-shadow:inset 3px 0 0 var(--l1)}
+.scorebox{display:flex;flex-wrap:wrap;align-items:center;gap:14px 22px;padding:18px;border-radius:12px;background:var(--accent-soft)}
+.scorebox .big{font-family:var(--f-display);font-size:2rem;font-weight:700;line-height:1}
+.lvbig{font-family:var(--f-mono);font-weight:700;font-size:1.1rem;border-radius:8px;padding:6px 12px}
+.openhint{font-size:.78rem;color:var(--muted);margin-top:6px}
+sup{font-size:.72em}
+.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;padding:14px 18px;border-top:1px solid var(--line2)}
+</style>
+</head>
+<body>
+<header class="sbar">
+  <div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary Courses</b><span>Alberta Curriculum · Student</span></div></div>
+  <div class="who" id="who" hidden><span id="whoName"></span><button type="button" id="signOut">Sign out</button></div>
+</header>
+<main class="spage" id="app"><div class="row"><span class="spinner"></span><span class="muted">Loading…</span></div></main>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<div class="auth" id="auth" hidden>
+  <div class="auth-card">
+    <div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary Courses</b><span>Alberta Curriculum · Students</span></div></div>
+    <h1 id="authTitle">Student sign in</h1>
+    <div class="seg" role="group" id="authTabs"><button type="button" data-tab="signin" aria-pressed="true">Sign in</button><button type="button" data-tab="signup" aria-pressed="false">Create account</button></div>
+    <form id="authForm" novalidate>
+      <label class="f" id="nameRow" hidden>Your name<input id="aName" autocomplete="name" maxlength="60" placeholder="First and last name"></label>
+      <label class="f" id="codeRow" hidden>Class code<input id="aCode" autocomplete="off" maxlength="12" placeholder="From your teacher" style="text-transform:uppercase"></label>
+      <label class="f" id="emailRow">Email<input id="aEmail" type="email" autocomplete="email" required></label>
+      <label class="f" id="passRow"><span id="passLabel">Password</span><input id="aPass" type="password" autocomplete="current-password" minlength="8"></label>
+      <button class="btn" id="aSubmit" type="submit">Sign in</button>
+      <p class="auth-msg" id="aMsg" role="status"></p>
+    </form>
+    <div class="row between small"><button type="button" class="btn quiet sm" id="forgot">Forgot password?</button><button type="button" class="btn quiet sm" id="back" hidden>Back to sign in</button><a class="small muted" href="/">Teacher? Go to the Planbook</a></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/student.js"></script>
+</body>
+</html>

@@ -1,0 +1,696 @@
+=== ART7.A1 0
+hook: Two people can look at the same painting and see completely different things. One sees a calm forest; another sees something lonely and dark. Neither is wrong, but the best art critics back up what they see with evidence. Today you'll learn a four-step method that turns "I like it" into a real response.
+sc: I can describe what I see in an artwork | I can analyze how the elements of art are used | I can interpret meaning and judge an artwork with reasons
+v: describe :: To list what you see in an artwork without giving opinions.
+v: analyze :: To explain how the artist used the elements and principles of art.
+v: interpret :: To explain what you think the artwork means or expresses.
+v: judge :: To give a reasoned opinion about an artwork's success.
+v: elements of art :: The building blocks of art: line, shape, form, space, texture, value and colour.
+v: critique :: A careful, structured response to an artwork.
+ts: The Four-Step Critique || Studio || How do I respond to art with evidence?
+tx: Step 1, Describe: What do you see? List subjects, colours, lines, shapes and materials. No opinions yet. ¶ Step 2, Analyze: How is it organized? Where does your eye go first? Which elements stand out? How are balance, contrast and emphasis used? ¶ Step 3, Interpret: What mood or idea does it express? What might the artist be saying? Use evidence: "The dark blues and heavy shapes make it feel..." ¶ Step 4, Judge: Is it successful? Why? Judge by what the artist was trying to do, not only whether you like it. ¶ Artworks to discuss (show images from a gallery website): ¶ A. Emily Carr, a painting of a British Columbia forest (1930s): swirling greens, tall trunks, rhythmic brushstrokes. ¶ B. Kenojuak Ashevak, The Enchanted Owl (1960): an Inuit print of an owl with feathers spreading in bold, flat shapes of red and black. ¶ C. Alex Janvier, an artist from Cold Lake First Nations in Alberta: flowing, colourful lines and symbols connected to the land and Dene culture. ¶ In groups, choose one artwork and complete all four steps on a critique sheet. Each group shares its interpretation and the evidence behind it.
+src: Original activity written for this lesson; teachers show images from public gallery and museum websites.
+st: Look at the artwork silently for one minute | Describe what you see | Analyze the elements and principles | Interpret the mood or message | Judge the work and share reasons
+org: Step | What I notice | Evidence from the artwork
+an: What did you notice first, and why? | Which element of art is most important in your artwork? | What mood does it create? What evidence supports that? | How did your opinion change after the four steps?
+pr: Write a four-paragraph critique of one artwork (one paragraph per step), using at least four art vocabulary words and specific evidence.
+ex: Describe vs interpret || Is "The owl looks proud" a description or an interpretation? || It is an idea about meaning, not just what is seen || Interpretation || Rewrite it as a description.
+ex: Analyzing || How might an artist lead your eye to the main subject? || Contrast | Placement | Line || With strong contrast, a central placement or lines pointing toward it || Find this in your artwork.
+ex: Using evidence || Complete: "The painting feels calm because..." || Name elements || "...it uses soft greens and gentle, curving lines." || What evidence would show tension instead?
+ex: Judging fairly || Why judge by what the artist was trying to do? || Art has different goals || A bold print and a detailed painting succeed in different ways || What criteria could you use?
+p: B || What are the four critique steps? || Describe, analyze, interpret, judge.
+p: B || What happens in the describe step? || List what you see without opinions.
+p: B || Name four elements of art. || Line, shape, colour and texture (also form, space, value).
+p: B || What is a critique? || A careful, structured response to an artwork.
+p: B || What does interpret mean? || Explain what you think the artwork means.
+p: I || Which step asks how the artwork is organized? || Analyze.
+p: I || Who made The Enchanted Owl? || Kenojuak Ashevak.
+p: I || Where is Alex Janvier from? || Cold Lake First Nations in Alberta.
+p: I || What kind of subject did Emily Carr often paint? || British Columbia forests.
+p: I || Give an example of evidence for an interpretation. || "The dark colours make it feel gloomy."
+p: I || Is "I don't like it" a strong judgment? Why? || No, it gives no reasons.
+p: C || Why should you describe before interpreting? || It makes sure your ideas are based on what is really there.
+p: C || How can two people interpret the same work differently and both be reasonable? || They can support different ideas with evidence.
+p: C || Why is it important to learn about artists from many cultures? || Art reflects different histories, beliefs and ways of seeing.
+p: C || Write one analysis sentence about The Enchanted Owl. || Sample: "The spreading feathers create movement out from the owl's body."
+mis: Thinking opinions don't need evidence | Mixing up describing and interpreting | Judging art only by whether it looks realistic
+et: Name the four critique steps. | Write one interpretation with evidence.
+mc: B || The first critique step is || describe | judge | interpret | analyze || A
+mc: B || Line, shape and colour are || elements of art | principles of design | critique steps | mediums || A
+mc: B || A critique is || a structured response to art | a type of paint | a museum | a sketch || A
+mc: B || The Enchanted Owl is by || Kenojuak Ashevak | Emily Carr | Alex Janvier | Maud Lewis || A
+mc: B || Interpreting means explaining || meaning | colours only | price | size || A
+mc: B || In the describe step you || list what you see | give opinions | judge | guess the price || A
+mc: I || "The swirling greens show the forest is alive" is || an interpretation with evidence | a description only | a judgment with no reason | unrelated || A
+mc: I || The analyze step looks at || how elements and principles are used | the artist's age | the frame | the gallery || A
+mc: I || A fair judgment considers || what the artist was trying to do | only realism | only colour | only price || A
+mc: I || Alex Janvier is from || Cold Lake First Nations, Alberta | Nunavut | Ontario | France || A
+mc: C || Describing before interpreting helps because it || bases ideas on what's really there | is faster | avoids thinking | is optional || A
+mc: C || Two different interpretations can both be reasonable if || each uses evidence | one is louder | they match exactly | neither has reasons || A
+sa: B || List the four critique steps. || Describe, analyze, interpret, judge.
+sa: B || Name four elements of art. || Line, shape, colour, texture.
+sa: I || Write a description of an artwork in two sentences. || Answers vary; no opinions.
+sa: I || Write an interpretation with evidence. || Answers vary; must cite visual evidence.
+sa: I || Explain the difference between analyze and interpret. || Analyze explains how it is made; interpret explains what it means.
+sa: I || Why learn about artists from many cultures? || To understand different histories and ways of seeing.
+sa: C || Write a four-paragraph critique. || Answers vary.
+sa: C || Explain why "I like it" is not a strong judgment. || It gives no reasons or criteria.
+
+=== ART8.A1 0
+hook: Look around the room. Your chair, water bottle, phone case and backpack were all designed by someone who made choices about shape, material and colour. Good design is everywhere, and most of the time we don't even notice it, until something is badly designed.
+sc: I can explain form and function in designed objects | I can analyze design choices | I can critique a design and suggest improvements
+v: design :: Planning how something will look and work.
+v: form :: The shape and physical appearance of an object.
+v: function :: The job an object is meant to do.
+v: ergonomics :: Designing objects to fit the human body comfortably and safely.
+v: aesthetic :: Relating to beauty and how something looks.
+v: user :: The person who uses a designed object.
+ts: Form Meets Function || Design challenge || How do designers balance how something looks with how it works?
+tx: Part 1, Object study (15 minutes): Each group gets three everyday objects (for example, a stapler, a reusable water bottle and a pair of scissors). For each object, answer: ¶ • Function: What job does it do? Who is the user? ¶ • Form: What shape, materials and colours were chosen? ¶ • Ergonomics: How does it fit the hand or body? ¶ • Aesthetic: Is it pleasing to look at? Why? ¶ • Improvement: What would you change? ¶ Part 2, Good vs bad design (10 minutes): Find one example of a frustrating design in the school (a door that you push when you should pull, a confusing sign, an uncomfortable chair). Explain why its form doesn't match its function. ¶ Part 3, Sketch a redesign (20 minutes): Choose one object and draw three thumbnail sketches of an improved version. Label the changes and explain how each improves function or aesthetics. ¶ Designers often say "form follows function": the shape should come from the job the object needs to do.
+src: Original activity written for this lesson.
+st: Study three objects for form, function and ergonomics | Find an example of frustrating design | Explain the mismatch | Sketch three redesign ideas | Share and choose the strongest idea
+org: Object | Function | Form | Ergonomics | Improvement
+an: Which object had the best match between form and function? | Why was your "bad design" example frustrating? | What does "form follows function" mean? | Which redesign idea is strongest, and why?
+pr: Choose one designed object and write a short design critique (function, form, ergonomics, aesthetic), with a labelled redesign sketch.
+ex: Form and function || What is the function and form of a coffee mug? || Holds hot drinks | Cylinder with handle || Function: holds hot liquid; form: cylinder with a handle so hands don't burn || How does the handle show ergonomics?
+ex: Bad design || A door with a pull handle that must be pushed. What's wrong? || The form suggests the wrong action || The handle's form tells users to pull, which doesn't match its function || How would you fix it?
+ex: Ergonomics || How are scissors designed for the hand? || Finger holes | Grip shape || Loops shaped for thumb and fingers make cutting comfortable || How could they be designed for left-handed users?
+ex: Aesthetic choice || Why might a water bottle come in many colours? || Personal style | Appeal || Colour choices make it appealing and personal without changing function || When does aesthetic matter most?
+p: B || What is design? || Planning how something will look and work.
+p: B || What is form? || The shape and appearance of an object.
+p: B || What is function? || The job an object is meant to do.
+p: B || What is ergonomics? || Designing to fit the body comfortably and safely.
+p: B || What does aesthetic mean? || Relating to how something looks.
+p: I || What does "form follows function" mean? || The shape should come from the job the object does.
+p: I || Give an example of ergonomic design. || A curved mouse that fits the hand (also scissors, handles).
+p: I || Why is a push door with a pull handle bad design? || Its form suggests the wrong action.
+p: I || What is a thumbnail sketch? || A small, quick sketch of an idea.
+p: I || Who is the user? || The person who uses the object.
+p: I || How many redesign sketches did you make? || Three.
+p: C || When might aesthetics be as important as function? || For products people choose to express style, like clothing or phone cases.
+p: C || How could design be more inclusive? || Consider users with different abilities, ages or hand sizes.
+p: C || Why do designers sketch several ideas? || To explore options before choosing the best one.
+p: C || How do architects use form and function? || Buildings are shaped by how people will use them and how they should look.
+mis: Thinking design is only about looks | Thinking good design is always expensive | Thinking only professionals design things
+et: Explain form and function using one object. | Describe one way to improve a design.
+mc: B || Function is || the job an object does | its colour | its price | its brand || A
+mc: B || Form is || shape and appearance | the job | the user | the cost || A
+mc: B || Ergonomics is about || fitting the body | colour | price | logos || A
+mc: B || A thumbnail sketch is || small and quick | a final painting | a photograph | a sculpture || A
+mc: B || "Form follows function" means || shape comes from the job | looks matter most | function doesn't matter | form is random || A
+mc: B || The user is || the person using the object | the factory | the designer only | the store || A
+mc: I || A push door with a pull handle shows || form not matching function | good design | ergonomics | aesthetic success || A
+mc: I || Scissor loops shaped for fingers are an example of || ergonomics | aesthetics only | bad design | function only || A
+mc: I || Colour choices on a water bottle mostly affect || aesthetics | function | weight | safety || A
+mc: I || Designers sketch several ideas to || explore options | waste paper | copy others | finish faster || A
+mc: C || Inclusive design considers || users of different abilities and ages | only adults | only the designer | only price || A
+mc: C || Aesthetics matter most for products that || express personal style | have no users | are hidden | are free || A
+sa: B || Define form and function. || Form is shape and appearance; function is the job it does.
+sa: B || What is ergonomics? || Designing objects to fit the body comfortably.
+sa: I || Analyze the form and function of one object. || Answers vary.
+sa: I || Describe a frustrating design and why it fails. || Answers vary.
+sa: I || Explain "form follows function." || The shape should come from the job the object needs to do.
+sa: I || Describe one redesign change and how it helps. || Answers vary.
+sa: C || Write a design critique with a redesign sketch. || Answers vary.
+sa: C || Explain how design can be more inclusive. || By considering different abilities, ages and needs of users.
+
+=== ART9.A1 0
+hook: A self-portrait can show much more than a face. Artists include objects, colours, backgrounds and symbols to show where they come from, what they care about and how they see themselves. Before you make art about identity, you'll learn to read how other artists do it.
+sc: I can identify how artists show identity in their work | I can interpret symbols, colour and setting in a portrait | I can plan ideas for my own identity artwork
+v: identity :: The qualities, beliefs, culture and experiences that make a person who they are.
+v: symbol :: An image or object that stands for an idea.
+v: self-portrait :: An artwork an artist makes of themselves.
+v: context :: The time, place and situation in which an artwork was made.
+v: visual metaphor :: An image that suggests an idea by comparing it to something else.
+v: composition :: The arrangement of parts in an artwork.
+ts: Reading Identity || Studio || How do artists express who they are?
+tx: Part 1, Gallery walk (15 minutes): Look at four portraits or self-portraits (shown from gallery websites), such as: ¶ • A self-portrait with objects from the artist's daily life in the background. ¶ • A portrait using bright, symbolic colours rather than realistic skin tones. ¶ • A work by an Indigenous artist that combines a person with patterns, animals or land. ¶ • A photo-collage portrait built from many images. ¶ For each, record: What objects or symbols appear? What do colours suggest? What does the setting tell us? What might the artist want us to know? ¶ Part 2, Identity web (10 minutes): Draw a web with your name in the middle. Add branches for family and culture, places, interests, values, challenges and goals. ¶ Part 3, Symbol sketches (20 minutes): Choose three branches and sketch a symbol for each. For example: a mountain for growing up in Alberta, a basketball for a passion, a tree for family roots. ¶ Privacy note: You choose what to share. Your identity artwork can show as much or as little as you're comfortable with.
+src: Original activity written for this lesson; teachers show images from public gallery and museum websites.
+st: Complete the gallery walk | Record symbols, colour and setting | Build an identity web | Sketch three personal symbols | Share one symbol and its meaning with a partner
+org: Artwork | Symbols | Colours | Setting | What it says about identity
+an: Which artwork told you the most about the artist? How? | How can colour express identity? | Why might an artist use symbols instead of words? | Which of your symbols is strongest, and why?
+pr: Write a plan for an identity artwork: list three symbols, explain what each means, describe your colour choices and sketch a possible composition.
+ex: Reading a symbol || A portrait includes an empty chair. What might it mean? || Absence | Someone missing || It could suggest someone who is missing or a loss || What other meanings are possible?
+ex: Colour and identity || Why might an artist paint a face in blue and gold? || Symbolic colour | Mood || To express feelings or ideas, such as calm and pride, rather than realism || What colours represent you?
+ex: Context || Why does knowing when and where a portrait was made help? || Time | Place | Culture || It helps explain symbols and choices linked to the artist's world || How might your context show in your art?
+ex: Visual metaphor || Show "growing up" as a visual metaphor. || Compare to something that grows || A sprouting plant or a tree with rings || Think of another metaphor for change.
+p: B || What is identity? || The qualities, beliefs and experiences that make a person who they are.
+p: B || What is a symbol? || An image or object that stands for an idea.
+p: B || What is a self-portrait? || An artwork an artist makes of themselves.
+p: B || What is context? || The time, place and situation an artwork was made in.
+p: B || What is a visual metaphor? || An image that suggests an idea by comparison.
+p: I || Name three things to look for in a portrait. || Symbols, colours and setting.
+p: I || Name three branches of an identity web. || Family and culture, interests and values (also places, challenges, goals).
+p: I || Give an example of a personal symbol. || A mountain for growing up in Alberta.
+p: I || Why might a portrait use unrealistic colours? || To express mood or ideas.
+p: I || What does the privacy note say? || You choose what to share.
+p: I || How many symbols do you sketch? || Three.
+p: C || Why might an artist use symbols instead of words? || Symbols can show complex ideas visually and invite interpretation.
+p: C || How can context change the meaning of a symbol? || Symbols can mean different things in different cultures or times.
+p: C || Why is it important to respect how others choose to show identity? || Identity is personal, and people decide what to share.
+p: C || How could composition emphasize the most important symbol? || Place it centrally, make it larger or use contrast.
+mis: Thinking a portrait must look realistic | Thinking symbols have only one meaning | Feeling you must share private details
+et: Name one symbol and explain its meaning. | Explain how colour can express identity.
+mc: B || Identity is || what makes a person who they are | a type of brush | a frame | a museum || A
+mc: B || A symbol || stands for an idea | is always realistic | is a colour only | is a signature || A
+mc: B || A self-portrait shows || the artist | a landscape only | a bowl of fruit | nothing || A
+mc: B || Context is || time, place and situation | the frame | the price | the size || A
+mc: B || An identity web has your name in the || middle | corner | back | title || A
+mc: B || In this lesson, you choose || what to share | nothing | everything private | your partner's identity || A
+mc: I || An empty chair in a portrait could suggest || someone missing | a sale | furniture design only | nothing || A
+mc: I || Blue and gold skin tones are an example of || symbolic colour | realistic colour | bad technique | photography || A
+mc: I || A sprouting plant for "growing up" is a || visual metaphor | contour line | value scale | critique step || A
+mc: I || Making the key symbol larger is a choice about || composition | context | colour only | identity web || A
+mc: C || Symbols can mean different things because of || culture and context | paint brands | paper size | frames || A
+mc: C || Artists use symbols instead of words to || show complex ideas visually | avoid ideas | make art faster | hide skill || A
+sa: B || Define symbol. || An image or object that stands for an idea.
+sa: B || What is context? || The time, place and situation in which art was made.
+sa: I || Analyze one portrait from the gallery walk. || Answers vary.
+sa: I || Explain how colour can express identity. || Colours can suggest feelings, culture or values.
+sa: I || Describe three personal symbols. || Answers vary.
+sa: I || Give an example of a visual metaphor. || A tree with deep roots for family.
+sa: C || Write a plan for an identity artwork. || Answers vary.
+sa: C || Explain why identity art should respect privacy. || Identity is personal; people decide what to share.
+
+=== DR7.A1 0
+hook: On stage, actors have to trust each other completely. If your scene partner forgets a line, you need to catch them. If someone falls in a scene, you need to know the group has their back. Drama starts not with acting, but with trust and focus.
+sc: I can concentrate and stay focused in a group activity | I can work safely and respectfully with others | I can explain why trust matters in drama
+v: ensemble :: A group of performers working together as one.
+v: trust :: Believing others will keep you safe and support you.
+v: concentration :: Keeping your attention fully on a task.
+v: focus :: Where attention is directed, for performers and the audience.
+v: neutral position :: Standing relaxed and balanced, ready to begin.
+v: side-coaching :: The leader giving instructions during an activity without stopping it.
+ts: Building the Ensemble || Rehearsal || How do trust and focus help a group create drama?
+tx: Ground rules: respect, safety, no touching without consent and instruction, and "pass" is always an option. ¶ Warm-up, Pass the clap (5 minutes): In a circle, pass a clap from person to person, making eye contact. Then speed up, reverse direction, and send two claps at once. ¶ Game 1, Count to 20 (5 minutes): The group counts to 20 one person at a time, with no set order. If two people speak at once, start again. Eyes closed for the second round. ¶ Game 2, Mirror (8 minutes): In pairs, one leads slow movements and the other mirrors exactly. Switch leaders. Then try with no leader, both following each other. ¶ Game 3, Guided walk (10 minutes): One partner closes their eyes (or uses a blindfold if comfortable). The other guides them around the room with gentle verbal directions only. Switch. Side-coaching: "Guides, keep your partner safe. Walkers, notice how it feels to trust." ¶ Debrief circle (5 minutes): How did it feel to trust? What helped? Where did focus slip?
+src: Original activity written for this lesson.
+st: Set ground rules | Warm up with Pass the clap | Play Count to 20 and Mirror | Complete the guided walk | Debrief in a circle
+org: Activity | What I had to focus on | What helped the group | How I felt
+an: Why was Count to 20 hard at first? | What made the mirror activity work best? | How did it feel to be guided? To guide? | How does trust help actors on stage?
+pr: Write a journal entry describing one activity, how you showed focus and trust, and one goal for working as an ensemble.
+ex: Focus || How do you stay focused in Count to 20? || Listen | Watch others | Breathe || Listen to the group and wait for a gap || What breaks focus?
+ex: Mirroring || How can a leader make mirroring easier? || Move slowly | Keep eye contact || Slow, smooth movements with eye contact || Why does fast movement fail?
+ex: Trust || What should a good guide do? || Keep partner safe | Give clear directions || Speak clearly and calmly and steer away from obstacles || How did trust grow over the walk?
+ex: Respect || Why is "pass" an option? || Comfort | Safety || People can step back if they aren't comfortable, which builds trust || How can the group support someone who passes?
+p: B || What is an ensemble? || A group of performers working as one.
+p: B || What is trust? || Believing others will keep you safe and support you.
+p: B || What is concentration? || Keeping your attention fully on a task.
+p: B || What is the neutral position? || Standing relaxed and balanced, ready to begin.
+p: B || What is side-coaching? || Instructions given during an activity without stopping it.
+p: I || What happens in Count to 20 if two people speak at once? || The group starts again.
+p: I || What is the goal of the mirror game? || To move exactly together.
+p: I || How does the guide direct the walker? || With gentle verbal directions only.
+p: I || Name one ground rule. || Respect (also safety, consent, "pass" is an option).
+p: I || What does Pass the clap practise? || Focus, eye contact and timing.
+p: I || How should mirror movements be done? || Slowly and smoothly.
+p: C || Why do actors need trust before performing? || They rely on each other to support scenes and stay safe.
+p: C || How can focus affect the audience? || Focused actors draw the audience's attention to the story.
+p: C || Why might eyes closed make Count to 20 harder? || You can't see cues, so you must listen more closely.
+p: C || How could an ensemble rebuild trust after a mistake? || Talk it through, encourage each other and try again.
+mis: Thinking drama is only about being loud or funny | Thinking trust games are just games | Rushing movements in mirroring
+et: Explain why trust matters in drama. | Describe one way you showed focus.
+mc: B || An ensemble is || a group working as one | a costume | a script | a stage || A
+mc: B || Trust means || believing others will support you | ignoring others | acting alone | being loud || A
+mc: B || Concentration is || full attention on a task | daydreaming | talking | leaving || A
+mc: B || In the mirror game, partners || move exactly together | race | sit still | sing || A
+mc: B || "Pass" means || you may step back if uncomfortable | you lose | the game ends | you must lead || A
+mc: B || The guided walk uses || verbal directions | pushing | running | shouting || A
+mc: I || If two people speak at once in Count to 20 || start again | keep going | the game ends | they win || A
+mc: I || Mirroring works best with || slow, smooth movements | fast jumps | no eye contact | talking || A
+mc: I || Side-coaching is || instructions during an activity | a costume change | a break | a script || A
+mc: I || A good guide || keeps their partner safe | runs ahead | lets them bump into things | stays silent || A
+mc: C || Actors need trust because they || rely on each other on stage | perform alone | never make mistakes | memorize faster || A
+mc: C || Eyes closed in Count to 20 makes you || listen more closely | win easily | stop playing | talk more || A
+sa: B || Define ensemble. || A group of performers working together as one.
+sa: B || What is side-coaching? || Instructions given during an activity without stopping it.
+sa: I || Describe how to play Count to 20. || The group counts to 20 one at a time with no set order, restarting if two speak at once.
+sa: I || Explain what makes mirroring successful. || Slow, smooth movement, eye contact and focus.
+sa: I || Describe the guide's job in the guided walk. || Keep the walker safe with clear, calm verbal directions.
+sa: I || Name two ground rules. || Respect and safety.
+sa: C || Write a journal entry on trust and focus. || Answers vary.
+sa: C || Explain how trust helps an ensemble perform. || Performers support each other, take risks and stay safe.
+
+=== DR8.A1 0
+hook: Before an actor says a single word, the audience already knows a lot about their character: whether they're confident or nervous, old or young, powerful or afraid. How? Through posture, levels and the way they move through space.
+sc: I can use levels to show status and relationships | I can use posture to show character | I can explain how movement communicates meaning
+v: levels :: The height of a performer's body on stage: low, medium or high.
+v: posture :: The way a person holds their body.
+v: status :: How powerful or important a character seems compared with others.
+v: physicality :: How an actor uses their whole body to create a character.
+v: tableau :: A frozen stage picture that tells a story.
+v: space :: The area actors use, including distance between characters.
+ts: Status and Levels || Rehearsal || How do levels and posture show who a character is?
+tx: Warm-up, Status walk (8 minutes): Walk around the room. The leader calls out numbers from 1 (very low status: shy, unsure) to 10 (very high status: confident, powerful). Change your posture, pace, eye contact and space with each number. ¶ Activity 1, Levels tableau (10 minutes): In groups of four, create three tableaux using low, medium and high levels: ¶ • A king and his servants ¶ • A team celebrating a win while one player sits injured ¶ • A new student arriving at a busy cafeteria ¶ The audience guesses each character's status and explains the evidence. ¶ Activity 2, Status card scene (15 minutes): In pairs, each person secretly draws a status card (1–10). Improvise a short scene in a setting such as a job interview, a bus stop or a restaurant. Show status only with posture, levels, eye contact and space, not by saying it. The audience guesses each number. ¶ Debrief: Which physical choices showed status most clearly?
+src: Original activity written for this lesson.
+st: Warm up with the status walk | Create three levels tableaux | Audience reads status and evidence | Improvise status-card scenes | Debrief on physical choices
+org: Character | Status (1–10) | Posture | Level | Eye contact | Use of space
+an: How did your posture change from status 1 to 10? | In the tableaux, how did levels show relationships? | Which physical clue was easiest for the audience to read? | Can a character change status during a scene? How?
+pr: Choose a character from a story or film and describe how you would show their status through posture, level, eye contact and use of space, with a sketch of a tableau.
+ex: High status || How might a high-status character stand? || Upright | Still | Takes up space || Tall posture, steady eye contact, relaxed and taking up space || What would low status look like?
+ex: Levels || In "king and servants," who should be highest? || Status shown by height || The king, standing or on a raised level, with servants lower || How else could you show the king's power?
+ex: Space || What does standing far from others suggest? || Isolation | Distance || Separation, loneliness or not belonging || How could space show friendship?
+ex: Status change || How could a character's status rise during a scene? || Posture straightens | Eye contact increases || The actor stands taller, slows down and makes eye contact || Give a scene example.
+p: B || What are levels? || The height of a performer's body: low, medium or high.
+p: B || What is posture? || The way a person holds their body.
+p: B || What is status? || How powerful or important a character seems.
+p: B || What is a tableau? || A frozen stage picture that tells a story.
+p: B || What is physicality? || How an actor uses their body to create a character.
+p: I || What does status 1 look like? || Shy, unsure, low posture, little eye contact.
+p: I || What does status 10 look like? || Confident, upright, steady eye contact.
+p: I || Name the three tableaux. || King and servants, team celebration with injured player, new student in cafeteria.
+p: I || How must status be shown in the card scene? || Through posture, levels, eye contact and space, not words.
+p: I || How can space show relationships? || Closeness shows connection; distance shows separation.
+p: I || Name one setting for the card scene. || A job interview (also bus stop, restaurant).
+p: C || Why is showing better than telling on stage? || Audiences understand and believe what they see.
+p: C || How can levels show conflict? || A high and low character facing each other suggests a power struggle.
+p: C || How might status differ from a character's job or title? || A boss can act low status if nervous; a student can act high status if confident.
+p: C || How could you use physicality for a character very different from you? || Observe real people and practise their posture, pace and gestures.
+mis: Thinking status equals being loud | Thinking characters must stay the same status | Telling the audience instead of showing
+et: Describe how posture shows high and low status. | Explain how levels show relationships.
+mc: B || Status is || how powerful a character seems | a costume | a script | a prop || A
+mc: B || Levels are || low, medium and high | loud and soft | fast and slow | left and right || A
+mc: B || A tableau is || a frozen stage picture | a song | a dance | a script || A
+mc: B || Posture is || how you hold your body | your voice | your costume | your lines || A
+mc: B || In the status walk, 10 means || very high status | very low status | silent | asleep || A
+mc: B || The card scene shows status through || physical choices | saying the number | costumes | music || A
+mc: I || A high-status character usually has || upright posture and steady eye contact | slumped shoulders | no eye contact | fidgeting || A
+mc: I || Standing far apart can suggest || separation | friendship | celebration | unity || A
+mc: I || In "king and servants," the king is usually || at the highest level | lowest | offstage | hidden || A
+mc: I || Physicality means || using the whole body for character | memorizing | lighting | costumes || A
+mc: C || A boss acting nervous shows that status || can differ from title | always matches title | is about clothes | doesn't exist || A
+mc: C || Showing status instead of saying it works because || audiences believe what they see | it's faster | it's required | words are banned || A
+sa: B || Define status. || How powerful or important a character seems.
+sa: B || What is a tableau? || A frozen stage picture that tells a story.
+sa: I || Describe low-status physicality. || Slumped posture, looking down, small movements, staying out of the way.
+sa: I || Explain how levels showed relationships in one tableau. || Answers vary.
+sa: I || How can space show relationships? || Close distance shows connection; far distance shows separation.
+sa: I || Describe how a character's status can change. || Posture, pace and eye contact change as they gain or lose power.
+sa: C || Describe how you would show a character's status physically. || Answers vary.
+sa: C || Explain why physicality matters before speaking. || Audiences read body language first to understand character.
+
+=== DR9.A1 0
+hook: Some of the most powerful moments in theatre have no words at all: a group moving together like a single wave, a crowd freezing in shock, a line of people slowly turning away from one person. When an ensemble moves as one, the audience feels it.
+sc: I can move with an ensemble using unison and canon | I can use contrast and focus to create meaning | I can create an ensemble movement piece about a theme
+v: ensemble movement :: A group moving together to create a stage picture or tell a story.
+v: unison :: Everyone performing the same movement at the same time.
+v: canon :: Performers doing the same movement one after another.
+v: contrast :: A difference that draws attention, such as fast against slow.
+v: focus :: Where the audience's attention is drawn.
+v: transition :: The way one moment flows into the next.
+ts: Moving as One || Rehearsal || How does an ensemble use movement to express a theme?
+tx: Warm-up, Flocking (8 minutes): Groups of five stand in a diamond, all facing the same way. The person at the front leads slow movements; everyone follows. When the leader turns, the new person at the front becomes the leader. ¶ Skill builder (10 minutes): Practise three techniques: ¶ • Unison: all perform a gesture together on a count of 8. ¶ • Canon: the same gesture rippling down a line. ¶ • Contrast: one person moves slowly while everyone else moves quickly, or one person stays still while others move. ¶ Creation (20 minutes): Each group creates a 60–90 second movement piece on one theme: "the storm," "rush hour," "belonging," "the last day of school" or "change." Requirements: a clear opening and ending tableau, at least one unison section, one canon section, one moment of contrast that directs focus, and smooth transitions. Music without lyrics may be used. ¶ Share and feedback (10 minutes): Groups perform. Audience gives one "glow" (strength) and one "grow" (suggestion), naming where their focus went.
+src: Original activity written for this lesson.
+st: Warm up with flocking | Practise unison, canon and contrast | Choose a theme and plan the piece | Rehearse transitions | Perform and give glow and grow feedback
+org: Section | Counts | Technique (unison, canon, contrast) | What it shows about the theme
+an: How did flocking help your group move as one? | Where did you use contrast, and where did the audience's focus go? | How did your piece express its theme? | Which transition needs the most work?
+pr: Write a reflection describing your group's theme, how you used unison, canon and contrast, and one change you would make after feedback.
+ex: Unison vs canon || A line of dancers raise their arms one after another. Unison or canon? || One after another || Canon || When might unison be stronger?
+ex: Contrast for focus || How can contrast show isolation in a piece about "belonging"? || One person different from the group || One performer moves slowly or stays still while the group moves together || Where would the audience look?
+ex: Transitions || How can you move smoothly from one tableau to another? || Slow motion | Counted movement || Use slow, counted movement between frozen pictures || Why do transitions matter?
+ex: Theme || How could "rush hour" use unison? || Everyone checking watches together || The group walks and checks phones in unison, showing routine || How could canon add to it?
+p: B || What is ensemble movement? || A group moving together to create a picture or tell a story.
+p: B || What is unison? || Everyone performing the same movement at the same time.
+p: B || What is canon? || Performers doing the same movement one after another.
+p: B || What is contrast? || A difference that draws attention.
+p: B || What is focus? || Where the audience's attention is drawn.
+p: I || How does flocking choose a new leader? || Whoever is at the front after the group turns.
+p: I || How long should pieces be? || 60–90 seconds.
+p: I || Name the five requirements. || Opening and ending tableau, unison, canon, contrast and smooth transitions.
+p: I || Name two possible themes. || "The storm" and "belonging" (also rush hour, last day of school, change).
+p: I || What are "glow" and "grow"? || A strength and a suggestion.
+p: I || Give an example of contrast. || One person still while others move.
+p: C || Why can movement without words be powerful? || It lets the audience feel ideas and emotions directly.
+p: C || How does canon create a sense of movement or time? || The ripple suggests something spreading or passing.
+p: C || Why should music in the piece have no lyrics? || Lyrics can distract from the movement or tell the story for you.
+p: C || How can an ensemble keep timing without music? || Count together, breathe together and watch each other.
+mis: Thinking ensemble movement is just dancing | Thinking everyone must always move together | Rushing transitions
+et: Explain the difference between unison and canon. | Describe how contrast directs focus.
+mc: B || Unison means || at the same time | one after another | randomly | alone || A
+mc: B || Canon means || one after another | at the same time | silent | backwards || A
+mc: B || Contrast is || a difference that draws attention | a costume | a prop | a script || A
+mc: B || Focus is where || the audience's attention goes | the actors sit | the lights are stored | tickets are sold || A
+mc: B || Pieces were || 60–90 seconds | 10 minutes | 5 seconds | an hour || A
+mc: B || "Glow" is || a strength | a suggestion | a costume | a light || A
+mc: I || One still performer among moving ones creates || contrast | unison | canon | a transition only || A
+mc: I || In flocking, the leader is || whoever is at the front | always the teacher | the tallest | nobody || A
+mc: I || Smooth movement between tableaux is a || transition | canon | status | prop || A
+mc: I || Music for the piece should || have no lyrics | have loud lyrics | be avoided always | be a speech || A
+mc: C || Canon can suggest || something spreading or passing | stillness | silence | an ending only || A
+mc: C || Without music, an ensemble can keep timing by || counting and breathing together | guessing | stopping | shouting || A
+sa: B || Define canon. || Performers doing the same movement one after another.
+sa: B || What is contrast? || A difference that draws attention.
+sa: I || Describe how flocking works. || The front person leads and the group follows; when they turn, a new person leads.
+sa: I || List the requirements of the movement piece. || Opening and ending tableau, unison, canon, contrast, smooth transitions.
+sa: I || Explain how contrast can show a theme. || Answers vary; e.g. one still person shows isolation.
+sa: I || Give one glow and one grow for a group. || Answers vary.
+sa: C || Reflect on your group's piece and one improvement. || Answers vary.
+sa: C || Explain why movement without words can be powerful. || Audiences feel ideas and emotions directly through images and movement.
+
+=== MU7.A1 0
+hook: Put your hand on your chest and feel your heartbeat. It's steady: thump, thump, thump. Now say your full name out loud and clap each syllable. That pattern is different from your heartbeat. The steady pulse is the beat; the pattern of sounds is the rhythm. Every song you know is built from both.
+sc: I can tell the difference between beat and rhythm | I can clap and say rhythms using quarter, eighth, half and whole notes | I can create a four-beat rhythm
+v: beat :: The steady pulse in music.
+v: rhythm :: The pattern of long and short sounds and silences.
+v: quarter note :: A note that lasts one beat in 4/4 time.
+v: eighth note :: A note that lasts half a beat in 4/4 time; two eighth notes equal one beat.
+v: half note :: A note that lasts two beats in 4/4 time.
+v: whole note :: A note that lasts four beats in 4/4 time.
+v: rest :: A symbol for silence of a certain length.
+ts: Beat vs Rhythm || Performance || How do beat and rhythm work together?
+tx: Part 1, Feel the beat (5 minutes): The teacher plays a recording of a song with a clear steady beat (for example, a pop or folk song at about 100 beats per minute). Students tap the beat on their knees. Then half the class keeps the beat while the other half claps the rhythm of the melody or lyrics. ¶ Part 2, Rhythm syllables (10 minutes): Learn counting for 4/4 time: ¶ • Quarter note = "ta" = 1 beat (count "1") ¶ • Two eighth notes = "ti-ti" = 1 beat (count "1-and") ¶ • Half note = "ta-a" = 2 beats ¶ • Whole note = "ta-a-a-a" = 4 beats ¶ • Quarter rest = silence for 1 beat ¶ Practise reading rhythm cards: ¶ Card A: ta ta ti-ti ta ¶ Card B: ta-a ta ta ¶ Card C: ti-ti ti-ti ta (rest) ¶ Card D: ta-a-a-a ¶ Part 3, Name rhythms (5 minutes): Clap the rhythm of your name, then a food (for example, "pizza" = ti-ti, "macaroni" = ti-ti ti-ti). ¶ Part 4, Create (10 minutes): In pairs, write a four-beat rhythm using at least three note values, and perform it on a drum or by clapping while the class keeps the beat.
+src: Original activity written for this lesson.
+st: Tap the beat to a recording | Contrast beat and rhythm in two groups | Learn rhythm syllables and counting | Read rhythm cards | Create and perform a four-beat rhythm
+org: Note or rest | Syllable | Count | Beats
+an: How did keeping the beat feel different from clapping the rhythm? | Which rhythm card was hardest, and why? | How many beats are in each card? | How did you make sure your rhythm had exactly four beats?
+pr: Write and label three different four-beat rhythms using quarter notes, eighth notes, half notes and rests, then perform one for a partner.
+ex: Beat vs rhythm || Your heartbeat is steady. Is it beat or rhythm? || Steady pulse || Beat || What is the rhythm of "happy birthday"?
+ex: Counting beats || How many beats is "ta ta ti-ti ta"? || 1 + 1 + 1 + 1 || 4 beats || Which part is two sounds in one beat?
+ex: Half and whole || How many half notes fill a 4-beat bar? || 4 ÷ 2 || 2 half notes || How many quarter notes?
+ex: Rests || "ti-ti ti-ti ta (rest)": how many beats? || 1 + 1 + 1 + 1 || 4 beats, with silence on beat 4 || Why are rests important?
+p: B || What is the beat? || The steady pulse in music.
+p: B || What is rhythm? || The pattern of long and short sounds and silences.
+p: B || How many beats is a quarter note in 4/4? || One.
+p: B || How many beats is a half note? || Two.
+p: B || What is a rest? || A symbol for silence.
+p: I || How many beats is a whole note? || Four.
+p: I || How many eighth notes equal one beat? || Two.
+p: I || What syllables are used for two eighth notes? || Ti-ti.
+p: I || How many beats is "ta-a ta ta"? || Four.
+p: I || What is the rhythm of "pizza"? || Ti-ti.
+p: I || How would you count two eighth notes? || "1-and."
+p: C || Why can two songs share the same beat but have different rhythms? || The pulse is the same, but the patterns of notes differ.
+p: C || How many quarter notes equal one whole note? || Four.
+p: C || Write a four-beat rhythm using a half note and two eighth notes. || Sample: ta-a ti-ti ta.
+p: C || Why do musicians keep a steady beat even when the rhythm changes? || The beat keeps everyone together.
+mis: Thinking beat and rhythm are the same | Forgetting to count rests | Speeding up when the rhythm gets busy
+et: Explain the difference between beat and rhythm. | Clap and count a four-beat rhythm.
+mc: B || The beat is || the steady pulse | the words | the melody | the volume || A
+mc: B || Rhythm is || the pattern of long and short sounds | the speed | the loudness | the key || A
+mc: B || A quarter note in 4/4 lasts || 1 beat | 2 beats | 4 beats | half a beat || A
+mc: B || A half note lasts || 2 beats | 1 beat | 4 beats | 3 beats || A
+mc: B || A whole note lasts || 4 beats | 1 beat | 2 beats | half a beat || A
+mc: B || A rest means || silence | loud | fast | high || A
+mc: I || Two eighth notes equal || 1 beat | 2 beats | 4 beats | half a beat || A
+mc: I || "ta ta ti-ti ta" has || 4 beats | 3 beats | 5 beats | 6 beats || A
+mc: I || The rhythm of "pizza" is || ti-ti | ta-a | ta-a-a-a | ta ta ta || A
+mc: I || Two eighth notes are counted || "1-and" | "1-2" | "1-2-3-4" | "and-and" || A
+mc: C || Four quarter notes equal || one whole note | one half note | two eighth notes | one rest || A
+mc: C || Musicians keep a steady beat so that || everyone stays together | the song ends sooner | rhythms disappear | it gets louder || A
+sa: B || Define beat. || The steady pulse in music.
+sa: B || How many beats does a half note get in 4/4? || Two.
+sa: I || Explain the difference between beat and rhythm. || Beat is the steady pulse; rhythm is the pattern of sounds and silences.
+sa: I || Count the beats in "ta-a ti-ti ta." || 4 beats.
+sa: I || Write the rhythm of your name in syllables. || Answers vary.
+sa: I || Why are rests important? || They create silence and shape the rhythm.
+sa: C || Write and label three four-beat rhythms. || Answers vary.
+sa: C || Explain why the beat stays steady while rhythms change. || The beat keeps musicians together while rhythms add variety.
+
+=== MU8.A1 0
+hook: Have you ever noticed that some songs make you want to move more than others? Often it's because of rhythms that don't land right on the beat. A dot after a note, or an accent in an unexpected place, can turn a plain rhythm into something with groove.
+sc: I can count and perform dotted rhythms | I can explain what a dot does to a note | I can recognize dotted rhythms in songs
+v: dot :: A symbol after a note that adds half the note's value.
+v: dotted half note :: A note worth 3 beats in 4/4 time.
+v: dotted quarter note :: A note worth 1½ beats in 4/4 time, often followed by an eighth note.
+v: tie :: A curved line joining two notes of the same pitch so they are held as one.
+v: subdivision :: Counting smaller parts of the beat, such as "1-and-2-and."
+v: groove :: The feel of a rhythm that makes people want to move.
+ts: Connect the Dots || Performance || How does a dot change rhythm?
+tx: The dot rule: a dot adds half the value of the note. ¶ • Half note (2) + dot (1) = dotted half note = 3 beats ¶ • Quarter note (1) + dot (½) = dotted quarter note = 1½ beats ¶ A dotted quarter note is usually followed by an eighth note so the pair fills 2 beats: count "1 (2) and." ¶ Part 1, Subdivide (5 minutes): Count "1-and-2-and-3-and-4-and" aloud while tapping the beat. ¶ Part 2, Tie to dot (10 minutes): Clap a quarter note tied to an eighth note, then see that it sounds exactly like a dotted quarter. Write both versions on the board. ¶ Part 3, Rhythm reading (10 minutes), all in 4/4: ¶ Line 1: dotted half, quarter ¶ Line 2: dotted quarter, eighth, half ¶ Line 3: quarter, dotted quarter, eighth, quarter ¶ Line 4: dotted quarter, eighth, dotted quarter, eighth ¶ Part 4, Listen (5 minutes): Many familiar tunes use a dotted quarter and eighth near the start. Sing or play "Auld Lang Syne" (public domain): the words "auld ac-" (in "auld acquaintance") use a dotted quarter and an eighth. ¶ Part 5, Perform (10 minutes): In groups, perform Lines 1–4 as a round on hand drums or body percussion, keeping a steady beat with a metronome at 80 beats per minute.
+src: Original activity written for this lesson; "Auld Lang Syne" is a traditional song in the public domain.
+st: Learn the dot rule | Subdivide the beat aloud | Compare a tie and a dotted note | Read four rhythm lines | Perform the lines as a round with a metronome
+org: Note | Value without dot | Value with dot | How to count it
+an: Why does a dotted quarter almost always pair with an eighth note? | Which line was hardest to keep steady? | How did subdividing help? | How does a dotted rhythm change the feel of a melody?
+pr: Write four bars of 4/4 rhythm that include at least one dotted half note and two dotted quarter–eighth pairs. Label the counts under each note and perform it.
+ex: Dot rule || What is a dotted half note worth in 4/4? || 2 + 1 || 3 beats || What would a dotted whole note be?
+ex: Dotted quarter || What is a dotted quarter note worth? || 1 + ½ || 1½ beats || What usually follows it?
+ex: Counting a bar || Count Line 2: dotted quarter, eighth, half. || 1½ + ½ + 2 || 4 beats: "1 (2) and 3 (4)" || Clap it while counting.
+ex: Tie || How is a tied quarter-eighth like a dotted quarter? || Same total value || Both last 1½ beats and sound the same || Why use a dot instead?
+p: B || What does a dot do to a note? || Adds half the note's value.
+p: B || How many beats is a dotted half note in 4/4? || 3.
+p: B || How many beats is a dotted quarter note? || 1½.
+p: B || What is a tie? || A curved line joining two notes of the same pitch.
+p: B || What is subdivision? || Counting smaller parts of the beat.
+p: I || What note usually follows a dotted quarter? || An eighth note.
+p: I || How many beats is Line 1? || 4 (3 + 1).
+p: I || How many beats is Line 4? || 4 (1½ + ½ + 1½ + ½).
+p: I || What tempo was used for the round? || 80 beats per minute.
+p: I || How do you count a dotted quarter and eighth? || "1 (2) and."
+p: I || Which words in "Auld Lang Syne" use a dotted rhythm? || "Auld ac-" in "auld acquaintance."
+p: C || What is a dotted whole note worth? || 6 beats.
+p: C || Why does subdividing help with dotted rhythms? || The eighth note lands on the "and," which you can only feel if you count it.
+p: C || Why do composers use dotted rhythms? || They add movement and groove compared with even notes.
+p: C || Write a bar of 3/4 using a dotted half note. || A single dotted half note fills the bar.
+mis: Thinking a dot doubles a note | Rushing the eighth note after a dotted quarter | Not subdividing when counting
+et: Explain what a dot does to a note's value. | Count a dotted quarter–eighth pair.
+mc: B || A dot adds || half the note's value | double the value | one beat always | nothing || A
+mc: B || A dotted half note in 4/4 lasts || 3 beats | 2 beats | 4 beats | 1 beat || A
+mc: B || A dotted quarter lasts || 1½ beats | 1 beat | 2 beats | 3 beats || A
+mc: B || A tie joins || two notes of the same pitch | two different songs | two rests | two bars of silence || A
+mc: B || Subdivision means || counting parts of the beat | skipping beats | playing louder | singing || A
+mc: B || The metronome was set to || 80 bpm | 200 bpm | 20 bpm | none || A
+mc: I || A dotted quarter is usually followed by || an eighth note | a whole note | a half note | nothing || A
+mc: I || Dotted quarter + eighth equals || 2 beats | 1 beat | 3 beats | 4 beats || A
+mc: I || A quarter tied to an eighth sounds like || a dotted quarter | a half note | a whole note | a rest || A
+mc: I || "Auld ac-" in "Auld Lang Syne" uses || a dotted rhythm | only whole notes | rests | no rhythm || A
+mc: C || A dotted whole note lasts || 6 beats | 4 beats | 5 beats | 8 beats || A
+mc: C || Subdividing helps dotted rhythms because || the eighth lands on "and" | it slows the song | it removes beats | it adds lyrics || A
+sa: B || State the dot rule. || A dot adds half the note's value.
+sa: B || How many beats is a dotted half note? || 3 beats in 4/4.
+sa: I || Count Line 3: quarter, dotted quarter, eighth, quarter. || 1 + 1½ + ½ + 1 = 4 beats.
+sa: I || Explain how a tie relates to a dotted note. || A quarter tied to an eighth equals a dotted quarter.
+sa: I || Why does a dotted quarter pair with an eighth? || Together they fill 2 beats.
+sa: I || How does subdividing help? || It helps place the eighth note exactly on the "and."
+sa: C || Write and count four bars with dotted rhythms. || Answers vary.
+sa: C || Explain how dotted rhythms change the feel of music. || They add movement, swing or groove.
+
+=== MU9.A1 0
+hook: Clap along to a jig, a lullaby or many Celtic and folk tunes, and you'll notice the beat seems to bounce in threes: ONE-two-three, FOUR-five-six. That bouncing feel comes from compound metre, and it's a different way of organizing time from most pop songs.
+sc: I can tell simple metre from compound metre | I can count and perform rhythms in 6/8 | I can recognize compound metre in music
+v: metre :: The way beats are grouped in music.
+v: simple metre :: A metre where each beat divides into two, such as 2/4, 3/4 and 4/4.
+v: compound metre :: A metre where each beat divides into three, such as 6/8.
+v: 6/8 time :: A compound metre with six eighth notes per bar, felt as two main beats.
+v: dotted quarter note :: In 6/8, the note that lasts one main beat (three eighth notes).
+v: accent :: Extra emphasis on a note.
+ts: Twos and Threes || Listening || How is compound metre different from simple metre?
+tx: Simple vs compound: ¶ • Simple metre (2/4, 3/4, 4/4): each beat splits into two eighth notes: "1-and 2-and." ¶ • Compound metre (6/8): each beat splits into three eighth notes: "1-la-li 2-la-li." ¶ In 6/8 there are six eighth notes per bar, but you feel two main beats, on eighth notes 1 and 4. A dotted quarter note lasts one main beat. ¶ Part 1, Feel it (5 minutes): Count "1-2-3-4-5-6" with accents on 1 and 4 while stepping on the accents. ¶ Part 2, Compare (10 minutes): The teacher plays two short clips: one in 4/4 (a march or pop song) and one in 6/8 (a jig or a lullaby). Students step to each and describe the difference. Public-domain examples in 6/8 include "Pop Goes the Weasel" and "Row, Row, Row Your Boat." ¶ Part 3, Read (10 minutes), in 6/8: ¶ Line 1: dotted quarter, dotted quarter ¶ Line 2: three eighth notes, dotted quarter ¶ Line 3: quarter, eighth, quarter, eighth ¶ Line 4: six eighth notes ¶ Part 4, Create (10 minutes): In pairs, write a two-bar rhythm in 6/8 and perform it over a classmate playing dotted quarter notes on a drum.
+src: Original activity written for this lesson; "Pop Goes the Weasel" and "Row, Row, Row Your Boat" are traditional songs in the public domain.
+st: Count and step 6/8 with accents on 1 and 4 | Compare 4/4 and 6/8 recordings | Read four 6/8 rhythm lines | Create a two-bar 6/8 rhythm | Perform over a dotted-quarter pulse
+org: Feature | Simple metre (4/4) | Compound metre (6/8)
+an: How did stepping in 6/8 feel different from 4/4? | Why does 6/8 feel like two beats, not six? | Which rhythm line was hardest? | What kinds of music often use compound metre?
+pr: Write a short explanation of simple and compound metre with one rhythm example of each, then compose and label a two-bar 6/8 rhythm.
+ex: Simple or compound? || Each beat divides into three. Which metre? || Three-part division || Compound || Give an example time signature.
+ex: Main beats in 6/8 || Which eighth notes carry the main beats in 6/8? || Accents on 1 and 4 || Eighth notes 1 and 4 || How many main beats per bar?
+ex: Dotted quarter in 6/8 || How many eighth notes is a dotted quarter? || Quarter = 2 eighths | Dot adds 1 || 3 eighth notes, one main beat || How many fill a bar?
+ex: Counting Line 3 || Count quarter, eighth, quarter, eighth in 6/8. || 2 + 1 + 2 + 1 eighths || 6 eighth notes: "1 _ 3 4 _ 6" || What feel does it create?
+p: B || What is metre? || The way beats are grouped.
+p: B || In simple metre, each beat divides into how many parts? || Two.
+p: B || In compound metre, each beat divides into how many parts? || Three.
+p: B || How many eighth notes are in a bar of 6/8? || Six.
+p: B || How many main beats are felt in 6/8? || Two.
+p: I || Which eighth notes are accented in 6/8? || 1 and 4.
+p: I || How long is a dotted quarter in 6/8? || One main beat (three eighth notes).
+p: I || How many dotted quarters fill a bar of 6/8? || Two.
+p: I || Name a public-domain song in 6/8. || "Pop Goes the Weasel" (also "Row, Row, Row Your Boat").
+p: I || How do you count three eighths in one beat? || "1-la-li."
+p: I || Is 3/4 simple or compound? || Simple.
+p: C || Why is 6/8 not the same as 3/4, even though both have the same total length? || 6/8 is two beats of three; 3/4 is three beats of two.
+p: C || What dance styles often use 6/8? || Jigs and many folk dances.
+p: C || Why do lullabies often use compound metre? || The swaying, rocking feel is soothing.
+p: C || Write a bar of 6/8 using one dotted quarter and three eighth notes. || Dotted quarter + three eighths.
+mis: Thinking 6/8 has six main beats | Confusing 6/8 with 3/4 | Counting 6/8 like 4/4
+et: Explain the difference between simple and compound metre. | Count one bar of 6/8.
+mc: B || Metre is || how beats are grouped | the loudness | the key | the lyrics || A
+mc: B || In compound metre, beats divide into || three | two | four | one || A
+mc: B || 4/4 is || simple metre | compound metre | no metre | 6/8 || A
+mc: B || A bar of 6/8 has || six eighth notes | four quarter notes | three half notes | eight eighth notes || A
+mc: B || 6/8 is felt in || two main beats | six main beats | one beat | four beats || A
+mc: B || "Row, Row, Row Your Boat" is in || 6/8 | 4/4 | 2/4 | 5/4 || A
+mc: I || In 6/8, accents fall on eighth notes || 1 and 4 | 1 and 2 | 3 and 6 | all six || A
+mc: I || A dotted quarter in 6/8 equals || three eighth notes | two eighth notes | one eighth | six eighths || A
+mc: I || Three eighths in one beat are counted || "1-la-li" | "1-and" | "1-2-3-4" | "e-and-a" || A
+mc: I || 3/4 is || simple metre | compound metre | 6/8 | no metre || A
+mc: C || 6/8 differs from 3/4 because 6/8 is || two beats of three | three beats of two | faster always | louder || A
+mc: C || Lullabies often use compound metre because it || feels like rocking | is loud | has no beat | is fast || A
+sa: B || Define compound metre. || A metre where each beat divides into three.
+sa: B || How many main beats are in a bar of 6/8? || Two.
+sa: I || Explain the difference between 6/8 and 4/4. || 6/8 has two beats divided in three; 4/4 has four beats divided in two.
+sa: I || Count Line 2 in 6/8. || "1-la-li 2" (three eighths then a dotted quarter).
+sa: I || Name two songs or styles in compound metre. || "Pop Goes the Weasel" and jigs.
+sa: I || Why is 6/8 felt as two beats? || The eighth notes group into two sets of three.
+sa: C || Compose and label a two-bar 6/8 rhythm. || Answers vary.
+sa: C || Explain why 6/8 and 3/4 feel different. || 6/8 is two groups of three; 3/4 is three groups of two.
+
+=== IM7.A1 0
+hook: Your band instrument might be the most expensive thing you've ever been responsible for. Brass and woodwind instruments are precise machines: a bent rod, a dented slide or a dropped mouthpiece can stop an instrument from playing. Learning to assemble, hold and care for it properly is the first skill every musician learns.
+sc: I can assemble and disassemble my instrument safely | I can hold my instrument with correct posture | I can care for and store my instrument
+v: assembly :: Putting an instrument together correctly.
+v: posture :: How you sit or stand while playing.
+v: embouchure :: The shape of the lips and facial muscles used to play a wind instrument.
+v: reed :: A thin piece of cane that vibrates to make sound on clarinets and saxophones.
+v: mouthpiece :: The part of a wind instrument the player blows into.
+v: maintenance :: Regular care that keeps an instrument working well.
+ts: Instrument Care Station || Rehearsal || How do I set up and care for my instrument?
+tx: Part 1, Assembly demonstration (10 minutes): Sit in sections. The teacher demonstrates assembly for each instrument family: ¶ • Flute: twist the headjoint and footjoint gently; never push on the keys or rods. ¶ • Clarinet and saxophone: grease corks lightly; moisten the reed; line up the reed with the mouthpiece tip and tighten the ligature gently. Hold the clarinet's middle joints without squeezing the rings and keys. ¶ • Trumpet, trombone, French horn, euphonium and tuba: insert the mouthpiece with a gentle twist, never by banging it. Check the slides and valves move freely. ¶ • Percussion: check sticks and mallets, and stand at the correct height for the snare and bells. ¶ Part 2, Posture check (5 minutes): Sit tall at the front of the chair, feet flat, shoulders relaxed, instrument brought to you (not you to it). ¶ Part 3, Breathing (5 minutes): Breathe in for 4 counts through the mouth, filling low in the body, then breathe out for 8 counts on a "ssss" sound. ¶ Part 4, First sound (10 minutes): Mouthpiece only for brass (buzz), mouthpiece and barrel or neck for woodwinds, headjoint only for flute. Make a steady sound for 4 counts. ¶ Part 5, Care and storage (5 minutes): Swab or dry the instrument, remove and store reeds in a reed case, close the case latches, and store the case flat.
+src: Original activity written for this lesson.
+st: Watch the assembly demonstration for my instrument family | Assemble my instrument with a partner check | Practise posture and breathing | Make a first steady sound | Clean, disassemble and store my instrument
+org: Step | What I do | What to avoid
+an: What part of your instrument is most delicate? | Why do we bring the instrument to our body, not our body to the instrument? | How did breath support change your sound? | What will you do every day to care for your instrument?
+pr: Create a one-page care guide for your instrument with assembly steps, posture reminders, daily care and three "never do" rules.
+ex: Assembly || How do you put a mouthpiece into a trumpet? || Gentle twist | Never bang it || Insert it with a gentle twist so it doesn't get stuck || What happens if it's forced?
+ex: Reeds || How should a clarinet reed be stored? || In a reed case | Not left on the mouthpiece || Remove it, dry it and store it in a reed case || Why do reeds chip?
+ex: Posture || Describe good playing posture. || Sit tall | Feet flat | Shoulders relaxed || Sit at the front of the chair, back tall, feet flat and shoulders relaxed || How does posture affect breathing?
+ex: Breathing || Why breathe in low and deep? || More air | Steadier sound || Low, full breaths give more air and better control || What happens with shallow breaths?
+p: B || What is assembly? || Putting an instrument together correctly.
+p: B || What is posture? || How you sit or stand while playing.
+p: B || What is an embouchure? || The shape of the lips and face used to play a wind instrument.
+p: B || What is a reed? || A thin piece of cane that vibrates to make sound.
+p: B || What is maintenance? || Regular care that keeps an instrument working.
+p: I || How should you insert a brass mouthpiece? || With a gentle twist.
+p: I || What should you avoid when assembling a flute? || Pushing on the keys or rods.
+p: I || Where should you sit on the chair? || At the front, sitting tall.
+p: I || Describe the breathing exercise. || In for 4 counts, out for 8 on "ssss."
+p: I || What do brass players use for the first sound? || The mouthpiece only (buzzing).
+p: I || How should the case be stored? || Latched and flat.
+p: C || Why bring the instrument to you rather than leaning toward it? || It keeps your posture tall and breathing free.
+p: C || Why does daily care matter? || It prevents damage and keeps the instrument playing well.
+p: C || How could poor posture affect your sound? || It limits breathing and makes tone weak or unsteady.
+p: C || What should you do if a key or slide is stuck? || Tell the teacher instead of forcing it.
+mis: Forcing parts together | Leaving reeds on the mouthpiece | Slouching while playing
+et: Describe one assembly step for your instrument. | Name two ways to care for your instrument.
+mc: B || Assembly means || putting the instrument together | playing a solo | buying a reed | tuning || A
+mc: B || An embouchure is || the shape of lips and face for playing | a case | a stand | a key || A
+mc: B || Reeds are used on || clarinet and saxophone | trumpet | flute | trombone || A
+mc: B || Good posture means || sitting tall with feet flat | slouching | crossing legs | leaning back || A
+mc: B || The breathing exercise breathed out for || 8 counts | 2 counts | 20 counts | 1 count || A
+mc: B || The case should be stored || latched and flat | open | standing on its end | on a chair || A
+mc: I || A brass mouthpiece is inserted with || a gentle twist | a hard bang | glue | tape || A
+mc: I || On a flute, never push on || the keys or rods | the case | the stand | the music || A
+mc: I || Brass players first buzz on || the mouthpiece | the bell | the case | the valves || A
+mc: I || After playing, reeds should be || dried and stored in a reed case | left on | thrown away daily | soaked overnight || A
+mc: C || Bringing the instrument to you helps || posture and breathing | volume only | tuning only | nothing || A
+mc: C || If a slide or key is stuck, you should || tell the teacher | force it | hit it | ignore it || A
+sa: B || Define embouchure. || The shape of the lips and facial muscles used to play a wind instrument.
+sa: B || What is maintenance? || Regular care that keeps an instrument working well.
+sa: I || Describe how to assemble your instrument. || Answers vary by instrument.
+sa: I || Describe good playing posture. || Sit tall at the front of the chair, feet flat, shoulders relaxed.
+sa: I || Explain how to care for your instrument after playing. || Swab or dry it, store reeds, latch the case and store it flat.
+sa: I || Why breathe low and deep? || It gives more air and a steadier sound.
+sa: C || Create a care guide with three "never do" rules. || Answers vary.
+sa: C || Explain how posture affects sound. || Good posture allows full breathing and better tone.
+
+=== IM8.A1 0
+hook: Professional musicians warm up with scales every day. It's not just tradition: scales train your fingers, your ears and your sense of key all at once. Most of the music your band plays is built from these patterns.
+sc: I can play the concert B♭, E♭ and F major scales | I can explain how a major scale is built | I can play scales with good tone and even rhythm
+v: scale :: A series of notes moving step by step from one note to the same note an octave higher or lower.
+v: major scale :: A scale with the pattern whole, whole, half, whole, whole, whole, half.
+v: whole step :: A distance of two half steps on the keyboard.
+v: half step :: The smallest distance between two notes in Western music.
+v: concert pitch :: The pitch as it sounds on a piano; many band instruments read different notes for the same sound.
+v: octave :: The distance from one note to the next note with the same name.
+ts: Scale Builders || Rehearsal || How are scales built, and why do musicians practise them?
+tx: The major scale pattern: whole, whole, half, whole, whole, whole, half (W W H W W W H). ¶ Concert B♭ major: B♭ C D E♭ F G A B♭ ¶ Concert E♭ major: E♭ F G A♭ B♭ C D E♭ ¶ Concert F major: F G A B♭ C D E F ¶ Transposing instruments: When the band plays concert B♭, B♭ instruments (clarinet, trumpet, tenor saxophone, baritone treble clef) read C major; E♭ instruments (alto and baritone saxophone) read G major; French horn in F reads F major; flute, oboe, trombone, euphonium, tuba and mallets read B♭ major. Check your scale sheet. ¶ Part 1, Build (10 minutes): On a keyboard diagram, mark whole and half steps and build concert B♭ major using W W H W W W H. ¶ Part 2, Play (15 minutes): Play each scale in whole notes, then half notes, then quarter notes at a metronome setting of 72. Focus on steady air and matching tone across the band. ¶ Part 3, Scale games (10 minutes): "Echo": the teacher plays a pattern from the scale, the band echoes. "Scale in thirds": play 1-3, 2-4, 3-5 and so on. ¶ Part 4, Self-check: record yourself on one scale and listen for even rhythm, tone and correct notes.
+src: Original activity written for this lesson.
+st: Learn the major scale pattern | Build concert B♭ major on a keyboard diagram | Play three concert scales with a metronome | Play echo and thirds games | Record and self-assess one scale
+org: Scale | Notes (concert) | Notes on my instrument | Tricky notes
+an: Where are the half steps in a major scale? | Which scale is hardest on your instrument, and why? | Why do different instruments read different notes for concert B♭? | What did you hear in your recording?
+pr: Write out the concert B♭, E♭ and F major scales for your instrument, mark the half steps, and record a self-assessment of one scale (tone, rhythm, accuracy).
+ex: Pattern || Write the major scale pattern. || Whole and half steps || W W H W W W H || Where are the two half steps?
+ex: Building a scale || Build G major using the pattern. || Start on G || G A B C D E F♯ G || Why is F♯ needed?
+ex: Half steps in B♭ major || Where are the half steps in concert B♭ major? || Steps 3–4 and 7–8 || D to E♭ and A to B♭ || Check this on a keyboard.
+ex: Transposition || A trumpet plays concert B♭. What note does it read? || B♭ instrument reads a step higher || C || What does an alto saxophone read?
+p: B || What is a scale? || Notes moving step by step from one note to its octave.
+p: B || What is the major scale pattern? || W W H W W W H.
+p: B || What is a half step? || The smallest distance between two notes.
+p: B || What is an octave? || The distance from one note to the next with the same name.
+p: B || What is concert pitch? || The pitch as it sounds on a piano.
+p: I || Name the notes of concert B♭ major. || B♭ C D E♭ F G A B♭.
+p: I || Name the notes of concert F major. || F G A B♭ C D E F.
+p: I || Between which scale degrees are the half steps? || 3–4 and 7–8.
+p: I || What does a clarinet read for concert B♭? || C.
+p: I || What does an alto saxophone read for concert B♭? || G.
+p: I || What metronome speed was used? || 72.
+p: C || Why do musicians practise scales daily? || They build finger technique, tone, ear training and key awareness.
+p: C || Why do transposing instruments exist? || So players can use the same fingerings across instruments of a family.
+p: C || How does playing in thirds help? || It builds finger control and hearing intervals.
+p: C || Build D major using the pattern. || D E F♯ G A B C♯ D.
+mis: Thinking all instruments read the same notes for concert pitch | Rushing scales instead of keeping rhythm even | Forgetting the flats in a key
+et: Write the major scale pattern. | Play one concert scale with steady rhythm.
+mc: B || The major scale pattern is || W W H W W W H | W H W H W H W | H H W W H H W | all whole steps || A
+mc: B || A half step is || the smallest distance between notes | an octave | a whole step | a rest || A
+mc: B || An octave goes to || the next note with the same name | a rest | a chord | a key signature || A
+mc: B || Concert B♭ major starts on || B♭ | C | F | G || A
+mc: B || Concert pitch is the pitch || as it sounds on a piano | written for trumpet | sung by choirs only | on a drum || A
+mc: B || Scales were played at metronome || 72 | 200 | 20 | 300 || A
+mc: I || The half steps in a major scale are between degrees || 3–4 and 7–8 | 1–2 and 5–6 | 2–3 and 6–7 | none || A
+mc: I || A trumpet reads concert B♭ as || C | B♭ | G | F || A
+mc: I || An alto sax reads concert B♭ as || G | C | B♭ | E♭ || A
+mc: I || Concert F major includes || B♭ | F♯ | C♯ | E♭ || A
+mc: C || Scales are practised daily to build || technique, tone and ear training | only speed | only memory | nothing || A
+mc: C || G major needs F♯ because || the pattern needs a half step from 7 to 8 | it sounds nice | it's random | flats are banned || A
+sa: B || Write the major scale pattern. || W W H W W W H.
+sa: B || Define concert pitch. || The pitch as it sounds on a piano.
+sa: I || Write concert E♭ major. || E♭ F G A♭ B♭ C D E♭.
+sa: I || Explain why a clarinet reads C for concert B♭. || It is a B♭ transposing instrument that sounds a step lower than written.
+sa: I || Build G major. || G A B C D E F♯ G.
+sa: I || Name two scale games. || Echo and scale in thirds.
+sa: C || Write out three scales for your instrument and self-assess. || Answers vary.
+sa: C || Explain why scales are important for band music. || Most pieces are built from scale patterns, so scales prepare fingers and ears.
+
+=== IM9.A1 0
+hook: Every note in Western music, all twelve of them, is in the chromatic scale. Once you can play it cleanly, there's no note in your range you can't reach. That's why advanced players treat the chromatic scale as a daily workout.
+sc: I can play a chromatic scale over at least an octave | I can use correct alternate fingerings or positions | I can use slow, focused practice strategies
+v: chromatic scale :: A scale that moves by half steps through all twelve notes.
+v: enharmonic :: Two names for the same pitch, such as F♯ and G♭.
+v: alternate fingering :: A different fingering for the same note that makes some passages smoother.
+v: chunking :: Practising a short section at a time.
+v: slow practice :: Practising below tempo to build accuracy.
+v: technique :: The physical skills used to play an instrument.
+ts: The Twelve-Note Workout || Rehearsal || How do I practise technique efficiently?
+tx: The chromatic scale moves in half steps. From concert B♭ up an octave: B♭ B C C♯ D E♭ E F F♯ G A♭ A B♭. ¶ Sharps are usually used going up and flats going down, but they are enharmonic (the same pitch). ¶ Part 1, Learn it in chunks (15 minutes): Split the octave into three chunks of four notes. Play each chunk slowly with a metronome at 60, two notes per beat. Check fingerings or slide positions on your chart, including alternate fingerings (for example, chromatic F♯ fingering on flute or the side B♭ on saxophone). ¶ Part 2, Practice strategy (10 minutes): ¶ 1. Slow: play at a tempo where you make no mistakes. ¶ 2. Repeat correctly three times in a row. ¶ 3. Raise the metronome by 4 beats per minute. ¶ 4. If you make a mistake, go back down. ¶ Part 3, Full scale (10 minutes): Play the full octave up and down, then extend to your range. ¶ Part 4, Practice log: Record your starting and ending tempo and the trickiest note change.
+src: Original activity written for this lesson.
+st: Learn the chromatic scale by half steps | Practise it in three chunks with a metronome | Use the slow-repeat-raise strategy | Play the full octave up and down | Log tempos and tricky spots
+org: Chunk | Notes | Fingerings or positions | Start tempo | End tempo
+an: Which note change was hardest? Why? | How did chunking help? | What alternate fingering or position helped you? | How much did your tempo improve?
+pr: Practise the chromatic scale for five days, logging your tempo each day, and write a short reflection on which strategy helped most.
+ex: Half steps || How many half steps are in an octave? || Count the chromatic notes || 12 || How many notes in a major scale?
+ex: Enharmonic || What is another name for F♯? || Same pitch || G♭ || When would you use each name?
+ex: Practice strategy || You play cleanly at 60 three times. What next? || Raise the tempo || Move the metronome to 64 || What if you then make a mistake?
+ex: Chunking || Why practise in chunks? || Shorter | More focus || Short sections let you fix problems quickly || How big should a chunk be?
+p: B || What is a chromatic scale? || A scale moving by half steps through all twelve notes.
+p: B || What does enharmonic mean? || Two names for the same pitch.
+p: B || What is an alternate fingering? || A different fingering for the same note.
+p: B || What is chunking? || Practising a short section at a time.
+p: B || What is slow practice? || Practising below tempo for accuracy.
+p: I || How many different notes are in a chromatic octave? || Twelve.
+p: I || Are sharps or flats usually used going up? || Sharps.
+p: I || What is the enharmonic of A♭? || G♯.
+p: I || What starting tempo was used? || 60.
+p: I || How much is the tempo raised each step? || 4 beats per minute.
+p: I || How many times should you play correctly before raising the tempo? || Three times in a row.
+p: C || Why go back down in tempo after a mistake? || Repeating mistakes builds bad habits.
+p: C || Why do players use alternate fingerings? || To make some note changes smoother and faster.
+p: C || How does the chromatic scale help with other music? || It trains every note and every half-step change.
+p: C || Why log your practice? || To track progress and stay motivated.
+mis: Practising only at full speed | Repeating mistakes instead of fixing them | Ignoring alternate fingerings
+et: Explain what a chromatic scale is. | Describe the slow-repeat-raise strategy.
+mc: B || A chromatic scale moves by || half steps | whole steps | octaves | thirds || A
+mc: B || Enharmonic notes are || two names for one pitch | two different pitches | rests | chords || A
+mc: B || Chunking means || practising short sections | playing the whole piece | resting | tuning || A
+mc: B || There are how many notes in a chromatic octave? || 12 | 7 | 8 | 5 || A
+mc: B || The starting tempo was || 60 | 120 | 200 | 30 || A
+mc: B || Slow practice builds || accuracy | mistakes | speed only | volume || A
+mc: I || Going up the chromatic scale, we usually use || sharps | flats | rests | naturals only || A
+mc: I || The enharmonic of F♯ is || G♭ | F♭ | G♯ | E♯ || A
+mc: I || After three clean repetitions, raise the tempo by || 4 bpm | 40 bpm | 1 bpm | 100 bpm || A
+mc: I || An alternate fingering || plays the same note differently | changes the note | is wrong | is for drums || A
+mc: C || After a mistake, you should || go back down in tempo | speed up | stop practising | ignore it || A
+mc: C || The chromatic scale helps because it || trains every note and half-step change | is short | is easy | replaces pieces || A
+sa: B || Define chromatic scale. || A scale moving by half steps through all twelve notes.
+sa: B || What is chunking? || Practising a short section at a time.
+sa: I || Write the chromatic scale from concert B♭ up an octave. || B♭ B C C♯ D E♭ E F F♯ G A♭ A B♭.
+sa: I || Explain the slow-repeat-raise strategy. || Play slowly, repeat correctly three times, raise the tempo by 4, go back if you make a mistake.
+sa: I || Give an enharmonic pair. || C♯ and D♭.
+sa: I || Why use alternate fingerings? || To make note changes smoother.
+sa: C || Write a five-day practice log reflection. || Answers vary.
+sa: C || Explain why slow practice leads to faster playing. || Accurate repetitions build reliable muscle memory that can then speed up.

@@ -1,0 +1,405 @@
+=== CTF7.A1 0
+hook: What do you do when nobody tells you what to do? Maybe you cook, draw, fix bikes, edit videos or organize events. Those interests are clues. In CTF, you'll use them to explore the kinds of work that might fit you, by actually trying things, not just reading about them.
+sc: I can describe my interests and strengths | I can name the five career clusters | I can connect my interests to possible careers
+v: interest :: Something you enjoy or are curious about.
+v: strength :: Something you do well.
+v: career cluster :: A group of related careers that share skills and knowledge.
+v: occupation :: A specific job, such as electrician or graphic designer.
+v: transferable skill :: A skill useful in many jobs, such as communication or problem solving.
+v: CTF :: Career and Technology Foundations, the Grades 5–9 program for exploring interests through hands-on challenges.
+ts: Interest Explorer || Design challenge || How can my interests point toward careers?
+tx: The five career clusters used in Alberta CTF: ¶ 1. Business, Finance and Information Technology (for example, entrepreneur, accountant, computer programmer) ¶ 2. Health, Recreation and Human Services (for example, nurse, chef, personal trainer, early childhood educator) ¶ 3. Media, Design and Communication Arts (for example, graphic designer, filmmaker, fashion designer) ¶ 4. Natural Resources (for example, agrologist, forestry technician, environmental scientist) ¶ 5. Trades, Manufacturing and Transportation (for example, electrician, carpenter, automotive technician, welder) ¶ Part 1, Interest inventory (10 minutes): Rate 20 activity cards from 1 (not for me) to 5 (love it): cooking a meal, building a shelf, designing a logo, coding a game, caring for animals, fixing a bike, planning an event, filming a video and so on. ¶ Part 2, Sort (10 minutes): Place your top-rated cards on a career-cluster chart. Which cluster has the most? ¶ Part 3, Quick challenge (20 minutes): At stations, try a 5-minute mini-task from three clusters: design a logo (media), budget a class party (business), build a paper bridge that holds a textbook (trades). ¶ Part 4, Reflect: Which task did you enjoy most? Which skills did you use?
+src: Original activity written for this lesson.
+st: Learn the five career clusters | Complete the interest inventory | Sort top interests onto the cluster chart | Try three station mini-tasks | Reflect on interests, skills and clusters
+org: Station | Cluster | What I did | Enjoyment (1–5) | Skills I used
+an: Which cluster matched most of your interests? | Did any station surprise you? | Which transferable skills did you use in more than one task? | Which CTF challenge would you like to try this year?
+pr: Create an "interest profile" listing your top three interests, two strengths, the cluster that fits best and two occupations in it you'd like to learn about.
+ex: Matching to clusters || "Designing a poster" fits which cluster? || Visual communication || Media, Design and Communication Arts || Name an occupation in it.
+ex: Transferable skills || Which skill did you use in both the bridge and the budget tasks? || Planning | Problem solving || Problem solving and planning || Where else is it useful?
+ex: Interest vs strength || "I love drawing but I'm still learning." Interest or strength? || Enjoyment vs skill level || An interest that can become a strength || How do strengths grow?
+ex: Occupations || Name two occupations in Natural Resources. || Work with land, water, plants || Agrologist and forestry technician || Which Alberta industries use them?
+p: B || What is an interest? || Something you enjoy or are curious about.
+p: B || What is a strength? || Something you do well.
+p: B || What is a career cluster? || A group of related careers sharing skills and knowledge.
+p: B || How many career clusters are there in CTF? || Five.
+p: B || What does CTF stand for? || Career and Technology Foundations.
+p: I || Name the five clusters. || Business, finance and IT; health, recreation and human services; media, design and communication arts; natural resources; trades, manufacturing and transportation.
+p: I || Which cluster includes chefs? || Health, Recreation and Human Services.
+p: I || Which cluster includes electricians? || Trades, Manufacturing and Transportation.
+p: I || What were the three station tasks? || Design a logo, budget a party and build a paper bridge.
+p: I || What is a transferable skill? || A skill useful in many jobs.
+p: I || What is an occupation? || A specific job.
+p: C || Why try hands-on tasks instead of only reading about careers? || Doing tasks shows what you actually enjoy and are good at.
+p: C || Why might your interests change over time? || New experiences and skills open new interests.
+p: C || How could one interest connect to several clusters? || Cooking could lead to chef (health), food business (business) or food science (natural resources).
+p: C || Why are transferable skills valuable? || They help in many jobs, even when careers change.
+mis: Thinking you must choose a career now | Thinking you have to be good at something to be interested in it | Thinking only some clusters lead to good careers
+et: Name two career clusters and an occupation in each. | Describe one interest and how it connects to a career.
+mc: B || CTF stands for || Career and Technology Foundations | Creative Teaching Framework | Computer Training Facility | none || A
+mc: B || There are how many career clusters? || 5 | 3 | 10 | 2 || A
+mc: B || A strength is || something you do well | something you dislike | a tool | a cluster || A
+mc: B || An occupation is || a specific job | a hobby | a school | a cluster || A
+mc: B || The paper bridge task fits || Trades, Manufacturing and Transportation | Business | Media | Health || A
+mc: B || Designing a logo fits || Media, Design and Communication Arts | Natural Resources | Trades | Health || A
+mc: I || A chef is in || Health, Recreation and Human Services | Natural Resources | Trades | Business only || A
+mc: I || An agrologist is in || Natural Resources | Media | Health | Trades || A
+mc: I || Problem solving is a || transferable skill | cluster | tool | occupation || A
+mc: I || Budgeting a party fits || Business, Finance and IT | Trades | Natural Resources | Health || A
+mc: C || Hands-on tasks help because they || show what you enjoy and do well | replace school | are always easy | decide your career || A
+mc: C || Cooking could connect to || several clusters | only one cluster | no careers | trades only || A
+sa: B || Define career cluster. || A group of related careers that share skills and knowledge.
+sa: B || Name the five career clusters. || Business, finance and IT; health, recreation and human services; media, design and communication arts; natural resources; trades, manufacturing and transportation.
+sa: I || Which cluster best matched your interests? || Answers vary.
+sa: I || Name one occupation in each of two clusters. || Answers vary.
+sa: I || Describe a transferable skill you used today. || Answers vary.
+sa: I || Explain the difference between an interest and a strength. || An interest is enjoyed; a strength is done well.
+sa: C || Create an interest profile. || Answers vary.
+sa: C || Explain how one interest can connect to several clusters. || Answers vary; e.g. cooking links to health, business and natural resources.
+
+=== CTF8.A1 0
+hook: Every product you use started as a problem. Someone needed a phone stand, a better backpack strap or a bike rack that fits a small yard. Before they built anything, designers wrote down exactly what the solution had to do. That's called a design brief, and it keeps the whole project on track.
+sc: I can identify the problem, user and constraints in a design brief | I can write criteria for success | I can brainstorm and sketch solutions
+v: design brief :: A short statement describing the problem, the user and what the solution must do.
+v: criteria :: Requirements a solution must meet to be successful.
+v: constraint :: A limit on a design, such as cost, size, time or materials.
+v: user :: The person the product is designed for.
+v: brainstorm :: To generate many ideas quickly without judging them.
+v: thumbnail sketch :: A small, quick sketch of an idea.
+ts: Unpack the Brief || Design challenge || How do designers turn a problem into a plan?
+tx: Design brief: "Grade 6 students in our school's reading room keep losing their place in library books and bending pages. Design a bookmark-and-book-stand combination that holds a book open at an angle on a desk. It must fold flat to fit in a backpack, be made from materials available in our CTF lab (cardboard, thin wood, fabric, string, tape and glue), cost under $3 in materials, and be built in two 60-minute classes." ¶ Part 1, Unpack (10 minutes): Highlight the problem, user, criteria and constraints. Fill in the brief organizer. ¶ Part 2, Criteria (10 minutes): Turn the brief into a checklist: ¶ • Holds a book open at an angle ¶ • Folds flat for a backpack ¶ • Marks the page ¶ • Uses only lab materials ¶ • Costs under $3 ¶ • Built in two classes ¶ Part 3, Brainstorm (10 minutes): Write or sketch as many ideas as possible in 5 minutes. No idea is too odd. ¶ Part 4, Thumbnails (15 minutes): Choose your three best ideas and draw thumbnail sketches with labels. Then score each idea against the criteria and choose one to develop.
+src: Original design brief written for this lesson.
+st: Read and highlight the brief | Identify problem, user, criteria and constraints | Turn the brief into a criteria checklist | Brainstorm many ideas | Sketch and score three thumbnails
+org: Problem | User | Criteria | Constraints | Best idea
+an: Who is the user, and why does that matter? | Which constraint is the hardest to meet? | How did brainstorming without judging help? | Which idea scored highest on the criteria, and why?
+pr: Write your own design brief for a problem in your home or school, including the problem, user, at least four criteria and three constraints, plus two thumbnail sketches.
+ex: Criteria vs constraints || "Must cost under $3." Criterion or constraint? || A limit || Constraint || Give a criterion from the brief.
+ex: The user || Who is the user in the brief? || Who will use it || Grade 6 students in the reading room || How might their age affect the design?
+ex: Brainstorming || Why not judge ideas while brainstorming? || More ideas | Odd ideas can spark good ones || Judging stops new ideas from appearing || When do you judge them?
+ex: Scoring ideas || Idea A meets 5 of 6 criteria; Idea B meets 4. Which do you choose? || Compare scores | Consider which criteria are missed || Usually A, unless B fixes an important criterion A misses || Why might scores not tell everything?
+p: B || What is a design brief? || A statement of the problem, user and what the solution must do.
+p: B || What are criteria? || Requirements a solution must meet.
+p: B || What is a constraint? || A limit on the design.
+p: B || What is brainstorming? || Generating many ideas without judging them.
+p: B || What is a thumbnail sketch? || A small, quick sketch of an idea.
+p: I || Who is the user in today's brief? || Grade 6 students in the reading room.
+p: I || What is the cost constraint? || Under $3 in materials.
+p: I || What is the time constraint? || Two 60-minute classes.
+p: I || Name two criteria. || Holds a book open at an angle and folds flat (also marks the page).
+p: I || Name two allowed materials. || Cardboard and fabric (also thin wood, string, tape, glue).
+p: I || How many thumbnails do you sketch? || Three.
+p: C || Why do designers write criteria before building? || So they can test whether the solution works.
+p: C || How can constraints make design more creative? || Limits push designers to find clever solutions.
+p: C || Why might a designer talk to the user? || To understand real needs and avoid guessing.
+p: C || Why choose one idea to develop instead of building all three? || Time and materials are limited, so focus on the strongest.
+mis: Starting to build before understanding the brief | Thinking constraints are bad | Judging ideas too early
+et: Explain the difference between criteria and constraints. | Identify the user in a design brief.
+mc: B || A design brief describes || the problem, user and requirements | the final product | the price tag | the teacher || A
+mc: B || Criteria are || requirements for success | limits | materials | users || A
+mc: B || A constraint is || a limit | a goal | a sketch | a user || A
+mc: B || Brainstorming means || many ideas without judging | one idea only | building | testing || A
+mc: B || The brief's user is || Grade 6 students | teachers | parents | the principal || A
+mc: B || Materials must cost under || $3 | $30 | $300 | nothing || A
+mc: I || "Folds flat for a backpack" is a || criterion | constraint | user | material || A
+mc: I || "Built in two classes" is a || constraint | criterion | user | sketch || A
+mc: I || Judging during brainstorming || stops new ideas | helps creativity | is required | is the goal || A
+mc: I || To choose an idea, designers || score ideas against criteria | pick randomly | pick the longest | skip it || A
+mc: C || Criteria are written before building so designers can || test if the solution works | avoid building | spend more | skip planning || A
+mc: C || Constraints can increase creativity because || limits push clever solutions | they remove choices completely | they make design easy | they don't matter || A
+sa: B || Define design brief. || A statement of the problem, user and what the solution must do.
+sa: B || What is a constraint? || A limit on a design, such as cost, size, time or materials.
+sa: I || List the criteria from today's brief. || Holds book at an angle, folds flat, marks the page, lab materials, under $3, built in two classes.
+sa: I || Explain why the user matters. || The design must fit their needs and abilities.
+sa: I || Describe your best thumbnail idea. || Answers vary.
+sa: I || Why brainstorm without judging? || More and more creative ideas appear.
+sa: C || Write your own design brief with criteria and constraints. || Answers vary.
+sa: C || Explain how constraints can lead to creative design. || Limits force designers to find clever, efficient solutions.
+
+=== CTF9.A1 0
+hook: The best inventions don't start with a cool idea; they start with a real problem someone has. Companies spend millions finding out what people actually need. You can do the same thing in your own school, with a survey and some careful listening.
+sc: I can identify a real need in my school or community | I can research users with a survey or interview | I can write a clear problem statement
+v: need :: Something people require or would value that isn't being met.
+v: empathy :: Understanding another person's feelings and experiences.
+v: survey :: A set of questions asked to many people to gather information.
+v: interview :: A conversation to learn about someone's experiences in depth.
+v: problem statement :: A clear sentence describing who has a problem, what it is and why it matters.
+v: assumption :: Something you believe is true without evidence.
+ts: Find the Real Problem || Design challenge || How do designers find problems worth solving?
+tx: Step 1, Observe (10 minutes): In pairs, walk through part of the school (cafeteria, hallways, library, gym, bus line) and note anything that seems frustrating, slow or confusing. ¶ Step 2, Choose a need (5 minutes): Choose one possible need, such as "Students wait too long in the cafeteria line" or "Lost-and-found items never get returned." ¶ Step 3, Research users (20 minutes): Write a 5-question survey and 3 interview questions. Good questions are open and don't lead people. ¶ • Leading: "Don't you hate the slow lunch line?" ¶ • Better: "Describe your experience in the lunch line." ¶ Survey at least 10 students and interview 2. ¶ Step 4, Check assumptions (5 minutes): What did you assume before? Did your research support it or change it? ¶ Step 5, Problem statement (10 minutes): Use the frame: "[User] needs a way to [need] because [insight from research]." ¶ Example: "Grade 7 students need a faster way to get lunch because 7 of 10 surveyed said they have less than 15 minutes to eat after waiting in line."
+src: Original activity written for this lesson.
+st: Observe an area of the school | Choose a possible need | Write and run a survey and interviews | Check your assumptions against the data | Write a problem statement
+org: Observation | Assumption | Research finding | Insight
+an: What need did you choose, and why? | Did your research support or change your assumptions? | Which question gave the most useful answer? | How does your problem statement use evidence?
+pr: Write a one-page needs report: the area observed, survey and interview questions, a summary of results, the assumption you tested and a final problem statement.
+ex: Leading questions || Fix: "Isn't the library too noisy?" || Remove the opinion || "How would you describe the noise level in the library?" || Why do leading questions give bad data?
+ex: Problem statement || Write a problem statement for lost-and-found. || User | Need | Insight || "Students need a way to find lost items quickly because most items are never claimed." || What evidence would make it stronger?
+ex: Assumptions || You assumed everyone hates the lunch line, but 6 of 10 say it's fine. What now? || Data changes the picture || Refocus on the 4 who struggle, or choose a different need || Why test assumptions?
+ex: Survey vs interview || When is an interview better than a survey? || Depth vs numbers || When you need detailed stories and reasons || When is a survey better?
+p: B || What is a need? || Something people require that isn't being met.
+p: B || What is empathy? || Understanding another person's feelings and experiences.
+p: B || What is a survey? || Questions asked to many people to gather information.
+p: B || What is an interview? || A conversation to learn about someone's experiences in depth.
+p: B || What is an assumption? || Something believed without evidence.
+p: I || What is the problem statement frame? || [User] needs a way to [need] because [insight].
+p: I || How many students should you survey? || At least 10.
+p: I || How many interviews? || Two.
+p: I || What is a leading question? || A question that pushes people toward an answer.
+p: I || Rewrite "Don't you love the new gym?" || "What do you think of the new gym?"
+p: I || Name a place to observe. || The cafeteria (also hallways, library, gym, bus line).
+p: C || Why start with user research instead of an idea? || To make sure the solution solves a real problem.
+p: C || Why is empathy important in design? || It helps designers understand what users really experience.
+p: C || What should you do if research shows your assumption was wrong? || Revise the problem or choose a new one.
+p: C || How can numbers and stories work together in research? || Surveys show how common a problem is; interviews explain why.
+mis: Jumping straight to a solution | Asking leading questions | Assuming you know what users need
+et: Write one non-leading survey question. | Write a problem statement using the frame.
+mc: B || A need is || something people require that isn't met | a product | a price | a tool || A
+mc: B || Empathy is || understanding others' experiences | building fast | ignoring users | a material || A
+mc: B || A survey asks || many people questions | one person in depth | nobody | only teachers || A
+mc: B || An assumption is || believed without evidence | proven | a survey | a result || A
+mc: B || You surveyed at least || 10 students | 1 student | 100 students | 0 || A
+mc: B || The problem statement starts with the || user | price | material | colour || A
+mc: I || "Don't you hate the slow line?" is || a leading question | a good question | an interview | a statement || A
+mc: I || A better question is || "Describe your experience in the lunch line." | "The line is bad, right?" | "Agree?" | "Yes or no?" || A
+mc: I || Interviews are better when you need || detailed stories and reasons | quick numbers | no answers | votes || A
+mc: I || If data contradicts your assumption, you should || revise the problem | ignore the data | hide it | stop || A
+mc: C || Designers start with research to || solve real problems | save paper | avoid users | finish faster || A
+mc: C || Surveys and interviews together show || how common a problem is and why | nothing | only opinions | only numbers || A
+sa: B || Define problem statement. || A sentence describing who has a problem, what it is and why it matters.
+sa: B || What is empathy in design? || Understanding users' feelings and experiences.
+sa: I || Rewrite a leading question as an open one. || Answers vary.
+sa: I || Summarize your survey results. || Answers vary.
+sa: I || Explain an assumption you tested. || Answers vary.
+sa: I || Write a problem statement with evidence. || Answers vary.
+sa: C || Write a needs report. || Answers vary.
+sa: C || Explain why research comes before solutions. || It ensures designers solve real problems for real users.
+
+=== EOE7.A1 0
+hook: In Alberta, the weather can change from sunny to snowing in an afternoon, and in winter, temperatures can fall below −30°C. Outdoor people have a saying: "There's no bad weather, only bad clothing." Knowing how to dress in layers keeps you warm, dry and safe.
+sc: I can explain the three-layer system | I can choose clothing for different Alberta weather | I can recognize and prevent cold and heat injuries
+v: base layer :: The layer next to the skin that moves sweat away.
+v: insulating layer :: The middle layer that traps body heat, such as fleece or wool.
+v: shell layer :: The outer layer that blocks wind and water.
+v: wind chill :: How cold it feels on skin when wind is combined with low temperature.
+v: hypothermia :: A dangerous drop in body temperature.
+v: frostbite :: Freezing of skin and the tissue underneath.
+ts: Dress for the Weather || Field activity || How do I dress to stay safe and comfortable outdoors?
+tx: The three-layer system: ¶ 1. Base layer: wicks sweat away from skin. Synthetic fabrics or merino wool, not cotton. ¶ 2. Insulating layer: traps warm air. Fleece, wool or a down or synthetic jacket. ¶ 3. Shell layer: blocks wind, rain and snow. ¶ Plus: a hat (much heat is lost from the head and neck), mitts or gloves, warm socks and waterproof boots. ¶ Why not cotton? Cotton soaks up sweat and water and dries slowly, so it pulls heat away from the body. Outdoor educators say "cotton kills" in cold, wet conditions. ¶ Warning signs: ¶ • Frostbite: skin turns white or grey and feels numb or waxy, often on fingers, toes, ears and nose. Warm gently; don't rub. ¶ • Hypothermia: shivering, clumsy hands, slurred speech, confusion. Get the person somewhere warm and dry and get help. ¶ • Heat exhaustion (summer): heavy sweating, headache, dizziness. Move to shade, drink water. ¶ Activity: Each group gets a weather card: (A) −15°C, wind 20 km/h, sunny; (B) 8°C, rain, windy; (C) 28°C, sunny, a 3-hour hike; (D) −2°C, wet snow. Choose clothing from a pile of real items (or picture cards) and explain each choice. Then go outside for 20 minutes and check how you feel.
+src: Original activity written for this lesson; safety information summarized from Environment and Climate Change Canada and Alberta Health Services guidance.
+st: Learn the three-layer system | Discuss why cotton is risky in cold and wet weather | Dress for a weather card | Explain choices to the class | Go outside and reflect on comfort
+org: Weather card | Base layer | Insulating layer | Shell | Extras
+an: Why does the base layer matter even in cold weather? | What did your group choose for the rainy 8°C card, and why? | What are early signs of hypothermia? | How did you feel after 20 minutes outside?
+pr: Make a packing list for a winter half-day outing in your area, labelling each item's layer or purpose and including one cold-injury warning sign to watch for.
+ex: Layers || Name the three layers. || Base | Insulating | Shell || Base, insulating and shell || What does each do?
+ex: Cotton || Why is a cotton hoodie a poor base layer in winter? || Holds sweat | Dries slowly || It soaks up sweat and makes you cold || What's a better choice?
+ex: Wind chill || It's −10°C with strong wind. Why does it feel colder? || Wind removes body heat faster || Wind chill makes exposed skin lose heat faster || How do you protect your face?
+ex: Frostbite || A friend's cheek looks white and waxy. What do you do? || Warm gently | Don't rub || Cover and warm the area gently and get them indoors || Why not rub it?
+p: B || Name the three layers. || Base, insulating and shell.
+p: B || What does a base layer do? || Moves sweat away from the skin.
+p: B || What does a shell layer do? || Blocks wind and water.
+p: B || What is hypothermia? || A dangerous drop in body temperature.
+p: B || What is frostbite? || Freezing of skin and tissue underneath.
+p: I || Why is cotton risky in cold, wet weather? || It holds water and dries slowly, pulling heat away.
+p: I || Name two good insulating materials. || Fleece and wool (also down, synthetic fill).
+p: I || What is wind chill? || How cold it feels when wind combines with low temperature.
+p: I || Name two signs of hypothermia. || Shivering and confusion (also slurred speech, clumsy hands).
+p: I || What should you do for frostbite? || Warm it gently; don't rub.
+p: I || Name a sign of heat exhaustion. || Heavy sweating (also headache, dizziness).
+p: C || Why do you remove layers when working hard outdoors? || To avoid sweating, which makes you cold later.
+p: C || Why does a hat matter in winter? || A lot of body heat is lost from the head and neck.
+p: C || How should clothing change for card C (28°C hike)? || Light, breathable layers, a sun hat, sunscreen and water.
+p: C || Why check on friends regularly in the cold? || People with hypothermia may not notice their own symptoms.
+mis: Thinking one thick jacket is better than layers | Thinking cotton is fine for winter activities | Rubbing frostbitten skin
+et: Explain the three-layer system. | Name one sign of a cold injury.
+mc: B || The base layer || moves sweat away | blocks rain | is the heaviest | is a hat || A
+mc: B || The shell layer || blocks wind and water | wicks sweat | is cotton | is optional always || A
+mc: B || Fleece is usually an || insulating layer | base layer only | shell | boot || A
+mc: B || Hypothermia is || a dangerous drop in body temperature | sunburn | a sprain | dehydration || A
+mc: B || Frostbite often affects || fingers, toes, ears and nose | knees only | elbows only | hair || A
+mc: B || "Cotton kills" refers to || cold, wet conditions | hot days | swimming | sleeping || A
+mc: I || Cotton is risky because it || holds water and dries slowly | is too warm | is waterproof | is heavy || A
+mc: I || Frostbitten skin should be || warmed gently | rubbed hard | ignored | put in snow || A
+mc: I || Slurred speech in the cold may signal || hypothermia | heat exhaustion | a cold drink | nothing || A
+mc: I || For a 28°C hike, bring || water and a sun hat | a parka | wool mitts | nothing || A
+mc: C || Removing a layer when working hard helps || avoid sweating and getting cold later | stay wet | gain heat | nothing || A
+mc: C || Check on friends in the cold because people with hypothermia || may not notice their symptoms | always shout | never get cold | feel warm || A
+sa: B || Name and describe the three layers. || Base wicks sweat, insulating traps heat, shell blocks wind and water.
+sa: B || Define wind chill. || How cold it feels when wind combines with low temperature.
+sa: I || Explain why cotton is a poor choice in cold, wet weather. || It holds moisture and dries slowly, pulling heat away.
+sa: I || Describe what you'd wear for weather card A. || Answers vary; base, fleece, shell, hat, mitts, boots.
+sa: I || List three signs of hypothermia. || Shivering, slurred speech, confusion.
+sa: I || What do you do for frostbite? || Warm gently, don't rub, get indoors and get help.
+sa: C || Make a winter packing list with layers labelled. || Answers vary.
+sa: C || Explain why you should avoid sweating in winter. || Sweat makes clothing wet, which leads to rapid cooling.
+
+=== EOE8.A1 0
+hook: A topographic map is like a 3-D model squashed onto paper. With practice, you can look at a pattern of squiggly lines and "see" a valley, a cliff or a gentle hill, and plan the easiest route before you take a single step.
+sc: I can read contour lines to understand land shape | I can use map scale to measure distance | I can identify map symbols and plan a route
+v: topographic map :: A map that shows the shape and height of the land.
+v: contour line :: A line joining points of the same elevation.
+v: contour interval :: The difference in elevation between neighbouring contour lines.
+v: elevation :: Height above sea level.
+v: scale :: The relationship between a distance on the map and the real distance.
+v: legend :: The key that explains a map's symbols.
+ts: Reading the Land || Field activity || How do topographic maps show the shape of the land?
+tx: Part 1, Fist mountain (10 minutes): Make a fist and use a washable marker to draw lines around your knuckles at the same height, as if water was rising. Open your fist and look from above: the lines show the shape of your "mountain." ¶ Part 2, Contour rules (10 minutes): ¶ • Lines close together = steep slope ¶ • Lines far apart = gentle slope ¶ • Circles inside circles = a hill or peak ¶ • Lines making a V that points uphill = a valley or stream ¶ • Contour lines never cross. ¶ On a 1:50 000 Canadian topographic map, the contour interval is often 10 or 20 metres; check the legend. ¶ Part 3, Scale (10 minutes): On a 1:50 000 map, 1 cm = 500 m, so 2 cm = 1 km. Use string to measure a winding trail, then convert to kilometres. ¶ Part 4, Plan a route (15 minutes): Using a local topographic map (for example, a section of a provincial park), plan a route between two points. Find the distance, the total elevation gain and two landmarks. Choose a route that avoids the steepest slopes.
+src: Original activity written for this lesson; Canadian topographic map conventions from Natural Resources Canada.
+st: Make a fist mountain | Learn the contour rules | Measure distance with scale and string | Identify symbols in the legend | Plan and justify a route
+org: Map feature | How it looks on the map | What it means
+an: How did the fist mountain help you understand contour lines? | Where is the steepest slope on your map, and how do you know? | How long is your route? | Why did you choose that route?
+pr: Plan a route on a topographic map between two points, recording the distance, elevation gain, landmarks and why you chose it over another route.
+ex: Steepness || Contour lines are packed close together. What's the land like? || Close = steep || A steep slope || How would you travel through it?
+ex: Scale || On a 1:50 000 map, a trail measures 7 cm. How far is it? || 1 cm = 500 m || 3.5 km || How long might that take to hike?
+ex: Elevation gain || You start on the 1200 m contour and finish on the 1340 m contour. Elevation gain? || 1340 − 1200 || 140 m || How many contour lines with a 20 m interval?
+ex: Valleys || What does a V pointing uphill show? || Water flows down valleys || A valley or stream || Which way is downhill?
+p: B || What is a topographic map? || A map showing the shape and height of the land.
+p: B || What is a contour line? || A line joining points of equal elevation.
+p: B || What is elevation? || Height above sea level.
+p: B || What is the legend? || The key explaining map symbols.
+p: B || What is scale? || The relationship between map distance and real distance.
+p: I || What do close contour lines mean? || A steep slope.
+p: I || What do circles inside circles show? || A hill or peak.
+p: I || On a 1:50 000 map, what does 1 cm equal? || 500 m.
+p: I || Do contour lines ever cross? || No.
+p: I || What is a contour interval? || The elevation difference between neighbouring lines.
+p: I || A trail measures 4 cm on a 1:50 000 map. How far? || 2 km.
+p: C || Why should route planners avoid tightly packed contour lines? || They show steep, difficult or dangerous terrain.
+p: C || Why use string to measure trails? || Trails curve, so a straight ruler would underestimate.
+p: C || With a 20 m interval, how many lines show 140 m of climb? || 7.
+p: C || Why might the shortest route not be the best route? || It may be steeper, riskier or slower.
+mis: Thinking contour lines show paths | Thinking the shortest route is always best | Forgetting to check the contour interval
+et: Describe what close and far-apart contour lines mean. | Convert a map distance using scale.
+mc: B || A contour line joins points of equal || elevation | temperature | distance | population || A
+mc: B || The legend explains || symbols | weather | prices | time || A
+mc: B || Close contour lines mean || steep land | flat land | water | a road || A
+mc: B || Circles inside circles show || a hill | a lake only | a road | a forest || A
+mc: B || On a 1:50 000 map, 1 cm equals || 500 m | 50 m | 5 km | 50 km || A
+mc: B || Contour lines || never cross | always cross | are roads | are rivers || A
+mc: I || A trail of 6 cm on a 1:50 000 map is || 3 km | 6 km | 300 m | 30 km || A
+mc: I || A V pointing uphill shows || a valley or stream | a peak | a road | a building || A
+mc: I || From 1200 m to 1340 m is a gain of || 140 m | 1340 m | 40 m | 2540 m || A
+mc: I || The contour interval is || the height difference between lines | the map size | the scale | the legend || A
+mc: C || The shortest route may not be best because it can be || steeper or riskier | too flat | prettier | longer || A
+mc: C || String measures trails better than a ruler because trails || curve | are straight | are short | are flat || A
+sa: B || Define contour line. || A line joining points of equal elevation.
+sa: B || What does the legend do? || Explains the map's symbols.
+sa: I || List three contour rules. || Close lines are steep, far apart is gentle, circles are hills (also V shows valleys, lines don't cross).
+sa: I || Convert 9 cm on a 1:50 000 map. || 4.5 km.
+sa: I || Calculate elevation gain from 950 m to 1110 m. || 160 m.
+sa: I || Explain how the fist mountain models contour lines. || Lines drawn at equal heights show the mountain's shape from above.
+sa: C || Plan and justify a route on a topographic map. || Answers vary.
+sa: C || Explain why steep terrain affects route planning. || It is slower, harder and riskier to travel.
+
+=== EOE9.A1 0
+hook: Long before snowmobiles and Gore-Tex, people travelled across this land all winter. Snowshoes were developed by Indigenous peoples of North America and are still one of the best ways to move through deep snow. Winter isn't a season to hide from; with the right skills, it's a season to explore.
+sc: I can travel safely on snowshoes | I can plan for winter hazards such as cold, early darkness and thin ice | I can keep a group safe during a winter outing
+v: snowshoe :: A wide frame worn on the boot to spread body weight over snow.
+v: flotation :: How well something stays on top of snow instead of sinking.
+v: buddy check :: Partners checking each other for signs of cold injury.
+v: turnaround time :: A set time when a group turns back, no matter where it is.
+v: thin ice :: Ice not thick enough to support people safely.
+v: emergency kit :: Supplies carried in case something goes wrong.
+ts: Winter Trek || Field activity || How do people travel safely and enjoyably in winter?
+tx: Part 1, Snowshoe skills (15 minutes): Put on snowshoes with a partner check (bindings snug, toes centred). Practise: ¶ • Walking with a slightly wider stance so frames don't hit ¶ • Kick-stepping uphill and leaning back slightly downhill ¶ • Turning in a wide arc ¶ • Using poles for balance ¶ Part 2, Winter hazards (10 minutes): ¶ • Cold: use layers and buddy checks every 20 minutes (cheeks, nose, ears, fingers). ¶ • Darkness: in an Alberta winter, it can be dark by around 5:00 p.m. Set a turnaround time. ¶ • Ice: never walk on lakes or rivers unless the ice has been measured and confirmed safe. The Canadian Red Cross recommends at least 15 cm of clear, solid ice for walking alone. River ice and snow-covered ice are especially unreliable. ¶ • Snow and wind: stay on marked trails; know avalanche terrain is a separate hazard needing special training. ¶ Part 3, Group trek (25 minutes): Groups of five snowshoe a marked course. One student is the trip leader, one the "sweep" (always last), and one the time-keeper who calls the turnaround time. Do two buddy checks on the way. ¶ Part 4, Debrief: What went well? What would you change on a real outing?
+src: Original activity written for this lesson; ice-safety guidance from the Canadian Red Cross.
+st: Fit snowshoes with a partner check | Practise walking, climbing and turning | Learn winter hazards and the turnaround time | Complete a group trek with leader, sweep and time-keeper | Debrief on safety and teamwork
+org: Hazard | Warning sign | How we prevent it | What we'd do if it happens
+an: Which snowshoe skill was hardest? | Why does the group need a sweep? | Why set a turnaround time before leaving? | What did the buddy checks find?
+pr: Write a safety plan for a winter snowshoe outing in your area, including roles, a turnaround time, a buddy-check schedule, an emergency kit list and what to do if someone gets too cold.
+ex: Flotation || Why do snowshoes keep you from sinking? || Spread weight over a larger area || Weight is spread out, so pressure on the snow is lower || What happens without them in deep snow?
+ex: Turnaround time || Sunset is 4:45 p.m. and the hike back takes 1.5 hours. When should you turn around? || Back before dark || Around 3:00 p.m. or earlier || Why add extra time?
+ex: Ice safety || A pond looks frozen. Can you walk on it? || Thickness unknown || No, not unless it has been measured and confirmed safe || What thickness is recommended?
+ex: Group roles || What does the sweep do? || Stays last | Makes sure no one is left behind || Walks at the back and makes sure everyone keeps up || Why is the sweep often an experienced person?
+p: B || What is a snowshoe? || A wide frame worn on the boot to spread weight over snow.
+p: B || What is flotation? || How well something stays on top of snow.
+p: B || What is a buddy check? || Partners checking each other for cold injury.
+p: B || What is a turnaround time? || A set time when a group turns back.
+p: B || What is an emergency kit? || Supplies carried in case something goes wrong.
+p: I || Who developed snowshoes? || Indigenous peoples of North America.
+p: I || How often were buddy checks done? || About every 20 minutes.
+p: I || How should you walk uphill on snowshoes? || Kick-step into the slope.
+p: I || What ice thickness does the Red Cross recommend for walking alone? || At least 15 cm of clear, solid ice.
+p: I || What are the three group roles? || Leader, sweep and time-keeper.
+p: I || Name two winter hazards. || Cold and early darkness (also thin ice, wind).
+p: C || Why is river ice especially dangerous? || Moving water underneath can make it thin and uneven.
+p: C || Why set the turnaround time before leaving? || In the moment, people push on when they should turn back.
+p: C || Why walk with a wider stance on snowshoes? || So the frames don't hit each other.
+p: C || Why does avalanche terrain need special training? || Avalanches require specific knowledge, gear and assessment skills.
+mis: Thinking frozen-looking ice is safe | Thinking it stays light later in winter | Pushing on past a turnaround time
+et: Name two winter hazards and how to prevent them. | Explain why groups set a turnaround time.
+mc: B || Snowshoes give || flotation on snow | speed on ice | warmth | light || A
+mc: B || A buddy check looks for || signs of cold injury | lost gloves only | snacks | directions || A
+mc: B || A turnaround time is || when the group turns back | lunch | the start time | bedtime || A
+mc: B || The sweep walks || at the back | at the front | alone ahead | off trail || A
+mc: B || Snowshoes were developed by || Indigenous peoples of North America | Europeans in 2000 | astronauts | skiers || A
+mc: B || Buddy checks happened about every || 20 minutes | 2 hours | 2 minutes | never || A
+mc: I || To climb on snowshoes, you || kick-step | slide backward | jump | crawl || A
+mc: I || For walking alone, the Red Cross recommends at least || 15 cm of clear ice | 2 cm | any frozen ice | 1 m || A
+mc: I || A frozen-looking pond is safe if || it has been measured and confirmed safe | it looks white | it's cold out | friends are on it || A
+mc: I || Sunset at 4:45 with a 1.5-hour return means turning around by about || 3:00 p.m. | 4:30 p.m. | 5:00 p.m. | 6:00 p.m. || A
+mc: C || River ice is especially dangerous because || moving water makes it uneven | it's always thick | it's salty | it melts in winter || A
+mc: C || Turnaround times are set before leaving because || people push on in the moment | it's tradition | they're optional | it saves food || A
+sa: B || Define flotation. || How well something stays on top of snow.
+sa: B || What does the sweep do? || Walks at the back so no one is left behind.
+sa: I || Describe two snowshoe techniques. || Wider stance and kick-stepping uphill.
+sa: I || Explain ice-safety rules. || Never walk on ice unless measured and confirmed safe; at least 15 cm of clear ice for one person.
+sa: I || Calculate a turnaround time for a given sunset. || Answers vary; return before dark with extra time.
+sa: I || List three items for a winter emergency kit. || Extra layers, first-aid kit and a headlamp (also whistle, food, hot drink).
+sa: C || Write a winter outing safety plan. || Answers vary.
+sa: C || Explain why winter skills let people enjoy the outdoors all year. || With the right skills and gear, people can travel safely in winter.
+
+=== ETH.A1 0
+hook: You find a $20 bill on the hallway floor. Nobody saw you. What do you do? Most people answer quickly, but if you ask them why, the answers get interesting. Some say "because it's the rule," some say "because I'd want it back," and some say "because of the kind of person I want to be." Those reasons come from values.
+sc: I can identify my values and where they come from | I can explain how values guide decisions | I can discuss a dilemma respectfully
+v: value :: A belief about what is important or right.
+v: ethics :: Thinking carefully about what is right and wrong and why.
+v: dilemma :: A situation where you must choose between options that each have good and bad points.
+v: principle :: A rule or belief that guides behaviour, such as honesty.
+v: consequence :: A result of an action.
+v: perspective :: A particular way of seeing a situation.
+ts: What Matters to Me? || Discussion || What are my values, and how do they guide my choices?
+tx: Part 1, Values sort (10 minutes): Each student gets 20 value cards: honesty, kindness, fairness, loyalty, courage, responsibility, respect, family, friendship, freedom, achievement, faith or spirituality, creativity, health, fun, security, generosity, independence, justice, the environment. Sort them into "very important," "important" and "less important." Choose your top five. ¶ Part 2, Where do values come from? (5 minutes): Families, cultures, faith communities, friends, teachers, experiences and media. Values can change as we grow. ¶ Part 3, Values in action (15 minutes): Discuss these dilemmas in small groups. For each, name which values are in conflict. ¶ A. Your best friend asks you to say they were with you on Saturday so they won't get in trouble at home. (loyalty vs honesty) ¶ B. You see a classmate copying answers during a test. (fairness vs friendship) ¶ C. Your team could win the championship if you play while slightly injured, against the coach's advice. (achievement vs health and responsibility) ¶ Part 4, Discussion norms: Listen fully. Question ideas, not people. Give reasons. It's okay to change your mind. ¶ There is not always one right answer, but some reasons are stronger than others.
+src: Original activity written for this lesson.
+st: Sort the value cards and choose your top five | Discuss where values come from | Analyze three dilemmas for conflicting values | Use discussion norms | Reflect on how values guide your decisions
+org: Dilemma | Values in conflict | Options | What I would do and why
+an: Which of your top five values was hardest to choose? | In Dilemma A, which value would you choose, and why? | Did anyone in your group see a dilemma differently? How? | Can two good values conflict? Give an example.
+pr: Write a reflection on your top three values: where each comes from, a time it guided a decision, and a dilemma where two of your values might conflict.
+ex: Conflicting values || Dilemma A: which values conflict? || Loyalty to a friend | Honesty to parents || Loyalty and honesty || How could you be both loyal and honest?
+ex: Where values come from || Name three sources of values. || Family | Culture | Experiences || Family, culture and experiences (also friends, faith, media) || How have your values changed?
+ex: Reasons || Which is a stronger reason for returning the $20: "I might get caught" or "It belongs to someone"? || Self-interest vs principle || "It belongs to someone" reflects a principle of honesty || Why might principles be stronger reasons?
+ex: Discussion norms || A classmate says, "That's a dumb opinion." What norm was broken? || Question ideas, not people || Question ideas, not people || How could they rephrase it?
+p: B || What is a value? || A belief about what is important or right.
+p: B || What is ethics? || Thinking carefully about right and wrong and why.
+p: B || What is a dilemma? || A choice between options that each have good and bad points.
+p: B || What is a principle? || A rule or belief that guides behaviour.
+p: B || What is a consequence? || A result of an action.
+p: I || How many top values did you choose? || Five.
+p: I || Which values conflict in Dilemma B? || Fairness and friendship.
+p: I || Which values conflict in Dilemma C? || Achievement versus health and responsibility.
+p: I || Name two sources of values. || Family and culture (also friends, faith, experiences, media).
+p: I || Name two discussion norms. || Listen fully and give reasons (also question ideas, not people; it's okay to change your mind).
+p: I || Can values change over time? || Yes, as we grow and have new experiences.
+p: C || Why can two good values conflict? || Situations can force a choice between things that both matter.
+p: C || Why are some reasons stronger than others? || They rest on principles and consider others, not just self-interest.
+p: C || How can understanding others' values help in a disagreement? || It shows why they see things differently and builds respect.
+p: C || In Dilemma A, describe an option that respects both loyalty and honesty. || Sample: tell your friend you won't lie but will support them in being honest.
+mis: Thinking there is always one obvious right answer | Thinking values never change | Attacking people instead of discussing ideas
+et: Name two of your values. | Identify the values in conflict in one dilemma.
+mc: B || A value is || a belief about what is important | a price | a rule of grammar | a type of test || A
+mc: B || Ethics is thinking about || right and wrong and why | math | weather | sports || A
+mc: B || A dilemma has || options with good and bad points | one easy answer | no choices | only bad options always || A
+mc: B || Honesty is an example of a || principle | consequence | dilemma | perspective || A
+mc: B || Students chose their top || five values | one value | twenty values | no values || A
+mc: B || A consequence is || a result of an action | a value | a card | a norm || A
+mc: I || Dilemma A is mainly loyalty versus || honesty | creativity | fun | health || A
+mc: I || Dilemma B is mainly fairness versus || friendship | freedom | security | creativity || A
+mc: I || "That's a dumb opinion" breaks the norm || question ideas, not people | listen fully | give reasons | change your mind || A
+mc: I || Values can come from || family, culture and experience | nowhere | only TV | only school || A
+mc: C || Two good values can conflict because || situations force a choice between things that matter | values are bad | people are wrong | ethics is random || A
+mc: C || A stronger reason usually || rests on principles and considers others | is shorter | is louder | is about getting caught || A
+sa: B || Define dilemma. || A choice between options that each have good and bad points.
+sa: B || Name three sources of values. || Family, culture and experiences.
+sa: I || List your top five values. || Answers vary.
+sa: I || Explain which values conflict in Dilemma C. || Achievement versus health and responsibility.
+sa: I || Describe what you would do in Dilemma A and why. || Answers vary; should give reasons.
+sa: I || Name two discussion norms. || Listen fully; question ideas, not people.
+sa: C || Write a reflection on your top three values. || Answers vary.
+sa: C || Explain why some reasons are stronger than others. || Strong reasons rest on principles and consider others' interests.

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>
+:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;font-size:14px;font-family:system-ui,sans-serif}
+img{max-width:100%}[hidden]{display:none!important}
+</style>
+<title>Middle School Complementary Courses - Alberta Curriculum</title>
+<meta name="description" content="Planning, lessons and a proficiency markbook for Alberta junior high complementary courses: Art, Drama, Music, Band, CTF, Environmental and Outdoor Education, Ethics, French, Spanish and Mandarin.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@500;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<div class="shell">
+  <aside class="side" aria-label="Main navigation">
+    <div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary</b><span>Alberta Curriculum</span></div></div>
+    
+    <div id="sidenav"></div>
+    <div class="foot"><div class="status"><span class="dot st-dot"></span><span class="st-text">Connecting…</span></div><div>Arts · CTF · Outdoor Ed · Ethics<br>French · Spanish · Mandarin</div></div>
+  </aside>
+  <div class="canvas">
+    <header class="topbar"><div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary</b><span>Alberta Curriculum</span></div></div><div class="status"><span class="dot st-dot"></span><span class="st-text">Connecting…</span></div></header>
+    <main class="page" id="app"></main>
+  </div>
+</div>
+<nav class="bottombar" id="bottomnav" aria-label="Main navigation"></nav>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<div class="auth" id="auth" hidden>
+  <div class="auth-card">
+    <div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary</b><span>Alberta Curriculum</span></div></div>
+    <h1 id="authTitle">Sign in to Middle School Complementary Courses</h1>
+    <div class="seg" role="group" id="authTabs"><button type="button" data-auth-tab="signin" aria-pressed="true">Sign in</button><button type="button" data-auth-tab="signup" aria-pressed="false">Create account</button></div>
+    <form id="authForm" novalidate>
+      <label class="f" id="emailRow">Email<input id="authEmail" type="email" autocomplete="email" required></label>
+      <label class="f" id="passRow"><span id="passLabel">Password</span><input id="authPass" type="password" autocomplete="current-password" minlength="8"></label>
+      <button class="btn" id="authSubmit" type="submit">Sign in</button>
+    </form>
+    <p class="auth-msg" id="authMsg" role="status"></p>
+    <p class="small muted" id="studentLink" style="margin:0">Student? <a href="/student">Sign in to the student site</a></p>
+    <button type="button" class="linkbtn" id="forgot">Forgot your password?</button>
+    <button type="button" class="linkbtn" id="backToSignin" hidden>Back to sign in</button>
+    <p class="xs muted">Your classes, marks and lessons are stored in your own account and are visible only to you.</p>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/platform.js"></script>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

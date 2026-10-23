@@ -1,0 +1,538 @@
+=== FSL7.A1 0
+hook: Over 10 million people in Canada can speak French, and there are francophone communities right here in Alberta, from Edmonton's Bonnie Doon neighbourhood to Saint-Paul, Falher and Bonnyville. The first thing you'll do in any of those places is greet someone and introduce yourself. Today, you'll learn how.
+sc: I can greet people and say goodbye in French | I can introduce myself with my name, age and where I live | I can ask someone their name and age
+v: Bonjour :: Hello / good morning (polite, used all day).
+v: Salut :: Hi / bye (informal, with friends).
+v: Je m'appelle… :: My name is…
+v: J'ai … ans :: I am … years old (literally "I have … years").
+v: J'habite à… :: I live in…
+v: Comment t'appelles-tu ? :: What is your name? (informal)
+v: Quel âge as-tu ? :: How old are you? (informal)
+v: Au revoir :: Goodbye.
+ts: Enchanté ! || Dialogue || How do I greet and introduce myself in French?
+tx: Dialogue (read aloud with a partner): ¶ Léa : Bonjour ! Je m'appelle Léa. Comment t'appelles-tu ? ¶ Omar : Salut, Léa ! Je m'appelle Omar. ¶ Léa : Enchantée, Omar. Quel âge as-tu ? ¶ Omar : J'ai douze ans. Et toi ? ¶ Léa : Moi, j'ai treize ans. Où habites-tu ? ¶ Omar : J'habite à Calgary. Et toi ? ¶ Léa : J'habite à Edmonton. ¶ Omar : Super ! Au revoir, Léa ! ¶ Léa : À bientôt ! ¶ English support: Enchanté(e) = pleased to meet you (add -e if you are female). Et toi ? = And you? À bientôt = See you soon. ¶ Numbers for ages: onze (11), douze (12), treize (13), quatorze (14), quinze (15). ¶ Tu or vous? Use tu with friends, family and other young people. Use vous with adults you don't know well, teachers and in formal situations: "Comment vous appelez-vous ?" ¶ Culture note: In Quebec and some francophone communities, friends often greet with "la bise," a light kiss on each cheek; in school in Alberta, a handshake or a wave is common.
+src: Original dialogue written for this lesson.
+st: Listen to and repeat the dialogue | Practise greetings and goodbyes | Learn to say your age with avoir | Role-play the dialogue with your own information | Introduce your partner to another pair
+org: Question in French | Meaning | My answer in French
+an: Why does French say "J'ai douze ans" (I have twelve years) instead of "I am"? | When would you use tu, and when vous? | What is the difference between Bonjour and Salut? | Why does Léa say "Enchantée" with an extra -e?
+pr: Write and perform a short dialogue (6–8 lines) where you meet a new student, greet them, ask their name, age and where they live, and say goodbye.
+ex: Introducing yourself || How do you say "My name is Sam"? || Je m'appelle + name || Je m'appelle Sam. || How do you ask someone's name?
+ex: Age || How do you say "I am 13 years old"? || Use avoir: J'ai + number + ans || J'ai treize ans. || Why not "Je suis treize"?
+ex: Tu or vous || You meet your friend's grandmother. Tu or vous? || Adult you don't know well || Vous || How would you ask her name?
+ex: Where you live || How do you say "I live in Red Deer"? || J'habite à + city || J'habite à Red Deer. || Ask a partner where they live.
+p: B || How do you say "hello" politely in French? || Bonjour.
+p: B || How do you say "my name is"? || Je m'appelle…
+p: B || How do you say "goodbye"? || Au revoir.
+p: B || What does "Salut" mean? || Hi or bye (informal).
+p: B || How do you say "I live in"? || J'habite à…
+p: I || Say "I am 12 years old" in French. || J'ai douze ans.
+p: I || How do you ask "How old are you?" informally? || Quel âge as-tu ?
+p: I || What does "Enchanté(e)" mean? || Pleased to meet you.
+p: I || Count from 11 to 15 in French. || Onze, douze, treize, quatorze, quinze.
+p: I || Ask a teacher their name formally. || Comment vous appelez-vous ?
+p: I || What does "Et toi ?" mean? || And you?
+p: C || Why does French use avoir for age? || French expresses age as the number of years you have.
+p: C || Why add -e to Enchanté for females? || Adjectives agree with the gender of the speaker.
+p: C || Name two francophone communities in Alberta. || Saint-Paul and Falher (also Bonnyville, Bonnie Doon in Edmonton).
+p: C || When is "Salut" not appropriate? || With adults you don't know well or in formal situations.
+mis: Saying "Je suis douze ans" instead of "J'ai douze ans" | Using tu with adults you don't know | Forgetting the space before ? and ! in French punctuation
+et: Introduce yourself with your name, age and city in French. | Ask a partner two questions in French.
+mc: B || "Bonjour" means || hello | goodbye | thank you | please || A
+mc: B || "Je m'appelle" means || my name is | I live in | I am | how are you || A
+mc: B || "Au revoir" means || goodbye | hello | sorry | yes || A
+mc: B || "Douze" is || 12 | 2 | 20 | 10 || A
+mc: B || "J'habite à Calgary" means || I live in Calgary | I like Calgary | I am Calgary | I visit Calgary || A
+mc: B || "Salut" is || informal | very formal | a number | a city || A
+mc: I || "I am 13" in French is || J'ai treize ans | Je suis treize | J'ai treize | Je treize ans || A
+mc: I || With a teacher, you use || vous | tu | salut | toi || A
+mc: I || "Quel âge as-tu ?" asks || your age | your name | where you live | how you are || A
+mc: I || A female says || Enchantée | Enchanté | Enchant | Enchantés || A
+mc: C || French uses avoir for age because || age is expressed as years you have | it's a mistake | être is impolite | it's shorter || A
+mc: C || A francophone community in Alberta is || Saint-Paul | Paris | Lyon | Dakar || A
+sa: B || How do you say "Hello, my name is…" in French? || Bonjour, je m'appelle…
+sa: B || How do you say goodbye? || Au revoir (also à bientôt, salut).
+sa: I || Introduce yourself with your name, age and city. || Sample: Je m'appelle Ana. J'ai douze ans. J'habite à Lethbridge.
+sa: I || Explain when to use tu and vous. || Tu with friends and family; vous with adults you don't know well and in formal situations.
+sa: I || Write the numbers 11 to 15 in French. || Onze, douze, treize, quatorze, quinze.
+sa: I || Ask a classmate their name and age in French. || Comment t'appelles-tu ? Quel âge as-tu ?
+sa: C || Write a six-line dialogue meeting a new student. || Answers vary.
+sa: C || Explain why "Je suis douze ans" is incorrect. || French uses avoir for age: J'ai douze ans.
+
+=== FSL8.A1 0
+hook: You're at a shop in Montréal and want a blue hoodie in a medium. Can you ask for it? In French, colours change their spelling depending on what they describe, which sounds tricky but follows clear patterns. By the end of class, you'll describe what you and your classmates are wearing.
+sc: I can name common clothing items in French | I can describe clothing with colours that agree in gender and number | I can say what I am wearing and what I like to wear
+v: les vêtements :: Clothes.
+v: un chandail / un t-shirt :: A sweater (Canadian French) / a T-shirt.
+v: un pantalon :: Pants (one pair).
+v: une jupe :: A skirt.
+v: une veste / un manteau :: A jacket / a coat.
+v: des chaussures (f.) :: Shoes.
+v: porter :: To wear (Je porte… = I am wearing…).
+v: accord :: Agreement: changing an adjective to match a noun's gender and number.
+ts: Qu'est-ce que tu portes ? || Dialogue || How do I describe clothing in French?
+tx: Colour agreement: in French, colours usually go after the noun and agree with it. ¶ • Masculine singular: un chandail vert, un pantalon noir ¶ • Feminine singular (add -e): une jupe verte, une veste noire ¶ • Plural (add -s): des chaussures vertes, des pantalons noirs ¶ • Colours already ending in -e don't add another: un t-shirt rouge, une jupe rouge ¶ • Blanc becomes blanche in the feminine: une chemise blanche ¶ • Orange and marron (brown) never change: des chaussures orange, une veste marron ¶ Dialogue: ¶ Chloé : Qu'est-ce que tu portes aujourd'hui ? ¶ Noah : Je porte un chandail bleu, un pantalon noir et des chaussures blanches. Et toi ? ¶ Chloé : Je porte une veste verte, un t-shirt rouge et une jupe grise. ¶ Noah : J'aime ta veste ! ¶ Chloé : Merci ! J'aime porter des couleurs vives. ¶ English support: Qu'est-ce que tu portes ? = What are you wearing? J'aime ta veste = I like your jacket. des couleurs vives = bright colours. ¶ Activity: "Fashion show": each student describes what a classmate is wearing while the class guesses who it is.
+src: Original dialogue written for this lesson.
+st: Learn clothing vocabulary | Learn the colour agreement rules | Read the dialogue with a partner | Describe your own clothing | Play the fashion-show guessing game
+org: Vêtement | Masculin ou féminin | Couleur (with agreement)
+an: Why is it "une jupe verte" but "un chandail vert"? | Why doesn't "rouge" change in the feminine? | Which colours never change? | Where does the colour go in a French sentence?
+pr: Write a paragraph (5–6 sentences) describing what you're wearing today and your favourite outfit, using at least five clothing items and correct colour agreement.
+ex: Masculine to feminine || Make "vert" agree with "une veste." || Feminine: add -e || une veste verte || What about "une chemise blanc"?
+ex: Plural || Describe "des chaussures" that are black. || Feminine plural: noir + e + s || des chaussures noires || Why both -e and -s?
+ex: Invariable colours || Describe brown shoes. || Marron never changes || des chaussures marron || Which other colour never changes?
+ex: Word order || Translate "a blue sweater." || Colour after the noun || un chandail bleu || Translate "a grey skirt."
+p: B || What does "les vêtements" mean? || Clothes.
+p: B || How do you say "I am wearing"? || Je porte…
+p: B || What is "une jupe"? || A skirt.
+p: B || What is "un pantalon"? || Pants.
+p: B || Where do colours go in French? || After the noun.
+p: I || Make "noir" agree with "une veste." || une veste noire.
+p: I || Make "blanc" agree with "une chemise." || une chemise blanche.
+p: I || Translate "red shoes." || des chaussures rouges.
+p: I || Translate "a green sweater." || un chandail vert.
+p: I || What does "J'aime ta veste" mean? || I like your jacket.
+p: I || Which two colours never change? || Orange and marron.
+p: C || Why does "rouge" stay the same in the feminine? || It already ends in -e.
+p: C || Describe "grey pants" (plural pants). || des pantalons gris.
+p: C || Why is "une chemise blanche" irregular? || Blanc's feminine form is blanche, not blance.
+p: C || Write a sentence about what your teacher is wearing. || Sample: Le professeur porte une veste bleue.
+mis: Putting the colour before the noun | Forgetting agreement in the feminine or plural | Adding -e to colours that already end in -e
+et: Describe one item of clothing with correct agreement. | Say what you are wearing in one sentence.
+mc: B || "Je porte" means || I am wearing | I like | I buy | I have || A
+mc: B || "Une jupe" is || a skirt | a coat | a shoe | a hat || A
+mc: B || In French, colours usually go || after the noun | before the noun | at the end of the paragraph | nowhere || A
+mc: B || "Les vêtements" means || clothes | colours | stores | shoes || A
+mc: B || "Un manteau" is || a coat | pants | a skirt | socks || A
+mc: B || "Des chaussures" are || shoes | shirts | hats | gloves || A
+mc: I || "A green jacket" is || une veste verte | une veste vert | un veste vert | une verte veste || A
+mc: I || "A white shirt" is || une chemise blanche | une chemise blanc | une chemise blance | un chemise blanc || A
+mc: I || "Brown shoes" is || des chaussures marron | des chaussures marronnes | des marrons chaussures | des chaussures marrone || A
+mc: I || "A red T-shirt" is || un t-shirt rouge | un t-shirt rougee | une t-shirt rouge | un rouge t-shirt || A
+mc: C || "Rouge" doesn't add -e because it || already ends in -e | is masculine only | is plural | is English || A
+mc: C || "Black shoes" needs || -e and -s: noires | only -s: noirs | nothing: noir | only -e: noire || A
+sa: B || How do you say "I am wearing a blue sweater"? || Je porte un chandail bleu.
+sa: B || Where do colours go in a French sentence? || After the noun.
+sa: I || Explain colour agreement with an example. || Add -e for feminine, -s for plural: une jupe verte, des chaussures vertes.
+sa: I || Name the two colours that never change. || Orange and marron.
+sa: I || Translate "a black skirt and white shoes." || une jupe noire et des chaussures blanches.
+sa: I || Describe what you are wearing in two sentences. || Answers vary.
+sa: C || Write a paragraph about your clothing using agreement. || Answers vary.
+sa: C || Explain why "une chemise blanc" is incorrect. || Blanc must become blanche to agree with feminine chemise.
+
+=== FSL9.A1 0
+hook: Most Canadian teens spend hours every day on screens: texting, gaming, streaming and doing homework. But can you talk about it in French? Today you'll describe your technology habits and give your opinion, skills you'll use in almost any French conversation.
+sc: I can describe how I use technology in French | I can say how often I do something | I can give and justify an opinion about technology
+v: le cellulaire / le téléphone :: Cell phone (le cellulaire is common in Canada).
+v: l'ordinateur (m.) :: Computer.
+v: envoyer des textos :: To send texts.
+v: regarder des vidéos :: To watch videos.
+v: jouer à des jeux vidéo :: To play video games.
+v: les réseaux sociaux (m.) :: Social media.
+v: À mon avis… :: In my opinion…
+v: parce que :: Because.
+ts: Ma vie numérique || Dialogue || How do I talk about technology and give my opinion in French?
+tx: How often: tous les jours (every day), souvent (often), parfois (sometimes), rarement (rarely), ne… jamais (never: Je ne joue jamais à des jeux vidéo). ¶ Dialogue: ¶ Maya : Combien de temps passes-tu sur ton cellulaire ? ¶ Lucas : Environ trois heures par jour. J'envoie des textos à mes amis et je regarde des vidéos. Et toi ? ¶ Maya : Moi, j'utilise mon ordinateur pour faire mes devoirs. Je joue parfois à des jeux vidéo le week-end. ¶ Lucas : Tu aimes les réseaux sociaux ? ¶ Maya : Pas vraiment. À mon avis, les réseaux sociaux sont amusants, mais ils prennent trop de temps. ¶ Lucas : Je suis d'accord. Parfois, je ne dors pas assez parce que je regarde des vidéos le soir. ¶ English support: Combien de temps passes-tu… ? = How much time do you spend…? environ = about; par jour = per day; faire mes devoirs = do my homework; trop de temps = too much time; Je suis d'accord = I agree. ¶ Activity: Survey five classmates in French: "Combien de temps passes-tu sur ton cellulaire ?" and "Qu'est-ce que tu fais en ligne ?" Then report one finding: "Trois élèves envoient des textos tous les jours."
+src: Original dialogue written for this lesson.
+st: Learn technology vocabulary and frequency words | Read the dialogue with a partner | Survey five classmates in French | Report a finding to the class | Give your opinion with à mon avis and parce que
+org: Activité | Combien de fois ? | Mon opinion
+an: How much time does Lucas spend on his phone? | What does Maya use her computer for? | What is Maya's opinion of social media? | How do you say "never" in French, and where do the two parts go?
+pr: Write a short paragraph (6–8 sentences) about your technology habits, using three frequency expressions and one opinion with "à mon avis" and "parce que."
+ex: Frequency || Say "I sometimes play video games." || parfois + verb || Je joue parfois à des jeux vidéo. || Change it to "often."
+ex: Negative || Say "I never watch videos." || ne + verb + jamais || Je ne regarde jamais de vidéos. || Why does des become de?
+ex: Opinion || Give an opinion about cell phones. || À mon avis + reason || À mon avis, les cellulaires sont utiles parce qu'on peut appeler sa famille. || Give an opposite opinion.
+ex: Reporting || Report: 4 students text every day. || Plural verb || Quatre élèves envoient des textos tous les jours. || Report another result.
+p: B || What is "un cellulaire"? || A cell phone.
+p: B || What does "les réseaux sociaux" mean? || Social media.
+p: B || How do you say "in my opinion"? || À mon avis.
+p: B || What does "parce que" mean? || Because.
+p: B || How do you say "every day"? || Tous les jours.
+p: I || Say "I send texts to my friends." || J'envoie des textos à mes amis.
+p: I || Say "I rarely play video games." || Je joue rarement à des jeux vidéo.
+p: I || How long does Lucas spend on his phone? || About three hours a day.
+p: I || What does "Je suis d'accord" mean? || I agree.
+p: I || Translate "I use my computer to do my homework." || J'utilise mon ordinateur pour faire mes devoirs.
+p: I || Put in order: never, rarely, sometimes, often, every day. || Jamais, rarement, parfois, souvent, tous les jours.
+p: C || Why does "des vidéos" become "de vidéos" after "ne… jamais"? || After a negative, des changes to de.
+p: C || Why does Lucas sometimes not sleep enough? || He watches videos in the evening.
+p: C || Give a balanced opinion about social media in French. || Sample: À mon avis, les réseaux sociaux sont amusants, mais ils prennent trop de temps.
+p: C || Ask a classmate what they do online. || Qu'est-ce que tu fais en ligne ?
+mis: Forgetting "ne" in negatives | Keeping "des" after a negative | Translating word for word from English
+et: Describe one technology habit with a frequency word. | Give an opinion with à mon avis and parce que.
+mc: B || "L'ordinateur" is || a computer | a phone | a TV | a game || A
+mc: B || "Souvent" means || often | never | sometimes | rarely || A
+mc: B || "À mon avis" means || in my opinion | in my house | on my phone | at my school || A
+mc: B || "Parce que" means || because | but | and | or || A
+mc: B || "Tous les jours" means || every day | never | weekends | sometimes || A
+mc: B || "Envoyer des textos" means || to send texts | to read books | to play sports | to watch TV || A
+mc: I || "I never play video games" is || Je ne joue jamais à des jeux vidéo | Je joue jamais | Je ne joue à jamais | Jamais je joue || A
+mc: I || "Je suis d'accord" means || I agree | I'm sorry | I'm tired | I'm late || A
+mc: I || Maya uses her computer to || do homework | play all day | text | sleep || A
+mc: I || "Parfois" means || sometimes | always | never | often || A
+mc: C || After "ne… jamais," "des vidéos" becomes || de vidéos | les vidéos | une vidéo | des vidéos || A
+mc: C || Maya thinks social media || is fun but takes too much time | is boring | is required | is perfect || A
+sa: B || How do you say "in my opinion"? || À mon avis.
+sa: B || Name three technology activities in French. || Envoyer des textos, regarder des vidéos, jouer à des jeux vidéo.
+sa: I || Write a sentence with a frequency word. || Sample: Je regarde souvent des vidéos.
+sa: I || Make this negative: "Je regarde des vidéos." || Je ne regarde jamais de vidéos.
+sa: I || Report one survey result in French. || Answers vary.
+sa: I || Explain the placement of ne… jamais. || Ne goes before the verb and jamais after it.
+sa: C || Write a paragraph about your technology habits. || Answers vary.
+sa: C || Give and justify an opinion about technology in French. || Answers vary; uses à mon avis and parce que.
+
+=== SPA7.A1 0
+hook: Spanish is an official language in about 20 countries and is spoken by hundreds of millions of people, making it one of the most spoken languages in the world. Whether you're in Mexico City, Madrid or a Spanish-speaking neighbourhood in Calgary, it all starts with "¡Hola!"
+sc: I can greet people and say goodbye in Spanish | I can introduce myself and ask someone's name | I can ask and answer "How are you?"
+v: ¡Hola! :: Hello! / Hi!
+v: Buenos días :: Good morning.
+v: Buenas tardes :: Good afternoon.
+v: Buenas noches :: Good evening / good night.
+v: ¿Cómo te llamas? :: What is your name? (informal)
+v: Me llamo… :: My name is…
+v: ¿Cómo estás? :: How are you? (informal)
+v: Adiós / Hasta luego :: Goodbye / See you later.
+ts: ¡Mucho gusto! || Dialogue || How do I greet and introduce myself in Spanish?
+tx: Dialogue (read with a partner): ¶ Sofía: ¡Hola! Buenos días. ¶ Diego: ¡Hola! ¿Cómo te llamas? ¶ Sofía: Me llamo Sofía. ¿Y tú? ¶ Diego: Me llamo Diego. Mucho gusto. ¶ Sofía: Igualmente. ¿Cómo estás? ¶ Diego: Muy bien, gracias. ¿Y tú? ¶ Sofía: Más o menos. Tengo un examen hoy. ¶ Diego: ¡Buena suerte! Hasta luego. ¶ Sofía: ¡Adiós! ¶ English support: Mucho gusto = Nice to meet you. Igualmente = Likewise. Muy bien = very well. Más o menos = so-so. Tengo un examen hoy = I have a test today. ¡Buena suerte! = Good luck! ¶ Punctuation: Spanish questions and exclamations start with upside-down marks: ¿…? and ¡…! ¶ Tú or usted? Use tú with friends and family; use usted with adults you don't know or to show respect: "¿Cómo se llama usted?" "¿Cómo está usted?" ¶ Culture note: In many Latin American countries, friends often greet with one kiss on the cheek; in Spain, two is common. Handshakes are usual in formal settings.
+src: Original dialogue written for this lesson.
+st: Listen to and repeat the dialogue | Practise greetings for different times of day | Ask and answer ¿Cómo estás? | Role-play with your own name and feelings | Greet and say goodbye to three classmates
+org: Spanish | English | When I use it
+an: When would you say Buenos días, Buenas tardes and Buenas noches? | What do Mucho gusto and Igualmente mean? | Why do Spanish questions start with ¿? | When would you use usted instead of tú?
+pr: Write and perform a dialogue (6–8 lines) meeting a new classmate: greet them, exchange names, ask how they are and say goodbye. Include correct ¿ ? and ¡ ! punctuation.
+ex: Introducing yourself || Say "My name is Ana." || Me llamo + name || Me llamo Ana. || How do you ask someone's name?
+ex: Time of day || It's 3:00 p.m. Which greeting? || Afternoon || Buenas tardes || What about 9:00 p.m.?
+ex: How are you || Answer "How are you?" if you're very well. || Muy bien, gracias. || Muy bien, gracias. ¿Y tú? || How do you say "so-so"?
+ex: Formal || Greet your friend's grandfather and ask how he is. || Use usted || Buenos días. ¿Cómo está usted? || Why use usted?
+p: B || How do you say "hello"? || ¡Hola!
+p: B || How do you say "good morning"? || Buenos días.
+p: B || How do you say "my name is"? || Me llamo…
+p: B || How do you say "goodbye"? || Adiós.
+p: B || What does "Hasta luego" mean? || See you later.
+p: I || What does "Mucho gusto" mean? || Nice to meet you.
+p: I || How do you ask "How are you?" informally? || ¿Cómo estás?
+p: I || What does "Más o menos" mean? || So-so.
+p: I || What greeting do you use in the evening? || Buenas noches.
+p: I || What does "Igualmente" mean? || Likewise.
+p: I || Ask a teacher their name formally. || ¿Cómo se llama usted?
+p: C || Why do Spanish questions begin with ¿? || To show from the start that a question is coming.
+p: C || How are greetings different in Spain and much of Latin America? || Spain often uses two cheek kisses; much of Latin America uses one.
+p: C || About how many countries have Spanish as an official language? || About 20.
+p: C || Write a greeting for meeting the principal in the morning. || Buenos días. ¿Cómo está usted?
+mis: Forgetting the opening ¿ and ¡ | Using tú with adults you don't know | Saying "Buenos noches" instead of "Buenas noches"
+et: Greet a partner and introduce yourself in Spanish. | Ask and answer "How are you?"
+mc: B || "¡Hola!" means || hello | goodbye | thank you | please || A
+mc: B || "Buenos días" means || good morning | good night | goodbye | thank you || A
+mc: B || "Me llamo" means || my name is | I live in | I am tired | I like || A
+mc: B || "Adiós" means || goodbye | hello | sorry | yes || A
+mc: B || "Muy bien" means || very well | very bad | so-so | tired || A
+mc: B || Spanish questions start with || ¿ | ? | ! | . || A
+mc: I || "Nice to meet you" is || Mucho gusto | Hasta luego | Buenas noches | Más o menos || A
+mc: I || At 8:00 p.m., you say || Buenas noches | Buenos días | Buenas tardes | Hasta mañana only || A
+mc: I || "So-so" is || más o menos | muy bien | mucho gusto | igualmente || A
+mc: I || With an adult you don't know, use || usted | tú | hola only | adiós || A
+mc: C || In Spain, friends often greet with || two cheek kisses | a bow | no greeting | a high five only || A
+mc: C || The ¿ at the start of a question || signals a question is coming | is optional | means "no" | is a typo || A
+sa: B || How do you say "Good afternoon"? || Buenas tardes.
+sa: B || How do you introduce yourself? || Me llamo + name.
+sa: I || Write a three-line greeting exchange. || Sample: ¡Hola! ¿Cómo te llamas? — Me llamo Leo. Mucho gusto.
+sa: I || Explain when to use tú and usted. || Tú with friends and family; usted with adults you don't know or to show respect.
+sa: I || Answer ¿Cómo estás? in two ways. || Muy bien, gracias. / Más o menos.
+sa: I || Write the greetings for morning, afternoon and evening. || Buenos días, buenas tardes, buenas noches.
+sa: C || Write and perform a 6–8 line dialogue. || Answers vary.
+sa: C || Explain one cultural difference in greetings. || Answers vary; e.g. number of cheek kisses.
+
+=== SPA8.A1 0
+hook: Tacos, paella, empanadas, arepas: food is one of the best ways to explore Spanish-speaking cultures. Every country has its own dishes and even its own words for the same food. Today you'll learn to talk about food and say what you like and don't like.
+sc: I can name common foods and drinks in Spanish | I can use gustar to say what I like and don't like | I can ask a classmate about food preferences
+v: la comida :: Food / meal.
+v: el desayuno / el almuerzo / la cena :: Breakfast / lunch / dinner.
+v: me gusta… :: I like… (one thing).
+v: me gustan… :: I like… (more than one thing).
+v: no me gusta… :: I don't like…
+v: ¿Te gusta…? :: Do you like…?
+v: delicioso / deliciosa :: Delicious.
+v: el agua (f.) :: Water.
+ts: ¿Qué te gusta comer? || Dialogue || How do I talk about food I like and don't like?
+tx: Food vocabulary: la manzana (apple), el plátano (banana), el pan (bread), el queso (cheese), el pollo (chicken), el arroz (rice), los frijoles (beans), la ensalada (salad), la sopa (soup), los huevos (eggs), la leche (milk), el jugo (juice; "el zumo" in Spain), el agua (water). ¶ Gustar works differently from "to like." It means "to be pleasing to": ¶ • Me gusta el pan. (Bread is pleasing to me = I like bread.) ¶ • Me gustan las manzanas. (Apples are pleasing to me = I like apples.) Use gustan when the food is plural. ¶ • No me gusta la sopa. (I don't like soup.) ¶ • ¿Te gusta el queso? (Do you like cheese?) ¶ Dialogue: ¶ Lucía: ¿Qué te gusta comer en el desayuno? ¶ Mateo: Me gustan los huevos y el pan. ¿Y a ti? ¶ Lucía: A mí me gusta la fruta, especialmente los plátanos. No me gusta el café. ¶ Mateo: ¿Te gusta la comida mexicana? ¶ Lucía: ¡Sí! Me gustan mucho los tacos. Son deliciosos. ¶ English support: ¿Y a ti? = And you? A mí me gusta = I like (emphasis). especialmente = especially. mucho = a lot. ¶ Activity: Survey: ask five classmates "¿Te gusta…?" about four foods and record "sí" or "no." Report one result: "A tres estudiantes les gusta la pizza."
+src: Original dialogue written for this lesson.
+st: Learn food and meal vocabulary | Learn gusta vs gustan | Read the dialogue with a partner | Survey five classmates | Report one result
+org: Comida | Me gusta / me gustan / no me gusta | ¿Por qué?
+an: When do you use gusta, and when gustan? | What does Mateo like for breakfast? | What does Lucía not like? | What is one word that differs between Spain and Latin America?
+pr: Write a paragraph (5–6 sentences) about your favourite meals, using me gusta, me gustan and no me gusta at least once each, and name one dish from a Spanish-speaking country you'd like to try.
+ex: Gusta or gustan? || Say "I like rice." || Arroz is singular || Me gusta el arroz. || Say "I like beans."
+ex: Plural || Say "I like apples." || Plural noun: gustan || Me gustan las manzanas. || Make it negative.
+ex: Asking || Ask a friend if they like cheese. || ¿Te gusta + noun? || ¿Te gusta el queso? || How might they answer?
+ex: Regional words || What is "juice" in Mexico and in Spain? || Varies by country || El jugo (Mexico) and el zumo (Spain) || Why do words differ by region?
+p: B || What is "la comida"? || Food or meal.
+p: B || What is "el desayuno"? || Breakfast.
+p: B || How do you say "I like bread"? || Me gusta el pan.
+p: B || What is "el agua"? || Water.
+p: B || What is "la manzana"? || Apple.
+p: I || Say "I like apples." || Me gustan las manzanas.
+p: I || Say "I don't like soup." || No me gusta la sopa.
+p: I || Ask "Do you like chicken?" || ¿Te gusta el pollo?
+p: I || What does Mateo like for breakfast? || Eggs and bread.
+p: I || What is "la cena"? || Dinner.
+p: I || When do you use gustan? || When the thing liked is plural.
+p: C || What does gustar literally mean? || To be pleasing to.
+p: C || Report: four students like pizza. || A cuatro estudiantes les gusta la pizza.
+p: C || Why is "el agua" used even though agua is feminine? || El is used before feminine nouns starting with a stressed "a" sound, for easier pronunciation.
+p: C || Name a dish from a Spanish-speaking country. || Tacos (also paella, empanadas, arepas).
+mis: Saying "Yo gusto" instead of "Me gusta" | Using gusta with plural nouns | Thinking every Spanish-speaking country uses the same food words
+et: Say one food you like and one you don't. | Explain when to use gusta and gustan.
+mc: B || "El desayuno" is || breakfast | lunch | dinner | dessert || A
+mc: B || "La leche" is || milk | water | juice | bread || A
+mc: B || "El pollo" is || chicken | fish | beef | rice || A
+mc: B || "Me gusta" means || I like | I want | I eat | I have || A
+mc: B || "La cena" is || dinner | breakfast | lunch | snack || A
+mc: B || "El queso" is || cheese | eggs | soup | salad || A
+mc: I || "I like bananas" is || Me gustan los plátanos | Me gusta los plátanos | Yo gusto plátanos | Me gustas plátanos || A
+mc: I || "I don't like salad" is || No me gusta la ensalada | Me no gusta | No gusta me | No me gustan la ensalada || A
+mc: I || "Do you like rice?" is || ¿Te gusta el arroz? | ¿Me gusta el arroz? | ¿Te gustan el arroz? | ¿Gusta tú arroz? || A
+mc: I || Lucía doesn't like || coffee | fruit | tacos | bananas || A
+mc: C || Gustar literally means || to be pleasing to | to eat | to want | to cook || A
+mc: C || In Spain, juice is often called || el zumo | el jugo | la leche | el agua || A
+sa: B || How do you say "I like cheese"? || Me gusta el queso.
+sa: B || Name three foods in Spanish. || El pan, la manzana, el pollo.
+sa: I || Explain gusta vs gustan with examples. || Gusta for singular (me gusta el pan); gustan for plural (me gustan las manzanas).
+sa: I || Ask a classmate two questions about food. || ¿Te gusta el pollo? ¿Te gustan los frijoles?
+sa: I || Report one survey result. || Answers vary.
+sa: I || What does Lucía like? || Fruit, especially bananas, and tacos.
+sa: C || Write a paragraph about your favourite meals. || Answers vary.
+sa: C || Explain why food words can differ between countries. || Each region developed its own vocabulary and dishes.
+
+=== SPA9.A1 0
+hook: You could fly from Calgary to Mexico City in about five hours. From there, Spanish could take you to Lima, Bogotá, Buenos Aires or Madrid. Knowing the names of countries, capitals and ways to travel is the first step to planning a trip in Spanish.
+sc: I can name Spanish-speaking countries and their capitals | I can talk about ways to travel | I can say where I want to travel and how
+v: el viaje :: Trip.
+v: viajar :: To travel.
+v: el país :: Country.
+v: la capital :: Capital city.
+v: en avión / en tren / en autobús / en coche :: By plane / by train / by bus / by car.
+v: a pie :: On foot.
+v: quiero ir a… :: I want to go to…
+v: ¿Cómo vas a…? :: How are you going to get to…?
+ts: ¡Vamos de viaje! || Dialogue || How do I talk about travel in Spanish?
+tx: Countries and capitals: México: Ciudad de México · España: Madrid · Argentina: Buenos Aires · Colombia: Bogotá · Perú: Lima · Chile: Santiago · Cuba: La Habana · Costa Rica: San José. ¶ Transport: en avión (plane), en tren (train), en autobús (bus), en coche (car; "en carro" in much of Latin America), en barco (boat), en bicicleta (bike), a pie (on foot). ¶ Dialogue: ¶ Valentina: ¿Adónde quieres viajar? ¶ Samuel: Quiero ir a Perú. Quiero visitar Machu Picchu. ¶ Valentina: ¡Qué bueno! ¿Cómo vas a viajar? ¶ Samuel: Voy a viajar en avión a Lima. Después, voy en tren a Cusco. ¿Y tú? ¶ Valentina: Quiero ir a España. Voy a visitar Madrid y Barcelona. ¶ Samuel: ¿Vas en avión? ¶ Valentina: Sí, y en España voy a viajar en tren porque es rápido. ¶ English support: ¿Adónde quieres viajar? = Where do you want to travel? ¡Qué bueno! = How great! Voy a viajar = I am going to travel. Después = after that. porque es rápido = because it is fast. ¶ Activity: Plan a dream trip to one Spanish-speaking country: the capital, one place to visit and how you'll travel. Present it in three sentences.
+src: Original dialogue written for this lesson.
+st: Learn countries, capitals and transport | Read the dialogue with a partner | Match countries to capitals on a map | Plan a dream trip | Present your trip in three sentences
+org: País | Capital | Lugar para visitar | ¿Cómo voy a viajar?
+an: Where does Samuel want to go, and how will he travel? | Why will Valentina take the train in Spain? | What is the capital of Colombia? | How do you say "by car" in Spain and in much of Latin America?
+pr: Write a travel plan (6–8 sentences) for a trip to one Spanish-speaking country: where you will go, the capital, what you will see, how you will travel and why.
+ex: Capitals || What is the capital of Argentina? || Country–capital pairs || Buenos Aires || What is the capital of Chile?
+ex: Transport || Say "I am going to travel by bus." || Voy a viajar + en + transport || Voy a viajar en autobús. || Say it with "by train."
+ex: Wanting || Say "I want to go to Mexico." || Quiero ir a + place || Quiero ir a México. || Ask a partner where they want to go.
+ex: Giving reasons || Say "I'm going by plane because it is fast." || porque + reason || Voy en avión porque es rápido. || Give another reason.
+p: B || What is "el viaje"? || Trip.
+p: B || What does "viajar" mean? || To travel.
+p: B || How do you say "by plane"? || En avión.
+p: B || How do you say "on foot"? || A pie.
+p: B || What is the capital of Spain? || Madrid.
+p: I || What is the capital of Peru? || Lima.
+p: I || What is the capital of Colombia? || Bogotá.
+p: I || Say "I want to go to Cuba." || Quiero ir a Cuba.
+p: I || How will Samuel get from Lima to Cusco? || By train.
+p: I || What does "¿Adónde quieres viajar?" mean? || Where do you want to travel?
+p: I || What is "car" in much of Latin America? || Carro.
+p: C || Why does Valentina take the train in Spain? || Because it is fast.
+p: C || Say "I am going to visit San José by bus." || Voy a visitar San José en autobús.
+p: C || What famous site is near Cusco? || Machu Picchu.
+p: C || Plan one sentence about a dream trip. || Sample: Quiero ir a Chile para visitar Santiago.
+mis: Saying "en pie" instead of "a pie" | Forgetting accents in Bogotá and México | Thinking all Spanish-speaking countries use the same word for "car"
+et: Name two countries and their capitals in Spanish. | Say where you want to travel and how.
+mc: B || "Viajar" means || to travel | to eat | to sleep | to study || A
+mc: B || "En avión" means || by plane | by bus | by train | on foot || A
+mc: B || The capital of Mexico is || Ciudad de México | Lima | Madrid | Bogotá || A
+mc: B || The capital of Spain is || Madrid | Barcelona | Sevilla | Lima || A
+mc: B || "A pie" means || on foot | by car | by plane | by bike || A
+mc: B || "El país" means || country | capital | trip | train || A
+mc: I || The capital of Peru is || Lima | Cusco | Quito | Santiago || A
+mc: I || "I want to go to Chile" is || Quiero ir a Chile | Quiero Chile ir | Voy Chile | Quiero a Chile || A
+mc: I || Samuel travels from Lima to Cusco || by train | by boat | on foot | by bike || A
+mc: I || The capital of Argentina is || Buenos Aires | Santiago | Bogotá | La Habana || A
+mc: C || Valentina takes the train in Spain because || it is fast | it is free | there are no planes | she is afraid || A
+mc: C || In much of Latin America, "car" is often || carro | coche only | tren | barco || A
+sa: B || Name three ways to travel in Spanish. || En avión, en tren, en autobús.
+sa: B || What is the capital of Colombia? || Bogotá.
+sa: I || Write "I'm going to travel by train because it is fast." || Voy a viajar en tren porque es rápido.
+sa: I || Match three countries to capitals. || México–Ciudad de México, Perú–Lima, Chile–Santiago.
+sa: I || Describe Samuel's trip. || He'll fly to Lima, then take the train to Cusco to visit Machu Picchu.
+sa: I || Ask a partner where they want to travel. || ¿Adónde quieres viajar?
+sa: C || Write a travel plan for a Spanish-speaking country. || Answers vary.
+sa: C || Explain why travel words can differ by country. || Spanish varies by region, so some words differ.
+
+=== CHI7.A1 0
+hook: In Mandarin, the syllable "ma" can mean "mother," "hemp," "horse" or "scold," depending only on the tone of your voice. Say it the wrong way and "my mother" could become "my horse"! Tones are the key to being understood in Mandarin.
+sc: I can hear and say the four tones of Mandarin | I can read tone marks in pinyin | I can explain why tones change meaning
+v: 拼音 pīnyīn :: The system that writes Chinese sounds with the Latin alphabet.
+v: 声调 shēngdiào :: Tone: the pitch pattern of a syllable.
+v: 第一声 dì-yī shēng :: First tone: high and level (ā).
+v: 第二声 dì-èr shēng :: Second tone: rising (á).
+v: 第三声 dì-sān shēng :: Third tone: falling then rising (ǎ).
+v: 第四声 dì-sì shēng :: Fourth tone: sharp falling (à).
+v: 轻声 qīngshēng :: Neutral tone: light and short, with no tone mark (ma).
+ts: The Tone Ladder || Dialogue || How do tones change meaning in Mandarin?
+tx: The four tones on "ma": ¶ • mā 妈 = mother (1st tone: high and flat, like singing a long note) ¶ • má 麻 = hemp (2nd tone: rising, like asking "What?") ¶ • mǎ 马 = horse (3rd tone: dips low then rises, like "Hmm?" when unsure) ¶ • mà 骂 = scold (4th tone: sharp drop, like a firm "No!") ¶ • ma 吗 = question word (neutral tone: light and short) ¶ Hand signals: draw each tone in the air with your hand as you say it. ¶ Sentence: 妈妈骂马吗？Māma mà mǎ ma? = Is Mom scolding the horse? ¶ Tone change (sandhi): when two third tones come together, the first one changes to a second tone. 你好 is written nǐ hǎo but said "ní hǎo." ¶ Activity 1, Tone ladder (10 minutes): The teacher says a syllable; students show 1, 2, 3 or 4 fingers. ¶ Activity 2, Tone pairs (10 minutes): With a partner, say and identify: bā (eight) / bà (dad); shī / shí (shí = ten); mǎi (buy) / mài (sell). ¶ Activity 3, Greet with tones: 你好！nǐ hǎo (hello), 谢谢 xièxie (thank you), 再见 zàijiàn (goodbye).
+src: Original activity written for this lesson.
+st: Hear the four tones on "ma" | Use hand signals for each tone | Play the tone ladder | Practise tone pairs with a partner | Say greetings with correct tones
+org: Tone | Mark | Pitch pattern | Example and meaning
+an: Which tone is hardest for you to hear or say? | Why can mǎi and mài be confused? What do they mean? | Why is 你好 said "ní hǎo"? | How does the hand signal help you remember each tone?
+pr: Make a tone chart showing each tone's mark, pitch pattern and one example word with its character and meaning, then record yourself saying the "ma" sentence.
+ex: Identify the tone || What tone is mǎ? || Mark ˇ: dips then rises || Third tone || What does mǎ 马 mean?
+ex: Tone pairs || Which means "buy": mǎi or mài? || Third tone vs fourth tone || mǎi 买 (buy); mài 卖 (sell) || Why is this pair important when shopping?
+ex: Tone sandhi || How is 你好 nǐ hǎo pronounced? || Two third tones together || "ní hǎo": the first becomes a second tone || Find another 3-3 pair.
+ex: Neutral tone || What tone is ma 吗? || No mark || Neutral tone, light and short || What job does 吗 do?
+p: B || What is pinyin? || The system that writes Chinese sounds with the Latin alphabet.
+p: B || How many main tones does Mandarin have? || Four (plus a neutral tone).
+p: B || Describe the first tone. || High and level.
+p: B || Describe the fourth tone. || Sharp falling.
+p: B || What does mā 妈 mean? || Mother.
+p: I || What does mǎ 马 mean? || Horse.
+p: I || Describe the third tone. || Dips low then rises.
+p: I || What does 谢谢 xièxie mean? || Thank you.
+p: I || What does 吗 ma do at the end of a sentence? || Turns it into a yes/no question.
+p: I || What does mǎi 买 mean? || To buy.
+p: I || Which number is bā? || Eight.
+p: C || Why are tones important in Mandarin? || The same syllable with a different tone can have a completely different meaning.
+p: C || Explain third-tone sandhi. || When two third tones are together, the first is said as a second tone.
+p: C || Translate 妈妈骂马吗？ || Is Mom scolding the horse?
+p: C || Why does pinyin help learners? || It shows how to pronounce characters, including tones.
+mis: Ignoring tones because English doesn't use them for meaning | Confusing the second and third tones | Forgetting tone sandhi in 你好
+et: Say the four tones on "ma" with correct pitch. | Explain why tones matter.
+mc: B || Pinyin uses || the Latin alphabet | only characters | numbers only | Arabic script || A
+mc: B || Mandarin has how many main tones? || 4 | 2 | 6 | 10 || A
+mc: B || The first tone is || high and level | rising | falling | dipping || A
+mc: B || mā 妈 means || mother | horse | scold | hemp || A
+mc: B || 谢谢 xièxie means || thank you | hello | goodbye | sorry || A
+mc: B || 再见 zàijiàn means || goodbye | hello | thank you | please || A
+mc: I || mǎ 马 means || horse | mother | scold | question || A
+mc: I || The second tone || rises | falls | stays flat | dips then rises || A
+mc: I || mǎi 买 means || to buy | to sell | horse | mother || A
+mc: I || 吗 ma at the end of a sentence makes || a yes/no question | a command | a past tense | a number || A
+mc: C || 你好 nǐ hǎo is pronounced || ní hǎo | nì hào | nǐ hǎo exactly | nī hāo || A
+mc: C || Tones matter because they || change meaning | are decoration | are optional | only show emotion || A
+sa: B || Name and describe the four tones. || 1st high level, 2nd rising, 3rd dipping, 4th falling.
+sa: B || What is pinyin? || A way of writing Chinese sounds with the Latin alphabet.
+sa: I || Write the four "ma" words with characters and meanings. || 妈 mā mother, 麻 má hemp, 马 mǎ horse, 骂 mà scold.
+sa: I || Explain the difference between mǎi and mài. || mǎi 买 is buy; mài 卖 is sell.
+sa: I || How do you say hello, thank you and goodbye? || 你好 nǐ hǎo, 谢谢 xièxie, 再见 zàijiàn.
+sa: I || What is the neutral tone? || A light, short syllable with no tone mark.
+sa: C || Make a tone chart with examples. || Answers vary.
+sa: C || Explain third-tone sandhi with an example. || 你好 nǐ hǎo: the first third tone becomes a second tone, said "ní hǎo."
+
+=== CHI8.A1 0
+hook: What's your favourite class? In China, students study many of the same subjects you do: Chinese, math, science, English and PE. Learning to talk about your school subjects lets you compare your school day with a student in Beijing or Shanghai.
+sc: I can name school subjects in Mandarin | I can say which subjects I like and dislike | I can ask a classmate about their favourite subject
+v: 课 kè :: Class / lesson.
+v: 中文 Zhōngwén :: Chinese (language).
+v: 英文 Yīngwén :: English (language).
+v: 数学 shùxué :: Math.
+v: 科学 kēxué :: Science.
+v: 体育 tǐyù :: Physical education (PE).
+v: 喜欢 xǐhuan :: To like.
+v: 最 zuì :: Most (最喜欢 = like most, favourite).
+ts: 你最喜欢什么课？ || Dialogue || How do I talk about school subjects in Mandarin?
+tx: More subjects: 历史 lìshǐ (history), 音乐 yīnyuè (music), 美术 měishù (art), 法文 Fǎwén (French). ¶ Sentence patterns: ¶ • 我喜欢数学。Wǒ xǐhuan shùxué. = I like math. ¶ • 我不喜欢历史。Wǒ bù xǐhuan lìshǐ. = I don't like history. ¶ • 你最喜欢什么课？Nǐ zuì xǐhuan shénme kè? = What is your favourite class? ¶ • 我最喜欢体育课。Wǒ zuì xǐhuan tǐyù kè. = My favourite is PE class. ¶ • 为什么？Wèishénme? = Why? 因为… yīnwèi… = Because… ¶ Dialogue: ¶ 小明 Xiǎo Míng：你最喜欢什么课？ ¶ 安娜 Ānnà：我最喜欢美术课。你呢？ ¶ 小明：我最喜欢数学课。 ¶ 安娜：为什么？ ¶ 小明：因为数学很有意思。 ¶ 安娜：我不喜欢数学，太难了！ ¶ English support: 你呢？nǐ ne? = And you? 很有意思 hěn yǒu yìsi = very interesting. 太难了 tài nán le = too hard! ¶ Activity: Ask five classmates "你最喜欢什么课？" and record answers in a tally chart. Report: "三个同学最喜欢体育课。" (Sān gè tóngxué zuì xǐhuan tǐyù kè = Three classmates like PE class most.)
+src: Original dialogue written for this lesson.
+st: Learn subject vocabulary with tones | Practise the 喜欢 and 不喜欢 patterns | Read the dialogue with a partner | Survey five classmates | Report a result using 个
+org: 课 (subject) | Pinyin | English | 喜欢 or 不喜欢
+an: What is Xiǎo Míng's favourite class, and why? | Why doesn't Ānnà like math? | How do you make 喜欢 negative? | What does 你呢 mean, and when do you use it?
+pr: Write five sentences in characters and pinyin about your school subjects: two you like, one you don't, your favourite with a reason (因为), and one question for a classmate.
+ex: Liking || Say "I like science." || 我喜欢 + subject || 我喜欢科学。Wǒ xǐhuan kēxué. || Make it negative.
+ex: Negative || Say "I don't like music." || 不 before the verb || 我不喜欢音乐。Wǒ bù xǐhuan yīnyuè. || Where does 不 go?
+ex: Favourite || Say "My favourite class is art." || 最喜欢 + subject + 课 || 我最喜欢美术课。Wǒ zuì xǐhuan měishù kè. || Ask a partner theirs.
+ex: Reason || Say "Because PE is very interesting." || 因为 + reason || 因为体育很有意思。Yīnwèi tǐyù hěn yǒu yìsi. || Give another reason.
+p: B || What does 课 kè mean? || Class or lesson.
+p: B || What is 数学 shùxué? || Math.
+p: B || What is 中文 Zhōngwén? || Chinese language.
+p: B || What does 喜欢 xǐhuan mean? || To like.
+p: B || What is 体育 tǐyù? || Physical education.
+p: I || Say "I like English." || 我喜欢英文。Wǒ xǐhuan Yīngwén.
+p: I || How do you make 喜欢 negative? || Put 不 bù before it: 不喜欢.
+p: I || What is 美术 měishù? || Art.
+p: I || What does 最 zuì mean? || Most.
+p: I || What is Ānnà's favourite class? || Art (美术课).
+p: I || What does 为什么 wèishénme mean? || Why?
+p: C || Why does Xiǎo Míng like math? || Because math is very interesting.
+p: C || Translate 太难了 tài nán le. || Too hard!
+p: C || Report: two classmates like music most. || 两个同学最喜欢音乐课。Liǎng gè tóngxué zuì xǐhuan yīnyuè kè.
+p: C || Why is 两 liǎng used instead of 二 èr before 个? || 两 is used for "two" before measure words.
+mis: Putting 不 after the verb | Forgetting tones on subject names | Using 二 instead of 两 before a measure word
+et: Say your favourite subject in Mandarin. | Ask a classmate about their favourite class.
+mc: B || 数学 shùxué is || math | science | music | art || A
+mc: B || 科学 kēxué is || science | history | PE | French || A
+mc: B || 喜欢 xǐhuan means || to like | to study | to eat | to go || A
+mc: B || 课 kè means || class | book | teacher | school || A
+mc: B || 音乐 yīnyuè is || music | art | math | English || A
+mc: B || 体育 tǐyù is || PE | history | science | Chinese || A
+mc: I || "I don't like history" is || 我不喜欢历史 | 我喜欢不历史 | 不我喜欢历史 | 我历史不 || A
+mc: I || 你最喜欢什么课？asks || your favourite class | your age | your name | the time || A
+mc: I || Ānnà's favourite class is || art | math | PE | music || A
+mc: I || 因为 yīnwèi means || because | why | and | but || A
+mc: C || Before 个, "two" is || 两 liǎng | 二 èr | 十 shí | 一 yī || A
+mc: C || 太难了 means || too hard | very fun | very easy | not interesting || A
+sa: B || Name four school subjects in Mandarin. || 数学, 科学, 英文, 体育.
+sa: B || What does 喜欢 mean? || To like.
+sa: I || Write "I like math, but I don't like history." in characters. || 我喜欢数学，但是我不喜欢历史。
+sa: I || Ask and answer: What is your favourite class? || 你最喜欢什么课？我最喜欢…课。
+sa: I || Explain where 不 goes. || Before the verb: 我不喜欢.
+sa: I || Give a reason with 因为. || Sample: 因为音乐很有意思。
+sa: C || Write five sentences about your school subjects. || Answers vary.
+sa: C || Report a survey result using 个. || Answers vary; e.g. 三个同学最喜欢体育课。
+
+=== CHI9.A1 0
+hook: What do you do after school? Play basketball, draw, listen to music, game with friends? Talking about hobbies is one of the easiest ways to connect with new people in any language. Today you'll learn to share your hobbies in Mandarin.
+sc: I can name common hobbies in Mandarin | I can say what my hobbies are and what I like doing | I can ask a classmate about their hobbies
+v: 爱好 àihào :: Hobby.
+v: 打篮球 dǎ lánqiú :: Play basketball.
+v: 踢足球 tī zúqiú :: Play soccer (literally "kick football").
+v: 听音乐 tīng yīnyuè :: Listen to music.
+v: 看书 kàn shū :: Read books.
+v: 画画 huà huà :: Draw / paint.
+v: 游泳 yóuyǒng :: Swim.
+v: 玩电子游戏 wán diànzǐ yóuxì :: Play video games.
+ts: 你的爱好是什么？ || Dialogue || How do I talk about my hobbies in Mandarin?
+tx: Sentence patterns: ¶ • 你的爱好是什么？Nǐ de àihào shì shénme? = What is your hobby? ¶ • 我的爱好是画画。Wǒ de àihào shì huà huà. = My hobby is drawing. ¶ • 我喜欢打篮球。Wǒ xǐhuan dǎ lánqiú. = I like playing basketball. ¶ • 我常常听音乐。Wǒ chángcháng tīng yīnyuè. = I often listen to music. ¶ Verbs matter: basketball uses 打 dǎ (hit/play), soccer uses 踢 tī (kick). ¶ Dialogue: ¶ 李华 Lǐ Huá：你的爱好是什么？ ¶ 艾玛 Àimǎ：我的爱好是游泳和看书。你呢？ ¶ 李华：我喜欢踢足球。我每个周末都踢足球。 ¶ 艾玛：你也喜欢玩电子游戏吗？ ¶ 李华：喜欢！我常常跟朋友一起玩。 ¶ 艾玛：我不太喜欢玩电子游戏，我喜欢画画。 ¶ English support: 和 hé = and (joins nouns); 每个周末都 měi gè zhōumò dōu = every weekend; 也 yě = also; 常常 chángcháng = often; 跟朋友一起 gēn péngyou yìqǐ = together with friends; 不太喜欢 bú tài xǐhuan = don't really like. ¶ Activity: Find someone who…: ask classmates "你喜欢…吗？" for six hobbies and collect a name for each "喜欢！"
+src: Original dialogue written for this lesson.
+st: Learn hobby vocabulary with the correct verbs | Practise the 我的爱好是 and 我喜欢 patterns | Read the dialogue with a partner | Play "Find someone who" | Share your hobbies in three sentences
+org: 爱好 | Pinyin | English | Who likes it?
+an: What are Àimǎ's hobbies? | How often does Lǐ Huá play soccer? | Why do basketball and soccer use different verbs? | How do you say "don't really like"?
+pr: Write a short paragraph (5–6 sentences) in characters and pinyin about your hobbies: what they are, how often you do them, who you do them with and one hobby you don't really like.
+ex: Hobby sentence || Say "My hobby is swimming." || 我的爱好是 + hobby || 我的爱好是游泳。Wǒ de àihào shì yóuyǒng. || Add a second hobby with 和.
+ex: Right verb || Say "I like playing soccer." || Soccer uses 踢 tī || 我喜欢踢足球。Wǒ xǐhuan tī zúqiú. || What verb goes with basketball?
+ex: Asking || Ask "Do you like drawing?" || 吗 at the end || 你喜欢画画吗？Nǐ xǐhuan huà huà ma? || How do you answer yes?
+ex: How often || Say "I often read books." || 常常 before the verb || 我常常看书。Wǒ chángcháng kàn shū. || Say it with "every weekend."
+p: B || What is 爱好 àihào? || Hobby.
+p: B || What is 游泳 yóuyǒng? || To swim.
+p: B || What is 听音乐 tīng yīnyuè? || Listen to music.
+p: B || What is 看书 kàn shū? || Read books.
+p: B || What is 画画 huà huà? || Draw or paint.
+p: I || Ask "What is your hobby?" || 你的爱好是什么？Nǐ de àihào shì shénme?
+p: I || Say "I like playing basketball." || 我喜欢打篮球。Wǒ xǐhuan dǎ lánqiú.
+p: I || Which verb goes with soccer? || 踢 tī.
+p: I || What are Àimǎ's hobbies? || Swimming and reading.
+p: I || What does 常常 chángcháng mean? || Often.
+p: I || What does 也 yě mean? || Also.
+p: C || Why do basketball and soccer use different verbs? || Mandarin uses the action: 打 (hit) for basketball, 踢 (kick) for soccer.
+p: C || Translate 我不太喜欢玩电子游戏。 || I don't really like playing video games.
+p: C || Say "I play soccer with friends every weekend." || 我每个周末都跟朋友一起踢足球。
+p: C || Why use 和 hé for "swimming and reading" but not between sentences? || 和 joins nouns or noun phrases, not whole clauses.
+mis: Using 玩 wán for every sport | Using 和 to join whole sentences | Forgetting 吗 in yes/no questions
+et: Say your hobby in Mandarin. | Ask a classmate if they like a hobby.
+mc: B || 爱好 àihào means || hobby | homework | friend | weekend || A
+mc: B || 游泳 yóuyǒng means || swim | run | read | draw || A
+mc: B || 听音乐 means || listen to music | play music | read music | buy music || A
+mc: B || 看书 means || read books | write books | buy books | sell books || A
+mc: B || 画画 means || draw | sing | dance | swim || A
+mc: B || 打篮球 means || play basketball | play soccer | swim | read || A
+mc: I || Soccer uses the verb || 踢 tī | 打 dǎ | 看 kàn | 听 tīng || A
+mc: I || 常常 chángcháng means || often | never | tomorrow | also || A
+mc: I || Àimǎ's hobbies are || swimming and reading | soccer and games | basketball | music || A
+mc: I || "Do you like drawing?" is || 你喜欢画画吗？ | 你画画喜欢？ | 吗你喜欢画画 | 你喜欢吗画画 || A
+mc: C || 不太喜欢 means || don't really like | like a lot | like most | always like || A
+mc: C || 和 hé is used to join || nouns | whole sentences | verbs only | questions || A
+sa: B || How do you ask "What is your hobby?" || 你的爱好是什么？
+sa: B || Name four hobbies in Mandarin. || 游泳, 看书, 画画, 听音乐.
+sa: I || Write "My hobbies are swimming and drawing." || 我的爱好是游泳和画画。
+sa: I || Explain why 打 and 踢 are used for different sports. || 打 means hit (basketball); 踢 means kick (soccer).
+sa: I || Describe Lǐ Huá's hobbies. || He plays soccer every weekend and often plays video games with friends.
+sa: I || Say "I often listen to music." || 我常常听音乐。
+sa: C || Write a paragraph about your hobbies. || Answers vary.
+sa: C || Explain how 和 differs from English "and." || 和 joins nouns, not whole sentences.

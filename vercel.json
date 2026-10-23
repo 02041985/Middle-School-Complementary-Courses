@@ -1,0 +1,46 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/generate.js": {
+      "maxDuration": 120
+    },
+    "api/lesson.js": {
+      "includeFiles": "api/_lessons/**"
+    },
+    "api/student.js": {
+      "includeFiles": "api/_lessons/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/student",
+      "destination": "/student.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/teacher",
+      "destination": "https://www.millardmiddleschoolmaths.live/teacher",
+      "permanent": false
+    }
+  ]
+}
