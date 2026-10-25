@@ -36,7 +36,24 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
     return j;
   }
 
+// class groups: my grade and group
+  const GRADES = [[0, "Kindergarten"], ...Array.from({ length: 12 }, (_, i) => [i + 1, "Grade " + (i + 1)])];
+  const groupLabel = g => g ? (g.grade === 0 ? "KG " : g.grade) + g.section : "";
+  function groupCard() {
+    const g = S.group, edit = S.groupEdit || !g;
+    if (!edit) return `<div class="card"><div class="card-b row between" style="gap:12px"><div><span class="eyebrow">My class group</span><div style="font-family:var(--f-display);font-size:1.5rem;font-weight:700">${esc(groupLabel(g))}</div><span class="small muted">You join every class for ${esc(groupLabel(g))} automatically.</span></div><button class="btn ghost sm" data-act="grpedit">Change group</button></div></div>`;
+    const name = g?.name || S.name || S.user?.user_metadata?.pb_join?.name || "";
+    return `<div class="card"><div class="card-h"><h2>${g ? "Change my class group" : "Choose your class group"}</h2></div><div class="card-b stack" style="gap:12px">
+      <p class="small muted" style="margin:0">Pick your grade and group (A, B or C). You'll join your teachers' classes for that group automatically.</p>
+      <div class="row" style="gap:10px;align-items:flex-end;flex-wrap:wrap">
+        <label class="f">Grade<select id="gGrade">${GRADES.map(([v, l]) => `<option value="${v}" ${g && g.grade === v ? "selected" : ""}>${l}</option>`).join("")}</select></label>
+        <label class="f">Group<select id="gSec">${["A","B","C"].map(s => `<option ${g && g.section === s ? "selected" : ""}>${s}</option>`).join("")}</select></label>
+        <label class="f" style="flex:1;min-width:180px">Your name<input id="gName" maxlength="60" value="${esc(name)}"></label></div>
+      ${S.groupErr ? `<p class="auth-msg err">${esc(S.groupErr)}</p>` : ""}
+      <div class="row" style="gap:8px"><button class="btn" data-act="grpsave">Save my group</button>${g ? `<button class="btn quiet" data-act="grpcancel">Cancel</button>` : ""}</div></div></div>`;
+  }
   async function loadData() {
+    try { const r = await sb.rpc("pb_my_group"); S.group = r.data || null; } catch (e) { S.group = null; }
     const [enr, asg, att] = await Promise.all([
       sb.from("pb_enrollments").select("class_id, display_name, pb_classes(name, grade, subject, course)").eq("student_id", S.user.id),
       sb.from("pb_assignments").select("id, class_id, lesson_key, code, title, test_open, created_at").order("created_at"),
@@ -67,12 +84,12 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
 
   function renderHome() {
     if (!S.classes.length) {
-      app.innerHTML = `<h1>Welcome</h1><p class="muted" style="margin:0 0 18px">You're not in a class yet.</p>${joinForm()}`;
+      app.innerHTML = `<h1>Welcome</h1><p class="muted" style="margin:0 0 18px">You're not in a class yet. Choose your class group, or join with a class code from your teacher.</p><div class="stack" style="gap:18px">${groupCard()}${joinForm()}</div>`;
       return;
     }
     const byClass = S.classes.map(c => ({ c, list: S.assignments.filter(a => a.class_id === c.id) }));
     app.innerHTML = `<h1>My lessons</h1><p class="muted" style="margin:0 0 20px">Open a lesson to see examples, practise, and take the test.</p>
-      <div class="stack" style="gap:18px">${byClass.map(({ c, list }) => `<section class="card">
+      <div class="stack" style="gap:18px">${groupCard()}${byClass.map(({ c, list }) => `<section class="card">
         <div class="card-h"><h2>${esc(c.name)}</h2><span class="small muted">${esc(elLabel(c.grade))}</span></div>
         ${list.length ? list.map(a => {
           const pr = attemptsFor(a.lesson_key, "practice"), best = pr.reduce((m, x) => (!m || x.score / (x.total || 1) > m.score / (m.total || 1) ? x : m), null);
@@ -164,6 +181,16 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
   app.addEventListener("click", async e => {
     const el = e.target.closest("[data-act]"); if (!el || el.tagName === "INPUT") return;
     const act = el.dataset.act;
+    if (act === "grpedit") { S.groupEdit = true; S.groupErr = ""; render(); return; }
+    if (act === "grpcancel") { S.groupEdit = false; S.groupErr = ""; render(); return; }
+    if (act === "grpsave") {
+      const grade = +$("#gGrade").value, section = $("#gSec").value, name = $("#gName").value.trim();
+      if (!name) { S.groupErr = "Enter your name."; render(); return; }
+      el.disabled = true;
+      const { data, error } = await sb.rpc("pb_set_my_group", { p_grade: grade, p_section: section, p_name: name });
+      if (error) { S.groupErr = error.message; el.disabled = false; render(); return; }
+      S.groupEdit = false; S.groupErr = ""; await loadData(); render(); toast(`You're in ${groupLabel({ grade, section })}.`); return;
+    }
     if (act === "open") openLesson(el.dataset.k);
     else if (act === "home") { S.view = "home"; render(); window.scrollTo(0, 0); }
     else if (act === "tab") { S.tab = el.dataset.t; render(); }
@@ -232,7 +259,6 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
       } else if (mode === "signup") {
         const name = $("#aName").value.trim(), code = $("#aCode").value.trim().toUpperCase();
         if (!name) return show("Enter your name.");
-        if (!code) return show("Enter the class code from your teacher.");
         if (password.length < 8) return show("Use at least 8 characters for your password.");
         const { data, error } = await sb.auth.signUp({ email, password, options: { emailRedirectTo: location.origin + "/student", data: { pb_role: "student", pb_join: { code, name } } } });
         if (error) show(error.message);

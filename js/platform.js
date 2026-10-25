@@ -146,7 +146,7 @@
     document.querySelector(".topbar")?.appendChild(make());
   }
 
-  let checking = false, blocked = false, allowedCourses = null;
+  let checking = false, blocked = false, allowedCourses = null, allowedGroups = null;
   async function enter(u) {
     if (!u || started || checking || blocked) return;
     checking = true;
@@ -171,6 +171,8 @@
     }
     const { data: courses } = await sb.rpc("pb_my_courses", { p_app: PB_APP });
     allowedCourses = Array.isArray(courses) && courses.length ? courses.map(String) : null; // null = every grade/course
+    const { data: groups } = await sb.rpc("pb_my_groups", { p_app: PB_APP }).catch(() => ({ data: null }));
+    allowedGroups = Array.isArray(groups) ? groups.map(String) : null; // null = every group
     user = u; auth.hidden = true;
     addAccountControls();
     started = true; resolveReady();
@@ -200,5 +202,5 @@
     return r.ok ? r.json() : null;
   }
 
-  window.PB_PLATFORM = { ready, store, sample, downloads, lessonFile, sb, getUser: () => user, get allowed() { return allowedCourses; } };
+  window.PB_PLATFORM = { ready, store, sample, downloads, lessonFile, sb, getUser: () => user, get allowed() { return allowedCourses; }, get groups() { return allowedGroups; } };
 })();

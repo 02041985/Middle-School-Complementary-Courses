@@ -215,11 +215,19 @@ function pbRestrictDom(root){
   root.querySelectorAll('[data-act="cgrade"],[data-act="lgrade"],[data-act="tbcourse"]').forEach(b => { if (!pbOk(b.dataset.v)) b.remove(); });
 }
 
+// class groups: A, B and C in every grade
+const ptGroupLabel = (g, s) => (+g === 0 ? "KG " : String(g)) + s;
+const ptSectionOpts = (course, cur) => {
+  const al = window.PB_PLATFORM?.groups, ok = g => !al || al.includes(String(course) + "@" + g);
+  const list = ["A","B","C"].filter(g => ok(g) || g === cur), pick = cur === undefined ? (list[0] || "") : (cur || "");
+  return list.map(g => `<option value="${g}" ${g === pick ? "selected" : ""}>Group ${g}</option>`).join("") + `<option value="" ${pick === "" ? "selected" : ""}>No group (class code only)</option>`;
+};
+function ptFillSection(){ const s = document.getElementById("ptSection"), g = document.getElementById("ptGrade"); if (s && g && !s.dataset.f) { s.innerHTML = ptSectionOpts(g.value); s.dataset.f = "1"; } }
 function render(){
   const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents}[S.tab] || rHome;
   pbFixState();
   $("#app").innerHTML = R();
-  pbRestrictDom($("#app"));
+  pbRestrictDom($("#app")); ptFillSection();
 }
 
 // ---------- Overview ----------
@@ -1056,7 +1064,7 @@ function rStudents(){
     <button class="btn quiet sm" data-act="ptnew">${ic("plus")}New online class</button></div>
   ${S.pt.newClass ? `<div class="card" style="margin-bottom:16px"><div class="card-h"><h2>New online class</h2><button class="btn quiet sm" data-act="ptcancel">Cancel</button></div><div class="card-b">${form}</div></div>` : ""}
   <div class="card" style="margin-bottom:16px"><div class="card-b row between" style="align-items:center;gap:14px">
-    <div class="row" style="gap:16px;align-items:center"><div><div class="eyebrow">Class code</div><div style="font-family:var(--f-mono);font-weight:700;font-size:1.8rem;letter-spacing:.12em">${esc(c.join_code)}</div></div>
+    <div class="row" style="gap:16px;align-items:center"><div><div class="eyebrow">Group</div><select data-act="ptsection" data-id="${esc(c.id)}" aria-label="Class group" style="margin-top:4px">${ptSectionOpts(c.grade, c.section || "")}</select><div class="xs muted" style="margin-top:4px;max-width:220px">${c.section ? `Students who chose group ${esc(c.section)} in this grade join automatically.` : "Students join with the class code."}</div></div><div><div class="eyebrow">Class code</div><div style="font-family:var(--f-mono);font-weight:700;font-size:1.8rem;letter-spacing:.12em">${esc(c.join_code)}</div></div>
       <div class="small muted">${enrolled.length} student${enrolled.length===1?"":"s"} joined<br>Markbook class: ${book ? `<b>${esc(book.name)}</b>` : "not linked"}</div></div>
     <div class="row"><button class="btn ghost sm" data-act="ptcopy" data-v="${esc(c.join_code)}">Copy code</button><button class="btn ghost sm" data-act="ptcopy" data-v="${esc(`Go to ${site}, create a student account and use class code ${c.join_code}.`)}">Copy instructions</button>
       ${S.pt.confirm === "class" ? `<button class="btn danger sm" data-act="ptdelclass">Delete online class</button><button class="btn quiet sm" data-act="ptno">Keep</button>` : `<button class="btn quiet sm" data-act="ptask" data-k="class">${ic("trash")}Delete</button>`}</div>
@@ -1082,7 +1090,8 @@ function rStudents(){
 }
 function ptClassForm(){
   return `<div class="stack" style="gap:12px"><div class="row" style="align-items:flex-end"><label class="f" style="flex:1;min-width:170px">Class name<input id="ptName" placeholder="e.g. Art 8 Block C"></label>
-    <label class="f">Course<select id="ptGrade">${courseOpts("ART7")}</select></label></div>
+    <label class="f">Course<select id="ptGrade">${courseOpts("ART7")}</select></label>
+    <label class="f">Group<select id="ptSection"></select></label></div>
     <label class="f">Markbook class for test results<select id="ptBook"><option value="">Create a new markbook class</option>${S.classes.map(x => `<option value="${esc(x.id)}">${esc(x.name)} (${esc(CN(x.grade))})</option>`).join("")}</select></label>
     <div><button class="btn" data-act="ptcreate">Create online class</button></div></div>`;
 }
@@ -1140,8 +1149,8 @@ const ptClick = async (el, act) => {
     const name = $("#ptName").value.trim(), grade = $("#ptGrade").value; let bookId = $("#ptBook").value;
     if (!name) { toast("Enter a class name"); return; }
     if (!bookId) { const bc = {id:uid(), name, grade, students:[]}; S.classes.push(bc); saveBook(); bookId = bc.id; }
-    const { data, error } = await sb.from("pb_classes").insert({name, grade: COURSES[grade].grade, course: grade, subject: "complementary_ms", book_class_id:bookId}).select().single();
-    if (error) { toast("Couldn't create the class. Try again."); return; }
+    const { data, error } = await sb.from("pb_classes").insert({name, grade: COURSES[grade].grade, course: grade, subject: "complementary_ms", book_class_id:bookId, section: ($("#ptSection")?.value || null)}).select().single();
+    if (error) { toast(/approved for group/.test(error.message || "") ? error.message : "Couldn't create the class. Try again."); return; }
     data.grade = data.course; S.pt.classes.push(data); S.pt.sel = data.id; S.pt.newClass = false; render(); toast("Online class created. Share the code with students.");
   }
   else if (act === "ptdelclass") { const { error } = await sb.from("pb_classes").delete().eq("id", c.id); if (error) { toast("Couldn't delete. Try again."); return; } S.pt.confirm = null; S.pt.sel = null; S.pt.ready = false; render(); toast("Online class deleted. Markbook marks were kept."); }
@@ -1266,6 +1275,8 @@ app.addEventListener("input", e => {
 });
 app.addEventListener("change", e => {
   const el = e.target, act = el.dataset.act, id = el.id, p = S.plan;
+  if (id === "ptGrade" && $("#ptSection")) { $("#ptSection").innerHTML = ptSectionOpts(el.value); }
+  if (act === "ptsection") { (async () => { const { error } = await ptSb().from("pb_classes").update({section: el.value || null}).eq("id", el.dataset.id); if (error) { toast(error.message || "Couldn't change the group. Try again."); } else toast(el.value ? `Group ${el.value} set. Students in that group join automatically.` : "Group removed. Students join with the class code."); S.pt.ready = false; render(); })(); return; }
   if (act === "span") { const sp = {...(p.spans || {})}, v = Math.max(1, Math.min(5, +el.value || 1)); if (v === 1) delete sp[el.dataset.key]; else sp[el.dataset.key] = v; p.spans = sp; S.daySel = null; savePlan(); render(); return; }
   if (el.dataset.cact) { courseAct(el.dataset.cact, el.value); return; }
   if (act === "toplan") { togglePlan(el.dataset.code, el.checked); render(); }
