@@ -171,7 +171,7 @@
     }
     const { data: courses } = await sb.rpc("pb_my_courses", { p_app: PB_APP });
     allowedCourses = Array.isArray(courses) && courses.length ? courses.map(String) : null; // null = every grade/course
-    const { data: groups } = await sb.rpc("pb_my_groups", { p_app: PB_APP }).catch(() => ({ data: null }));
+    const { data: groups } = await sb.rpc("pb_my_groups", { p_app: PB_APP }).then(r => r, () => ({ data: null })); // a Supabase request has then() but no catch()
     allowedGroups = Array.isArray(groups) ? groups.map(String) : null; // null = every group
     user = u; auth.hidden = true;
     addAccountControls();
