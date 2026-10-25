@@ -145,6 +145,10 @@ const ph = (title, sub, actions="") => `<div class="ph"><div><div class="crumb">
 const typeBadge = t => `<span class="badge b-${t}">${t === "lesson" ? "Lesson" : t === "ws" ? "Workshop" : t === "review" ? "Review" : "Check-in"}</span>`;
 
 // ---------- plan engine ----------
+// flexible plan: spans and activities
+const planEvents = p => (Array.isArray(p.events) ? p.events : []).filter(e => e && /^\d{4}-\d{2}-\d{2}$/.test(e.date)).sort((a,b) => a.date < b.date ? -1 : 1);
+const spanKey = s => s.type === "lesson" ? `${s.code}_${s.i}` : `${s.type}:${s.code}`;
+const dayTag = s => s && s.parts > 1 ? ` · day ${s.part} of ${s.parts}` : "";
 function sessions(plan){
   const order = SOS.map(s => s.code);
   const codes = [...plan.sos].filter(c => SO[c]).sort((a,b) => order.indexOf(a) - order.indexOf(b));
@@ -158,12 +162,16 @@ function sessions(plan){
   });
   const skip = new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean));
   let d = parseISO(plan.start), guard = 0;
+  const evd = new Set(planEvents(plan).map(e => e.date)), spans = plan.spans || {}, out = [];
   for (const s of list) {
-    while (guard++ < 3000 && (!plan.days.includes(d.getDay()) || skip.has(iso(d)))) d = addDays(d, 1);
-    s.date = new Date(d); d = addDays(d, 1);
+    const key = spanKey(s), n = Math.max(1, Math.min(5, Math.round(+spans[key]) || 1));
+    for (let part = 1; part <= n; part++) {
+      while (guard++ < 3000 && (!plan.days.includes(d.getDay()) || skip.has(iso(d)) || evd.has(iso(d)))) d = addDays(d, 1);
+      out.push({...s, key, part, parts: n, date: new Date(d)}); d = addDays(d, 1);
+    }
   }
-  list.forEach((s,ix) => s.ix = ix);
-  return list;
+  out.forEach((s,ix) => s.ix = ix);
+  return out;
 }
 function currentSessionIndex(list){
   const t = iso(today0());
@@ -222,7 +230,7 @@ function rHome(){
   const pct = list.length ? Math.round(100*done/list.length) : 0;
   const isToday = cur && iso(cur.date) === iso(d0);
   const mon = mondayOf(cur ? cur.date : d0);
-  const byDate = Object.fromEntries(list.map(s => [iso(s.date), s]));
+  const byDate = Object.fromEntries(list.map(s => [iso(s.date), s])), evBy = Object.fromEntries(planEvents(S.plan).map(e => [e.date, e]));
   const cls = S.storeReady ? S.classes.map(c => ({c, R: analyze(c)})) : [];
   const flaggedTotal = cls.reduce((a,x) => a + x.R.students.length, 0);
   const dateLabel = `${DOWL[d0.getDay()]}, ${d0.getDate()} ${MON[d0.getMonth()]} ${d0.getFullYear()}`;
@@ -251,8 +259,9 @@ function rHome(){
     </section>
     <section class="card">
       <div class="card-h"><h2>Week of ${fmtS(mon)}</h2><button class="btn quiet sm" data-act="tab" data-t="week">Full plan ${ic("right")}</button></div>
-      <div class="card-b"><div class="weekstrip">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), s = byDate[iso(d)], t = iso(d) === iso(d0);
-        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}<span class="t">${esc(s.title)}</span></button>`
+      <div class="card-b"><div class="weekstrip">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), s = byDate[iso(d)], t = iso(d) === iso(d0), ev = evBy[iso(d)];
+        if (ev && !s) return `<div class="wday ev ${t?"today":""}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span><span class="badge b-event">Activity</span><span class="t">${esc(ev.title)}</span></div>`;
+        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}<span class="t">${esc(s.title)}${dayTag(s)}</span></button>`
                  : `<div class="wday off"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">No lesson</span></div>`; }).join("")}</div></div>
     </section>` : `<section class="card"><div class="empty"><h2>Start a plan</h2><p>Choose the outcomes you're teaching and every lesson is laid out on your calendar.</p><button class="btn" style="margin-top:14px" data-act="tab" data-t="week">${ic("calendar")}Build a weekly plan</button></div></section>`}
 
@@ -331,11 +340,11 @@ function rWeek(){
   const p = S.plan, list = sessions(p), d0 = iso(today0());
   const weeks = [];
   if (list.length) { let mon = mondayOf(list[0].date); const last = list[list.length-1].date; while (mon <= last) { weeks.push(mon); mon = addDays(mon, 7); } }
-  const byDate = Object.fromEntries(list.map(s => [iso(s.date), s]));
+  const byDate = Object.fromEntries(list.map(s => [iso(s.date), s])), evBy = Object.fromEntries(planEvents(S.plan).map(e => [e.date, e]));
   const skip = new Set((p.skip||"").split(/[\s,]+/).filter(Boolean));
   const nL = list.filter(s => s.type === "lesson").length;
   return `
-  ${ph("Weekly plan", "Lessons laid out on your teaching days, with a practice workshop, a review day and a check-in quiz after each outcome. Select a day to open its plan.")}
+  ${ph("Weekly plan", "Lessons laid out on your teaching days, with a practice workshop, a review day and a check-in quiz after each outcome. Select a day to open its plan. Set how many days each lesson takes and add other activities in Plan settings.")}
   <div class="split">
     <aside class="card sticky">
       <div class="card-h"><h2>Plan settings</h2></div>
@@ -347,6 +356,11 @@ function rWeek(){
         </div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Teaching days</span><div class="chips">${[1,2,3,4,5].map(d => `<label class="pick"><input type="checkbox" data-act="pday" data-d="${d}" ${p.days.includes(d)?"checked":""}>${DOW[d]}</label>`).join("")}</div></div>
         <label class="f">No-school dates<input id="pSkip" placeholder="2026-11-11, 2026-11-12" value="${esc(p.skip)}"></label>
+        <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Assemblies, trips, events or test days. Lessons move to the next teaching day.</span>
+          <div class="row" style="gap:6px;align-items:flex-end"><input type="date" id="evDate" aria-label="Activity date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="e.g. Sports day" aria-label="Activity name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
+          ${planEvents(p).length ? `<div class="stack" style="gap:4px">${planEvents(p).map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : ""}</div>
+        ${list.length ? `<details class="flexdays"><summary class="eyebrow">Days per lesson</summary><span class="xs muted">Spread a lesson or review over two or three days.</span>
+          <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${list.filter(s => s.part === 1).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:2px 0"><select data-act="span" data-key="${esc(s.key)}" aria-label="Days for ${esc(s.title)}" style="width:62px;flex:none;padding:3px 4px">${[1,2,3,4,5].map(n => `<option value="${n}" ${n===s.parts?"selected":""}>${n} day${n>1?"s":""}</option>`).join("")}</select><span style="min-width:0">${s.code ? `<span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> ` : ""}${esc(s.title)}</span></label>`).join("")}</div></details>` : ""}
         <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Check-in quiz after each outcome</label></div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Outcomes (${p.sos.length})</span>
           <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span><span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>
@@ -363,9 +377,10 @@ function rWeek(){
         <div class="legend">${typeBadge("lesson")}${typeBadge("ws")}${typeBadge("review")}${typeBadge("quiz")}</div>
       </div></div>
       ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span></div>
-        <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key];
+        <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key], ev = evBy[key];
+          if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="badge b-event">Activity</span></div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
           if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
-          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}</div><span class="t">${esc(s.title)}</span><span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
+          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span><span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
       : `<div class="card"><div class="empty"><h2>No outcomes selected</h2><p>Tick one or more outcomes in Plan settings to build the calendar.</p></div></div>`}
     </section>
   </div>`;
@@ -417,6 +432,7 @@ function rDay(){
       `Collect quizzes. Students note the lesson topic that felt hardest.`
     ];
   }
+  if (s.parts > 1 && s.part > 1 && Array.isArray(rows)) rows[0] = `Continue “${esc(s.title)}” (day ${s.part} of ${s.parts}): recap where the class stopped last time, look at yesterday's exit tickets or work, and set today's goal.`;
   let t = 0;
   const action = s.type === "lesson" ? `<button class="btn" data-act="openlesson" data-code="${so.code}" data-i="${s.i}">${ic("lesson")}Open lesson materials</button>`
     : s.type === "quiz" ? `<button class="btn" data-act="quizassess" data-code="${so.code}">${ic("marks")}Record quiz in markbook</button>`
@@ -425,14 +441,14 @@ function rDay(){
   return `
   ${ph("Daily plan", `${P}-minute lesson plans for every day in the weekly plan.`,
     `<button class="btn ghost" data-act="dstep" data-d="-1" ${S.daySel===0?"disabled":""} aria-label="Previous day">${ic("left")}</button>
-     <select id="daySel" aria-label="Choose a day" style="max-width:min(320px,60vw)">${list.map(x => `<option value="${x.ix}" ${x.ix===S.daySel?"selected":""}>${fmt(x.date)} · ${sc(x.code)} · ${esc(x.title)}</option>`).join("")}</select>
+     <select id="daySel" aria-label="Choose a day" style="max-width:min(320px,60vw)">${list.map(x => `<option value="${x.ix}" ${x.ix===S.daySel?"selected":""}>${fmt(x.date)} · ${sc(x.code)} · ${esc(x.title)}${dayTag(x)}</option>`).join("")}</select>
      <button class="btn ghost" data-act="dstep" data-d="1" ${S.daySel===list.length-1?"disabled":""} aria-label="Next day">${ic("right")}</button>`)}
   <div class="split rev">
     <article class="card">
       <div class="card-h" style="align-items:flex-start">
         <div style="min-width:0">
           <div class="row" style="gap:8px;margin-bottom:6px">${typeBadge(s.type)}<span class="eyebrow">${fmt(s.date)} · ${CN(so.grade)} · ${esc(so.sub)}</span></div>
-          <h2 style="font-size:1.35rem"><span class="code" style="vertical-align:3px">${sc(so.code)}</span> ${esc(s.title)}</h2>
+          <h2 style="font-size:1.35rem"><span class="code" style="vertical-align:3px">${sc(so.code)}</span> ${esc(s.title)}${esc(dayTag(s))}</h2>
         </div>
         ${action}
       </div>
@@ -1179,6 +1195,8 @@ app.addEventListener("click", async e => {
   else if (act === "lsel") { S.lesson.i = +el.dataset.i; S.genErr = ""; render(); }
   else if (act === "ltab") { S.ltab = el.dataset.v; render(); }
   else if (act === "tab") setTab(el.dataset.t);
+  else if (act === "evadd") { const date = ($("#evDate")?.value || ""), title = (($("#evTitle")?.value || "").trim() || "Other activity").slice(0, 60); if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { toast("Choose a date for the activity"); return; } S.plan.events = [...planEvents(S.plan).filter(x => x.date !== date), {date, title}]; S.daySel = null; savePlan(); render(); toast(`${title} added on ${fmtS(parseISO(date))}`); }
+  else if (act === "evdel") { S.plan.events = planEvents(S.plan).filter(x => x.date !== el.dataset.date); S.daySel = null; savePlan(); render(); }
   else if (act === "openday") { S.daySel = +el.dataset.ix; setTab("day"); }
   else if (act === "dstep") { S.daySel += +el.dataset.d; render(); }
   else if (act === "openlesson") { S.lesson = {code: el.dataset.code, i: +el.dataset.i}; S.genErr = ""; S.ltab = "overview"; setTab("lessons"); loadLessonsFor(S.lesson.code); }
@@ -1248,6 +1266,7 @@ app.addEventListener("input", e => {
 });
 app.addEventListener("change", e => {
   const el = e.target, act = el.dataset.act, id = el.id, p = S.plan;
+  if (act === "span") { const sp = {...(p.spans || {})}, v = Math.max(1, Math.min(5, +el.value || 1)); if (v === 1) delete sp[el.dataset.key]; else sp[el.dataset.key] = v; p.spans = sp; S.daySel = null; savePlan(); render(); return; }
   if (el.dataset.cact) { courseAct(el.dataset.cact, el.value); return; }
   if (act === "toplan") { togglePlan(el.dataset.code, el.checked); render(); }
   else if (act === "pday") { const d = +el.dataset.d; p.days = el.checked ? [...new Set([...p.days, d])].sort() : p.days.filter(x => x !== d); if (!p.days.length) p.days = [d]; S.daySel = null; savePlan(); render(); }

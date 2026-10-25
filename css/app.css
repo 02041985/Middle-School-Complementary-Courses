@@ -316,3 +316,9 @@ aside select.cpick{width:100%}
 .acct-out{font:inherit;font-size:.74rem;font-weight:700;color:var(--side-hi);background:var(--side-act);border:1px solid rgba(255,255,255,.16);border-radius:6px;padding:3px 8px;cursor:pointer;flex:none}
 .topbar .acct{margin-left:8px}
 @media (max-width:520px){.topbar .acct-email{display:none}}
+
+/* flexible plan: activity days and days per lesson */
+.badge.b-event{background:var(--sunk2,#eee);color:var(--ink)}
+.dc.ev,.wday.ev{border-style:dashed;cursor:default}
+.dc.ev .linkbtn{margin-top:auto;align-self:flex-start}
+.flexdays summary{cursor:pointer;list-style:revert}
