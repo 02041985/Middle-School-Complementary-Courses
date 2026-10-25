@@ -41,17 +41,35 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
   const groupLabel = g => g ? (g.grade === 0 ? "KG " : g.grade) + g.section : "";
   function groupCard() {
     const g = S.group, edit = S.groupEdit || !g;
-    if (!edit) return `<div class="card"><div class="card-b row between" style="gap:12px"><div><span class="eyebrow">My class group</span><div style="font-family:var(--f-display);font-size:1.5rem;font-weight:700">${esc(groupLabel(g))}</div><span class="small muted">You join every class for ${esc(groupLabel(g))} automatically.</span></div><button class="btn ghost sm" data-act="grpedit">Change group</button></div></div>`;
+    if (!edit) return `<div class="card"><div class="card-b row between" style="gap:12px"><div><span class="eyebrow">My class group</span><div style="font-family:var(--f-display);font-size:1.5rem;font-weight:700">${esc(groupLabel(g))}</div>${groupNote(g)}</div><button class="btn ghost sm" data-act="grpedit">Change group</button></div></div>`;
     const name = g?.name || S.name || S.user?.user_metadata?.pb_join?.name || "";
     return `<div class="card"><div class="card-h"><h2>${g ? "Change my class group" : "Choose your class group"}</h2></div><div class="card-b stack" style="gap:12px">
-      <p class="small muted" style="margin:0">Pick your grade and group (A, B or C). You'll join your teachers' classes for that group automatically.</p>
+      <p class="small muted" style="margin:0">Pick your grade and group (A, B or C). You'll join your teachers' classes for that group automatically. In Grades 10–12, also tick your courses.</p>
       <div class="row" style="gap:10px;align-items:flex-end;flex-wrap:wrap">
         <label class="f">Grade<select id="gGrade">${GRADES.map(([v, l]) => `<option value="${v}" ${g && g.grade === v ? "selected" : ""}>${l}</option>`).join("")}</select></label>
         <label class="f">Group<select id="gSec">${["A","B","C"].map(s => `<option ${g && g.section === s ? "selected" : ""}>${s}</option>`).join("")}</select></label>
         <label class="f" style="flex:1;min-width:180px">Your name<input id="gName" maxlength="60" value="${esc(name)}"></label></div>
+      ${courseBox(g)}
       ${S.groupErr ? `<p class="auth-msg err">${esc(S.groupErr)}</p>` : ""}
       <div class="row" style="gap:8px"><button class="btn" data-act="grpsave">Save my group</button>${g ? `<button class="btn quiet" data-act="grpcancel">Cancel</button>` : ""}</div></div></div>`;
   }
+// class groups: high school course choice
+  const HS_COURSES = [["Mathematics", "maths_hs", [["10C", "Math 10C"], ["20-1", "Math 20-1"], ["30-1", "Math 30-1"], ["20-2", "Math 20-2"], ["30-2", "Math 30-2"]]], ["Science", "science_hs", [["S10", "Science 10"], ["B20", "Biology 20"], ["C20", "Chemistry 20"], ["P20", "Physics 20"], ["S20", "Science 20"], ["B30", "Biology 30"], ["C30", "Chemistry 30"], ["P30", "Physics 30"], ["S30", "Science 30"]]], ["English Language Arts", "english_hs", [["10-1", "English 10-1"], ["10-2", "English 10-2"], ["20-1", "English 20-1"], ["20-2", "English 20-2"], ["30-1", "English 30-1"], ["30-2", "English 30-2"]]], ["Social Studies", "social_hs", [["10-1", "Social 10-1"], ["10-2", "Social 10-2"], ["20-1", "Social 20-1"], ["20-2", "Social 20-2"], ["30-1", "Social 30-1"], ["30-2", "Social 30-2"]]], ["Physical Education and Wellness", "physed_hs", [["PE10", "Physical Education 10"], ["PE20", "Physical Education 20"], ["PE30", "Physical Education 30"], ["CALM", "CALM"]]], ["AI Literacy (ADEK)", "ai_literacy", [["AI10", "AI Literacy Grade 10"], ["AI11", "AI Literacy Grade 11"], ["AI12", "AI Literacy Grade 12"]]], ["Complementary courses", "complementary_hs", [["ART10", "Art 10"], ["ART20", "Art 20"], ["ART30", "Art 30"], ["DR10", "Drama 10"], ["DR20", "Drama 20"], ["DR30", "Drama 30"], ["MU10", "General Music 10"], ["MU20", "General Music 20"], ["MU30", "General Music 30"], ["IM10", "Instrumental Music 10"], ["IM20", "Instrumental Music 20"], ["IM30", "Instrumental Music 30"], ["CTS10", "CTS 10"], ["CTS20", "CTS 20"], ["CTS30", "CTS 30"], ["FSL10", "French 10"], ["FSL20", "French 20"], ["FSL30", "French 30"], ["SPA10", "Spanish 10"], ["SPA20", "Spanish 20"], ["SPA30", "Spanish 30"], ["CHI10", "Mandarin 10"], ["CHI20", "Mandarin 20"], ["CHI30", "Mandarin 30"], ["PSY20", "Psychology 20"], ["PSY30", "Psychology 30"], ["SOC20", "Sociology 20"]]]];
+  const HS_LABEL = Object.fromEntries(HS_COURSES.flatMap(([, a, cs]) => cs.map(([c, l]) => [a + ":" + c, l])));
+  function groupNote(g) {
+    const cs = (g.courses || []).map(k => HS_LABEL[k]).filter(Boolean);
+    if (g.grade >= 10 && cs.length) return `<span class="small muted">You join your ${esc(g.section)} group's classes for: ${esc(cs.join(", "))}.</span>`;
+    return `<span class="small muted">You join every class for ${esc(groupLabel(g))} automatically.${g.grade >= 10 ? " Choose your courses to join only those." : ""}</span>`;
+  }
+  function courseBox(g) {
+    const on = new Set(g?.courses || []), show = (g ? g.grade : 0) >= 10;
+    return `<fieldset id="gCourses" class="stack" style="gap:10px;border:1px solid var(--line, #d8dee4);border-radius:10px;padding:10px 14px;margin:0" ${show ? "" : "hidden"}>
+      <legend class="small" style="font-weight:700;padding:0 6px">My courses (Grades 10–12)</legend>
+      <p class="small muted" style="margin:0">Tick the courses you take. You'll join your group's classes for these courses only. Leave all unticked to join every class for your grade and group.</p>
+      ${HS_COURSES.map(([s, a, cs]) => `<div><div class="eyebrow" style="margin-bottom:4px">${esc(s)}</div><div class="row" style="gap:6px 14px;flex-wrap:wrap">${cs.map(([c, l]) => `<label class="small" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><input type="checkbox" value="${esc(a + ":" + c)}" ${on.has(a + ":" + c) ? "checked" : ""}>${esc(l)}</label>`).join("")}</div></div>`).join("")}
+    </fieldset>`;
+  }
+  document.addEventListener("change", e => { if (e.target && e.target.id === "gGrade") { const f = document.getElementById("gCourses"); if (f) f.hidden = +e.target.value < 10; } });
   async function loadData() {
     try { const r = await sb.rpc("pb_my_group"); S.group = r.data || null; } catch (e) { S.group = null; }
     const [enr, asg, att] = await Promise.all([
@@ -187,7 +205,8 @@ const elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.e
       const grade = +$("#gGrade").value, section = $("#gSec").value, name = $("#gName").value.trim();
       if (!name) { S.groupErr = "Enter your name."; render(); return; }
       el.disabled = true;
-      const { data, error } = await sb.rpc("pb_set_my_group", { p_grade: grade, p_section: section, p_name: name });
+      const courses = grade >= 10 ? [...document.querySelectorAll("#gCourses input:checked")].map(i => i.value) : null;
+      const { data, error } = await sb.rpc("pb_set_my_group", { p_grade: grade, p_section: section, p_name: name, p_courses: courses });
       if (error) { S.groupErr = error.message; el.disabled = false; render(); return; }
       S.groupEdit = false; S.groupErr = ""; await loadData(); render(); toast(`You're in ${groupLabel({ grade, section })}.`); return;
     }
