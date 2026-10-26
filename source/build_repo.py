@@ -32,6 +32,11 @@ import teacher_portal
 app_js = teacher_portal.patch_app(app_js)
 import teacher_courses
 app_js = teacher_courses.patch_app(app_js)
+import flex_plan  # flexible weekly plans: days per lesson and other activities
+app_js = flex_plan.patch_app(app_js)
+css = flex_plan.patch_css(css)
+import class_groups  # class groups A, B, C: online classes and students
+app_js = class_groups.patch_app(app_js)
 
 css += """
 /* sign-in screen and account controls (web platform) */
@@ -72,6 +77,7 @@ plat = plat.replace("Middle School Sciences", "Middle School Complementary Cours
 plat = plat.replace('const PB_APP = "science"', 'const PB_APP = "complementary_ms"')
 assert 'const PB_APP = "complementary_ms"' in plat
 # teacher requests and the /teacher page come from the shared Sciences platform.js (patched by teacher_access.py)
+plat = class_groups.patch_platform(plat)
 (OUT / "js/platform.js").write_text(plat)
 
 LOGO = '<div class="logo"><div class="mark">7·9</div><div><b>Middle School Complementary</b><span>Alberta Curriculum</span></div></div>'
@@ -88,6 +94,7 @@ assert "Middle School Sciences" not in idx
 stu_html = (REF / "student.html").read_text()
 stu_html = stu_html.replace("Middle School Sciences", "Middle School Complementary Courses").replace("science lessons", "lessons").replace("Science", "Complementary Courses")
 stu_html = stu_html.replace('<script src="js/hs-titles.js"></script>\n', "")  # maths-only titles file, not in this repo
+stu_html = class_groups.patch_student_html(stu_html)
 (OUT / "student.html").write_text(stu_html)
 
 stu = (REF / "js/student.js").read_text()
@@ -100,6 +107,7 @@ assert lab, "lab block not found"
 stu = stu.replace(lab.group(0), '${L.study?.passage ? `<div class="stack" style="gap:8px"><span class="eyebrow">Activity</span><b>${esc(L.study.title || "")}</b><p class="small" style="margin:0">${esc(L.study.question || "")}</p><div style="font-family:Georgia,serif;font-size:1.02rem;line-height:1.7;background:var(--sunk);border-left:3px solid var(--accent);border-radius:0 9px 9px 0;padding:12px 16px;white-space:pre-line">${esc(L.study.passage)}</div>${L.study.source ? `<span class="xs muted">${esc(L.study.source)}</span>` : ""}${L.study.steps?.length ? `<ol class="small" style="margin:0;padding-left:18px">${L.study.steps.map(x => `<li>${esc(x)}</li>`).join("")}</ol>` : ""}${L.study.discussion?.length ? `<span class="xs muted">Questions to think about:</span><ol class="small" style="margin:0;padding-left:18px">${L.study.discussion.map(x => `<li>${esc(x)}</li>`).join("")}</ol>` : ""}${L.study.product ? `<p class="note small" style="margin:0"><b>Writing task:</b> ${esc(L.study.product)}</p>` : ""}</div>` : ""}\n')
 stu = stu.replace("Science", "Complementary Courses").replace("science", "complementary courses")
 stu = "// Course keys look like ART7, FSL8, CHI9 or ETH.\nconst elLabel = k => { const m = /^(ART|DR|MU|IM|CTF|EOE|FSL|SPA|CHI)([789])$/.exec(String(k || \"\")); const N = {ART:\"Art\",DR:\"Drama\",MU:\"General Music\",IM:\"Instrumental Music\",CTF:\"CTF\",EOE:\"Outdoor Education\",FSL:\"French\",SPA:\"Spanish\",CHI:\"Mandarin\"}; return k === \"ETH\" ? \"Ethics\" : m ? `${N[m[1]]} ${m[2]}` : String(k || \"\"); };\n" + stu
+stu = class_groups.patch_student_js(stu)
 (OUT / "js/student.js").write_text(stu)
 
 # ---------- API ----------
@@ -167,3 +175,7 @@ In Supabase → Authentication → URL Configuration, add `https://middlecomplem
 """)
 
 print("built", len(order), "lesson files")
+
+import assess_kit  # assessment tracker, student quizzes, lesson slides and uploads
+assess_kit.install(OUT)
+print("assessment tracker installed")

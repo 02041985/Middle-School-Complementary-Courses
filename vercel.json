@@ -9,6 +9,12 @@
     },
     "api/student.js": {
       "includeFiles": "api/_lessons/**"
+    },
+    "api/analyze.js": {
+      "maxDuration": 120
+    },
+    "api/quiz.js": {
+      "maxDuration": 30
     }
   },
   "rewrites": [

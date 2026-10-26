@@ -202,5 +202,5 @@
     return r.ok ? r.json() : null;
   }
 
-  window.PB_PLATFORM = { ready, store, sample, downloads, lessonFile, sb, getUser: () => user, get allowed() { return allowedCourses; }, get groups() { return allowedGroups; } };
+  window.PB_PLATFORM = { app: PB_APP, ready, store, sample, downloads, lessonFile, sb, getUser: () => user, get allowed() { return allowedCourses; }, get groups() { return allowedGroups; } };
 })();

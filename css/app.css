@@ -298,6 +298,12 @@ aside select.cpick{width:100%}
 .pos div{display:grid;grid-template-columns:40px minmax(0,1fr);gap:10px;align-items:start;font-size:.9rem}
 .go-off{opacity:.45}
 
+/* flexible plan: activity days and days per lesson */
+.badge.b-event{background:var(--sunk2,#eee);color:var(--ink)}
+.dc.ev,.wday.ev{border-style:dashed;cursor:default}
+.dc.ev .linkbtn{margin-top:auto;align-self:flex-start}
+.flexdays summary{cursor:pointer;list-style:revert}
+
 /* sign-in screen and account controls (web platform) */
 .auth{position:fixed;inset:0;z-index:50;background-color:var(--bg);background-image:radial-gradient(900px 520px at 100% 0%,var(--bg-glow1),transparent 60%),radial-gradient(800px 520px at 0% 100%,var(--bg-glow2),transparent 60%),radial-gradient(700px 460px at 50% 50%,var(--bg-glow3),transparent 65%);display:grid;place-items:center;padding:24px max(16px,env(safe-area-inset-left,0px));overflow-y:auto}
 .auth-card{width:100%;max-width:420px;background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:28px;display:flex;flex-direction:column;gap:16px}
@@ -317,8 +323,49 @@ aside select.cpick{width:100%}
 .topbar .acct{margin-left:8px}
 @media (max-width:520px){.topbar .acct-email{display:none}}
 
-/* flexible plan: activity days and days per lesson */
-.badge.b-event{background:var(--sunk2,#eee);color:var(--ink)}
-.dc.ev,.wday.ev{border-style:dashed;cursor:default}
-.dc.ev .linkbtn{margin-top:auto;align-self:flex-start}
-.flexdays summary{cursor:pointer;list-style:revert}
+/* ---------- assessment tracker ---------- */
+.tk-bar{gap:12px;flex-wrap:wrap;align-items:flex-end}
+.tk-bar .f{min-width:0;max-width:100%}
+.tk-bar select{max-width:100%;min-width:0}
+.tk-table{border-collapse:separate;border-spacing:0;font-size:.84rem;min-width:100%}
+.tk-table th,.tk-table td{border-bottom:1px solid var(--line);padding:0;text-align:center;vertical-align:middle}
+.tk-table thead th{position:sticky;top:0;background:var(--surface);z-index:1}
+.tk-st{position:sticky;left:0;background:var(--surface);z-index:2;text-align:start!important;padding:6px 10px!important;min-width:150px;max-width:200px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600}
+.tk-h{min-width:86px;border-left:1px solid var(--line)}
+.tk-h.k-formal{background:color-mix(in srgb,var(--l2) 8%,var(--surface))}
+.tk-h.k-summative{background:color-mix(in srgb,var(--l4) 10%,var(--surface))}
+.tk-hb{all:unset;cursor:pointer;display:flex;flex-direction:column;gap:1px;padding:6px 6px;width:100%;box-sizing:border-box;text-align:center}
+.tk-hb:hover,.tk-hb:focus-visible{background:var(--accent-soft);outline:none}
+.tk-hb b{font-size:.78rem;white-space:nowrap}
+.tk-kind{font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tk-meth{font-size:.66rem;color:var(--muted);max-width:110px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin:0 auto}
+.tk-c{border-left:1px solid var(--line);position:relative;height:34px}
+.tk-c select{appearance:none;-webkit-appearance:none;border:0;background:transparent;font:inherit;font-weight:700;text-align:center;text-align-last:center;width:100%;height:34px;padding:0 4px;cursor:pointer;color:inherit}
+.tk-c select:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.tk-c.lv4{background:var(--l4s);color:var(--l4)} .tk-c.lv3{background:var(--l3s);color:var(--l3)}
+.tk-c.lv2{background:var(--l2s);color:var(--l2)} .tk-c.lv1{background:var(--l1s);color:var(--l1)}
+.tk-auto{position:absolute;right:3px;bottom:1px;font-size:.56rem;font-weight:700;opacity:.75;pointer-events:none;text-transform:uppercase}
+.tk-sum{min-width:70px;font-size:.8rem;border-left:2px solid var(--line)}
+.tk-sum b{display:block}
+.tk-scrim{position:fixed;inset:0;background:rgba(0,0,0,.25);z-index:60}
+.tk-panel{position:fixed;top:0;right:0;bottom:0;width:min(520px,100vw);background:var(--surface);z-index:61;overflow-y:auto;padding:20px max(20px,env(safe-area-inset-right,0px)) 40px 20px;box-shadow:var(--shadow,0 0 30px rgba(0,0,0,.2));display:flex;flex-direction:column;gap:16px;box-sizing:border-box}
+.tk-sec{border-top:1px solid var(--line);padding-top:14px;display:flex;flex-direction:column;gap:8px}
+.tk-sec h3{margin:0;font-size:1rem}
+.tk-rub{display:flex;flex-direction:column;gap:6px;margin:0}
+.tk-rub div{border-radius:8px;padding:8px 10px}
+.tk-rub dt{font-weight:700;font-size:.82rem} .tk-rub dd{margin:2px 0 0;font-size:.84rem}
+.tk-rub .lv4{background:var(--l4s)} .tk-rub .lv3{background:var(--l3s)} .tk-rub .lv2{background:var(--l2s)} .tk-rub .lv1{background:var(--l1s)}
+.tk-rub .lv4 dt{color:var(--l4)} .tk-rub .lv3 dt{color:var(--l3)} .tk-rub .lv2 dt{color:var(--l2)} .tk-rub .lv1 dt{color:var(--l1)}
+.tk-bars{display:flex;flex-direction:column;gap:6px}
+.tk-meter{flex:1;height:12px;border-radius:6px;background:var(--line);overflow:hidden;min-width:60px}
+.tk-meter i{display:block;height:100%;border-radius:6px}
+/* ---------- lesson resources ---------- */
+.lk-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%;margin-top:6px}
+.lk-row .eyebrow{width:100%}
+.lk-files{display:flex;flex-wrap:wrap;gap:6px;width:100%}
+.lk-file{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--line);border-radius:99px;padding:2px 4px 2px 10px;font-size:.8rem}
+.lk-x{all:unset;cursor:pointer;display:inline-flex;padding:3px;border-radius:50%;color:var(--muted)}
+.lk-x:hover,.lk-x.sure{color:var(--l1);background:var(--l1s)}
+.lk-x .i{width:14px;height:14px}
+@media (max-width:640px){.tk-st{min-width:110px}.tk-h{min-width:74px}.tk-bar .f{flex:1 1 100%}.tk-bar select{width:100%}}
+/* ---------- end assessment tracker ---------- */
