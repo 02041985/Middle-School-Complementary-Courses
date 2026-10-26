@@ -304,6 +304,11 @@ aside select.cpick{width:100%}
 .dc.ev .linkbtn{margin-top:auto;align-self:flex-start}
 .flexdays summary{cursor:pointer;list-style:revert}
 
+/* flexible plan: assessment days and informal-check tags */
+.badge.b-summ{background:var(--accent);color:var(--accent-ink,#fff)}
+.badge.b-formal{background:var(--accent-soft);color:var(--accent)}
+.chk{display:block;font-size:.68rem;font-weight:700;color:var(--muted);margin-top:2px;letter-spacing:.02em}
+
 /* sign-in screen and account controls (web platform) */
 .auth{position:fixed;inset:0;z-index:50;background-color:var(--bg);background-image:radial-gradient(900px 520px at 100% 0%,var(--bg-glow1),transparent 60%),radial-gradient(800px 520px at 0% 100%,var(--bg-glow2),transparent 60%),radial-gradient(700px 460px at 50% 50%,var(--bg-glow3),transparent 65%);display:grid;place-items:center;padding:24px max(16px,env(safe-area-inset-left,0px));overflow-y:auto}
 .auth-card{width:100%;max-width:420px;background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:28px;display:flex;flex-direction:column;gap:16px}
@@ -359,6 +364,10 @@ aside select.cpick{width:100%}
 .tk-bars{display:flex;flex-direction:column;gap:6px}
 .tk-meter{flex:1;height:12px;border-radius:6px;background:var(--line);overflow:hidden;min-width:60px}
 .tk-meter i{display:block;height:100%;border-radius:6px}
+.tk-plan{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding-top:0}
+.tk-cov{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:0;display:flex;flex-direction:column;gap:6px;min-width:0}
+.tk-cov legend{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:0 4px}
+.tk-covl{display:flex;flex-direction:column;gap:3px;max-height:220px;overflow-y:auto}
 /* ---------- lesson resources ---------- */
 .lk-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%;margin-top:6px}
 .lk-row .eyebrow{width:100%}

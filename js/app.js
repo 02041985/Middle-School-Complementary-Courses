@@ -146,6 +146,16 @@ const typeBadge = t => `<span class="badge b-${t}">${t === "lesson" ? "Lesson" :
 
 // ---------- plan engine ----------
 // flexible plan: spans and activities
+// flexible plan: assessment days
+const evBadge = e => e && e.kind === "summative" ? `<span class="badge b-summ">Summative</span>` : e && e.kind === "formal" ? `<span class="badge b-formal">Formal</span>` : `<span class="badge b-event">Activity</span>`;
+const checkTag = s => s && s.endOf ? `<span class="chk">Informal check: ${esc(s.endOf)}</span>` : "";
+const codeRange = codes => { const order = SOS.map(x => x.code), cs = [...new Set(codes)].filter(c => SO[c]).sort((a,b) => order.indexOf(a) - order.indexOf(b)); if (!cs.length) return ""; const ix = cs.map(c => order.indexOf(c)); return cs.length > 2 && ix.every((v,k) => !k || v === ix[k-1] + 1) ? `${cs[0]}–${cs[cs.length-1]}` : cs.join(", "); };
+// outcomes finished before an assessment day and after the previous assessment of the same kind
+function coveredBefore(plan, date, kind){
+  const prev = planEvents(plan).filter(e => e.kind === kind && e.date < date).map(e => e.date).pop() || "";
+  const last = {}; sessions(plan).forEach(s => { if (s.code) last[s.code] = iso(s.date); });
+  return Object.keys(last).filter(c => last[c] < date && last[c] >= prev);
+}
 const planEvents = p => (Array.isArray(p.events) ? p.events : []).filter(e => e && /^\d{4}-\d{2}-\d{2}$/.test(e.date)).sort((a,b) => a.date < b.date ? -1 : 1);
 const spanKey = s => s.type === "lesson" ? `${s.code}_${s.i}` : `${s.type}:${s.code}`;
 const dayTag = s => s && s.parts > 1 ? ` · day ${s.part} of ${s.parts}` : "";
@@ -170,6 +180,7 @@ function sessions(plan){
       out.push({...s, key, part, parts: n, date: new Date(d)}); d = addDays(d, 1);
     }
   }
+  const lastBy = {}; out.forEach((s,ix) => { if (s.code) lastBy[s.code] = ix; }); Object.values(lastBy).forEach(ix => { out[ix].endOf = out[ix].code; });
   out.forEach((s,ix) => s.ix = ix);
   return out;
 }
@@ -268,8 +279,8 @@ function rHome(){
     <section class="card">
       <div class="card-h"><h2>Week of ${fmtS(mon)}</h2><button class="btn quiet sm" data-act="tab" data-t="week">Full plan ${ic("right")}</button></div>
       <div class="card-b"><div class="weekstrip">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), s = byDate[iso(d)], t = iso(d) === iso(d0), ev = evBy[iso(d)];
-        if (ev && !s) return `<div class="wday ev ${t?"today":""}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span><span class="badge b-event">Activity</span><span class="t">${esc(ev.title)}</span></div>`;
-        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}<span class="t">${esc(s.title)}${dayTag(s)}</span></button>`
+        if (ev && !s) return `<div class="wday ev ${t?"today":""}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}<span class="t">${esc(ev.title)}</span></div>`;
+        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}<span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}</button>`
                  : `<div class="wday off"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">No lesson</span></div>`; }).join("")}</div></div>
     </section>` : `<section class="card"><div class="empty"><h2>Start a plan</h2><p>Choose the outcomes you're teaching and every lesson is laid out on your calendar.</p><button class="btn" style="margin-top:14px" data-act="tab" data-t="week">${ic("calendar")}Build a weekly plan</button></div></section>`}
 
@@ -364,9 +375,11 @@ function rWeek(){
         </div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Teaching days</span><div class="chips">${[1,2,3,4,5].map(d => `<label class="pick"><input type="checkbox" data-act="pday" data-d="${d}" ${p.days.includes(d)?"checked":""}>${DOW[d]}</label>`).join("")}</div></div>
         <label class="f">No-school dates<input id="pSkip" placeholder="2026-11-11, 2026-11-12" value="${esc(p.skip)}"></label>
-        <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Assemblies, trips, events or test days. Lessons move to the next teaching day.</span>
-          <div class="row" style="gap:6px;align-items:flex-end"><input type="date" id="evDate" aria-label="Activity date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="e.g. Sports day" aria-label="Activity name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
-          ${planEvents(p).length ? `<div class="stack" style="gap:4px">${planEvents(p).map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : ""}</div>
+        <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Summative or formal assessment days, assemblies, trips or events. Lessons move to the next teaching day.</span>
+          <div class="row" style="gap:6px;align-items:flex-end"><select id="evKind" data-act="evkind" aria-label="Type of day" style="flex:1 1 150px;min-width:0"><option value="">Other activity</option><option value="summative">Summative assessment</option><option value="formal">Formal assessment</option></select><input type="date" id="evDate" aria-label="Date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="Name, e.g. Sports day" aria-label="Name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
+          <div id="evOutc" class="stack" style="gap:4px" hidden><span class="xs muted">Outcomes it covers. Leave all unticked to use the outcomes finished since the last one. Leave the name empty to name it from the outcomes.</span>
+            <div class="stack" style="gap:2px;max-height:170px;overflow-y:auto">${[...p.sos].filter(c => SO[c]).sort((a,b) => SOS.findIndex(x => x.code === a) - SOS.findIndex(x => x.code === b)).map(c => `<label class="row small" style="gap:6px;flex-wrap:nowrap"><input type="checkbox" class="evO" value="${esc(c)}"><span style="min-width:0"><span class="code">${esc(typeof sc === "function" ? sc(c) : c)}</span> ${esc(SO[c].title)}</span></label>`).join("")}</div></div>
+          ${planEvents(p).length ? `<div class="stack" style="gap:4px">${planEvents(p).map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}${e.kind ? ` <span class="xs muted">(${e.kind === "summative" ? "summative" : "formal"}${e.outcomes && e.outcomes.length ? ": " + esc(codeRange(e.outcomes)) : ""})</span>` : ""}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : ""}</div>
         ${list.length ? `<details class="flexdays"><summary class="eyebrow">Days per lesson</summary><span class="xs muted">Spread a lesson or review over two or three days.</span>
           <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${list.filter(s => s.part === 1).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:2px 0"><select data-act="span" data-key="${esc(s.key)}" aria-label="Days for ${esc(s.title)}" style="width:62px;flex:none;padding:3px 4px">${[1,2,3,4,5].map(n => `<option value="${n}" ${n===s.parts?"selected":""}>${n} day${n>1?"s":""}</option>`).join("")}</select><span style="min-width:0">${s.code ? `<span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> ` : ""}${esc(s.title)}</span></label>`).join("")}</div></details>` : ""}
         <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Check-in quiz after each outcome</label></div>
@@ -386,9 +399,9 @@ function rWeek(){
       </div></div>
       ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span></div>
         <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key], ev = evBy[key];
-          if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="badge b-event">Activity</span></div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
+          if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}</div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
           if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
-          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span><span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
+          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}<span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
       : `<div class="card"><div class="empty"><h2>No outcomes selected</h2><p>Tick one or more outcomes in Plan settings to build the calendar.</p></div></div>`}
     </section>
   </div>`;
@@ -1204,7 +1217,16 @@ app.addEventListener("click", async e => {
   else if (act === "lsel") { S.lesson.i = +el.dataset.i; S.genErr = ""; render(); }
   else if (act === "ltab") { S.ltab = el.dataset.v; render(); }
   else if (act === "tab") setTab(el.dataset.t);
-  else if (act === "evadd") { const date = ($("#evDate")?.value || ""), title = (($("#evTitle")?.value || "").trim() || "Other activity").slice(0, 60); if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { toast("Choose a date for the activity"); return; } S.plan.events = [...planEvents(S.plan).filter(x => x.date !== date), {date, title}]; S.daySel = null; savePlan(); render(); toast(`${title} added on ${fmtS(parseISO(date))}`); }
+  else if (act === "evadd") {
+    const date = ($("#evDate")?.value || ""), kind = ($("#evKind")?.value || ""); let title = ($("#evTitle")?.value || "").trim();
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { toast("Choose a date first"); return; }
+    let outcomes = kind ? [...document.querySelectorAll(".evO:checked")].map(x => x.value) : [];
+    if (kind && !outcomes.length) outcomes = coveredBefore(S.plan, date, kind);
+    if (kind && !outcomes.length) { toast("Tick the outcomes it covers (no planned outcomes finish before that date)"); return; }
+    if (!title) title = kind ? `${kind === "summative" ? "Summative" : "Formal assessment"}: ${codeRange(outcomes)}` : "Other activity";
+    title = title.slice(0, 60);
+    const ev = kind ? {date, title, kind, outcomes} : {date, title};
+    S.plan.events = [...planEvents(S.plan).filter(x => x.date !== date), ev]; S.daySel = null; savePlan(); render(); toast(`${title} added on ${fmtS(parseISO(date))}`); }
   else if (act === "evdel") { S.plan.events = planEvents(S.plan).filter(x => x.date !== el.dataset.date); S.daySel = null; savePlan(); render(); }
   else if (act === "openday") { S.daySel = +el.dataset.ix; setTab("day"); }
   else if (act === "dstep") { S.daySel += +el.dataset.d; render(); }
@@ -1277,6 +1299,7 @@ app.addEventListener("change", e => {
   const el = e.target, act = el.dataset.act, id = el.id, p = S.plan;
   if (id === "ptGrade" && $("#ptSection")) { $("#ptSection").innerHTML = ptSectionOpts(el.value); }
   if (act === "ptsection") { (async () => { const { error } = await ptSb().from("pb_classes").update({section: el.value || null}).eq("id", el.dataset.id); if (error) { toast(error.message || "Couldn't change the group. Try again."); } else toast(el.value ? `Group ${el.value} set. Students in that group join automatically.` : "Group removed. Students join with the class code."); S.pt.ready = false; render(); })(); return; }
+  if (act === "evkind") { const o = $("#evOutc"); if (o) o.hidden = !el.value; return; }
   if (act === "span") { const sp = {...(p.spans || {})}, v = Math.max(1, Math.min(5, +el.value || 1)); if (v === 1) delete sp[el.dataset.key]; else sp[el.dataset.key] = v; p.spans = sp; S.daySel = null; savePlan(); render(); return; }
   if (el.dataset.cact) { courseAct(el.dataset.cact, el.value); return; }
   if (act === "toplan") { togglePlan(el.dataset.code, el.checked); render(); }

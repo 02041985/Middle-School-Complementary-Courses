@@ -22,7 +22,7 @@
     2: "Adequate: basic understanding; completes familiar parts of the task, with errors or gaps; needs some support.",
     1: "Limited: beginning understanding; needs significant support; errors interfere with the result."
   };
-  const TK = { list: null, loading: false, ref: null, students: [], items: {}, marks: {}, quizzes: {}, attempts: {}, panel: null, view: "table", unit: "all", busy: "", err: "", files: {}, filesLoading: {} };
+  const TK = { cfg: { informal_mode: "outcome" }, list: null, loading: false, ref: null, students: [], items: {}, marks: {}, quizzes: {}, attempts: {}, panel: null, view: "table", unit: "all", busy: "", err: "", files: {}, filesLoading: {} };
   window.PB_TRACKER = TK;
   const tkEsc = v => (typeof esc === "function" ? esc(v) : String(v ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])));
   const say = m => (typeof toast === "function" ? toast(m) : console.log(m));
@@ -47,11 +47,25 @@
     const seen = {}; out.forEach(u => (seen[u.title] = (seen[u.title] || 0) + 1));
     out.forEach(u => { if (seen[u.title] > 1) u.title = u.sub && !u.sub.includes(u.title) ? `${u.title}: ${u.sub}` : `${u.title} (${u.key})`; });
     return out; };
+  // Columns for a unit. Informal checks: one per lesson, or one per outcome (class setting).
+  // Formal (F1, F2, F3) and summative (S, S2, S3) columns cover chosen outcomes and sit after the last outcome they cover.
+  const FSLOTS = ["F1", "F2", "F3"], SSLOTS = ["S", "S2", "S3"];
+  const coveredSos = (u, it) => { const c = it?.covers; return Array.isArray(c) && c.length ? u.sos.filter(so => c.includes(so.code)) : u.sos; };
+  const coversText = (u, it) => { const c = it?.covers; if (!Array.isArray(c) || !c.length) return ""; const ix = u.sos.map((so, i) => c.includes(so.code) ? i : -1).filter(i => i >= 0); if (!ix.length || ix.length === u.sos.length) return "";
+    const run = ix.every((v, k) => !k || v === ix[k - 1] + 1); return run && ix.length > 2 ? `${u.sos[ix[0]].code}–${u.sos[ix[ix.length - 1]].code}` : ix.map(i => u.sos[i].code).join(", "); };
   const slotsOf = u => {
-    const L = []; u.sos.forEach(so => (so.lessons || []).forEach((t, i) => L.push({ slot: `I:${so.code}_${i}`, kind: "informal", label: `${so.code} · L${i + 1}`, title: t, code: so.code, i })));
-    const F = ["F1", "F2"].map((s, n) => ({ slot: s, kind: "formal", label: `Formal ${n + 1}` }));
-    if (TK.items[u.key + "|F3"]) F.push({ slot: "F3", kind: "formal", label: "Formal 3" });
-    return [...L, ...F, { slot: "S", kind: "summative", label: "Summative" }];
+    const per = TK.cfg.informal_mode !== "lesson";
+    const asg = [];
+    FSLOTS.forEach((sl, n) => { if (n < 2 || TK.items[u.key + "|" + sl]) asg.push({ slot: sl, kind: "formal", label: `Formal ${n + 1}` }); });
+    SSLOTS.forEach((sl, n) => { if (!n || TK.items[u.key + "|" + sl]) asg.push({ slot: sl, kind: "summative", label: n ? `Summative ${n + 1}` : "Summative" }); });
+    asg.forEach(a => { const it = TK.items[u.key + "|" + a.slot], c = it?.covers; const ix = Array.isArray(c) && c.length ? Math.max(-1, ...u.sos.map((so, i) => c.includes(so.code) ? i : -1)) : -1; a.after = ix >= 0 ? ix : u.sos.length - 1; a.range = coversText(u, it); });
+    const out = [];
+    u.sos.forEach((so, k) => {
+      if (per) out.push({ slot: `I:${so.code}`, kind: "informal", label: so.code, title: so.title, code: so.code });
+      else (so.lessons || []).forEach((t, i) => out.push({ slot: `I:${so.code}_${i}`, kind: "informal", label: `${so.code} · L${i + 1}`, title: t, code: so.code, i }));
+      asg.filter(a => a.after === k).forEach(a => out.push(a));
+    });
+    return out;
   };
   const isArabic = s => /[؀-ۿ]/.test(String(s || ""));
   const appKey = () => P()?.app || "";
@@ -75,13 +89,16 @@
   }
   const cur = () => (TK.list || []).find(c => c.ref === TK.ref) || null;
   async function selectClass(ref) {
-    TK.ref = ref; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.busy = "load"; rerender();
+    TK.ref = ref; TK.cfg = { informal_mode: "outcome" }; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.busy = "load"; rerender();
     const c = cur(); if (!c) { TK.busy = ""; return rerender(); }
     try {
       if (c.online) {
         const { data } = await SB().from("pb_enrollments").select("student_id,display_name").eq("class_id", c.id);
         TK.students = (data || []).map(e => ({ ref: e.student_id, name: e.display_name || "Student" })).sort((a, b) => a.name.localeCompare(b.name));
       } else TK.students = (c.students || []).map(s => ({ ref: String(s.id), name: s.name }));
+      TK.cfg = { informal_mode: "outcome" };
+      const { data: cfg } = await SB().from("pb_tracker_classes").select("informal_mode").eq("class_ref", c.ref);
+      if (cfg && cfg[0]) TK.cfg = { ...TK.cfg, ...cfg[0] };
       const { data: items } = await SB().from("pb_tracker_items").select("*").eq("class_ref", c.ref);
       (items || []).forEach(it => { TK.items[it.unit + "|" + it.slot] = it; });
       const ids = (items || []).map(i => i.id);
@@ -129,16 +146,30 @@
   const levelOf = (unit, slot, sref) => { const it = TK.items[unit + "|" + slot]; return it ? TK.marks[it.id]?.[sref] || null : null; };
   const avg = xs => xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : null;
   function unitLevel(u, sref) {
-    const s = levelOf(u.key, "S", sref); if (s) return { v: s.level, from: "summative" };
-    const f = ["F1", "F2", "F3"].map(x => levelOf(u.key, x, sref)).filter(Boolean).map(m => m.level);
+    const sm = SSLOTS.map(x => levelOf(u.key, x, sref)).filter(Boolean).map(m => m.level);
+    if (sm.length) return { v: Math.round(avg(sm)), from: "summative" };
+    const f = FSLOTS.map(x => levelOf(u.key, x, sref)).filter(Boolean).map(m => m.level);
     if (f.length) return { v: Math.round(avg(f)), from: "formal" };
     const i = slotsOf(u).filter(x => x.kind === "informal").map(x => levelOf(u.key, x.slot, sref)).filter(Boolean).map(m => m.level);
     return i.length ? { v: Math.round(avg(i)), from: "informal" } : null;
   }
 
+  // ---------- weekly plan link: assessment days the teacher added in Plan settings ----------
+  const shortDate = d => { try { return new Date(d + "T00:00:00").toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" }); } catch (e) { return d; } };
+  const planFor = (u, kind) => { try { const ev = (typeof S !== "undefined" && S.plan && Array.isArray(S.plan.events)) ? S.plan.events : [];
+    return ev.filter(e => (e.kind === "summative" || e.kind === "formal") && (!kind || e.kind === kind) && (e.outcomes || []).some(c => u.sos.some(so => so.code === c))).sort((a, b) => a.date < b.date ? -1 : 1); } catch (e) { return []; } };
+  async function linkPlan(u, e, slot) {
+    const kind = e.kind === "formal" ? "formal" : "summative", pool = kind === "formal" ? FSLOTS : SSLOTS;
+    const free = slot || pool.find(x => { const it = TK.items[u.key + "|" + x]; return !it || (!it.plan_date && !it.quiz_id && !Object.keys(TK.marks[it.id] || {}).length); });
+    if (!free) return say(`This unit already has three ${kind} assessments. Clear one first.`);
+    const it = await ensureItem(u.key, free, kind, {});
+    await updateItem(it, { covers: (e.outcomes || []).filter(c => u.sos.some(so => so.code === c)), title: String(e.title || it.title).slice(0, 120), plan_date: e.date });
+    return free;
+  }
+
   // ---------- page ----------
   window.rTracker = function () {
-    const head = (typeof ph === "function") ? ph("Assessment tracker", "Informal checks for every lesson, formal assessments and a summative assessment for every unit, with a proficiency level for each student.") : "<h1>Assessment tracker</h1>";
+    const head = (typeof ph === "function") ? ph("Assessment tracker", "Informal checks after every lesson or outcome, formal assessments and summative assessments for every unit, with a proficiency level for each student.") : "<h1>Assessment tracker</h1>";
     if (!P()) return head + `<div class="card"><div class="empty"><p>The assessment tracker works on the school website, where your classes and students are saved.</p></div></div>`;
     if (typeof S !== "undefined" && S.storeReady === false) return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading your classes…</div></div>`;
     if (TK.list === null) { loadList(); return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading your classes…</div></div>`; }
@@ -150,6 +181,7 @@
       <div class="card"><div class="card-b row tk-bar">
         <label class="f">Class<select data-tk="class">${TK.list.map(x => `<option value="${tkEsc(x.ref)}" ${x.ref === TK.ref ? "selected" : ""}>${tkEsc(x.name)} · ${tkEsc(courseName(x.course))}${x.online ? "" : " (markbook)"}</option>`).join("")}</select></label>
         <label class="f">Unit<select data-tk="unit"><option value="all">All units</option>${units.map(u => `<option value="${tkEsc(u.key)}" ${u.key === TK.unit ? "selected" : ""}>${tkEsc(u.title)}</option>`).join("")}</select></label>
+        <label class="f">Informal checks<select data-tk="imode"><option value="outcome" ${TK.cfg.informal_mode !== "lesson" ? "selected" : ""}>After each outcome</option><option value="lesson" ${TK.cfg.informal_mode === "lesson" ? "selected" : ""}>After each lesson</option></select></label>
         <div class="seg" role="tablist" style="margin-left:auto"><button class="btn ${TK.view === "table" ? "" : "ghost"} sm" data-tk="view" data-v="table">Tracker</button><button class="btn ${TK.view === "charts" ? "" : "ghost"} sm" data-tk="view" data-v="charts">${icn("chart")}Charts</button></div>
       </div>
       ${c && !c.online ? `<div class="card-b small muted" style="padding-top:0">This markbook class has no online students, so levels are entered by hand. Use an online class (Students tab) to give quizzes online and fill levels automatically.</div>` : ""}</div>
@@ -160,7 +192,7 @@
       ${legend()}
     </div>${panel()}`;
   };
-  const legend = () => `<p class="xs muted">EX Excellent · PR Proficient · AD Adequate · LM Limited. <b>auto</b> = filled from an online quiz or test (you can change it). Unit level = the summative result if there is one, otherwise the average of formal results, then of informal checks.</p>`;
+  const legend = () => `<p class="xs muted">EX Excellent · PR Proficient · AD Adequate · LM Limited. <b>auto</b> = filled from an online quiz or test (you can change it). Unit level = the summative result (the average if there is more than one), otherwise the average of formal results, then of informal checks.</p>`;
   function cell(u, s, st) {
     const m = levelOf(u.key, s.slot, st.ref), v = m?.level || "";
     return `<td class="tk-c ${v ? "lv" + v : ""}"><select data-tk="mark" data-u="${tkEsc(u.key)}" data-s="${tkEsc(s.slot)}" data-k="${s.kind}" data-st="${tkEsc(st.ref)}" aria-label="${tkEsc(st.name)}, ${tkEsc(s.label)}">
@@ -171,11 +203,13 @@
     const head = slots.map(s => { const it = TK.items[u.key + "|" + s.slot]; const meth = it?.method || METHODS[s.kind][0];
       const src = it?.source === "generated" ? "Generated" : it?.source === "uploaded" ? "Uploaded" : "";
       const q = it?.quiz_id && TK.quizzes[it.quiz_id];
-      return `<th class="tk-h k-${s.kind}"><button class="tk-hb" data-tk="open" data-u="${tkEsc(u.key)}" data-s="${tkEsc(s.slot)}" data-k="${s.kind}" title="${tkEsc(s.title || s.label)}"><span class="tk-kind">${s.kind === "informal" ? "Informal" : s.kind === "formal" ? "Formal" : "Summative"}</span><b>${tkEsc(s.label)}</b><span class="tk-meth">${tkEsc(meth)}${src ? " · " + src : ""}${q ? (q.open ? " · open" : " · closed") : ""}</span></button></th>`; }).join("");
+      return `<th class="tk-h k-${s.kind}"><button class="tk-hb" data-tk="open" data-u="${tkEsc(u.key)}" data-s="${tkEsc(s.slot)}" data-k="${s.kind}" title="${tkEsc(s.title || s.label)}"><span class="tk-kind">${s.kind === "informal" ? "Informal" : s.kind === "formal" ? "Formal" : "Summative"}</span><b>${tkEsc(s.label)}</b><span class="tk-meth">${tkEsc(meth)}${s.range ? " · " + tkEsc(s.range) : ""}${src ? " · " + src : ""}${q ? (q.open ? " · open" : " · closed") : ""}</span>${it?.plan_date ? `<span class="tk-meth">${tkEsc(shortDate(it.plan_date))}</span>` : ""}</button></th>`; }).join("");
     const rows = TK.students.map(st => { const ul = unitLevel(u, st.ref);
       return `<tr><th class="tk-st">${tkEsc(st.name)}</th>${slots.map(s => cell(u, s, st)).join("")}<td class="tk-c tk-sum ${ul ? "lv" + ul.v : ""}">${ul ? `<b>${LV[ul.v]}</b><span class="tk-auto">${ul.from}</span>` : "–"}</td></tr>`; }).join("");
-    const hasF3 = !!TK.items[u.key + "|F3"];
-    return `<section class="card"><div class="card-h"><h2>${tkEsc(u.title)}</h2><div class="row" style="gap:6px">${hasF3 ? "" : `<button class="btn ghost sm" data-tk="addf3" data-u="${tkEsc(u.key)}">${icn("plus")}Third formal activity</button>`}</div></div>
+    const hasF3 = !!TK.items[u.key + "|F3"], nextS = SSLOTS.find(x => !TK.items[u.key + "|" + x] && x !== "S");
+    const chips = planFor(u).filter(e => !Object.values(TK.items).some(it => it.unit === u.key && it.plan_date === e.date));
+    return `<section class="card"><div class="card-h"><h2>${tkEsc(u.title)}</h2><div class="row" style="gap:6px">${hasF3 ? "" : `<button class="btn ghost sm" data-tk="addf3" data-u="${tkEsc(u.key)}">${icn("plus")}Third formal activity</button>`}${nextS ? `<button class="btn ghost sm" data-tk="adds" data-u="${tkEsc(u.key)}" data-s="${nextS}">${icn("plus")}Another summative</button>` : ""}</div></div>
+      ${chips.length ? `<div class="card-b tk-plan"><span class="small muted">In your weekly plan:</span>${chips.map(e => `<button class="btn ghost sm" data-tk="planadd" data-u="${tkEsc(u.key)}" data-date="${tkEsc(e.date)}">${icn("plus")}${tkEsc(e.title)} · ${tkEsc(shortDate(e.date))}</button>`).join("")}</div>` : ""}
       <div class="tablewrap"><table class="tk-table"><thead><tr><th class="tk-st">Student</th>${head}<th class="tk-h"><div class="tk-hb" style="cursor:default"><span class="tk-kind">Unit</span><b>Level</b></div></th></tr></thead><tbody>${rows}</tbody></table></div></section>`;
   }
 
@@ -195,9 +229,10 @@
         <label class="f">How is it assessed?<select data-tk="method">${METHODS[kind].map(m => `<option ${m === meth ? "selected" : ""}>${m}</option>`).join("")}<option value="__other" ${custom ? "selected" : ""}>Other (write your own)…</option></select></label>
         ${custom || TK.panel.other ? `<label class="f">Your own name for it<input data-tk="methodtext" maxlength="80" value="${tkEsc(custom ? meth : "")}" placeholder="e.g. Lab report, Gallery walk"></label>` : ""}
         <label class="f">Title<input data-tk="title" maxlength="120" value="${tkEsc(it?.title || defaultsFor(kind, s).title)}"></label>
+        ${kind !== "informal" ? coversBox(u, it, kind) : ""}
       </div>
       ${kind !== "informal" ? `<div class="tk-sec"><h3>Use a generated ${kind === "summative" ? "unit test" : "quiz"}</h3>
-        <p class="small muted">${kind === "summative" ? "At least 15 questions covering every outcome in the unit," : "Up to 10 questions,"} a mix of multiple choice and short answer. Students take it online and their levels fill in automatically.</p>
+        <p class="small muted">${kind === "summative" ? "At least 15 questions covering the outcomes ticked above," : "Up to 10 questions on the outcomes ticked above,"} a mix of multiple choice and short answer. Students take it online and their levels fill in automatically.</p>
         ${!c.online ? `<p class="small note">Online quizzes need an online class (Students tab). For this markbook class, record levels by hand.</p>` :
           q ? quizBox(q, att) : `<button class="btn" data-tk="gen" ${busy ? "disabled" : ""}>${busy === "gen" ? `<span class="spinner"></span>Writing…` : `${icn("spark")}Generate ${kind === "summative" ? "unit test" : "quiz"}`}</button>`}
       </div>` : ""}
@@ -217,6 +252,13 @@
       ${it ? `<div class="tk-sec"><button class="btn quiet sm" data-tk="clear">${icn("trash")}Clear this assessment and its levels</button></div>` : ""}
     </aside>`;
   }
+  function coversBox(u, it, kind) {
+    const c = Array.isArray(it?.covers) && it.covers.length ? it.covers : u.sos.map(so => so.code), plan = planFor(u, kind);
+    return `<fieldset class="tk-cov"><legend>Outcomes it covers</legend><span class="xs muted">The column moves to just after the last outcome you tick${kind === "summative" ? ", so you can give a summative whenever those outcomes are taught" : ""}. A generated ${kind === "summative" ? "test" : "quiz"} covers only these outcomes.</span>
+      <div class="tk-covl">${u.sos.map(so => `<label class="row small" style="gap:6px;flex-wrap:nowrap"><input type="checkbox" data-tk="cover" value="${tkEsc(so.code)}" ${c.includes(so.code) ? "checked" : ""}><span style="min-width:0"><span class="code">${tkEsc(so.code)}</span> ${tkEsc(so.title)}</span></label>`).join("")}</div>
+      ${it?.plan_date ? `<p class="small" style="margin:4px 0 0">In your weekly plan on <b>${tkEsc(shortDate(it.plan_date))}</b>.</p>` : ""}
+      ${plan.filter(e => e.date !== it?.plan_date).length ? `<div class="row" style="gap:6px;flex-wrap:wrap;margin-top:4px"><span class="xs muted">From your weekly plan:</span>${plan.filter(e => e.date !== it?.plan_date).map(e => `<button class="btn ghost sm" data-tk="useplan" data-date="${tkEsc(e.date)}">${tkEsc(e.title)} · ${tkEsc(shortDate(e.date))}</button>`).join("")}</div>` : ""}</fieldset>`;
+  }
   function quizBox(q, att) {
     const n = q.items.length, done = att.length, total = TK.students.length;
     return `<div class="stack" style="gap:8px"><div class="row" style="gap:8px;flex-wrap:wrap"><b>${tkEsc(q.title)}</b><span class="badge">${n} questions</span><span class="badge ${q.open ? "b-quiz" : ""}">${q.open ? "Open to students" : "Closed"}</span><span class="small muted">${done} of ${total} completed</span></div>
@@ -233,8 +275,9 @@
   const quizable = x => (x.type === "mc" && Array.isArray(x.options) && x.options.length >= 2 && x.answer) || (x.type === "short" && ((x.accept && x.accept.length) || x.answer));
 
   // ---------- generation and upload ----------
-  function unitContext(c, u) {
-    return `Course: ${courseName(c.course)}. Unit: ${u.title}.\nOutcomes in this unit:\n${u.sos.map(so => `- ${so.code} ${so.title}: ${so.outcome || ""} Lessons: ${(so.lessons || []).join("; ")}`).join("\n")}`;
+  function unitContext(c, u, it) {
+    const sos = coveredSos(u, it);
+    return `Course: ${courseName(c.course)}. Unit: ${u.title}.\nOutcomes ${sos.length < u.sos.length ? "this assessment covers" : "in this unit"}:\n${sos.map(so => `- ${so.code} ${so.title}: ${so.outcome || ""} Lessons: ${(so.lessons || []).join("; ")}`).join("\n")}`;
   }
   function languageHint(c, u) {
     const ar = u.sos.some(so => isArabic(so.title) || isArabic((so.lessons || []).join(" "))) || /^AR[AB]/.test(c.course);
@@ -251,8 +294,8 @@
     TK.busy = "gen"; rerender();
     const n = summ ? 18 : 10, mc = summ ? 12 : 6;
     const prompt = `You are an experienced teacher writing a ${summ ? "summative unit test" : "formal quiz"} that students take online.
-${unitContext(c, u)}
-Write exactly ${n} questions: ${mc} multiple choice and ${n - mc} short answer, ${summ ? "covering every outcome in the unit, " : ""}from Basic to Challenge (about 40% Basic, 40% Intermediate, 20% Challenge).${languageHint(c, u)}
+${unitContext(c, u, TK.items[u.key + "|" + s.slot])}
+Write exactly ${n} questions: ${mc} multiple choice and ${n - mc} short answer, ${summ ? "covering every outcome listed, " : "only on the outcomes listed, "}from Basic to Challenge (about 40% Basic, 40% Intermediate, 20% Challenge).${languageHint(c, u)}
 Multiple choice: 4 options labelled "A) ", "B) ", "C) ", "D) "; "answer" is the full correct option exactly as written; one clearly correct answer and plausible distractors.
 Short answer: the answer must be a single word, number or short phrase that can be marked automatically; list every acceptable form in "accept" (for numbers include equivalent forms).
 Check every answer carefully. Plain text only: no LaTeX and no markdown.
@@ -317,7 +360,7 @@ Return ONLY JSON: {"title":"short title","items":[{"type":"mc","q":"...","option
       const uidv = P().getUser().id, path = `${uidv}/${it.id}/${Date.now()}-${file.name.replace(/[^\w.\-]+/g, "_")}`;
       const { error: upErr } = await SB().storage.from("pb-uploads").upload(path, file, { upsert: true, contentType: media || undefined });
       if (upErr) throw new Error("upload");
-      const body = { kind: s.kind, name: file.name, context: unitContext(c, u) + (s.title ? `\nLesson: ${s.title}` : "") };
+      const body = { kind: s.kind, name: file.name, context: unitContext(c, u, TK.items[u.key + "|" + s.slot]) + (s.title ? `\nLesson: ${s.title}` : "") };
       if (docx) body.text = await docxText(file); else { body.mediaType = media; body.data = await b64(file); }
       const { data: { session } } = await SB().auth.getSession();
       const r = await fetch("/api/analyze", { method: "POST", headers: { "content-type": "application/json", authorization: "Bearer " + session.access_token }, body: JSON.stringify(body) });
@@ -383,6 +426,12 @@ Return ONLY JSON: {"title":"short title","items":[{"type":"mc","q":"...","option
     const el = e.target.closest("[data-tk]"); if (!el) return; const a = el.dataset.tk;
     if (a === "class") return selectClass(el.value);
     if (a === "unit") { TK.unit = el.value; return rerender(); }
+    if (a === "imode") {
+      const c = cur(); TK.cfg.informal_mode = el.value === "outcome" ? "outcome" : "lesson"; rerender();
+      const { error } = await SB().from("pb_tracker_classes").upsert({ teacher_id: P().getUser().id, class_ref: c.ref, informal_mode: TK.cfg.informal_mode, updated_at: new Date().toISOString() }, { onConflict: "teacher_id,class_ref" });
+      say(error ? "Couldn't save that setting. Try again." : TK.cfg.informal_mode === "outcome" ? "One informal check after each outcome. Levels recorded per lesson are kept and come back if you switch again." : "One informal check after each lesson.");
+      return;
+    }
     if (a === "mark") {
       el.disabled = true;
       try { const c = cur(), u = unitsOf(c.course).find(x => x.key === el.dataset.u), s = slotsOf(u).find(x => x.slot === el.dataset.s); const it = await ensureItem(u.key, s.slot, s.kind, s); await setMark(it, el.dataset.st, el.value); } catch (err) {}
@@ -399,12 +448,21 @@ Return ONLY JSON: {"title":"short title","items":[{"type":"mc","q":"...","option
     if (a === "methodtext") { const v = el.value.trim(); if (!v) return; const it = await ensureItem(P0.u.key, P0.s.slot, P0.s.kind, P0.s); await updateItem(it, { method: v.slice(0, 80) }); return rerender(); }
     if (a === "title") { const it = await ensureItem(P0.u.key, P0.s.slot, P0.s.kind, P0.s); await updateItem(it, { title: el.value.trim().slice(0, 120) || it.title }); return; }
     if (a === "upload") return upload(el.files && el.files[0]);
+    if (a === "cover") {
+      const box = el.closest(".tk-cov"), ticked = [...box.querySelectorAll('[data-tk="cover"]:checked')].map(x => x.value);
+      if (!ticked.length) { el.checked = true; return say("Tick at least one outcome."); }
+      const all = ticked.length === P0.u.sos.length;
+      const it = await ensureItem(P0.u.key, P0.s.slot, P0.s.kind, P0.s); await updateItem(it, { covers: all ? null : ticked }); return rerender();
+    }
   });
   document.addEventListener("click", async e => {
     const el = e.target.closest("[data-tk]"); if (!el || el.tagName === "SELECT" || el.tagName === "INPUT") return; const a = el.dataset.tk;
     if (a === "view") { TK.view = el.dataset.v; return rerender(); }
     if (a === "open") { TK.panel = { u: el.dataset.u, s: el.dataset.s, k: el.dataset.k }; return rerender(); }
     if (a === "close") { TK.panel = null; return rerender(); }
+    if (a === "adds") { const c = cur(), u = unitsOf(c.course).find(x => x.key === el.dataset.u); await ensureItem(u.key, el.dataset.s, "summative", {}); TK.panel = { u: u.key, s: el.dataset.s, k: "summative" }; return rerender(); }
+    if (a === "planadd") { const c = cur(), u = unitsOf(c.course).find(x => x.key === el.dataset.u), e = planFor(u).find(x => x.date === el.dataset.date); if (!e) return; const sl = await linkPlan(u, e); if (sl) { TK.panel = { u: u.key, s: sl, k: e.kind === "formal" ? "formal" : "summative" }; say("Added from your weekly plan."); } return rerender(); }
+    if (a === "useplan") { const P1 = panelSlot(); if (!P1) return; const e = planFor(P1.u).find(x => x.date === el.dataset.date); if (!e) return; await linkPlan(P1.u, { ...e, kind: P1.s.kind }, P1.s.slot); return rerender(); }
     if (a === "addf3") { const c = cur(), u = unitsOf(c.course).find(x => x.key === el.dataset.u); await ensureItem(u.key, "F3", "formal", { title: "" }); return rerender(); }
     if (a === "gen") return generate();
     if (a === "qopen") return toggleQuiz();
