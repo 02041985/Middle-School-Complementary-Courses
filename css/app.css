@@ -368,6 +368,9 @@ aside select.cpick{width:100%}
 .tk-cov{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:0;display:flex;flex-direction:column;gap:6px;min-width:0}
 .tk-cov legend{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:0 4px}
 .tk-covl{display:flex;flex-direction:column;gap:3px;max-height:220px;overflow-y:auto}
+.tk-table thead th.tk-g{position:static;text-align:start;padding:7px 10px;font-size:.8rem;font-weight:700;border-left:2px solid var(--line);background:color-mix(in srgb,var(--accent) 6%,var(--surface));white-space:nowrap;max-width:320px;overflow:hidden;text-overflow:ellipsis}
+.tk-table thead tr:first-child th.tk-st{background:var(--surface)}
+.tk-lh{min-width:62px}
 /* ---------- lesson resources ---------- */
 .lk-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%;margin-top:6px}
 .lk-row .eyebrow{width:100%}

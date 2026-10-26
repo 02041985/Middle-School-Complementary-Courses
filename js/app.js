@@ -142,13 +142,14 @@ const seg = (cur, act, opts) => `<div class="seg" role="group">${opts.map(([v,l]
 const courseOpts = sel => [7,8,9].map(gr => `<optgroup label="Grade ${gr}">${Object.keys(COURSES).filter(k => COURSES[k].grade === gr).map(k => `<option value="${k}" ${k===sel?"selected":""}>${COURSES[k].name}</option>`).join("")}</optgroup>`).join("");
 const gradeSeg = (cur, act) => `<select class="cpick" data-cact="${act}" aria-label="Course">${courseOpts(cur)}</select>`;
 const ph = (title, sub, actions="") => `<div class="ph"><div><div class="crumb">${esc(GROUP_OF[S.tab])}</div><h1>${title}</h1>${sub ? `<p class="sub">${sub}</p>` : ""}</div>${actions ? `<div class="ph-actions">${actions}</div>` : ""}</div>`;
-const typeBadge = t => `<span class="badge b-${t}">${t === "lesson" ? "Lesson" : t === "ws" ? "Workshop" : t === "review" ? "Review" : "Check-in"}</span>`;
+const typeBadge = t => `<span class="badge b-${t}">${t === "lesson" ? "Lesson" : t === "ws" ? "Workshop" : t === "review" ? "Review" : "Formal"}</span>`;
 
 // ---------- plan engine ----------
 // flexible plan: spans and activities
 // flexible plan: assessment days
+// flexible plan: review = informal check, check-in = formal assessment
 const evBadge = e => e && e.kind === "summative" ? `<span class="badge b-summ">Summative</span>` : e && e.kind === "formal" ? `<span class="badge b-formal">Formal</span>` : `<span class="badge b-event">Activity</span>`;
-const checkTag = s => s && s.endOf ? `<span class="chk">Informal check: ${esc(s.endOf)}</span>` : "";
+const checkTag = s => s && s.endOf && s.type !== "review" ? `<span class="chk">Informal check: ${esc(s.endOf)}</span>` : "";
 const codeRange = codes => { const order = SOS.map(x => x.code), cs = [...new Set(codes)].filter(c => SO[c]).sort((a,b) => order.indexOf(a) - order.indexOf(b)); if (!cs.length) return ""; const ix = cs.map(c => order.indexOf(c)); return cs.length > 2 && ix.every((v,k) => !k || v === ix[k-1] + 1) ? `${cs[0]}–${cs[cs.length-1]}` : cs.join(", "); };
 // outcomes finished before an assessment day and after the previous assessment of the same kind
 function coveredBefore(plan, date, kind){
@@ -167,8 +168,8 @@ function sessions(plan){
     const so = SO[c];
     so.lessons.forEach((t,i) => list.push({type:"lesson", code:c, i, title:t}));
     if (plan.ws) list.push({type:"ws", code:c, title:`Practice workshop: ${so.title}`});
-    if (plan.review) list.push({type:"review", code:c, title:`Review and practice: ${so.title}`});
-    if (plan.quiz) list.push({type:"quiz", code:c, title:`Check-in quiz: ${so.title}`});
+    if (plan.review) list.push({type:"review", code:c, title:`Review and informal check: ${so.title}`});
+    if (plan.quiz) list.push({type:"quiz", code:c, title:`Formal assessment: ${so.title}`});
   });
   const skip = new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean));
   let d = parseISO(plan.start), guard = 0;
@@ -180,7 +181,7 @@ function sessions(plan){
       out.push({...s, key, part, parts: n, date: new Date(d)}); d = addDays(d, 1);
     }
   }
-  const lastBy = {}; out.forEach((s,ix) => { if (s.code) lastBy[s.code] = ix; }); Object.values(lastBy).forEach(ix => { out[ix].endOf = out[ix].code; });
+  const lastBy = {}; out.forEach((s,ix) => { if (s.code && (s.type === "lesson" || s.type === "review")) lastBy[s.code] = ix; }); Object.values(lastBy).forEach(ix => { out[ix].endOf = out[ix].code; });
   out.forEach((s,ix) => s.ix = ix);
   return out;
 }
@@ -382,7 +383,7 @@ function rWeek(){
           ${planEvents(p).length ? `<div class="stack" style="gap:4px">${planEvents(p).map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}${e.kind ? ` <span class="xs muted">(${e.kind === "summative" ? "summative" : "formal"}${e.outcomes && e.outcomes.length ? ": " + esc(codeRange(e.outcomes)) : ""})</span>` : ""}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : ""}</div>
         ${list.length ? `<details class="flexdays"><summary class="eyebrow">Days per lesson</summary><span class="xs muted">Spread a lesson or review over two or three days.</span>
           <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${list.filter(s => s.part === 1).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:2px 0"><select data-act="span" data-key="${esc(s.key)}" aria-label="Days for ${esc(s.title)}" style="width:62px;flex:none;padding:3px 4px">${[1,2,3,4,5].map(n => `<option value="${n}" ${n===s.parts?"selected":""}>${n} day${n>1?"s":""}</option>`).join("")}</select><span style="min-width:0">${s.code ? `<span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> ` : ""}${esc(s.title)}</span></label>`).join("")}</div></details>` : ""}
-        <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Check-in quiz after each outcome</label></div>
+        <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day and informal check after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Formal assessment after each outcome</label></div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Outcomes (${p.sos.length})</span>
           <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span><span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>
       </div>
