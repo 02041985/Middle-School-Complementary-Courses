@@ -259,7 +259,7 @@
         ${kind === "formal" && s.slot !== "F3" && !TK.items[u.key + "|" + (s.slot === "F1" ? "F2" : "F3")] ? `<button class="btn ghost sm" data-tk="addf" data-u="${tkEsc(u.key)}" style="align-self:flex-start">${icn("plus")}Another formal assessment for ${tkEsc(u.key)}</button>` : ""}
       </div>
       ${kind !== "informal" ? `<div class="tk-sec"><h3>Use a generated ${kind === "summative" ? "unit test" : "quiz"}</h3>
-        <p class="small muted">${kind === "summative" ? "At least 15 questions covering the outcomes ticked above," : `Up to 10 questions on ${tkEsc(u.key)},`} a mix of multiple choice and short answer. Students take it online and their levels fill in automatically.</p>
+        <p class="small muted">${kind === "summative" ? "At least 15 questions covering the outcomes ticked above," : `Up to 10 questions on ${tkEsc(u.key)},`} a mix of multiple choice and short answer, taken from the lessons' practice tests. Students take it online and their levels fill in automatically.</p>
         ${!c.online ? `<p class="small note">Online quizzes need an online class (Students tab). For this markbook class, record levels by hand.</p>` :
           q ? quizBox(q, att) : `<button class="btn" data-tk="gen" ${busy ? "disabled" : ""}>${busy === "gen" ? `<span class="spinner"></span>Writing…` : `${icn("spark")}Generate ${kind === "summative" ? "unit test" : "quiz"}`}</button>`}
       </div>` : ""}
@@ -315,12 +315,40 @@
     if (kg) h += " These are Kindergarten children: the teacher reads each question aloud; keep questions very short and concrete, options one or two words.";
     return h;
   }
+  // ---------- quizzes built from the lessons' own practice tests (no Claude needed) ----------
+  const shuffle = a => { const b = a.slice(); for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
+  const markableShort = x => x && x.type === "short" && ((Array.isArray(x.accept) && x.accept.length) ||
+    (x.answer && String(x.answer).length <= 24 && !/vary|varies|e\.g\.|example|explain|answers will|own words|any /i.test(String(x.answer))));
+  async function lessonItems(code) {
+    const out = [];
+    try { const f = P()?.lessonFile ? await P().lessonFile(code) : null; (f?.lessons || []).forEach(L => (L.test?.items || []).forEach(x => out.push({ ...x, outcome: code }))); } catch (e) {}
+    try { if (typeof S !== "undefined" && S.lessons) Object.entries(S.lessons).forEach(([k, L]) => { if (k.startsWith(code + "_")) (L?.test?.items || []).forEach(x => out.push({ ...x, outcome: code })); }); } catch (e) {}
+    const seen = new Set(); return out.filter(x => x && x.q && !seen.has(x.q) && seen.add(x.q));
+  }
+  // spread the questions evenly over the outcomes, mixing levels: multiple choice plus auto-markable short answers
+  async function builtQuiz(sos, n, mcN) {
+    const per = await Promise.all(sos.map(so => lessonItems(so.code)));
+    const mcs = per.map(l => shuffle(l.filter(x => x.type === "mc" && Array.isArray(x.options) && x.options.length >= 2 && x.answer)));
+    const shs = per.map(l => shuffle(l.filter(markableShort)));
+    const take = (lists, k) => { const got = []; let i = 0; while (got.length < k && lists.some(l => l.length)) { const l = lists[i % lists.length]; if (l.length) got.push(l.shift()); i++; } return got; };
+    let short = take(shs, n - mcN), mc = take(mcs, n - short.length);
+    const items = cleanItems(shuffle(mc).concat(shuffle(short)));
+    return items.length >= Math.min(n, 5) ? items.slice(0, n) : null;
+  }
   async function generate() {
     const P0 = panelSlot(); if (!P0) return; const { c, u, s } = P0; const summ = s.kind === "summative";
     if (summ && !u.sos.length) return say("Tick the outcomes the summative covers first.");
-    if (!P()?.sample) return say("Lesson writing isn't available here.");
     TK.busy = "gen"; rerender();
     const n = summ ? 18 : 10, mc = summ ? 12 : 6;
+    try {
+      const built = await builtQuiz(u.sos, n, mc);
+      if (built && built.length >= (summ ? 15 : 5)) {
+        await saveQuiz(c, u, s, (summ ? "Summative: " + codesText(u.sos.map(x => x.code)) : "Quiz: " + (u.sos[0]?.title || u.title)).slice(0, 200), built, "generated");
+        say(`${summ ? "Unit test" : "Quiz"} made from the lessons' practice tests (${built.length} questions). Open it for students when you're ready.`);
+        TK.busy = ""; return rerender();
+      }
+    } catch (e) {}
+    if (!P()?.sample) { TK.busy = ""; rerender(); return say("These outcomes have no lessons with practice tests yet."); }
     const prompt = `You are an experienced teacher writing a ${summ ? "summative unit test" : "formal quiz"} that students take online.
 ${unitContext(c, u)}
 Write exactly ${n} questions: ${mc} multiple choice and ${n - mc} short answer, ${summ ? "covering every outcome listed, " : "only on the outcomes listed, "}from Basic to Challenge (about 40% Basic, 40% Intermediate, 20% Challenge).${languageHint(c, u)}

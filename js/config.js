@@ -15,6 +15,7 @@ window.PB_CONFIG = {
   const create = lib.createClient;
   lib.createClient = function (url, key, opts) {
     const client = create.call(this, url, key, opts);
+    if (!client || !client.auth || typeof client.auth.signUp !== "function") return client;
     const signUp = client.auth.signUp.bind(client.auth);
     client.auth.signUp = async function (args) {
       const email = String((args && args.email) || "").trim().toLowerCase();
