@@ -311,6 +311,7 @@
     let h = "";
     if (/^ARB/.test(c.course)) h += " This is Arabic B (non-native learners): write questions and answers in simple Modern Standard Arabic with full diacritics; short English instructions are allowed.";
     else if (ar) h += " Write every question, option and answer in correct Modern Standard Arabic.";
+    if (/^FSL/.test(c.course)) h += " This is French as a Second Language for beginners: write instructions in simple English and the French words, phrases and sentences in correct French with accents, at the level of the outcomes above. Short answers are one French word or a short phrase; list the accepted forms with and without accents.";
     if (kg) h += " These are Kindergarten children: the teacher reads each question aloud; keep questions very short and concrete, options one or two words.";
     return h;
   }
