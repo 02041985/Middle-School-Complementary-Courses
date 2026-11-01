@@ -69,7 +69,7 @@ const GROUP_OF = Object.fromEntries(NAV.flatMap(g => g.items.map(i => [i[0], g.g
 // ---------- state ----------
 const S = {
   tab: "home", curGrade: "ART7", curSel: "ART7.A1", cq: "",
-  plan: {grade:"ART7", sos:["ART7.A1","ART7.B1"], start: iso(nextMonday()), period:60, days:[1,2,3,4,5], skip:"", ws:true, review:true, quiz:true},
+  plan: {grade:"ART7", sos:["ART7.A1","ART7.B1"], start: iso(nextMonday()), period:50, days:[1,2,3,4,5], skip:"", ws:true, review:true, quiz:true},
   daySel: null,
   lesson: {code:"ART7.A1", i:0}, ltab: "overview", lessons: {}, busy: null, genErr: "", showAns: false,
   classes: [], classSel: null, assess: [], assessSel: null, newAssess: null, newClass: false, confirm: null, classPanel: false,
@@ -1413,7 +1413,7 @@ app.addEventListener("change", e => {
   else if (act === "aso") { const n = S.newAssess; n.name = $("#aName").value; n.date = $("#aDate").value; n.type = $("#aType").value; n.sos = el.checked ? [...n.sos, el.dataset.code] : n.sos.filter(c => c !== el.dataset.code); }
   else if (id === "pGrade") { if (typeof ctxSwitch === "function") ctxSwitch(el.value); else { p.grade = el.value; p.sos = [gradeSOs(p.grade)[0].code]; } S.daySel = null; savePlan(); render(); }
   else if (id === "pStart") { if (el.value) { p.start = el.value; S.daySel = null; savePlan(); render(); } }
-  else if (id === "pPeriod") { p.period = Math.max(30, Math.min(120, +el.value || 60)); savePlan(); }
+  else if (id === "pPeriod") { p.period = Math.max(30, Math.min(120, +el.value || 50)); savePlan(); }
   else if (id === "pSkip") { p.skip = el.value; savePlan(); render(); }
   else if (id === "pWs") { p.ws = el.checked; S.daySel = null; savePlan(); render(); }
   else if (id === "pReview") { p.review = el.checked; S.daySel = null; savePlan(); render(); }

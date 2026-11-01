@@ -74,7 +74,7 @@
     const codes = [...new Set(D.list.map(s => s.code).filter(Boolean))];
     return `<section class="pg cover"><div class="cv-top"><div class="cv-k">Plans folder</div><h1>${e_(planbookName())}</h1><div class="cv-sub">${e_(courseOf(D))}${clsText() ? " · " + e_(clsText()) : ""}</div></div>
       <table class="cv-t"><tr><th>Teacher</th><td>${e_(f.teacher || "")}</td></tr><tr><th>Class</th><td>${e_(clsText())}</td></tr><tr><th>School</th><td>${e_(f.school ?? "Maplewood Canadian International School")}</td></tr>
-        <tr><th>Term</th><td>${e_(f.term || "")}</td></tr><tr><th>Dates</th><td>${e_(longDate(first))} – ${e_(longDate(last))}</td></tr><tr><th>Teaching days</th><td>${D.list.length} in ${D.weeks.length} weeks, ${S.plan.period || 60}-minute periods</td></tr></table>
+        <tr><th>Term</th><td>${e_(f.term || "")}</td></tr><tr><th>Dates</th><td>${e_(longDate(first))} – ${e_(longDate(last))}</td></tr><tr><th>Teaching days</th><td>${D.list.length} in ${D.weeks.length} weeks, ${S.plan.period || 50}-minute periods</td></tr></table>
       <div class="cv-o"><div class="cv-k">Outcomes in this folder</div><ol>${codes.map(c => `<li><b>${e_(codeLabel(c))}</b> ${e_(SO[c].title)}</li>`).join("")}</ol></div>
       <div class="cv-foot">Made with the ${e_(planbookName())} planbook · ${e_(new Date().toLocaleDateString([], { day: "numeric", month: "long", year: "numeric" }))}</div></section>`;
   }
