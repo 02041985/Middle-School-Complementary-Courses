@@ -88,7 +88,7 @@
       if (u && SB()) {
         const { data, error } = await SB().from("pb_classes").select("id,name,grade,subject,course,section").eq("teacher_id", u.id).order("created_at");
         if (error) throw error;
-        (data || []).filter(c => classApp(c) === appKey()).forEach(c => out.push({ ref: "pt:" + c.id, id: c.id, name: c.name + (c.section ? ` (${c.section})` : ""), course: String(c.course || c.grade), grade: c.grade, online: true }));
+        (data || []).filter(c => classApp(c) === appKey()).forEach(c => out.push({ ref: "pt:" + c.id, id: c.id, name: c.name + (c.section ? ` (${c.section})` : ""), course: String(c.course || c.grade), grade: c.grade, section: c.section || "", online: true }));
       }
     } catch (e) { TK.err = "Couldn't load your online classes. Refresh to try again."; }
     try { (S.classes || []).forEach(c => out.push({ ref: "mb:" + c.id, id: c.id, name: c.name, course: String(c.grade), online: false, students: c.students || [] })); } catch (e) {}
@@ -197,12 +197,21 @@
     if (typeof S !== "undefined" && S.storeReady === false) return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading your classes…</div></div>`;
     if (TK.list === null) { loadList(); return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading your classes…</div></div>`; }
     if (!TK.list.length) return head + `<div class="card"><div class="empty"><h2>No classes yet</h2><p>Create an online class on the Students tab (students join with your class group or code), or a class in the markbook. Then come back to track assessments.</p><div class="row" style="justify-content:center;margin-top:12px"><button class="btn" data-act="tab" data-t="students">Go to Students</button><button class="btn ghost" data-act="tab" data-t="marks">Go to Markbook</button></div></div></div>`;
+    // only the classes of the grade chosen in the planbook (Curriculum / grade and group bar); the group's class first
+    const pg = (typeof S !== "undefined" && S.plan && S.plan.grade != null) ? String(S.plan.grade) : null, grp = (typeof S !== "undefined" && S.plan && S.plan.group) || "A";
+    const gshown = pg ? TK.list.filter(x => String(x.course) === pg) : TK.list;
+    if (pg && !gshown.length) return head + `<div class="card"><div class="empty"><h2>No ${tkEsc(courseName(pg))} classes yet</h2><p>The tracker shows the classes of the grade chosen in the planbook. Create a ${tkEsc(courseName(pg))} online class on the Students tab, or a markbook class, or choose another grade above.</p><div class="row" style="justify-content:center;margin-top:12px"><button class="btn" data-act="tab" data-t="students">Go to Students</button><button class="btn ghost" data-act="tab" data-t="marks">Go to Markbook</button></div></div></div>`;
+    if (pg && (TK.ctx !== pg + "@" + grp || !gshown.some(x => x.ref === TK.ref))) {
+      TK.ctx = pg + "@" + grp;
+      const want = gshown.find(x => x.online && String(x.section).toUpperCase() === grp) || gshown.find(x => new RegExp("(^|\\W)" + pg.replace(/[-]/g, "\\-") + "\\s*" + grp + "(\\W|$)", "i").test(x.name)) || gshown[0];
+      if (want.ref !== TK.ref) { selectClass(want.ref); return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading ${tkEsc(want.name)}…</div></div>`; }
+    }
     const c = cur();
     const strands = c ? strandsOf(c.course) : [];
     const shown = TK.unit === "all" ? strands : strands.filter(u => u.key === TK.unit);
     return head + `<div class="stack" style="gap:16px">
       <div class="card"><div class="card-b row tk-bar">
-        <label class="f">Class<select data-tk="class">${TK.list.map(x => `<option value="${tkEsc(x.ref)}" ${x.ref === TK.ref ? "selected" : ""}>${tkEsc(x.name)} · ${tkEsc(courseName(x.course))}${x.online ? "" : " (markbook)"}</option>`).join("")}</select></label>
+        <label class="f">Class<select data-tk="class">${gshown.map(x => `<option value="${tkEsc(x.ref)}" ${x.ref === TK.ref ? "selected" : ""}>${tkEsc(x.name)} · ${tkEsc(courseName(x.course))}${x.online ? "" : " (markbook)"}</option>`).join("")}</select></label>
         <label class="f">Strand<select data-tk="unit"><option value="all">All strands</option>${strands.map(u => `<option value="${tkEsc(u.key)}" ${u.key === TK.unit ? "selected" : ""}>${tkEsc(u.title)}</option>`).join("")}</select></label>
         <label class="f">Informal checks<select data-tk="imode"><option value="outcome" ${TK.cfg.informal_mode !== "lesson" ? "selected" : ""}>One per outcome (review day)</option><option value="lesson" ${TK.cfg.informal_mode === "lesson" ? "selected" : ""}>One per lesson</option></select></label>
         <div class="seg" role="tablist" style="margin-left:auto"><button class="btn ${TK.view === "table" ? "" : "ghost"} sm" data-tk="view" data-v="table">Tracker</button><button class="btn ${TK.view === "charts" ? "" : "ghost"} sm" data-tk="view" data-v="charts">${icn("chart")}Charts</button></div>

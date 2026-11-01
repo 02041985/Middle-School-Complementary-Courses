@@ -7,7 +7,7 @@
   if (typeof S === "undefined" || !S.plan) return;
   const PER = ["sos", "order", "pins", "akind", "akindDefault", "events", "spans", "folder"];
   const GROUPS = ["A", "B", "C"];
-  const TABS = ["home", "curriculum", "week", "day", "lessons", "folder"];
+  const TABS = ["home", "curriculum", "week", "day", "lessons", "folder", "tracker", "marks", "analysis"];
   const e_ = v => (typeof esc === "function" ? esc(v) : String(v ?? ""));
   const clone = v => JSON.parse(JSON.stringify(v));
   const keyOf = (g, grp) => `${g}@${grp || "A"}`;
@@ -60,6 +60,22 @@
     const ph = root.querySelector(".ph");
     if (ph) ph.insertAdjacentHTML("afterend", html); else root.insertAdjacentHTML("afterbegin", html);
   }
+  // the Markbook and Analysis show only the classes of the chosen grade (the group's class first)
+  const sameGrade = c => String(c.grade) === String(S.plan.grade);
+  const wantClass = list => { const g = String(S.plan.grade), grp = S.plan.group || "A"; return list.find(c => new RegExp("(^|\\W)" + g.replace(/[-]/g, "\\-") + "\\s*" + grp + "(\\W|$)", "i").test(c.name)) || list[0]; };
+  function gradeOnly(fn) {
+    return function () {
+      if (!Array.isArray(S.classes) || !S.classes.length) return fn.apply(this, arguments);
+      const all = S.classes, mine = all.filter(sameGrade);
+      if (!mine.some(c => c.id === S.classSel)) { const w = mine.length ? wantClass(mine) : null; S.classSel = w ? w.id : null; S.assessSel = null; }
+      S.classes = mine;
+      let html; try { html = fn.apply(this, arguments); } finally { S.classes = all; }
+      const others = all.length - mine.length;
+      return others && typeof html === "string" ? html.replace(/(<\/div>)/, `$1<p class="small muted" style="margin:-4px 0 12px">Showing ${e_(gradeName(S.plan.grade))} classes. ${others} class${others === 1 ? "" : "es"} in other grades; choose another grade above to see them.</p>`) : html;
+    };
+  }
+  if (typeof rMarks === "function") { const f = rMarks; rMarks = gradeOnly(f); }
+  if (typeof rAnalysis === "function") { const f = rAnalysis; rAnalysis = gradeOnly(f); }
   const _render = render;
   // eslint-disable-next-line no-global-assign
   render = function () { syncPages(); const r = _render.apply(this, arguments); try { place(); } catch (e) {} return r; };
