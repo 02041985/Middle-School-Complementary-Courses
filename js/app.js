@@ -209,7 +209,39 @@ document.addEventListener("click", e => { const b = e.target.closest("[data-ak]"
   if (b.dataset.ak === "all") { p.akindDefault = v; p.sos.forEach(c => { p.akind[c] = v; }); toast(v === "summative" ? "Every outcome ends with a summative assessment" : "Every outcome ends with a formal assessment"); }
   else { p.akind[b.dataset.code] = v; toast(`${typeof sc === "function" ? sc(b.dataset.code) : b.dataset.code}: ${v} assessment`); }
   S.daySel = null; savePlan(); render(); });
+// flexible plan: summative dates chosen by the teacher
+// Summative assessments are days the teacher picks. Each one is a summative day on the weekly plan (lessons move on to the
+// next teaching day) and a summative column in the assessment tracker covering the outcomes finished since the last one.
+// Plans made with the old formal/summative switch keep their summative days: they become dated summatives here.
+function summMigrate(plan){
+  const ak = plan.akind || {};
+  if (!Object.values(ak).includes("summative") && plan.akindDefault !== "summative") return;
+  let old = [];
+  plan._mig = true; try { old = sessions(plan).filter(s => s.akind === "summative" && s.part === 1); } catch (e) {} delete plan._mig;
+  const have = new Set(planEvents(plan).map(e => e.date));
+  plan.events = [...planEvents(plan), ...old.filter(s => !have.has(iso(s.date))).map(s => ({date: iso(s.date), title: `Summative assessment: ${typeof sc === "function" ? sc(s.code) : s.code}`.slice(0, 60), kind: "summative", outcomes: [s.code]}))];
+  delete plan.akind; delete plan.akindDefault;
+}
+function sumBox(p){
+  const ev = planEvents(p).filter(e => e.kind === "summative"), codes = [...(p.sos || [])].filter(c => SO[c]).sort((a,b) => SOS.findIndex(x => x.code === a) - SOS.findIndex(x => x.code === b));
+  return `<details class="flexdays sumbox" open><summary class="eyebrow">Summative assessments</summary>
+    <span class="xs muted">Choose the dates. Each one goes on the weekly plan as a summative day and into the assessment tracker as a summative covering the outcomes finished since the last one. Lessons move to the next teaching day.</span>
+    <div class="row" style="gap:6px;align-items:flex-end;margin-top:8px"><input type="date" id="smDate" aria-label="Summative date" style="flex:1 1 130px;min-width:0"><input id="smTitle" maxlength="60" placeholder="Name (optional)" aria-label="Summative name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-sm="add">Add</button></div>
+    ${codes.length ? `<details style="margin-top:6px"><summary class="xs" style="cursor:pointer">Choose the outcomes it covers (optional)</summary><div class="stack" style="gap:2px;max-height:170px;overflow-y:auto;margin-top:4px">${codes.map(c => `<label class="row small" style="gap:6px;flex-wrap:nowrap"><input type="checkbox" class="smO" value="${esc(c)}"><span style="min-width:0"><span class="code">${esc(typeof sc === "function" ? sc(c) : c)}</span> ${esc(SO[c].title)}</span></label>`).join("")}</div></details>` : ""}
+    ${ev.length ? `<div class="stack" style="gap:4px;margin-top:8px">${ev.map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><span class="badge b-summ">Summative</span> <b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}${e.outcomes && e.outcomes.length ? ` <span class="xs muted">(${esc(codeRange(e.outcomes))})</span>` : ""}</span><button type="button" class="linkbtn xs" data-sm="del" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : `<p class="xs muted" style="margin:8px 0 0">No summative dates yet.</p>`}</details>`;
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-sm]"); if (!b || typeof S === "undefined" || !S.plan) return;
+  const p = S.plan;
+  if (b.dataset.sm === "del") { p.events = planEvents(p).filter(x => x.date !== b.dataset.date); S.daySel = null; savePlan(); render(); toast("Summative removed"); return; }
+  const date = (document.getElementById("smDate")?.value || "");
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { toast("Choose a date first"); return; }
+  let outcomes = [...document.querySelectorAll(".smO:checked")].map(x => x.value);
+  if (!outcomes.length) outcomes = coveredBefore(p, date, "summative");
+  if (!outcomes.length) { toast("No planned outcomes finish before that date. Tick the outcomes it covers."); return; }
+  const title = ((document.getElementById("smTitle")?.value || "").trim() || `Summative assessment: ${codeRange(outcomes)}`).slice(0, 60);
+  p.events = [...planEvents(p).filter(x => x.date !== date), {date, title, kind: "summative", outcomes}]; S.daySel = null; savePlan(); render(); toast(`Summative added on ${fmtS(parseISO(date))}`); });
 function sessions(plan){
+  if (!plan._mig) summMigrate(plan);
   const order = SOS.map(s => s.code);
   const codes = planCodes(plan);
   const list = [];
@@ -223,7 +255,7 @@ function sessions(plan){
   const skip = new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean));
   let d = parseISO(plan.start), guard = 0;
   const evd = new Set(planEvents(plan).map(e => e.date)), spans = plan.spans || {}, out = [];
-  list.forEach(s => { if (s.type === "quiz" && aKind(plan, s.code) === "summative") { s.akind = "summative"; s.title = String(s.title).replace(/^Formal assessment/, "Summative assessment"); } });
+  if (plan._mig) list.forEach(s => { if (s.type === "quiz" && aKind(plan, s.code) === "summative") { s.akind = "summative"; s.title = String(s.title).replace(/^Formal assessment/, "Summative assessment"); } });
   const nextDay = () => { while (guard++ < 3000 && (!plan.days.includes(d.getDay()) || skip.has(iso(d)) || evd.has(iso(d)))) d = addDays(d, 1); };
   const place = s => {
     const key = spanKey(s), n = Math.max(1, Math.min(5, Math.round(+spans[key]) || 1));
@@ -418,7 +450,7 @@ function rCurriculum(){
 function rWeek(){
   const p = S.plan, list = sessions(p), d0 = iso(today0());
   const weeks = [];
-  if (list.length) { let mon = mondayOf(list[0].date); const last = list[list.length-1].date; while (mon <= last) { weeks.push(mon); mon = addDays(mon, 7); } }
+  if (list.length) { let mon = mondayOf(list[0].date); const lastEv = planEvents(S.plan).filter(e => e.kind === "summative").pop(), last = lastEv && parseISO(lastEv.date) > list[list.length-1].date ? parseISO(lastEv.date) : list[list.length-1].date; while (mon <= last) { weeks.push(mon); mon = addDays(mon, 7); } }
   const byDate = Object.fromEntries(list.map(s => [iso(s.date), s])), evBy = Object.fromEntries(planEvents(S.plan).map(e => [e.date, e]));
   const skip = new Set((p.skip||"").split(/[\s,]+/).filter(Boolean));
   const nL = list.filter(s => s.type === "lesson").length;
@@ -435,15 +467,15 @@ function rWeek(){
         </div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Teaching days</span><div class="chips">${[1,2,3,4,5].map(d => `<label class="pick"><input type="checkbox" data-act="pday" data-d="${d}" ${p.days.includes(d)?"checked":""}>${DOW[d]}</label>`).join("")}</div></div>
         <label class="f">No-school dates<input id="pSkip" placeholder="2026-11-11, 2026-11-12" value="${esc(p.skip)}"></label>
-        <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Summative or formal assessment days, assemblies, trips or events. Lessons move to the next teaching day.</span>
-          <div class="row" style="gap:6px;align-items:flex-end"><select id="evKind" data-act="evkind" aria-label="Type of day" style="flex:1 1 150px;min-width:0"><option value="">Other activity</option><option value="summative">Summative assessment</option><option value="formal">Formal assessment</option></select><input type="date" id="evDate" aria-label="Date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="Name, e.g. Sports day" aria-label="Name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
+        <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Formal assessment days, assemblies, trips or events. Lessons move to the next teaching day.</span>
+          <div class="row" style="gap:6px;align-items:flex-end"><select id="evKind" data-act="evkind" aria-label="Type of day" style="flex:1 1 150px;min-width:0"><option value="">Other activity</option><option value="formal">Formal assessment</option></select><input type="date" id="evDate" aria-label="Date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="Name, e.g. Sports day" aria-label="Name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
           <div id="evOutc" class="stack" style="gap:4px" hidden><span class="xs muted">Outcomes it covers. Leave all unticked to use the outcomes finished since the last one. Leave the name empty to name it from the outcomes.</span>
             <div class="stack" style="gap:2px;max-height:170px;overflow-y:auto">${[...p.sos].filter(c => SO[c]).sort((a,b) => SOS.findIndex(x => x.code === a) - SOS.findIndex(x => x.code === b)).map(c => `<label class="row small" style="gap:6px;flex-wrap:nowrap"><input type="checkbox" class="evO" value="${esc(c)}"><span style="min-width:0"><span class="code">${esc(typeof sc === "function" ? sc(c) : c)}</span> ${esc(SO[c].title)}</span></label>`).join("")}</div></div>
           ${planEvents(p).length ? `<div class="stack" style="gap:4px">${planEvents(p).map(e => `<div class="row between small" style="flex-wrap:nowrap;gap:8px"><span style="min-width:0"><b>${fmtS(parseISO(e.date))}</b> · ${esc(e.title)}${e.kind ? ` <span class="xs muted">(${e.kind === "summative" ? "summative" : "formal"}${e.outcomes && e.outcomes.length ? ": " + esc(codeRange(e.outcomes)) : ""})</span>` : ""}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${e.date}">Remove</button></div>`).join("")}</div>` : ""}</div>
         ${list.length ? `<details class="flexdays"><summary class="eyebrow">Days per lesson</summary><span class="xs muted">Spread a lesson or review over two or three days.</span>
           <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${list.filter(s => s.part === 1).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:2px 0"><select data-act="span" data-key="${esc(s.key)}" aria-label="Days for ${esc(s.title)}" style="width:62px;flex:none;padding:3px 4px">${[1,2,3,4,5].map(n => `<option value="${n}" ${n===s.parts?"selected":""}>${n} day${n>1?"s":""}</option>`).join("")}</select><span style="min-width:0">${s.code ? `<span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> ` : ""}${esc(s.title)}</span></label>`).join("")}</div></details>` : ""}
         <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day and informal check after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Formal assessment after each outcome</label></div>
-        ${akindBox(p, list)}
+        ${sumBox(p)}
         ${orderBox(p, list)}
         <div class="stack" style="gap:6px"><span class="eyebrow">Outcomes (${p.sos.length})</span>
           <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span>${p.sos.includes(s.code) ? `<span class="ordn" title="Taught in this position">${planCodes(p).indexOf(s.code) + 1}</span>` : ""}<span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>

@@ -169,8 +169,12 @@
   // ---------- weekly plan link: summative and formal days the teacher added in Plan settings ----------
   const shortDate = d => { try { return new Date(d + "T00:00:00").toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" }); } catch (e) { return d; } };
   // outcome assessment days set to "summative" in the weekly plan count as summative plan days
-  const sumDays = () => { try { return typeof sessions === "function" && S.plan ? sessions(S.plan).filter(s => s.type === "quiz" && s.akind === "summative" && s.part === 1).map(s => ({ date: iso(s.date), kind: "summative", title: s.title, outcomes: [s.code] })) : []; } catch (e) { return []; } };
-  const planEventsFor = (codes, kind) => { try { const ev = [...((typeof S !== "undefined" && S.plan && Array.isArray(S.plan.events)) ? S.plan.events : []), ...sumDays()];
+  // the summative dates the teacher chose on the weekly plan (and days set to summative with the older switch)
+  const sumDays = () => { try { if (!S.plan) return [];
+    const out = (Array.isArray(S.plan.events) ? S.plan.events : []).filter(e => e && e.kind === "summative" && /^\d{4}-\d{2}-\d{2}$/.test(e.date) && Array.isArray(e.outcomes) && e.outcomes.length).map(e => ({ date: e.date, kind: "summative", title: e.title, outcomes: e.outcomes }));
+    if (typeof sessions === "function") sessions(S.plan).filter(s => s.type === "quiz" && s.akind === "summative" && s.part === 1).forEach(s => { if (!out.some(e => e.date === iso(s.date))) out.push({ date: iso(s.date), kind: "summative", title: s.title, outcomes: [s.code] }); });
+    return out; } catch (e) { return []; } };
+  const planEventsFor = (codes, kind) => { try { const ev = [...((typeof S !== "undefined" && S.plan && Array.isArray(S.plan.events)) ? S.plan.events : []).filter(e => e && e.kind !== "summative"), ...sumDays()];
     return ev.filter(e => (e.kind === "summative" || e.kind === "formal") && (!kind || e.kind === kind) && (e.outcomes || []).some(c => codes.includes(c))).sort((a, b) => a.date < b.date ? -1 : 1); } catch (e) { return []; } };
   const linked = e => Object.values(TK.items).some(it => it.plan_date === e.date && it.class_ref === TK.ref);
   async function linkPlan(c, e, toSlot) {
@@ -193,8 +197,8 @@
   // outcome assessment days switched to "summative" in the weekly plan become summative columns automatically;
   // switching back to formal removes that column again while it has no levels, quiz or upload
   async function planSync(c) {
-    const codes = courseSos(c.course).map(so => so.code), want = sumDays().filter(e => codes.includes(e.outcomes[0]));
-    const sig = c.ref + "|" + want.map(e => e.date + e.outcomes[0]).join(",");
+    const codes = courseSos(c.course).map(so => so.code), want = sumDays().filter(e => e.outcomes.some(x => codes.includes(x)));
+    const sig = c.ref + "|" + want.map(e => e.date + e.outcomes.join("+")).join(",");
     if (TK.planSig === sig || TK.syncing) return;
     TK.syncing = true;
     try {
@@ -202,7 +206,7 @@
       for (const e of want) { const slot = "P" + e.date.replace(/-/g, ""); if (!TK.items[SUM + "|" + slot]) { await linkPlan(c, e, slot); changed = true; } }
       const evDates = new Set(((S.plan && S.plan.events) || []).filter(e => e.kind === "summative").map(e => e.date)), keep = new Set(want.map(e => e.date));
       for (const it of Object.values(TK.items)) {
-        if (it.unit !== SUM || it.class_ref !== c.ref || !/^P\d{8}$/.test(it.slot) || !/^Summative assessment:/.test(it.title || "")) continue;
+        if (it.unit !== SUM || it.class_ref !== c.ref || !/^P\d{8}$/.test(it.slot) || !it.plan_date) continue;
         const d = it.plan_date || ""; if (keep.has(d) || evDates.has(d)) continue;
         if (it.quiz_id || it.file_path || Object.keys(TK.marks[it.id] || {}).length) continue;
         const { error } = await SB().from("pb_tracker_items").delete().eq("id", it.id);
