@@ -7,7 +7,7 @@
   if (typeof S === "undefined" || !S.plan) return;
   const PER = ["sos", "order", "pins", "akind", "akindDefault", "events", "spans", "folder"];
   const GROUPS = ["A", "B", "C"];
-  const TABS = ["home", "curriculum", "week", "day", "lessons", "folder", "tracker", "marks", "analysis"];
+  const TABS = ["home", "curriculum", "week", "day", "lessons", "folder", "tracker", "marks", "analysis", "students"];
   const e_ = v => (typeof esc === "function" ? esc(v) : String(v ?? ""));
   const clone = v => JSON.parse(JSON.stringify(v));
   const keyOf = (g, grp) => `${g}@${grp || "A"}`;
@@ -60,8 +60,12 @@
     const ph = root.querySelector(".ph");
     if (ph) ph.insertAdjacentHTML("afterend", html); else root.insertAdjacentHTML("afterbegin", html);
   }
-  // the Markbook and Analysis show only the classes of the chosen grade (the group's class first)
-  const sameGrade = c => String(c.grade) === String(S.plan.grade);
+  // a class's group: the online class's Group setting, or the letter after the grade in a markbook class name ("9A Math", "8B - Math")
+  const groupOf = (c, g) => { if (c.section) return String(c.section).toUpperCase(); const m = String(c.name || "").match(new RegExp("(^|[^0-9A-Za-z])" + String(g).replace(/[-]/g, "\\-") + "\\s*-?\\s*([A-Ca-c])(?![A-Za-z])")); return m ? m[2].toUpperCase() : null; };
+  const inGroup = (c, g) => { const x = groupOf(c, g); return !x || x === (S.plan.group || "A"); };
+  window.ctxGroupOf = groupOf; window.ctxInGroup = inGroup;
+  // the Markbook and Analysis show only the classes of the chosen grade and group
+  const sameGrade = c => String(c.grade) === String(S.plan.grade) && inGroup(c, S.plan.grade);
   const wantClass = list => { const g = String(S.plan.grade), grp = S.plan.group || "A"; return list.find(c => new RegExp("(^|\\W)" + g.replace(/[-]/g, "\\-") + "\\s*" + grp + "(\\W|$)", "i").test(c.name)) || list[0]; };
   function gradeOnly(fn) {
     return function () {
@@ -71,14 +75,36 @@
       S.classes = mine;
       let html; try { html = fn.apply(this, arguments); } finally { S.classes = all; }
       const others = all.length - mine.length;
-      return others && typeof html === "string" ? html.replace(/(<\/div>)/, `$1<p class="small muted" style="margin:-4px 0 12px">Showing ${e_(gradeName(S.plan.grade))} classes. ${others} class${others === 1 ? "" : "es"} in other grades; choose another grade above to see them.</p>`) : html;
+      return others && typeof html === "string" ? html.replace(/(<\/div>)/, `$1<p class="small muted" style="margin:-4px 0 12px">Showing ${e_(gradeName(S.plan.grade))} · Group ${e_(S.plan.group || "A")} classes. ${others} other class${others === 1 ? "" : "es"} in other grades or groups; choose them above.</p>`) : html;
     };
   }
   if (typeof rMarks === "function") { const f = rMarks; rMarks = gradeOnly(f); }
   if (typeof rAnalysis === "function") { const f = rAnalysis; rAnalysis = gradeOnly(f); }
+  // the Students page shows only the online classes of the chosen grade, opening the group's class first
+  if (typeof rStudents === "function") {
+    const f = rStudents;
+    rStudents = function () {
+      if (!S.pt || !S.pt.ready || !Array.isArray(S.pt.classes)) return f.apply(this, arguments);
+      const all = S.pt.classes, g = String(S.plan.grade), grp = S.plan.group || "A";
+      const mine = all.filter(c => String(c.course || c.grade) === g && inGroup(c, g)), ck = keyOf(g, grp);
+      if (S.pt._ctx !== ck || !mine.some(c => c.id === S.pt.sel)) { S.pt._ctx = ck; const w = mine.find(c => String(c.section || "").toUpperCase() === grp) || mine[0]; S.pt.sel = w ? w.id : null; }
+      S.pt.classes = mine;
+      let html; try { html = f.apply(this, arguments); } finally { S.pt.classes = all; }
+      const others = all.length - mine.length;
+      return others && typeof html === "string" ? html.replace(/(<\/div>)/, `$1<p class="small muted" style="margin:-4px 0 12px">Showing ${e_(gradeName(S.plan.grade))} · Group ${e_(grp)} online classes. ${others} other class${others === 1 ? "" : "es"} in other grades or groups; choose them above.</p>`) : html;
+    };
+  }
+  // a new online class starts on the chosen grade and group
+  function presetClassForm() {
+    const gs = document.getElementById("ptGrade"), ss = document.getElementById("ptSection");
+    if (!gs || gs.dataset.ctx) return;
+    gs.dataset.ctx = "1";
+    if ([...gs.options].some(o => String(o.value || o.textContent) === String(S.plan.grade))) gs.value = String(S.plan.grade);
+    if (ss && typeof ptSectionOpts === "function") { ss.innerHTML = ptSectionOpts(gs.value); ss.dataset.f = "1"; if ([...ss.options].some(o => o.value === (S.plan.group || "A"))) ss.value = S.plan.group || "A"; }
+  }
   const _render = render;
   // eslint-disable-next-line no-global-assign
-  render = function () { syncPages(); const r = _render.apply(this, arguments); try { place(); } catch (e) {} return r; };
+  render = function () { syncPages(); const r = _render.apply(this, arguments); try { place(); if (S.tab === "students") presetClassForm(); } catch (e) {} return r; };
   window.render = render;
 
   document.addEventListener("change", e => { const el = e.target; if (el.dataset?.ctx !== "grade") return; if (ctxSwitch(el.value, S.plan.group)) toast?.(`${ctxLabel()} plan`); render(); });
