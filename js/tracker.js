@@ -96,36 +96,44 @@
     if (!TK.ref && out.length) await selectClass(out[0].ref); else rerender();
   }
   const cur = () => (TK.list || []).find(c => c.ref === TK.ref) || null;
-  async function selectClass(ref) {
-    TK.ref = ref; TK.cfg = { informal_mode: "outcome" }; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.pSig = null; TK.busy = "load"; rerender();
+  // load a class's tracker; quiet = a live refresh of the open class (no spinner, keeps the open panel)
+  async function selectClass(ref, quiet) {
+    if (!quiet) { TK.ref = ref; TK.cfg = { informal_mode: "outcome" }; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.pSig = null; TK.busy = "load"; rerender(); }
     const c = cur(); if (!c) { TK.busy = ""; return rerender(); }
+    const L = { students: [], cfg: { informal_mode: "outcome" }, items: {}, marks: {}, quizzes: {}, attempts: {} };
     try {
       if (c.online) {
-        const { data } = await SB().from("pb_enrollments").select("student_id,display_name").eq("class_id", c.id);
-        TK.students = (data || []).map(e => ({ ref: e.student_id, name: e.display_name || "Student" })).sort((a, b) => a.name.localeCompare(b.name));
-      } else TK.students = (c.students || []).map(s => ({ ref: String(s.id), name: s.name }));
-      TK.cfg = { informal_mode: "outcome" };
+        const { data, error } = await SB().from("pb_enrollments").select("student_id,display_name").eq("class_id", c.id);
+        if (error) throw error;
+        L.students = (data || []).map(e => ({ ref: e.student_id, name: e.display_name || "Student" })).sort((a, b) => a.name.localeCompare(b.name));
+      } else L.students = (c.students || []).map(s => ({ ref: String(s.id), name: s.name }));
       const { data: cfg } = await SB().from("pb_tracker_classes").select("informal_mode").eq("class_ref", c.ref);
-      if (cfg && cfg[0]) TK.cfg = { ...TK.cfg, ...cfg[0] };
-      const { data: items } = await SB().from("pb_tracker_items").select("*").eq("class_ref", c.ref);
-      (items || []).forEach(it => { TK.items[it.unit + "|" + it.slot] = it; });
+      if (cfg && cfg[0]) L.cfg = { ...L.cfg, ...cfg[0] };
+      const { data: items, error: ie } = await SB().from("pb_tracker_items").select("*").eq("class_ref", c.ref);
+      if (ie) throw ie;
+      (items || []).forEach(it => { L.items[it.unit + "|" + it.slot] = it; });
       const ids = (items || []).map(i => i.id);
       if (ids.length) {
         const { data: ms } = await SB().from("pb_tracker_marks").select("item_id,student_ref,level,source,note").in("item_id", ids);
-        (ms || []).forEach(m => { (TK.marks[m.item_id] ||= {})[m.student_ref] = m; });
+        (ms || []).forEach(m => { (L.marks[m.item_id] ||= {})[m.student_ref] = m; });
       }
       if (c.online) {
         const { data: qs } = await SB().from("pb_quizzes").select("id,title,kind,unit,open,items,created_at").eq("class_id", c.id);
-        (qs || []).forEach(q => { TK.quizzes[q.id] = q; });
+        (qs || []).forEach(q => { L.quizzes[q.id] = q; });
         const qids = (qs || []).map(q => q.id);
         if (qids.length) {
           const { data: at } = await SB().from("pb_quiz_attempts").select("quiz_id,student_id,score,total,level").in("quiz_id", qids);
-          (at || []).forEach(a => { (TK.attempts[a.quiz_id] ||= []).push(a); });
+          (at || []).forEach(a => { (L.attempts[a.quiz_id] ||= []).push(a); });
         }
       }
-    } catch (e) { TK.err = "Couldn't load this class's tracker. Refresh to try again."; }
+      if (TK.ref !== ref) return; // the teacher moved to another class meanwhile
+      Object.assign(TK, L); TK.err = "";
+      if (quiet) { TK.pSig = null; TK.planSig = null; }
+    } catch (e) { if (!quiet) TK.err = "Couldn't load this class's tracker. Refresh to try again."; }
     TK.busy = ""; rerender();
   }
+  // live: reload the open class's levels (new practice, quizzes and other teachers' changes) without a spinner
+  TK.refresh = () => (TK.ref && !TK.busy ? selectClass(TK.ref, true) : Promise.resolve());
   const defaultsFor = (kind, slotInfo) => ({
     method: METHODS[kind][0],
     title: slotInfo?.title || (kind === "informal" ? "Informal check" : kind === "summative" ? "Summative" : "Formal assessment")
