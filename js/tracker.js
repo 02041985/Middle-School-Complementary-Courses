@@ -62,7 +62,7 @@
   const lastCode = (c, it) => { const sos = coveredSos(c, it); return sos.length ? sos[sos.length - 1].code : null; };
   // the weekly plan's dates for this outcome: review day (informal check) and check-in day (formal assessment)
   const planDate = (code, type) => { try { if (typeof sessions !== "function" || !S.plan || !(S.plan.sos || []).includes(code)) return "";
-    const l = sessions(S.plan).filter(s => s.code === code), hit = type === "informal" ? (l.filter(s => s.type === "review").pop() || l.filter(s => s.type === "lesson").pop()) : l.find(s => s.type === "quiz");
+    const l = sessions(S.plan).filter(s => s.code === code), hit = type === "informal" ? (l.filter(s => s.type === "review").pop() || l.filter(s => s.type === "lesson").pop()) : l.find(s => s.type === "quiz" && s.akind !== "summative");
     return hit ? iso(hit.date) : ""; } catch (e) { return ""; } };
   // columns for one outcome (unit), then the summatives whose last outcome it is
   const outcomeCols = (c, so) => {
@@ -168,7 +168,9 @@
 
   // ---------- weekly plan link: summative and formal days the teacher added in Plan settings ----------
   const shortDate = d => { try { return new Date(d + "T00:00:00").toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" }); } catch (e) { return d; } };
-  const planEventsFor = (codes, kind) => { try { const ev = (typeof S !== "undefined" && S.plan && Array.isArray(S.plan.events)) ? S.plan.events : [];
+  // outcome assessment days set to "summative" in the weekly plan count as summative plan days
+  const sumDays = () => { try { return typeof sessions === "function" && S.plan ? sessions(S.plan).filter(s => s.type === "quiz" && s.akind === "summative" && s.part === 1).map(s => ({ date: iso(s.date), kind: "summative", title: s.title, outcomes: [s.code] })) : []; } catch (e) { return []; } };
+  const planEventsFor = (codes, kind) => { try { const ev = [...((typeof S !== "undefined" && S.plan && Array.isArray(S.plan.events)) ? S.plan.events : []), ...sumDays()];
     return ev.filter(e => (e.kind === "summative" || e.kind === "formal") && (!kind || e.kind === kind) && (e.outcomes || []).some(c => codes.includes(c))).sort((a, b) => a.date < b.date ? -1 : 1); } catch (e) { return []; } };
   const linked = e => Object.values(TK.items).some(it => it.plan_date === e.date && it.class_ref === TK.ref);
   async function linkPlan(c, e, toSlot) {

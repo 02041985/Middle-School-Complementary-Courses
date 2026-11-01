@@ -78,7 +78,7 @@
       ${D.weeks.slice(from - 1, to).map((mon, k) => { const ss = weekSessions(D, mon), codes = [...new Set(ss.map(s => s.code).filter(Boolean))];
         const a = iso(mon), b = iso(addDays(mon, 7)), evs = D.evs.filter(e => e.date >= a && e.date < b), asm = ss.filter(s => s.type === "quiz" || s.type === "review");
         return `<tr><td><b>${from + k}</b></td><td>${shortD(mon)} – ${shortD(addDays(mon, 4))}</td><td>${codes.map(c => `<div><b>${e_(codeLabel(c))}</b> ${e_(SO[c].title)} <span class="mut">(${ss.filter(s => s.code === c && s.type === "lesson").length} lesson days)</span></div>`).join("") || "<span class='mut'>No lessons</span>"}</td>
-          <td>${[...asm.map(s => `${DN[s.date.getDay()]}: ${e_(typeName(s.type))} ${e_(codeLabel(s.code))}`), ...evs.map(e => `${DN[parseISO(e.date).getDay()]}: ${e_(e.title)}`)].map(x => `<div>${x}</div>`).join("") || "<span class='mut'>–</span>"}</td></tr>`; }).join("")}
+          <td>${[...asm.map(s => `${DN[s.date.getDay()]}: ${e_(s.akind === "summative" ? "Summative assessment" : typeName(s.type))} ${e_(codeLabel(s.code))}`), ...evs.map(e => `${DN[parseISO(e.date).getDay()]}: ${e_(e.title)}`)].map(x => `<div>${x}</div>`).join("") || "<span class='mut'>–</span>"}</td></tr>`; }).join("")}
       </tbody></table></section>`;
   }
   function weekPage(D, w) {
@@ -87,7 +87,7 @@
     const codes = [...new Set(ss.map(s => s.code).filter(Boolean))];
     const rows = days.map(k => { const d = addDays(mon, (k + 6) % 7), key = iso(d), s = D.byDate[key], ev = D.evBy[key];
       let what, type, out = "";
-      if (s) { what = `<b>${e_(s.title)}</b>${typeof dayTag === "function" ? e_(dayTag(s)) : ""}${s.type === "lesson" && SO[s.code] ? `<div class="mut">Lesson ${s.i + 1} of ${SO[s.code].lessons.length}</div>` : ""}`; type = typeName(s.type); out = s.code ? codeLabel(s.code) : ""; }
+      if (s) { what = `<b>${e_(s.title)}</b>${typeof dayTag === "function" ? e_(dayTag(s)) : ""}${s.type === "lesson" && SO[s.code] ? `<div class="mut">Lesson ${s.i + 1} of ${SO[s.code].lessons.length}</div>` : ""}`; type = typeName(s.type); out = s.code ? codeLabel(s.code) : ""; if (s.akind === "summative") type = "Summative assessment"; }
       else if (ev) { what = `<b>${e_(ev.title)}</b>`; type = ev.kind === "summative" ? "Summative assessment" : ev.kind === "formal" ? "Formal assessment" : "Activity"; out = (ev.outcomes || []).map(codeLabel).join(", "); }
       else { what = `<span class="mut">${D.skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "Open day" : "No class"}</span>`; type = ""; }
       return `<tr><td><b>${DN[d.getDay()]}</b><div class="mut">${shortD(d)}</div></td><td><b>${e_(out)}</b></td><td>${what}</td><td>${e_(type)}</td><td class="lines"></td></tr>`; }).join("");

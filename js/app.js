@@ -191,6 +191,24 @@ document.addEventListener("click", e => { const b = e.target.closest("[data-po]"
 document.addEventListener("change", e => { const el = e.target; if (el.dataset?.po !== "pin" || !S.plan) return;
   const p = S.plan, c = el.dataset.code; p.pins = {...(p.pins || {})}; if (el.value) p.pins[c] = el.value; else delete p.pins[c];
   S.daySel = null; savePlan(); render(); toast(el.value ? `${codeLabel(c)} starts in ${el.selectedOptions[0].textContent.replace("Start in ", "")}` : `${codeLabel(c)} follows the order again`); });
+// flexible plan: formal or summative assessment day
+// plan.akind: {code: "formal" | "summative"} for each outcome's assessment day; plan.akindDefault for outcomes not set
+const aKind = (plan, c) => (plan.akind && plan.akind[c]) || plan.akindDefault || "formal";
+const sBadge = s => s && s.akind === "summative" ? `<span class="badge b-summ">Summative</span>` : typeBadge(s ? s.type : "");
+function akindBox(p, list){
+  const days = list.filter(s => s.type === "quiz" && s.part === 1); if (!days.length) return "";
+  const seg = (attrs, v) => `<span class="aks">${["formal", "summative"].map(k => `<button type="button" class="${v === k ? "on" : ""}" ${attrs} data-v="${k}">${k === "formal" ? "Formal" : "Summative"}</button>`).join("")}</span>`;
+  const nS = days.filter(s => s.akind === "summative").length;
+  return `<details class="flexdays" open><summary class="eyebrow">Assessment days: formal or summative</summary>
+    <span class="xs muted">Choose what each outcome's assessment day is. A summative day shows in the assessment tracker as a summative on that outcome.</span>
+    <div class="row between small" style="gap:8px;margin-top:8px;flex-wrap:nowrap"><b>All of them</b>${seg('data-ak="all"', nS === days.length ? "summative" : nS ? "" : "formal")}</div>
+    <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${days.map(s => `<div class="row between small" style="gap:8px;flex-wrap:nowrap;padding:3px 0"><span style="min-width:0"><span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> <span class="xs muted">${fmtS(s.date)}</span></span>${seg(`data-ak="one" data-code="${esc(s.code)}"`, s.akind || "formal")}</div>`).join("")}</div></details>`;
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-ak]"); if (!b || typeof S === "undefined" || !S.plan) return;
+  const p = S.plan, v = b.dataset.v; p.akind = {...(p.akind || {})};
+  if (b.dataset.ak === "all") { p.akindDefault = v; p.sos.forEach(c => { p.akind[c] = v; }); toast(v === "summative" ? "Every outcome ends with a summative assessment" : "Every outcome ends with a formal assessment"); }
+  else { p.akind[b.dataset.code] = v; toast(`${typeof sc === "function" ? sc(b.dataset.code) : b.dataset.code}: ${v} assessment`); }
+  S.daySel = null; savePlan(); render(); });
 function sessions(plan){
   const order = SOS.map(s => s.code);
   const codes = planCodes(plan);
@@ -205,6 +223,7 @@ function sessions(plan){
   const skip = new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean));
   let d = parseISO(plan.start), guard = 0;
   const evd = new Set(planEvents(plan).map(e => e.date)), spans = plan.spans || {}, out = [];
+  list.forEach(s => { if (s.type === "quiz" && aKind(plan, s.code) === "summative") { s.akind = "summative"; s.title = String(s.title).replace(/^Formal assessment/, "Summative assessment"); } });
   const nextDay = () => { while (guard++ < 3000 && (!plan.days.includes(d.getDay()) || skip.has(iso(d)) || evd.has(iso(d)))) d = addDays(d, 1); };
   const place = s => {
     const key = spanKey(s), n = Math.max(1, Math.min(5, Math.round(+spans[key]) || 1));
@@ -300,7 +319,7 @@ function rHome(){
     ${cur ? `<section class="hero">
       <div class="stack" style="gap:10px">
         <div class="when">${isToday ? "TODAY" : "NEXT UP · " + fmt(cur.date).toUpperCase()} · ${CN(SO[cur.code].grade).toUpperCase()}</div>
-        <div class="row">${typeBadge(cur.type)}<span class="code">${dc(cur.code)}</span><span class="small muted">${esc(SO[cur.code].title)}</span></div>
+        <div class="row">${sBadge(cur)}<span class="code">${dc(cur.code)}</span><span class="small muted">${esc(SO[cur.code].title)}</span></div>
         <h2>${esc(cur.title)}</h2>
         ${cur.type === "lesson" ? `<p class="muted">${esc(objectiveOf(SO[cur.code], cur.i))}</p>` : ""}
         <div class="row" style="margin-top:4px">
@@ -321,7 +340,7 @@ function rHome(){
       <div class="card-h"><h2>Week of ${fmtS(mon)}</h2><button class="btn quiet sm" data-act="tab" data-t="week">Full plan ${ic("right")}</button></div>
       <div class="card-b"><div class="weekstrip">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), s = byDate[iso(d)], t = iso(d) === iso(d0), ev = evBy[iso(d)];
         if (ev && !s) return `<div class="wday ev ${t?"today":""}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}<span class="t">${esc(ev.title)}</span></div>`;
-        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}<span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}</button>`
+        return s ? `<button class="wday ${t?"today":""}" data-act="openday" data-ix="${s.ix}"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span>${sBadge(s)}<span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}</button>`
                  : `<div class="wday off"><span class="d">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">No lesson</span></div>`; }).join("")}</div></div>
     </section>` : `<section class="card"><div class="empty"><h2>Start a plan</h2><p>Choose the outcomes you're teaching and every lesson is laid out on your calendar.</p><button class="btn" style="margin-top:14px" data-act="tab" data-t="week">${ic("calendar")}Build a weekly plan</button></div></section>`}
 
@@ -424,6 +443,7 @@ function rWeek(){
         ${list.length ? `<details class="flexdays"><summary class="eyebrow">Days per lesson</summary><span class="xs muted">Spread a lesson or review over two or three days.</span>
           <div class="stack" style="gap:2px;max-height:280px;overflow-y:auto;margin-top:6px">${list.filter(s => s.part === 1).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:2px 0"><select data-act="span" data-key="${esc(s.key)}" aria-label="Days for ${esc(s.title)}" style="width:62px;flex:none;padding:3px 4px">${[1,2,3,4,5].map(n => `<option value="${n}" ${n===s.parts?"selected":""}>${n} day${n>1?"s":""}</option>`).join("")}</select><span style="min-width:0">${s.code ? `<span class="code">${esc(typeof sc === "function" ? sc(s.code) : s.code)}</span> ` : ""}${esc(s.title)}</span></label>`).join("")}</div></details>` : ""}
         <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day and informal check after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Formal assessment after each outcome</label></div>
+        ${akindBox(p, list)}
         ${orderBox(p, list)}
         <div class="stack" style="gap:6px"><span class="eyebrow">Outcomes (${p.sos.length})</span>
           <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span>${p.sos.includes(s.code) ? `<span class="ordn" title="Taught in this position">${planCodes(p).indexOf(s.code) + 1}</span>` : ""}<span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>
@@ -437,13 +457,13 @@ function rWeek(){
           <div class="stat"><span class="n">${list.length - nL}</span><span class="l">Workshop, review and check-in days</span></div>
           <div class="stat"><span class="n">${weeks.length}</span><span class="l">Weeks · ${fmtS(list[0].date)} – ${fmtS(list[list.length-1].date)}</span></div>
         </div>
-        <div class="legend">${typeBadge("lesson")}${typeBadge("ws")}${typeBadge("review")}${typeBadge("quiz")}</div>
+        <div class="legend">${typeBadge("lesson")}${typeBadge("ws")}${typeBadge("review")}${typeBadge("quiz")}<span class="badge b-summ">Summative</span></div>
       </div></div>
       ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span><button type="button" class="btn quiet sm wk-print" data-fp="weekboth" data-w="${wi+1}" title="Print this week's weekly and daily plans">${ic("print")}Print</button></div>
         <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key], ev = evBy[key];
           if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}</div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
           if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
-          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${typeBadge(s.type)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}<span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
+          return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${sBadge(s)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}<span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
       : `<div class="card"><div class="empty"><h2>No outcomes selected</h2><p>Tick one or more outcomes in Plan settings to build the calendar.</p></div></div>`}
     </section>
   </div>`;
@@ -510,7 +530,7 @@ function rDay(){
     <article class="card">
       <div class="card-h" style="align-items:flex-start">
         <div style="min-width:0">
-          <div class="row" style="gap:8px;margin-bottom:6px">${typeBadge(s.type)}<span class="eyebrow">${fmt(s.date)} · ${CN(so.grade)} · ${esc(so.sub)}</span></div>
+          <div class="row" style="gap:8px;margin-bottom:6px">${sBadge(s)}<span class="eyebrow">${fmt(s.date)} · ${CN(so.grade)} · ${esc(so.sub)}</span></div>
           <h2 style="font-size:1.35rem"><span class="code" style="vertical-align:3px">${sc(so.code)}</span> ${esc(s.title)}${esc(dayTag(s))}</h2>
         </div>
         ${action}
