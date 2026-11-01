@@ -216,6 +216,10 @@
   const subjectName = () => planbookName().replace(/^(middle school|high school|elementary school|elementary|kg school|kg|kindergarten)\s*/i, "").replace(/\s*\(.*\)$/, "") || planbookName();
   const gradeText = D => { const g = S.plan.grade, grp = S.plan.group || "A"; return !isNaN(+g) ? (+g === 0 ? "KG" : String(g)) + grp : `${courseOf(D)} ${grp}`; };
 
+  // the inclusion register's students in this grade and group, one line each, for the lesson plan's Inclusion and G&T boxes
+  const regLines = (D, want, say) => { const ND = window.PB_NEEDS, ids = (D.nStudents && D.nStudents.ids) || []; if (!ND || !ids.length) return [];
+    const name = id => ((S.pt && S.pt.enroll) || []).find(e => e.student_id === id)?.display_name || "Student";
+    return ids.map(id => [id, ND.of(id)]).filter(([, r]) => r && want(r)).sort((a, b) => name(a[0]).localeCompare(name(b[0]))).map(([id, r]) => bul(`${name(id)}: ${say(r)}`)); };
   function lessonXml(D, s) {
     const so = SO[s.code] || {}, I = dayInfo(s), segs = I.segs, P = S.plan.period || segs.reduce((a, x) => a + minsOf(x), 0) || 60;
     const lessons = so.lessons || [], isLesson = s.type === "lesson";
@@ -244,8 +248,8 @@
       fullRow([[["Keywords (literacy) for this lesson(s): ", "b"]], vocab || "", ...(materials ? [[["Materials: ", "b"], [materials, "i"]]] : [])]),
       fullRow([[["Communication/Collaboration: ", "b"], [(segs[2] && segs[2].text) || "Pair and group discussion with sentence frames; students explain their thinking to a partner.", ""]]]),
       fullRow([[["Connection to the UAE: ", "b"]]]),
-      fullRow([[["Inclusion: ", "b"], [`SEN: ${support} ELL: bilingual keyword cards and sentence frames; partnered with a supportive peer.`, ""]]]),
-      fullRow([[["Higher-Ability/Gifted & Talented: Higher level questions in the formative task", "b"]], extension]),
+      fullRow([[["Inclusion: ", "b"], [`SEN: ${support} ELL: bilingual keyword cards and sentence frames; partnered with a supportive peer.`, ""]], ...regLines(D, r => r.sen || r.ell || r.plan, r => [r.sen ? "SEN" + (r.sen_type ? " (" + r.sen_type + ")" : "") : "", r.ell ? "ELL" + (r.ell_level ? " (" + r.ell_level + ")" : "") : "", r.plan].filter(Boolean).join(", ") + (r.accommodations ? ": " + r.accommodations : ""))]),
+      fullRow([[["Higher-Ability/Gifted & Talented: Higher level questions in the formative task", "b"]], extension, ...regLines(D, r => r.gifted, r => "gifted and talented" + (r.strategies ? ": " + r.strategies : ""))]),
       fullRow([[["Summative Assessment at the end of this unit (attach document): ", "b"], [summ ? `${summ.title}, ${longDate(parseISO(summ.date))}. Marked with proficiency levels EX, PR, AD and LM.` : `End-of-unit summative on ${codeLabel(s.code)}, marked with proficiency levels EX, PR, AD and LM.`, ""]]])
     ]);
     // the lesson: hook, two learning episodes and the conclusion, from the daily plan's timeline
@@ -277,7 +281,7 @@
         const ids = new Set(S.pt.classes.filter(c => String(c.course || c.grade) === g && ofGroup(c, g)).map(c => c.id));
         if (ids.size) {
           const sids = [...new Set((S.pt.enroll || []).filter(e => ids.has(e.class_id)).map(e => e.student_id))];
-          const n = { total: sids.length, male: 0, female: 0, sen: 0, ell: 0 };
+          const n = { total: sids.length, male: 0, female: 0, sen: 0, ell: 0, gifted: 0, ids: sids };
           try { const ND = window.PB_NEEDS; if (ND) { if (!ND.loaded) await ND.load(); Object.assign(n, ND.count(sids)); } } catch (e) {}
           try { const sbc = window.PB_PLATFORM?.sb; const r = sbc ? await sbc.rpc("pb_gender_counts", { p_classes: [...ids] }) : null; if (r && r.data) { n.male = +r.data.male || 0; n.female = +r.data.female || 0; } } catch (e) {}
           return n;

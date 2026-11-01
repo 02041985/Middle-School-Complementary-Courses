@@ -16,6 +16,7 @@
     busy = true; last = Date.now();
     try {
       if (S.pt && !S.pt.loading) await ptLoad();
+      if (window.PB_NEEDS && typeof window.PB_NEEDS.reload === "function" && S.tab === "students") await window.PB_NEEDS.reload();
       await relink();
       if (S.tab === "tracker" && window.PB_TRACKER && typeof window.PB_TRACKER.refresh === "function") await window.PB_TRACKER.refresh();
       lastOk = new Date();
