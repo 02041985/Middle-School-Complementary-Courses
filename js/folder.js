@@ -27,6 +27,7 @@
     return { p, list, evs, skip, weeks, byDate, evBy };
   }
   const F = () => (S.plan.folder = S.plan.folder || {});
+  const clsText = () => F().cls || (typeof ctxLabel === "function" ? ctxLabel() : "");
   const courseOf = D => { const c = D.list.find(s => s.code && SO[s.code]); return c ? courseName(SO[c.code].grade) : courseName(D.p.grade); };
 
   // ---------- page ----------
@@ -40,7 +41,7 @@
     return head + `<div class="stack" style="gap:16px">
       <section class="card"><div class="card-h"><h2>Cover page</h2><span class="small muted">Printed on the folder's first page</span></div><div class="card-b">
         <div class="fd-form"><label class="f">Teacher<input data-fd="teacher" maxlength="80" value="${e_(f.teacher || "")}" placeholder="Your name"></label>
-        <label class="f">Class<input data-fd="cls" maxlength="80" value="${e_(f.cls || "")}" placeholder="e.g. 9A"></label>
+        <label class="f">Class<input data-fd="cls" maxlength="80" value="${e_(f.cls || "")}" placeholder="${e_(typeof ctxLabel === "function" ? ctxLabel() : "e.g. 9A")}"></label>
         <label class="f">School<input data-fd="school" maxlength="120" value="${e_(f.school ?? "Maplewood Canadian International School")}"></label>
         <label class="f">Term or year<input data-fd="term" maxlength="80" value="${e_(f.term || "")}" placeholder="e.g. Term 1, 2026–27"></label></div></div></section>
       <section class="card"><div class="card-h"><h2>Print the folder</h2><span class="small muted">${D.list.length} teaching days · ${n} week${n === 1 ? "" : "s"} · ${shortD(D.list[0].date)} – ${shortD(D.list[D.list.length - 1].date)}</span></div><div class="card-b stack" style="gap:12px">
@@ -66,14 +67,14 @@
   function cover(D) {
     const f = F(), first = D.list[0].date, last = D.list[D.list.length - 1].date;
     const codes = [...new Set(D.list.map(s => s.code).filter(Boolean))];
-    return `<section class="pg cover"><div class="cv-top"><div class="cv-k">Plans folder</div><h1>${e_(planbookName())}</h1><div class="cv-sub">${e_(courseOf(D))}${f.cls ? " · " + e_(f.cls) : ""}</div></div>
-      <table class="cv-t"><tr><th>Teacher</th><td>${e_(f.teacher || "")}</td></tr><tr><th>Class</th><td>${e_(f.cls || "")}</td></tr><tr><th>School</th><td>${e_(f.school ?? "Maplewood Canadian International School")}</td></tr>
+    return `<section class="pg cover"><div class="cv-top"><div class="cv-k">Plans folder</div><h1>${e_(planbookName())}</h1><div class="cv-sub">${e_(courseOf(D))}${clsText() ? " · " + e_(clsText()) : ""}</div></div>
+      <table class="cv-t"><tr><th>Teacher</th><td>${e_(f.teacher || "")}</td></tr><tr><th>Class</th><td>${e_(clsText())}</td></tr><tr><th>School</th><td>${e_(f.school ?? "Maplewood Canadian International School")}</td></tr>
         <tr><th>Term</th><td>${e_(f.term || "")}</td></tr><tr><th>Dates</th><td>${e_(longDate(first))} – ${e_(longDate(last))}</td></tr><tr><th>Teaching days</th><td>${D.list.length} in ${D.weeks.length} weeks, ${S.plan.period || 60}-minute periods</td></tr></table>
       <div class="cv-o"><div class="cv-k">Outcomes in this folder</div><ol>${codes.map(c => `<li><b>${e_(codeLabel(c))}</b> ${e_(SO[c].title)}</li>`).join("")}</ol></div>
       <div class="cv-foot">Made with the ${e_(planbookName())} planbook · ${e_(new Date().toLocaleDateString([], { day: "numeric", month: "long", year: "numeric" }))}</div></section>`;
   }
   function overview(D, from, to) {
-    return `<section class="pg"><header class="ph2"><div><div class="k">Term overview</div><h2>${e_(courseOf(D))} · weeks ${from}–${to}</h2></div><div class="r">${e_(F().teacher || "")}${F().cls ? " · " + e_(F().cls) : ""}</div></header>
+    return `<section class="pg"><header class="ph2"><div><div class="k">Term overview</div><h2>${e_(courseOf(D))} · weeks ${from}–${to}</h2></div><div class="r">${e_(F().teacher || "")}${clsText() ? " · " + e_(clsText()) : ""}</div></header>
       <table class="wt"><thead><tr><th style="width:12%">Week</th><th style="width:18%">Dates</th><th>Outcomes and lessons</th><th style="width:26%">Assessments and activities</th></tr></thead><tbody>
       ${D.weeks.slice(from - 1, to).map((mon, k) => { const ss = weekSessions(D, mon), codes = [...new Set(ss.map(s => s.code).filter(Boolean))];
         const a = iso(mon), b = iso(addDays(mon, 7)), evs = D.evs.filter(e => e.date >= a && e.date < b), asm = ss.filter(s => s.type === "quiz" || s.type === "review");
@@ -91,7 +92,7 @@
       else if (ev) { what = `<b>${e_(ev.title)}</b>`; type = ev.kind === "summative" ? "Summative assessment" : ev.kind === "formal" ? "Formal assessment" : "Activity"; out = (ev.outcomes || []).map(codeLabel).join(", "); }
       else { what = `<span class="mut">${D.skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "Open day" : "No class"}</span>`; type = ""; }
       return `<tr><td><b>${DN[d.getDay()]}</b><div class="mut">${shortD(d)}</div></td><td><b>${e_(out)}</b></td><td>${what}</td><td>${e_(type)}</td><td class="lines"></td></tr>`; }).join("");
-    return `<section class="pg"><header class="ph2"><div><div class="k">Weekly plan · Week ${w}</div><h2>${e_(longDate(mon))} – ${e_(longDate(addDays(mon, 4)))}</h2></div><div class="r">${e_(courseOf(D))}<br>${e_(f.teacher || "")}${f.cls ? " · " + e_(f.cls) : ""}</div></header>
+    return `<section class="pg"><header class="ph2"><div><div class="k">Weekly plan · Week ${w}</div><h2>${e_(longDate(mon))} – ${e_(longDate(addDays(mon, 4)))}</h2></div><div class="r">${e_(courseOf(D))}<br>${e_(f.teacher || "")}${clsText() ? " · " + e_(clsText()) : ""}</div></header>
       <table class="wt"><thead><tr><th style="width:11%">Day</th><th style="width:10%">Outcome</th><th>Plan</th><th style="width:15%">Type</th><th style="width:26%">Notes and homework</th></tr></thead><tbody>${rows}</tbody></table>
       <div class="two"><div class="box"><div class="k">Outcomes this week</div>${codes.map(c => { const so = SO[c]; return `<div class="oc"><b>${e_(codeLabel(c))}</b> ${e_(so.title)}</div>`; }).join("") || "<div class='mut'>–</div>"}</div>
         <div class="box"><div class="k">Resources to prepare</div><div class="lines tall"></div></div></div>
@@ -105,7 +106,7 @@
     box.querySelectorAll(".ph, button, select, input, .tbar, script").forEach(x => x.remove());
     const body = box.querySelector(".split") || box;
     const f = F(), so = SO[s.code];
-    return `<section class="pg day"><header class="ph2"><div><div class="k">Daily plan · Week ${w} · day ${s.ix + 1} of ${D.list.length}</div><h2>${e_(longDate(s.date))}</h2></div><div class="r">${e_(courseOf(D))}${so ? " · " + e_(codeLabel(so.code)) : ""}<br>${e_(f.teacher || "")}${f.cls ? " · " + e_(f.cls) : ""}</div></header>
+    return `<section class="pg day"><header class="ph2"><div><div class="k">Daily plan · Week ${w} · day ${s.ix + 1} of ${D.list.length}</div><h2>${e_(longDate(s.date))}</h2></div><div class="r">${e_(courseOf(D))}${so ? " · " + e_(codeLabel(so.code)) : ""}<br>${e_(f.teacher || "")}${clsText() ? " · " + e_(clsText()) : ""}</div></header>
       <div class="dbody">${body.innerHTML || `<p><b>${e_(s.title)}</b></p>`}</div>
       <div class="box"><div class="k">Notes after the lesson</div><div class="lines"></div></div></section>`;
   }

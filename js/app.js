@@ -1262,7 +1262,7 @@ document.addEventListener("click", e => { const b = e.target.closest("[data-tab]
 const app = document.getElementById("app");
 function togglePlan(code, on){
   const p = S.plan, g = SO[code].grade;
-  if (p.grade !== g) { p.grade = g; p.sos = []; }
+  if (String(p.grade) !== String(g)) { if (typeof ctxSwitch === "function") ctxSwitch(g); else { p.grade = g; p.sos = []; } }
   const has = p.sos.includes(code); on = on ?? !has;
   p.sos = on ? [...new Set([...p.sos, code])] : p.sos.filter(c => c !== code);
   S.daySel = null; savePlan(); toast(on ? `${dc(code)} added to the weekly plan` : `${dc(code)} removed from the weekly plan`);
@@ -1272,10 +1272,10 @@ app.addEventListener("click", async e => {
   if (el.tagName === "INPUT" || el.tagName === "SELECT") return;
   const act = el.dataset.act;
   if (act.startsWith("pt") || act === "assignlesson") return ptClick(el, act);
-  if (act === "cgrade") { S.curGrade = el.dataset.v; S.curSel = gradeSOs(S.curGrade)[0].code; render(); }
+  if (act === "cgrade") { if (typeof ctxSwitch === "function") ctxSwitch(el.dataset.v); S.curGrade = el.dataset.v; S.curSel = gradeSOs(S.curGrade)[0].code; render(); }
   else if (act === "cursel") { S.curSel = el.dataset.code; render(); if (innerWidth <= 1080) app.querySelector("article.card")?.scrollIntoView({block:"start"}); }
   else if (act === "toggleplan") { togglePlan(el.dataset.code); render(); }
-  else if (act === "lgrade") { const g = el.dataset.v; S.lesson = {code: gradeSOs(g)[0].code, i:0}; S.genErr = ""; render(); loadLessonsFor(S.lesson.code); }
+  else if (act === "lgrade") { const g = el.dataset.v; if (typeof ctxSwitch === "function") ctxSwitch(g); S.lesson = {code: gradeSOs(g)[0].code, i:0}; S.genErr = ""; render(); loadLessonsFor(S.lesson.code); }
   else if (act === "lsel") { S.lesson.i = +el.dataset.i; S.genErr = ""; render(); }
   else if (act === "ltab") { S.ltab = el.dataset.v; render(); }
   else if (act === "tab") setTab(el.dataset.t);
@@ -1350,7 +1350,7 @@ app.addEventListener("click", async e => {
   else if (act.startsWith("tb")) tbClick(el, act);
 });
 function courseAct(act, v){
-  if (act === "cgrade") { S.curGrade = v; S.curSel = gradeSOs(v)[0].code; render(); }
+  if (act === "cgrade") { if (typeof ctxSwitch === "function") ctxSwitch(v); S.curGrade = v; S.curSel = gradeSOs(v)[0].code; render(); }
   else if (act === "lgrade") { S.lesson = {code: gradeSOs(v)[0].code, i:0}; S.genErr = ""; render(); loadLessonsFor(S.lesson.code); }
   else if (act === "tbcourse") { if (S.tb.course !== v) { S.tb.course = v; S.tb.sos = []; } render(); }
 }
@@ -1367,7 +1367,7 @@ app.addEventListener("change", e => {
   if (act === "toplan") { togglePlan(el.dataset.code, el.checked); render(); }
   else if (act === "pday") { const d = +el.dataset.d; p.days = el.checked ? [...new Set([...p.days, d])].sort() : p.days.filter(x => x !== d); if (!p.days.length) p.days = [d]; S.daySel = null; savePlan(); render(); }
   else if (act === "aso") { const n = S.newAssess; n.name = $("#aName").value; n.date = $("#aDate").value; n.type = $("#aType").value; n.sos = el.checked ? [...n.sos, el.dataset.code] : n.sos.filter(c => c !== el.dataset.code); }
-  else if (id === "pGrade") { p.grade = el.value; p.sos = [gradeSOs(p.grade)[0].code]; S.daySel = null; savePlan(); render(); }
+  else if (id === "pGrade") { if (typeof ctxSwitch === "function") ctxSwitch(el.value); else { p.grade = el.value; p.sos = [gradeSOs(p.grade)[0].code]; } S.daySel = null; savePlan(); render(); }
   else if (id === "pStart") { if (el.value) { p.start = el.value; S.daySel = null; savePlan(); render(); } }
   else if (id === "pPeriod") { p.period = Math.max(30, Math.min(120, +el.value || 60)); savePlan(); }
   else if (id === "pSkip") { p.skip = el.value; savePlan(); render(); }
