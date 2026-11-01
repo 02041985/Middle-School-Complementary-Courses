@@ -468,3 +468,4 @@ html.sb-lock,html.sb-lock body{overflow:hidden}
 .fd-table th{font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 .wk-h .wk-print{margin-left:auto}
 /* ---------- end plans folder ---------- */
+.ordn{flex:none;min-width:20px;height:20px;border-radius:10px;background:var(--accent);color:var(--accent-ink,#fff);font-size:.7rem;font-weight:700;display:inline-grid;place-items:center;padding:0 5px}

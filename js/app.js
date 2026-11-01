@@ -161,10 +161,10 @@ const planEvents = p => (Array.isArray(p.events) ? p.events : []).filter(e => e 
 const spanKey = s => s.type === "lesson" ? `${s.code}_${s.i}` : `${s.type}:${s.code}`;
 const dayTag = s => s && s.parts > 1 ? ` · day ${s.part} of ${s.parts}` : "";
 // flexible plan: topic order and start weeks
-// plan.order: the teacher's own order of outcomes (others follow in curriculum order)
+// plan.order: the teacher's own order from the arrows; otherwise outcomes are taught in the order they were ticked (plan.sos)
 // plan.pins: {code: "YYYY-MM-DD"} an outcome starts in that week; the other outcomes continue around it
 const planCodes = plan => { const cur = SOS.map(s => s.code), own = Array.isArray(plan.order) ? plan.order : [];
-  const rank = c => { const k = own.indexOf(c); return k >= 0 ? k : own.length + cur.indexOf(c); };
+  const rank = c => { const k = own.indexOf(c); return k >= 0 ? k : own.length + plan.sos.indexOf(c); };
   return [...plan.sos].filter(c => SO[c]).sort((a,b) => rank(a) - rank(b)); };
 const planPins = plan => { const o = {}, pn = plan.pins || {}; Object.keys(pn).forEach(c => { if (SO[c] && plan.sos.includes(c) && /^\d{4}-\d{2}-\d{2}$/.test(pn[c])) o[c] = pn[c]; }); return o; };
 const planWeeks = (plan, n) => { const m = mondayOf(parseISO(plan.start)); return Array.from({length: n}, (_, k) => { const mon = addDays(m, k * 7); return {k: k + 1, mon, date: k ? iso(mon) : plan.start}; }); };
@@ -174,7 +174,7 @@ function orderBox(p, list){
   const firstDay = {}; list.forEach(s => { if (s.code && !firstDay[s.code]) firstDay[s.code] = s.date; });
   const nW = Math.max(12, Math.ceil((list.length ? (list[list.length-1].date - mondayOf(parseISO(p.start))) / 6048e5 : 0)) + 6), weeks = planWeeks(p, Math.min(60, nW)), pins = planPins(p);
   return `<details class="flexdays" ${Object.keys(pins).length || (Array.isArray(p.order) && p.order.length) ? "open" : ""}><summary class="eyebrow">Topic order and start weeks</summary>
-    <span class="xs muted">Teach the outcomes in any order. Choose a start week to begin a topic in that week (for example the 6th topic in week 2); the other topics carry on before and after it.</span>
+    <span class="xs muted">Outcomes are taught in the order you tick them; the arrows change the order. Choose a start week to begin a topic in that week (for example the 6th topic in week 2); the other topics carry on before and after it.</span>
     <div class="stack" style="gap:6px;max-height:360px;overflow-y:auto;margin-top:8px">${codes.map((c, ix) => `<div class="porow">
       <div class="row" style="gap:6px;flex-wrap:nowrap"><span class="code">${esc(codeLabel(c))}</span><span class="small" style="min-width:0;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(SO[c].title)}">${esc(SO[c].title)}</span>
         <button type="button" class="linkbtn" data-po="up" data-code="${esc(c)}" ${ix ? "" : "disabled"} aria-label="Move ${esc(c)} earlier">↑</button><button type="button" class="linkbtn" data-po="down" data-code="${esc(c)}" ${ix < codes.length - 1 ? "" : "disabled"} aria-label="Move ${esc(c)} later">↓</button></div>
@@ -426,7 +426,7 @@ function rWeek(){
         <div class="stack" style="gap:8px"><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pWs" ${p.ws?"checked":""}>Practice workshop after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pReview" ${p.review?"checked":""}>Review day and informal check after each outcome</label><label class="row small" style="gap:8px;flex-wrap:nowrap"><input type="checkbox" id="pQuiz" ${p.quiz?"checked":""}>Formal assessment after each outcome</label></div>
         ${orderBox(p, list)}
         <div class="stack" style="gap:6px"><span class="eyebrow">Outcomes (${p.sos.length})</span>
-          <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span><span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>
+          <div class="stack" style="gap:2px;max-height:300px;overflow-y:auto">${gradeSOs(p.grade).map(s => `<label class="row small" style="gap:8px;flex-wrap:nowrap;padding:3px 0;cursor:pointer"><input type="checkbox" data-act="toplan" data-code="${s.code}" ${p.sos.includes(s.code)?"checked":""}><span class="code">${sc(s.code)}</span>${p.sos.includes(s.code) ? `<span class="ordn" title="Taught in this position">${planCodes(p).indexOf(s.code) + 1}</span>` : ""}<span style="min-width:0">${esc(s.title)}</span></label>`).join("")}</div></div>
       </div>
     </aside>
     <section style="min-width:0">
