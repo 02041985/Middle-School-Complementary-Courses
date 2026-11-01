@@ -94,6 +94,19 @@
       return others && typeof html === "string" ? html.replace(/(<\/div>)/, `$1<p class="small muted" style="margin:-4px 0 12px">Showing ${e_(gradeName(S.plan.grade))} · Group ${e_(grp)} online classes. ${others} other class${others === 1 ? "" : "es"} in other grades or groups; choose them above.</p>`) : html;
     };
   }
+  // the online class name is made from the grade and group (8A, English 10-1 B); no typing needed
+  function autoClassName() {
+    const gs = document.getElementById("ptGrade"), ss = document.getElementById("ptSection"), nm = document.getElementById("ptName");
+    if (!gs || !nm) return;
+    const g = gs.value, grp = ss ? ss.value : "";
+    const label = !isNaN(+g) && g !== "" ? (+g === 0 ? "KG" : String(g)) : gradeName(g);
+    nm.value = grp ? (!isNaN(+g) && g !== "" ? `${label}${grp}` : `${label} ${grp}`) : gradeName(g);
+    if (!nm.readOnly) {
+      nm.readOnly = true; nm.tabIndex = -1; nm.placeholder = ""; nm.style.background = "var(--sunk)"; nm.title = "Made from the grade and group";
+      const lab = nm.closest("label"); if (lab && lab.firstChild && lab.firstChild.nodeType === 3) lab.firstChild.textContent = "Class name (automatic)";
+    }
+  }
+  document.addEventListener("change", e => { if (e.target && (e.target.id === "ptGrade" || e.target.id === "ptSection")) setTimeout(autoClassName, 0); });
   // a new online class starts on the chosen grade and group
   function presetClassForm() {
     const gs = document.getElementById("ptGrade"), ss = document.getElementById("ptSection");
@@ -104,7 +117,7 @@
   }
   const _render = render;
   // eslint-disable-next-line no-global-assign
-  render = function () { syncPages(); const r = _render.apply(this, arguments); try { place(); if (S.tab === "students") presetClassForm(); } catch (e) {} return r; };
+  render = function () { syncPages(); const r = _render.apply(this, arguments); try { place(); if (S.tab === "students") { presetClassForm(); autoClassName(); } } catch (e) {} return r; };
   window.render = render;
 
   document.addEventListener("change", e => { const el = e.target; if (el.dataset?.ctx !== "grade") return; if (ctxSwitch(el.value, S.plan.group)) toast?.(`${ctxLabel()} plan`); render(); });
