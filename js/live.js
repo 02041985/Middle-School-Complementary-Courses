@@ -24,18 +24,22 @@
     } catch (e) {}
     busy = false;
   }
-  // an online class whose markbook class is missing gets the markbook class of the same grade and group, so its
-  // students and results flow in again
+  // an online class whose markbook class is missing gets the markbook class of the same grade and group (made if there
+  // isn't one), so its students and results flow in again
   async function relink() {
-    if (!S.pt || !S.pt.ready || !Array.isArray(S.pt.classes) || !Array.isArray(S.classes) || typeof ptSync !== "function") return;
+    if (!S.storeReady || !S.pt || !S.pt.ready || !Array.isArray(S.pt.classes) || !Array.isArray(S.classes) || typeof ptSync !== "function") return;
     let fixed = 0;
     for (const pc of S.pt.classes) {
       if (pc.book_class_id && S.classes.some(x => x.id === pc.book_class_id)) continue;
       const g = String(pc.course || pc.grade), sec = String(pc.section || "").toUpperCase();
       const m = S.classes.filter(x => String(x.grade) === g && (typeof ctxGroupOf === "function" ? ctxGroupOf(x, g) : String(x.section || "").toUpperCase()) === sec);
-      if (m.length !== 1) continue;
-      const { error } = await window.PB_PLATFORM.sb.from("pb_classes").update({ book_class_id: m[0].id }).eq("id", pc.id);
-      if (!error) { pc.book_class_id = m[0].id; fixed++; }
+      if (m.length > 1) continue;
+      // no markbook class for this grade and group yet: make one, named like the online class
+      let bc = m[0], made = false;
+      if (!bc) { if (typeof uid !== "function" || typeof saveBook !== "function") continue; bc = { id: uid(), name: pc.name, grade: isNaN(+g) ? g : +g, section: sec || undefined, students: [] }; S.classes.push(bc); made = true; }
+      const { error } = await window.PB_PLATFORM.sb.from("pb_classes").update({ book_class_id: bc.id }).eq("id", pc.id);
+      if (!error) { pc.book_class_id = bc.id; fixed++; if (made) saveBook(); }
+      else if (made) S.classes = S.classes.filter(x => x !== bc);
     }
     if (fixed) await ptSync();
   }
