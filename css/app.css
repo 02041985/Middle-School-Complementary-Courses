@@ -460,3 +460,11 @@ html.sb-lock,html.sb-lock body{overflow:hidden}
 /* ---------- end smart board ---------- */
 /* flexible plan: topic order */
 .porow{display:flex;flex-direction:column;gap:3px;padding:6px 0;border-bottom:1px solid var(--line2)}.porow .linkbtn{font-size:1rem;padding:0 4px;min-width:26px}.porow .linkbtn:disabled{opacity:.3;cursor:default}
+
+/* ---------- plans folder ---------- */
+.fd-form{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:12px}
+.fd-table{width:100%;border-collapse:collapse}
+.fd-table th,.fd-table td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line2);vertical-align:middle}
+.fd-table th{font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.wk-h .wk-print{margin-left:auto}
+/* ---------- end plans folder ---------- */

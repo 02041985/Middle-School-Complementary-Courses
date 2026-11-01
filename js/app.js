@@ -58,7 +58,7 @@ const ICONS = {
 const ic = n => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="${ICONS[n]}"/></svg>`;
 const NAV = [
   {group:null, items:[["home","Overview","home","Home"]]},
-  {group:"Plan", items:[["curriculum","Curriculum","book","Outcomes"],["week","Weekly plan","calendar","Week"],["day","Daily plan","clock","Day"]]},
+  {group:"Plan", items:[["curriculum","Curriculum","book","Outcomes"],["week","Weekly plan","calendar","Week"],["day","Daily plan","clock","Day"],["folder","Plans folder","book","Folder"]]},
   {group:"Teach", items:[["lessons","Lessons","lesson","Lessons"]]},
   {group:"Assess", items:[["marks","Markbook","marks","Marks"],["tracker","Assessment tracker","chart","Tracker"],["board","Smart board","pen","Board"],["analysis","Analysis","chart","Data"],["test","Test builder","test","Tests"],["students","Students","users","Students"]]}
 ];
@@ -276,7 +276,7 @@ const ptSectionOpts = (course, cur) => {
 };
 function ptFillSection(){ const s = document.getElementById("ptSection"), g = document.getElementById("ptGrade"); if (s && g && !s.dataset.f) { s.innerHTML = ptSectionOpts(g.value); s.dataset.f = "1"; } }
 function render(){
-  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome), board:(window.rBoard || rHome)}[S.tab] || rHome;
+  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome), board:(window.rBoard || rHome), folder:(window.rFolder || rHome)}[S.tab] || rHome;
   pbFixState();
   $("#app").innerHTML = R();
   pbRestrictDom($("#app")); ptFillSection();
@@ -439,7 +439,7 @@ function rWeek(){
         </div>
         <div class="legend">${typeBadge("lesson")}${typeBadge("ws")}${typeBadge("review")}${typeBadge("quiz")}</div>
       </div></div>
-      ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span></div>
+      ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span><button type="button" class="btn quiet sm wk-print" data-fp="weekboth" data-w="${wi+1}" title="Print this week's weekly and daily plans">${ic("print")}Print</button></div>
         <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key], ev = evBy[key];
           if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}</div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
           if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
