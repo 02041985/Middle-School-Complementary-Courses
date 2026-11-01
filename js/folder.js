@@ -53,11 +53,16 @@
           <button class="btn ghost" data-fp="overview">Term overview</button></div>
         <p class="small muted" style="margin:0">The complete folder has a cover, a term overview, then each week's plan followed by that week's daily plans, one per page.</p>
       </div></section>
+      <section class="card"><div class="card-h"><h2>Lesson plans (Word)</h2><span class="small muted">The school's lesson plan form, filled from your daily plans</span></div><div class="card-b stack" style="gap:12px">
+        <div class="row" style="gap:10px;flex-wrap:wrap;align-items:flex-end"><label class="f" style="flex:1 1 280px;min-width:0">Day<select id="fdLpDay">${D.list.map(s => `<option value="${s.ix}" ${s.ix === (f.lpDay ?? (typeof currentSessionIndex === "function" ? currentSessionIndex(D.list) : 0)) ? "selected" : ""}>${e_(shortD(s.date))} · ${e_(s.code ? codeLabel(s.code) + " · " : "")}${e_(s.title)}${typeof dayTag === "function" ? e_(dayTag(s)) : ""}</option>`).join("")}</select></label>
+          <button class="btn" data-lp="day">${icn("download")}Download lesson plan</button></div>
+        <p class="small muted" style="margin:0">A Word file in the Maplewood template: lesson details on the first page, then the Hook, Learning episodes and Conclusion with timings, purpose and differentiation. Each week's <b>Word</b> button below puts that week's lessons in one file.</p>
+      </div></section>
       <section class="card"><div class="card-h"><h2>Weeks</h2></div>
         <div class="tablewrap"><table class="fd-table"><thead><tr><th>Week</th><th>Dates</th><th>Outcomes</th><th>Days</th><th></th></tr></thead><tbody>
         ${D.weeks.map((mon, i) => { const ss = weekSessions(D, mon), codes = [...new Set(ss.map(s => s.code).filter(Boolean))];
           return `<tr><td><b>${i + 1}</b></td><td class="small">${shortD(mon)} – ${shortD(addDays(mon, 4))}</td><td class="small">${codes.map(c => `<span class="code">${e_(codeLabel(c))}</span>`).join(" ") || "–"}</td><td class="small">${ss.length}</td>
-            <td style="text-align:right;white-space:nowrap"><button class="btn ghost sm" data-fp="week" data-w="${i + 1}">Weekly</button> <button class="btn ghost sm" data-fp="weekdays" data-w="${i + 1}" ${ss.length ? "" : "disabled"}>Daily</button> <button class="btn sm" data-fp="weekboth" data-w="${i + 1}">Both</button></td></tr>`; }).join("")}
+            <td style="text-align:right;white-space:nowrap"><button class="btn ghost sm" data-fp="week" data-w="${i + 1}">Weekly</button> <button class="btn ghost sm" data-fp="weekdays" data-w="${i + 1}" ${ss.length ? "" : "disabled"}>Daily</button> <button class="btn sm" data-fp="weekboth" data-w="${i + 1}">Both</button> <button class="btn ghost sm" data-lp="week" data-w="${i + 1}" ${ss.length ? "" : "disabled"} title="This week's lesson plans in the school's Word template">Word</button></td></tr>`; }).join("")}
         </tbody></table></div></section>
     </div>`;
   };
@@ -181,12 +186,119 @@
     try { fr.contentWindow.focus(); fr.contentWindow.print(); } catch (e) { say("Printing isn't available here. Try another browser."); }
     setTimeout(() => { document.title = keepTitle; }, 1500);
   }
-  window.PB_FOLDER = { build, printDoc };
+
+  // ---------- lesson plans in the school's Word template ----------
+  // Each teaching day becomes the school's lesson plan form (Maplewood landscape template with the logo): page 1 lesson
+  // details, then the Hook / Learning episode / Conclusion table. Filled from the planbook's own daily plan.
+  const xe = v => String(v ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const RPR = (b, i, sz) => `<w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>${b ? "<w:b/>" : ""}${i ? "<w:i/>" : ""}<w:sz w:val="${sz}"/><w:szCs w:val="${sz}"/></w:rPr>`;
+  const R = (t, st = "", sz = 19) => `<w:r>${RPR(st.includes("b"), st.includes("i"), sz)}<w:t xml:space="preserve">${xe(t)}</w:t></w:r>`;
+  // a paragraph: a string, or a list of [text, style] pairs
+  const PARA = (p, center) => `<w:p><w:pPr><w:spacing w:before="0" w:after="20"/>${center ? '<w:jc w:val="center"/>' : ""}</w:pPr>${(typeof p === "string" ? [[p, ""]] : p).map(([t, st]) => R(t, st)).join("")}</w:p>`;
+  const CELL = (w, paras, o = {}) => `<w:tc><w:tcPr><w:tcW w:w="${w}" w:type="dxa"/>${o.span ? `<w:gridSpan w:val="${o.span}"/>` : ""}${o.fill ? `<w:shd w:val="clear" w:color="auto" w:fill="${o.fill}"/>` : ""}${o.mid ? '<w:vAlign w:val="center"/>' : ""}</w:tcPr>${(paras.length ? paras : [""]).map(p => PARA(p, o.center)).join("")}</w:tc>`;
+  const TABLE = (grid, rows) => `<w:tbl><w:tblPr><w:tblW w:w="${grid.reduce((a, b) => a + b, 0)}" w:type="dxa"/><w:jc w:val="center"/><w:tblBorders>${["top", "left", "bottom", "right", "insideH", "insideV"].map(e => `<w:${e} w:val="single" w:sz="6" w:space="0" w:color="000000"/>`).join("")}</w:tblBorders><w:tblLayout w:type="fixed"/><w:tblCellMar><w:left w:w="80" w:type="dxa"/><w:right w:w="80" w:type="dxa"/></w:tblCellMar></w:tblPr><w:tblGrid>${grid.map(w => `<w:gridCol w:w="${w}"/>`).join("")}</w:tblGrid>${rows.map(r => `<w:tr><w:trPr><w:cantSplit/></w:trPr>${r}</w:tr>`).join("")}</w:tbl>`;
+  const BREAK = `<w:p><w:r><w:br w:type="page"/></w:r></w:p>`;
+  const G1 = [2098, 4876, 3458, 2608, 2665], G2 = [1644, 851, 3572, 3515, 6124], GREY = "EFEFEF", DARK = "D9D9D9", FULL = G1.reduce((a, b) => a + b, 0);
+  const bul = t => [["•  ", ""], [t, ""]];
+  const txt = el => (el ? el.textContent.replace(/\s+/g, " ").trim() : "");
+
+  // what the planbook's daily plan says for one day: its timeline and its side notes
+  function dayInfo(s) {
+    const keep = S.daySel; let html = "";
+    try { S.daySel = s.ix; html = rDay(); } catch (e) {} finally { S.daySel = keep; }
+    const box = document.createElement("div"); box.innerHTML = html;
+    const segs = [...box.querySelectorAll(".tl li")].map(li => ({ name: txt(li.querySelector(".body b")), tm: txt(li.querySelector(".tm")), text: txt(li.querySelector(".body .small") || li.querySelector(".body div")) }));
+    const kv = {}; box.querySelectorAll(".kv").forEach(k => { const lab = txt(k.querySelector(".eyebrow")).toLowerCase(); const chips = [...k.querySelectorAll(".chip")].map(txt); const lb = k.querySelector(".eyebrow"); const v = chips.length ? chips.join(", ") : txt(k).replace(txt(lb), "").trim(); if (lab) kv[lab] = v; });
+    const pick = (...keys) => { for (const k of keys) { const hit = Object.keys(kv).find(x => x.includes(k)); if (hit && kv[hit]) return kv[hit]; } return ""; };
+    return { segs, kv, pick };
+  }
+  const minsOf = seg => { const m = String(seg?.tm || "").match(/(\d+)\s*[–-]\s*(\d+)/); return m ? +m[2] - +m[1] : 0; };
+  const subjectName = () => planbookName().replace(/^(middle school|high school|elementary school|elementary|kg school|kg|kindergarten)\s*/i, "").replace(/\s*\(.*\)$/, "") || planbookName();
+  const gradeText = D => { const g = S.plan.grade, grp = S.plan.group || "A"; return !isNaN(+g) ? (+g === 0 ? "KG" : String(g)) + grp : `${courseOf(D)} ${grp}`; };
+
+  function lessonXml(D, s) {
+    const so = SO[s.code] || {}, I = dayInfo(s), segs = I.segs, P = S.plan.period || segs.reduce((a, x) => a + minsOf(x), 0) || 60;
+    const lessons = so.lessons || [], isLesson = s.type === "lesson";
+    const objective = I.pick("learning objective", "objective", "focus", "assessment") || (isLesson ? `Students will be able to ${String(s.title).toLowerCase()}.` : s.title);
+    const target = I.pick("student target", "i can") || "";
+    const eq = I.pick("essential question", "inquiry");
+    const vocab = I.pick("vocabulary", "keyword");
+    const support = I.pick("support") || "Concrete models, worked-example cards and a vocabulary sheet; questions read aloud; extra time.";
+    const extension = I.pick("extension", "challenge") || "Challenge questions and explaining strategies to a partner.";
+    const materials = I.pick("materials", "resources");
+    const prevL = D.list[s.ix - 1], nextL = D.list[s.ix + 1];
+    const summ = (typeof planEvents === "function" ? planEvents(S.plan) : []).filter(e => e.kind === "summative" && (e.outcomes || []).includes(s.code) && e.date >= iso(s.date))[0];
+    const tgt = target.replace(/^I can\s*/i, "").replace(/\.$/, "");
+    const role = isLesson ? `Lesson ${s.i + 1} of ${lessons.length} on ${codeLabel(s.code)}: ${so.title || ""}.` : s.type === "review" ? `Review and informal check for ${codeLabel(s.code)}: ${so.title || ""}.` : `Formal assessment of ${codeLabel(s.code)}: ${so.title || ""}.`;
+    const ctx = `Alberta curriculum, ${courseOf(D)}${so.sub ? ", " + so.sub : ""}. Outcome ${codeLabel(s.code)}: ${so.title || ""}.${prevL && prevL.code ? ` It follows “${prevL.title}”.` : ""}${nextL && nextL.code ? ` Next: “${nextL.title}”.` : ""}`;
+    const fullRow = (paras, fill) => CELL(FULL, paras, { span: 5, fill });
+    const p1 = TABLE(G1, [
+      fullRow([[["Lesson title/question: ", "b"], [s.title + (typeof dayTag === "function" ? dayTag(s) : ""), ""]]], GREY),
+      CELL(G1[0], [[["Date: ", "b"], [longDate(s.date), ""]]], { fill: GREY }) + CELL(G1[1], [[["Subject: ", "b"], [subjectName(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Grade: ", "b"], [gradeText(D), ""]]], { fill: GREY }) + CELL(G1[3], [[["SEN:          ELL:", "b"]]], { fill: GREY }) + CELL(G1[4], [[["UAE:", "b"]]], { fill: GREY }),
+      CELL(G1[0], [[["Lesson length: ", "b"], [`${P} minutes`, ""]]], { fill: GREY }) + CELL(G1[1], [[["Unit: ", "b"], [`${codeLabel(s.code)} ${so.title || ""}`.trim(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Number of Students:", "b"]]], { fill: GREY }) + CELL(G1[3] + G1[4], [[["Boys:", "b"]], [["Girls:", "b"]]], { span: 2, fill: GREY }),
+      fullRow([[["Medium-term planning context: ", "b"], [ctx, ""]], "", [["Overall Inquiry Question/Essential Question: ", "b"], [eq || "", ""]], [["Role of this lesson: ", "b"], [role, ""]]]),
+      fullRow([[["Specific Learning Outcome(s): ", "b"], [objective, ""]], ...(isLesson ? [] : lessons.map(t => bul(t))), "", [["3-Part Success Criteria", "b"]],
+        [["All students (must): ", "b"], [tgt ? `I can ${tgt} with support, using models or a worked example.` : "I can show the key idea with support.", ""]],
+        [["Most students (should): ", "b"], [tgt ? `I can ${tgt} on my own and explain my strategy.` : "I can apply the idea on my own and explain my thinking.", ""]],
+        [["Some students (could): ", "b"], [tgt ? `I can ${tgt} in multi-step or unfamiliar problems and create my own example.` : "I can apply the idea to unfamiliar problems.", ""]]]),
+      fullRow([[["Keywords (literacy) for this lesson(s): ", "b"]], vocab || "", ...(materials ? [[["Materials: ", "b"], [materials, "i"]]] : [])]),
+      fullRow([[["Communication/Collaboration: ", "b"], [(segs[2] && segs[2].text) || "Pair and group discussion with sentence frames; students explain their thinking to a partner.", ""]]]),
+      fullRow([[["Connection to the UAE: ", "b"]]]),
+      fullRow([[["Inclusion: ", "b"], [`SEN: ${support} ELL: bilingual keyword cards and sentence frames; partnered with a supportive peer.`, ""]]]),
+      fullRow([[["Higher-Ability/Gifted & Talented: Higher level questions in the formative task", "b"]], extension]),
+      fullRow([[["Summative Assessment at the end of this unit (attach document): ", "b"], [summ ? `${summ.title}, ${longDate(parseISO(summ.date))}. Marked with proficiency levels EX, PR, AD and LM.` : `End-of-unit summative on ${codeLabel(s.code)}, marked with proficiency levels EX, PR, AD and LM.`, ""]]])
+    ]);
+    // the lesson: hook, two learning episodes and the conclusion, from the daily plan's timeline
+    const sg = segs.length >= 5 ? [[segs[0]], [segs[1], segs[2]], [segs[3]], [segs.slice(4)].flat()] : segs.length ? segs.map(x => [x]) : [[{ name: "Lesson", text: s.title }]];
+    const stages = sg.length === 4 ? ["Hook", "Learning Episode", "Learning Episode", "Conclusion"] : sg.map((_, k) => k === 0 ? "Hook" : k === sg.length - 1 ? "Conclusion" : "Learning Episode");
+    const PURPOSE = { "Hook": ["Activates prior knowledge and focuses students on today's objective."], "Conclusion": ["Checks each student against the objective and success criteria.", "Results set the support and challenge groups for the next lesson."] };
+    const purpose = (st, k) => PURPOSE[st] || (k === 1 ? ["Models the new learning and checks understanding before students work alone (SLO).", "Questioning and discussion bring out and correct misconceptions."] : ["Students apply the learning independently.", "The teacher records each student's level (EX, PR, AD, LM) against the success criteria."]);
+    const head = CELL(G2[0], [""], { fill: GREY }) + CELL(G2[1], [[["Time", "b"]]], { fill: GREY }) + CELL(G2[2], [[["Activity/Task", "b"]]], { fill: GREY }) + CELL(G2[3], [[["Purpose", "b"]], [["(", "b"], ["How does this help to meet the LO?", "i"], [")", ""]]], { fill: GREY }) + CELL(G2[4], [[["Differentiation", "b"]], [["(", "b"], ["How has this activity been differentiated for both struggling and excelling students?", "i"], [")", ""]]], { fill: GREY });
+    const rows = sg.map((group, k) => { const st = stages[k], mins = group.reduce((a, x) => a + minsOf(x), 0);
+      return CELL(G2[0], [[[st, "b"]]], { fill: st === "Conclusion" ? DARK : GREY, mid: true, center: true }) + CELL(G2[1], [mins ? `${mins} min` : ""]) +
+        CELL(G2[2], group.map(x => [[x.name ? x.name + ": " : "", "b"], [x.text || "", ""]])) + CELL(G2[3], purpose(st, k).map(bul)) +
+        CELL(G2[4], [[["Struggling: ", "b"], [support, ""]], [["Excelling: ", "b"], [extension, ""]]]); });
+    return p1 + BREAK + TABLE(G2, [head, ...rows]);
+  }
+
+  let zipLib = null;
+  const loadZip = () => zipLib || (zipLib = new Promise((ok, no) => { if (window.JSZip) return ok(window.JSZip);
+    const urls = ["js/vendor/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"];
+    const next = () => { const u = urls.shift(); if (!u) { zipLib = null; return no(new Error("zip")); } const sc = document.createElement("script"); sc.src = u; sc.onload = () => window.JSZip ? ok(window.JSZip) : next(); sc.onerror = next; document.head.appendChild(sc); };
+    next(); }));
+  async function lessonDoc(sessionsIn, name) {
+    const D = data(), ss = sessionsIn.filter(Boolean);
+    if (!ss.length) { say("No teaching days to put in a lesson plan."); return; }
+    say(`Making ${ss.length === 1 ? "the lesson plan" : ss.length + " lesson plans"}…`);
+    try {
+      const JSZip = await loadZip();
+      const res = await fetch("lp-template.docx"); if (!res.ok) throw new Error("template");
+      const zip = await JSZip.loadAsync(await res.arrayBuffer());
+      const doc = await zip.file("word/document.xml").async("string");
+      const a = doc.indexOf("<w:body>") + 8, b = doc.indexOf("<w:sectPr");
+      const body = ss.map(s => lessonXml(D, s)).join(BREAK);
+      zip.file("word/document.xml", doc.slice(0, a) + body + `<w:p><w:pPr><w:spacing w:after="0"/></w:pPr></w:p>` + doc.slice(b));
+      const blob = await zip.generateAsync({ type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document", compression: "DEFLATE" });
+      const url = URL.createObjectURL(blob), link = document.createElement("a");
+      link.href = url; link.download = name.replace(/[\\/:*?"<>|]+/g, "-").slice(0, 150) + ".docx"; document.body.appendChild(link); link.click(); link.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 4000);
+      say("Lesson plan downloaded");
+    } catch (e) { say("Couldn't make the Word file. Check your connection and try again."); }
+  }
+  window.PB_LESSONDOC = { lessonXml, lessonDoc };
+  window.PB_FOLDER = { build, printDoc, lessonDoc };
 
   document.addEventListener("click", e => {
     const b = e.target.closest("[data-fp]"); if (!b || b.disabled) return;
     e.preventDefault(); printDoc(b.dataset.fp, b.dataset.w ? +b.dataset.w : 0);
   });
+  document.addEventListener("click", e => {
+    const b = e.target.closest("[data-lp]"); if (!b || b.disabled || typeof S === "undefined" || !S.plan) return;
+    e.preventDefault(); const D = data(), course = courseOf(D);
+    if (b.dataset.lp === "day") { const s = D.list[+(document.getElementById("fdLpDay")?.value ?? 0)]; if (s) lessonDoc([s], `${course} Lesson Plan - ${s.title} (${iso(s.date)})`); }
+    else { const w = +b.dataset.w; lessonDoc(weekSessions(D, D.weeks[w - 1]), `${course} Lesson Plans - Week ${w} (${iso(D.weeks[w - 1])})`); }
+  });
+  document.addEventListener("change", e => { if (e.target && e.target.id === "fdLpDay" && typeof S !== "undefined" && S.plan) { F().lpDay = +e.target.value; } });
   const onField = e => {
     const el = e.target.closest?.("[data-fd]"); if (!el || typeof S === "undefined" || !S.plan) return;
     const f = F(), k = el.dataset.fd;
