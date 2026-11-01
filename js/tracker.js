@@ -97,7 +97,7 @@
   }
   const cur = () => (TK.list || []).find(c => c.ref === TK.ref) || null;
   async function selectClass(ref) {
-    TK.ref = ref; TK.cfg = { informal_mode: "outcome" }; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.busy = "load"; rerender();
+    TK.ref = ref; TK.cfg = { informal_mode: "outcome" }; TK.items = {}; TK.marks = {}; TK.quizzes = {}; TK.attempts = {}; TK.panel = null; TK.unit = "all"; TK.students = []; TK.pSig = null; TK.busy = "load"; rerender();
     const c = cur(); if (!c) { TK.busy = ""; return rerender(); }
     try {
       if (c.online) {
@@ -214,6 +214,53 @@
     TK.syncing = false;
   }
 
+  // exit tickets not recorded by the teacher are filled from the students' practice (best attempt per lesson, the same level
+  // the markbook shows): per-lesson checks use that lesson's practice; the per-outcome check uses the average over its lessons.
+  // Levels the teacher entered, and checks the teacher changed to another method, are never touched.
+  const prLevel = x => { const p = Math.round(100 * x.score / x.total); return p >= 80 ? 4 : p >= 65 ? 3 : p >= 50 ? 2 : 1; };
+  async function practiceSync(c) {
+    if (!c || !TK.students.length || TK.pSyncing) return;
+    const sig = c.ref + "|" + TK.cfg.informal_mode + "|" + TK.students.length;
+    if (TK.pSig === sig) return;
+    TK.pSyncing = true;
+    try {
+      const refs = TK.students.map(s => s.ref).filter(r => /^[0-9a-f-]{36}$/.test(r));
+      if (!refs.length) return;
+      const { data } = await SB().from("pb_attempts").select("student_id,lesson_key,score,total").eq("kind", "practice").in("student_id", refs);
+      const best = {};
+      (data || []).forEach(x => { if (!x.total) return; const b = (best[x.lesson_key] ||= {}); const l = prLevel(x); if (!b[x.student_id] || l > b[x.student_id]) b[x.student_id] = l; });
+      const sos = courseSos(c.course), lessonMode = TK.cfg.informal_mode === "lesson";
+      let n = 0;
+      for (const so of sos) {
+        let targets;
+        if (lessonMode) targets = (so.lessons || []).map((t, i) => ({ slot: "L" + i, title: t, levels: best[so.code + "_" + i] || {} }));
+        else {
+          const sums = {}, o = {};
+          (so.lessons || []).forEach((t, i) => Object.entries(best[so.code + "_" + i] || {}).forEach(([sid, l]) => { (sums[sid] ||= []).push(l); }));
+          Object.entries(sums).forEach(([sid, ls]) => { o[sid] = Math.round(ls.reduce((a, b) => a + b, 0) / ls.length); });
+          targets = [{ slot: "I", title: "Review: " + so.title, levels: o }];
+        }
+        for (const tg of targets) {
+          const want = TK.students.filter(st => tg.levels[st.ref]); if (!want.length) continue;
+          let it = TK.items[so.code + "|" + tg.slot];
+          if (it && it.method && it.method !== METHODS.informal[0]) continue;
+          for (const st of want) {
+            const m = it ? TK.marks[it.id]?.[st.ref] : null, lv = tg.levels[st.ref];
+            if (m && !(m.source === "auto" && m.note === "practice")) continue;
+            if (m && m.level === lv) continue;
+            if (!it) it = await ensureItem(so.code, tg.slot, "informal", { title: tg.title });
+            if (!it) break;
+            const { error } = await SB().from("pb_tracker_marks").upsert({ item_id: it.id, student_ref: st.ref, level: lv, source: "auto", note: "practice", updated_at: new Date().toISOString() });
+            if (!error) { (TK.marks[it.id] ||= {})[st.ref] = { item_id: it.id, student_ref: st.ref, level: lv, source: "auto", note: "practice" }; n++; }
+          }
+        }
+      }
+      TK.pSig = sig;
+      if (n) rerender();
+    } catch (e) { TK.pSig = sig; }
+    finally { TK.pSyncing = false; }
+  }
+
   // ---------- page ----------
   window.rTracker = function () {
     const head = (typeof ph === "function") ? ph("Assessment tracker", "Each outcome is a unit: an informal check after its lessons (the review day), a formal assessment once the outcome is finished, and summative assessments on the outcomes you choose. A proficiency level for each student.") : "<h1>Assessment tracker</h1>";
@@ -231,7 +278,7 @@
       if (want.ref !== TK.ref) { selectClass(want.ref); return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading ${tkEsc(want.name)}…</div></div>`; }
     }
     const c = cur();
-    if (c && c.online !== undefined && !TK.busy) planSync(c);
+    if (c && c.online !== undefined && !TK.busy) { planSync(c); practiceSync(c); }
     const strands = c ? strandsOf(c.course) : [];
     const shown = TK.unit === "all" ? strands : strands.filter(u => u.key === TK.unit);
     return head + `<div class="stack" style="gap:16px">
@@ -253,7 +300,7 @@
   function cell(s, st) {
     const it = TK.items[s.u + "|" + s.slot], m = it ? TK.marks[it.id]?.[st.ref] : null, v = m?.level || "";
     return `<td class="tk-c ${v ? "lv" + v : ""} k-${s.kind}"><select data-tk="mark" data-u="${tkEsc(s.u)}" data-s="${tkEsc(s.slot)}" data-st="${tkEsc(st.ref)}" aria-label="${tkEsc(st.name)}, ${tkEsc(s.u === SUM ? s.title : s.u + " " + s.label)}">
-      <option value="" ${!v ? "selected" : ""}>–</option>${[4, 3, 2, 1].map(l => `<option value="${l}" ${+v === l ? "selected" : ""}>${LV[l]}</option>`).join("")}</select>${m?.source === "auto" ? `<span class="tk-auto">auto</span>` : ""}</td>`;
+      <option value="" ${!v ? "selected" : ""}>–</option>${[4, 3, 2, 1].map(l => `<option value="${l}" ${+v === l ? "selected" : ""}>${LV[l]}</option>`).join("")}</select>${m?.source === "auto" ? (m.note === "practice" ? `<span class="tk-auto" title="From practice; choose a level to replace it">practice</span>` : `<span class="tk-auto">auto</span>`) : ""}</td>`;
   }
   const levelCell = (c, code, st) => { const ul = outcomeLevel(c, code, st.ref); return `<td class="tk-c tk-sum ${ul ? "lv" + ul.v : ""}" data-lu="${tkEsc(code)}">${ul ? `<b>${LV[ul.v]}</b><span class="tk-auto">${ul.from}</span>` : "–"}</td>`; };
   function colHead(s) {
