@@ -235,7 +235,7 @@
     const p1 = TABLE(G1, [
       fullRow([[["Lesson title/question: ", "b"], [s.title + (typeof dayTag === "function" ? dayTag(s) : ""), ""]]], GREY),
       CELL(G1[0], [[["Date: ", "b"], [longDate(s.date), ""]]], { fill: GREY }) + CELL(G1[1], [[["Subject: ", "b"], [subjectName(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Grade: ", "b"], [gradeText(D), ""]]], { fill: GREY }) + CELL(G1[3], [[["SEN:          ELL:", "b"]]], { fill: GREY }) + CELL(G1[4], [[["UAE:", "b"]]], { fill: GREY }),
-      CELL(G1[0], [[["Lesson length: ", "b"], [`${P} minutes`, ""]]], { fill: GREY }) + CELL(G1[1], [[["Unit: ", "b"], [`${codeLabel(s.code)} ${so.title || ""}`.trim(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Number of Students:", "b"]]], { fill: GREY }) + CELL(G1[3] + G1[4], [[["Boys:", "b"]], [["Girls:", "b"]]], { span: 2, fill: GREY }),
+      CELL(G1[0], [[["Lesson length: ", "b"], [`${P} minutes`, ""]]], { fill: GREY }) + CELL(G1[1], [[["Unit: ", "b"], [`${codeLabel(s.code)} ${so.title || ""}`.trim(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Number of Students: ", "b"], [D.nStudents ? String(D.nStudents) : "", ""]]], { fill: GREY }) + CELL(G1[3] + G1[4], [[["Boys:", "b"]], [["Girls:", "b"]]], { span: 2, fill: GREY }),
       fullRow([[["Medium-term planning context: ", "b"], [ctx, ""]], "", [["Overall Inquiry Question/Essential Question: ", "b"], [eq || "", ""]], [["Role of this lesson: ", "b"], [role, ""]]]),
       fullRow([[["Specific Learning Outcome(s): ", "b"], [objective, ""]], ...(isLesson ? [] : lessons.map(t => bul(t))), "", [["3-Part Success Criteria", "b"]],
         [["All students (must): ", "b"], [tgt ? `I can ${tgt} with support, using models or a worked example.` : "I can show the key idea with support.", ""]],
@@ -266,11 +266,27 @@
     const urls = ["js/vendor/jszip.min.js", "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"];
     const next = () => { const u = urls.shift(); if (!u) { zipLib = null; return no(new Error("zip")); } const sc = document.createElement("script"); sc.src = u; sc.onload = () => window.JSZip ? ok(window.JSZip) : next(); sc.onerror = next; document.head.appendChild(sc); };
     next(); }));
+  // students registered in the chosen grade and group: the online classes' enrolments (each student once),
+  // or, with no online class, the markbook classes of that grade and group
+  async function studentCount() {
+    const g = String(S.plan.grade), grp = S.plan.group || "A";
+    const ofGroup = (c, gr) => { const x = typeof ctxGroupOf === "function" ? ctxGroupOf(c, gr) : (c.section ? String(c.section).toUpperCase() : null); return x === grp; };
+    try {
+      if (S.pt && !S.pt.ready && window.PB_PLATFORM && typeof ptLoad === "function") { ptLoad(); for (let k = 0; k < 40 && !S.pt.ready; k++) await new Promise(ok => setTimeout(ok, 150)); }
+      if (S.pt && S.pt.ready && Array.isArray(S.pt.classes)) {
+        const ids = new Set(S.pt.classes.filter(c => String(c.course || c.grade) === g && ofGroup(c, g)).map(c => c.id));
+        if (ids.size) return new Set((S.pt.enroll || []).filter(e => ids.has(e.class_id)).map(e => e.student_id)).size;
+      }
+    } catch (e) {}
+    try { const mb = (S.classes || []).filter(c => String(c.grade) === g && ofGroup(c, g)); if (mb.length) return new Set(mb.flatMap(c => (c.students || []).map(x => String(x.name || x.id).trim().toLowerCase()))).size; } catch (e) {}
+    return 0;
+  }
   async function lessonDoc(sessionsIn, name) {
     const D = data(), ss = sessionsIn.filter(Boolean);
     if (!ss.length) { say("No teaching days to put in a lesson plan."); return; }
     say(`Making ${ss.length === 1 ? "the lesson plan" : ss.length + " lesson plans"}…`);
     try {
+      D.nStudents = await studentCount();
       const JSZip = await loadZip();
       const res = await fetch("lp-template.docx"); if (!res.ok) throw new Error("template");
       const zip = await JSZip.loadAsync(await res.arrayBuffer());
