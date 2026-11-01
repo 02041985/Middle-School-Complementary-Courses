@@ -234,7 +234,7 @@
     const fullRow = (paras, fill) => CELL(FULL, paras, { span: 5, fill });
     const p1 = TABLE(G1, [
       fullRow([[["Lesson title/question: ", "b"], [s.title + (typeof dayTag === "function" ? dayTag(s) : ""), ""]]], GREY),
-      CELL(G1[0], [[["Date: ", "b"], [longDate(s.date), ""]]], { fill: GREY }) + CELL(G1[1], [[["Subject: ", "b"], [subjectName(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Grade: ", "b"], [gradeText(D), ""]]], { fill: GREY }) + CELL(G1[3], [[["SEN:          ELL:", "b"]]], { fill: GREY }) + CELL(G1[4], [[["UAE:", "b"]]], { fill: GREY }),
+      CELL(G1[0], [[["Date: ", "b"], [longDate(s.date), ""]]], { fill: GREY }) + CELL(G1[1], [[["Subject: ", "b"], [subjectName(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Grade: ", "b"], [gradeText(D), ""]]], { fill: GREY }) + CELL(G1[3], [[["SEN: ", "b"], [D.nStudents && D.nStudents.sen ? String(D.nStudents.sen) : "", ""], ["          ELL: ", "b"], [D.nStudents && D.nStudents.ell ? String(D.nStudents.ell) : "", ""]]], { fill: GREY }) + CELL(G1[4], [[["UAE:", "b"]]], { fill: GREY }),
       CELL(G1[0], [[["Lesson length: ", "b"], [`${P} minutes`, ""]]], { fill: GREY }) + CELL(G1[1], [[["Unit: ", "b"], [`${codeLabel(s.code)} ${so.title || ""}`.trim(), ""]]], { fill: GREY }) + CELL(G1[2], [[["Number of Students: ", "b"], [D.nStudents && D.nStudents.total ? String(D.nStudents.total) : "", ""]]], { fill: GREY }) + CELL(G1[3] + G1[4], [[["Boys: ", "b"], [D.nStudents && D.nStudents.male ? String(D.nStudents.male) : "", ""]], [["Girls: ", "b"], [D.nStudents && D.nStudents.female ? String(D.nStudents.female) : "", ""]]], { span: 2, fill: GREY }),
       fullRow([[["Medium-term planning context: ", "b"], [ctx, ""]], "", [["Overall Inquiry Question/Essential Question: ", "b"], [eq || "", ""]], [["Role of this lesson: ", "b"], [role, ""]]]),
       fullRow([[["Specific Learning Outcome(s): ", "b"], [objective, ""]], ...(isLesson ? [] : lessons.map(t => bul(t))), "", [["3-Part Success Criteria", "b"]],
@@ -276,7 +276,9 @@
       if (S.pt && S.pt.ready && Array.isArray(S.pt.classes)) {
         const ids = new Set(S.pt.classes.filter(c => String(c.course || c.grade) === g && ofGroup(c, g)).map(c => c.id));
         if (ids.size) {
-          const n = { total: new Set((S.pt.enroll || []).filter(e => ids.has(e.class_id)).map(e => e.student_id)).size, male: 0, female: 0 };
+          const sids = [...new Set((S.pt.enroll || []).filter(e => ids.has(e.class_id)).map(e => e.student_id))];
+          const n = { total: sids.length, male: 0, female: 0, sen: 0, ell: 0 };
+          try { const ND = window.PB_NEEDS; if (ND) { if (!ND.loaded) await ND.load(); Object.assign(n, ND.count(sids)); } } catch (e) {}
           try { const sbc = window.PB_PLATFORM?.sb; const r = sbc ? await sbc.rpc("pb_gender_counts", { p_classes: [...ids] }) : null; if (r && r.data) { n.male = +r.data.male || 0; n.female = +r.data.female || 0; } } catch (e) {}
           return n;
         }
