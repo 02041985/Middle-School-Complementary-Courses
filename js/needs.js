@@ -6,16 +6,22 @@
   const SB = () => window.PB_PLATFORM?.sb;
   const e_ = v => (typeof esc === "function" ? esc(v) : String(v ?? ""));
   const PORTAL = "https://www.millardmiddleschoolmaths.live/inclusion";
-  const N = window.PB_NEEDS = { map: {}, loaded: false, loading: null, open: null };
+  const N = window.PB_NEEDS = { map: {}, refs: [], loaded: false, loading: null, open: null, refOpen: false, refMsg: "", refBusy: false };
+  const CONCERNS = [["learning", "Learning"], ["language", "Language (ELL)"], ["behaviour", "Behaviour"], ["wellbeing", "Wellbeing"], ["gifted", "Gifted and talented"], ["other", "Other"]];
+  const STATUS = { open: "Sent", in_review: "Being reviewed", closed: "Closed" };
 
   function load() {
     if (N.loaded || !SB()) return Promise.resolve();
     if (N.loading) return N.loading;
     N.loading = (async () => {
-      try { const { data, error } = await SB().rpc("pb_register_for_my_students"); if (!error) { N.map = {}; (data || []).forEach(r => { N.map[r.student_id] = r; }); N.loaded = true; } }
+      try {
+        const [{ data, error }, rf] = await Promise.all([SB().rpc("pb_register_for_my_students"), SB().rpc("pb_my_referrals")]);
+        if (!error) { N.map = {}; (data || []).forEach(r => { N.map[r.student_id] = r; }); N.loaded = true; }
+        if (rf && !rf.error) N.refs = rf.data || [];
+      }
       catch (e) {}
       N.loading = null;
-      if (S.tab === "students") render();
+      if (S.tab === "students" && !N.refOpen) render();
     })();
     return N.loading;
   }
@@ -46,8 +52,38 @@
             ${open ? `<div class="small" style="margin-top:4px">${r.accommodations ? `<div><span class="eyebrow">Accommodations</span><div style="white-space:pre-wrap">${e_(r.accommodations)}</div></div>` : ""}${r.strategies ? `<div style="margin-top:6px"><span class="eyebrow">Strategies</span><div style="white-space:pre-wrap">${e_(r.strategies)}</div></div>` : ""}</div>` : ""}</div>`; }).join("")
           || `<p class="small muted" style="margin:0">No students in this class are on the register.</p>`}
         ${withNeeds.length && rest ? `<p class="xs muted" style="margin:6px 0 0">${rest} other student${rest === 1 ? "" : "s"}: N/A.</p>` : ""}
+        ${refBox(enrolled)}
         <p class="xs muted" style="margin:8px 0 0">The SENCO and inclusion team keep this register in the <a href="${PORTAL}" target="_blank" rel="noopener">Inclusion portal</a>. Your lesson plans count it. Speak to them about any changes.</p></div></div>`;
   }
+  // refer a student to the inclusion team, and see the team's replies
+  function refBox(enrolled) {
+    const ids = new Set(enrolled.map(x => x.student_id)), name = id => enrolled.find(x => x.student_id === id)?.display_name || "Student";
+    const mine = N.refs.filter(r => ids.has(r.student_id));
+    const fmtD = d => new Date(d).toLocaleDateString([], { day: "numeric", month: "short" });
+    return `<div style="margin-top:10px;border-top:1px solid var(--line);padding-top:10px" class="stack">
+      <div class="row between"><b class="small">Referrals to Inclusion</b><button type="button" class="btn ${N.refOpen ? "quiet" : "ghost"} sm" data-ref="toggle">${N.refOpen ? "Cancel" : "Refer a student"}</button></div>
+      ${N.refOpen ? `<div class="stack" style="gap:8px">
+        <label class="f">Student<select id="refStu">${enrolled.slice().sort((a, b) => String(a.display_name).localeCompare(String(b.display_name))).map(en => `<option value="${e_(en.student_id)}">${e_(en.display_name)}</option>`).join("")}</select></label>
+        <label class="f">Concern<select id="refCon">${CONCERNS.map(([v, l]) => `<option value="${v}">${l}</option>`).join("")}</select></label>
+        <label class="f">What have you noticed?<textarea id="refWhy" rows="3" maxlength="1500" placeholder="e.g. Struggles to read the questions; Limited on the last three tests"></textarea></label>
+        <div class="row"><button type="button" class="btn sm" data-ref="send" ${N.refBusy ? "disabled" : ""}>Send referral</button>${N.refMsg ? `<span class="small" style="color:var(--l1)">${e_(N.refMsg)}</span>` : ""}</div></div>` : ""}
+      ${mine.length ? mine.map(r => `<div class="small" style="padding:6px 0;border-bottom:1px solid var(--line2)"><div class="row between" style="gap:6px;flex-wrap:wrap"><b>${e_(name(r.student_id))}</b><span class="nd-tag${r.status === "closed" ? "" : " sen"}">${STATUS[r.status] || r.status}</span></div>
+          <div class="xs muted">${fmtD(r.created_at)} · ${e_((CONCERNS.find(c => c[0] === r.concern) || [, r.concern])[1])}: ${e_(r.reason)}</div>
+          ${r.response ? `<div class="xs" style="margin-top:3px"><b>Inclusion:</b> ${e_(r.response)}</div>` : ""}</div>`).join("") : `<p class="xs muted" style="margin:0">No referrals for this class yet.</p>`}
+    </div>`;
+  }
+  document.addEventListener("click", async e => {
+    const b = e.target.closest("[data-ref]"); if (!b || !SB()) return;
+    if (b.dataset.ref === "toggle") { N.refOpen = !N.refOpen; N.refMsg = ""; render(); return; }
+    const sid = document.getElementById("refStu")?.value, con = document.getElementById("refCon")?.value, why = (document.getElementById("refWhy")?.value || "").trim();
+    if (!why) { N.refMsg = "Say briefly what you have noticed."; render(); return; }
+    N.refBusy = true; render();
+    const { data, error } = await SB().rpc("pb_refer_student", { p_student: sid, p_concern: con, p_reason: why, p_app: window.PB_PLATFORM?.app || "" });
+    N.refBusy = false;
+    if (error) { N.refMsg = error.message; render(); return; }
+    N.refs = [data, ...N.refs]; N.refOpen = false; N.refMsg = ""; render();
+    if (typeof toast === "function") toast("Referral sent to the inclusion team");
+  });
   function place() {
     if (S.tab !== "students") return;
     const root = document.getElementById("app"); if (!root || root.querySelector(".needs-card")) return;
