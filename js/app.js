@@ -967,7 +967,7 @@ function tbChange(el, act){
 
 // ---------- Analysis ----------
 function analyze(c){
-  const as = classAssess(c), sosSet = [];
+  const as = classAssess(c).filter(a => !a.practice), sosSet = [];  // practice results are shown in the markbook but not counted here
   as.forEach(a => a.sos.forEach(k => { if (!sosSet.includes(k)) sosSet.push(k); }));
   const order = SOS.map(s => s.code); sosSet.sort((a,b) => order.indexOf(a) - order.indexOf(b));
   const val = {};
@@ -1114,6 +1114,18 @@ async function ptSync(){
       if (!a) { a = {kind:"assess", id, classId:c.id, name:`Online test: ${asg.title}`, date:tests[0].created_at.slice(0,10), type:"Online test", sos:[asg.code], marks:{}, src:{}, online:true}; S.assess.push(a); changed = true; }
       a.src = a.src || {}; a.marks = a.marks || {};
       for (const t of tests) if (a.src[t.student_id] !== t.id) { a.marks[t.student_id] = {...(a.marks[t.student_id] || {}), [asg.code]: t.level}; a.src[t.student_id] = t.id; changed = true; }
+      if (changed) await store.set("a_" + id, a);
+    }
+    // practice: each student's best practice attempt per lesson, as its own "Practice" assessment (not counted in Analysis)
+    for (const asg of S.pt.asg.filter(x => x.class_id === pc.id)) {
+      const pr = S.pt.att.filter(x => x.kind === "practice" && x.class_id === pc.id && x.lesson_key === asg.lesson_key && x.total);
+      if (!pr.length) continue;
+      const id = "pr_" + asg.id, lv = x => { const p = Math.round(100 * x.score / x.total); return p >= 80 ? 4 : p >= 65 ? 3 : p >= 50 ? 2 : 1; };
+      let a = S.assess.find(x => x.id === id), changed = false;
+      if (!a) { a = {kind:"assess", id, classId:c.id, name:`Practice: ${asg.title}`, date:pr.map(x => x.created_at).sort()[0].slice(0,10), type:"Online practice", sos:[asg.code], marks:{}, src:{}, online:true, practice:true}; S.assess.push(a); changed = true; }
+      a.src = a.src || {}; a.marks = a.marks || {};
+      const best = {}; pr.forEach(x => { const b = best[x.student_id]; if (!b || x.score / x.total > b.score / b.total) best[x.student_id] = x; });
+      for (const sid in best) { const x = best[sid]; if (a.src[sid] !== x.id) { a.marks[sid] = {...(a.marks[sid] || {}), [asg.code]: lv(x)}; a.src[sid] = x.id; changed = true; } }
       if (changed) await store.set("a_" + id, a);
     }
   }
