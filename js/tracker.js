@@ -190,6 +190,30 @@
     return { u: SUM, s: slot, k: "summative" };
   }
 
+  // outcome assessment days switched to "summative" in the weekly plan become summative columns automatically;
+  // switching back to formal removes that column again while it has no levels, quiz or upload
+  async function planSync(c) {
+    const codes = courseSos(c.course).map(so => so.code), want = sumDays().filter(e => codes.includes(e.outcomes[0]));
+    const sig = c.ref + "|" + want.map(e => e.date + e.outcomes[0]).join(",");
+    if (TK.planSig === sig || TK.syncing) return;
+    TK.syncing = true;
+    try {
+      let changed = false;
+      for (const e of want) { const slot = "P" + e.date.replace(/-/g, ""); if (!TK.items[SUM + "|" + slot]) { await linkPlan(c, e, slot); changed = true; } }
+      const evDates = new Set(((S.plan && S.plan.events) || []).filter(e => e.kind === "summative").map(e => e.date)), keep = new Set(want.map(e => e.date));
+      for (const it of Object.values(TK.items)) {
+        if (it.unit !== SUM || it.class_ref !== c.ref || !/^P\d{8}$/.test(it.slot) || !/^Summative assessment:/.test(it.title || "")) continue;
+        const d = it.plan_date || ""; if (keep.has(d) || evDates.has(d)) continue;
+        if (it.quiz_id || it.file_path || Object.keys(TK.marks[it.id] || {}).length) continue;
+        const { error } = await SB().from("pb_tracker_items").delete().eq("id", it.id);
+        if (!error) { delete TK.items[SUM + "|" + it.slot]; changed = true; }
+      }
+      TK.planSig = sig;
+      if (changed) rerender();
+    } catch (e) { TK.planSig = sig; }
+    TK.syncing = false;
+  }
+
   // ---------- page ----------
   window.rTracker = function () {
     const head = (typeof ph === "function") ? ph("Assessment tracker", "Each outcome is a unit: an informal check after its lessons (the review day), a formal assessment once the outcome is finished, and summative assessments on the outcomes you choose. A proficiency level for each student.") : "<h1>Assessment tracker</h1>";
@@ -207,6 +231,7 @@
       if (want.ref !== TK.ref) { selectClass(want.ref); return head + `<div class="card"><div class="card-b row"><span class="spinner"></span>Loading ${tkEsc(want.name)}…</div></div>`; }
     }
     const c = cur();
+    if (c && c.online !== undefined && !TK.busy) planSync(c);
     const strands = c ? strandsOf(c.course) : [];
     const shown = TK.unit === "all" ? strands : strands.filter(u => u.key === TK.unit);
     return head + `<div class="stack" style="gap:16px">
