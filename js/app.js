@@ -60,7 +60,7 @@ const NAV = [
   {group:null, items:[["home","Overview","home","Home"]]},
   {group:"Plan", items:[["curriculum","Curriculum","book","Outcomes"],["week","Weekly plan","calendar","Week"],["day","Daily plan","clock","Day"]]},
   {group:"Teach", items:[["lessons","Lessons","lesson","Lessons"]]},
-  {group:"Assess", items:[["marks","Markbook","marks","Marks"],["tracker","Assessment tracker","chart","Tracker"],["analysis","Analysis","chart","Data"],["test","Test builder","test","Tests"],["students","Students","users","Students"]]}
+  {group:"Assess", items:[["marks","Markbook","marks","Marks"],["tracker","Assessment tracker","chart","Tracker"],["board","Smart board","pen","Board"],["analysis","Analysis","chart","Data"],["test","Test builder","test","Tests"],["students","Students","users","Students"]]}
 ];
 if (!window.PB_PLATFORM) NAV[3].items = NAV[3].items.filter(i => i[0] !== "students");
 const TABS = NAV.flatMap(g => g.items.map(i => i[0]));
@@ -236,7 +236,7 @@ const ptSectionOpts = (course, cur) => {
 };
 function ptFillSection(){ const s = document.getElementById("ptSection"), g = document.getElementById("ptGrade"); if (s && g && !s.dataset.f) { s.innerHTML = ptSectionOpts(g.value); s.dataset.f = "1"; } }
 function render(){
-  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome)}[S.tab] || rHome;
+  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome), board:(window.rBoard || rHome)}[S.tab] || rHome;
   pbFixState();
   $("#app").innerHTML = R();
   pbRestrictDom($("#app")); ptFillSection();
