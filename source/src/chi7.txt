@@ -1,0 +1,659 @@
+=== CHI7.A1 1
+hook: Every Mandarin syllable has three parts: a beginning sound (initial), an ending sound (final) and a tone. Pinyin, the official romanization system, lets you read any syllable before you know a single character.
+sc: I can identify initials and finals in pinyin syllables | I can read pinyin syllables aloud | I can recognize pinyin sounds that differ from English spelling
+v: 拼音 pīnyīn :: the romanization system for Mandarin
+v: 声母 shēngmǔ :: initial (beginning consonant)
+v: 韵母 yùnmǔ :: final (ending vowel sound)
+v: 音节 yīnjié :: syllable
+v: q :: sounds like "ch" in "cheese"
+v: x :: sounds like "sh" in "she"
+v: zh :: sounds like "j" in "jump" with the tongue curled back
+v: c :: sounds like "ts" in "cats"
+ts: Reading Pinyin || Practice || How do I read pinyin syllables?
+tx: Pinyin guide (written for this lesson): ¶ A syllable = initial + final + tone. Example: mā = m (initial) + a (final) + first tone. Some syllables have no initial: ài (love), ěr (ear). ¶ Initials that surprise English speakers: q = "ch" (as in cheese): qī (seven). x = "sh" (as in she): xiè (thank). j = "j" (as in jeep): jiā (home). zh = "j" with tongue curled back: zhōng (middle). ch = "ch" with tongue curled back: chī (eat). sh = "sh" with tongue curled back: shí (ten). z = "ds" (as in kids): zài (at). c = "ts" (as in cats): cài (dish). r = between English r and the s in "measure": rén (person). ¶ Finals: a (father), o (more), e (like "uh"), i (see), u (moon), ü (say "ee" with rounded lips): nǚ (female). ¶ Special: after zh, ch, sh, r, z, c, s, the i sounds like a buzzing "rr" or "zz," not "ee": shí, sì. ¶ Activities: 1. Split syllables into initial and final on mini-whiteboards. 2. Teacher says a syllable; students hold up q, x, j, zh, ch or sh cards. 3. Partners read a list of 20 syllables aloud and check each other.
+src: Original activity written for this lesson; pinyin values follow standard Mandarin pronunciation guides.
+st: Learn syllable structure | Learn surprising initials | Learn finals including ü | Split syllables into parts | Read syllables aloud with a partner
+org: Syllable | Initial | Final | English sound hint
+an: Which initials are most different from English? | How is ü pronounced? | Why does the i in shí not sound like "ee"? | Which syllables were hardest to read?
+pr: Split 15 pinyin syllables into initials and finals and read them aloud correctly to a partner.
+ex: Split || Split "zhōng." || Initial + final || zh + ong, first tone || Split "xiè."
+ex: q || How is "qī" pronounced? || q = ch || Like "chee" || What does it mean?
+ex: x || How is "xiè" pronounced? || x = sh || Like "shyeh" || What does xièxie mean?
+ex: ü || How do you say "nǚ"? || Rounded "ee" || Say "ee" with rounded lips || What does it mean?
+p: B || What is pinyin? || The romanization system for Mandarin.
+p: B || What are the three parts of a syllable? || Initial, final and tone.
+p: B || What is an initial? || The beginning consonant.
+p: B || What is a final? || The ending vowel sound.
+p: B || What English sound is q like? || "ch" in cheese.
+p: I || What English sound is x like? || "sh" in she.
+p: I || What English sound is c like? || "ts" in cats.
+p: I || Split "chī." || ch + i.
+p: I || Split "jiā." || j + ia.
+p: I || How is ü pronounced? || "ee" with rounded lips.
+p: I || Give a syllable with no initial. || Ài.
+p: C || Why can't you read pinyin like English? || Some letters represent different sounds.
+p: C || How does the i in "sì" sound? || A buzzing "zz," not "ee."
+p: C || Why learn pinyin before characters? || It shows pronunciation for any character.
+p: C || Read your syllable list. || Answers vary.
+mis: Reading q as "k" | Reading x as "ks" | Pronouncing every i as "ee"
+et: Split "xué" into initial and final. | How is q pronounced?
+mc: B || Pinyin is || romanization for Mandarin | a character | a tone | a dialect || A
+mc: B || A syllable has || initial, final and tone | only a tone | only letters | two characters || A
+mc: B || An initial is || the beginning consonant | the ending | the tone | a character || A
+mc: B || Q sounds like || ch in cheese | k | qu in queen | g || A
+mc: B || X sounds like || sh in she | ks | z | x in box || A
+mc: B || C sounds like || ts in cats | k | s | ch || A
+mc: I || "Zhōng" splits as || zh + ong | z + hong | zho + ng | zh + o || A
+mc: I || Ü is said as || ee with rounded lips | oo | u in up | you || A
+mc: I || In "shí", i sounds like || a buzzing rr | ee | eye | ih || A
+mc: I || "Ài" has || no initial | no final | no tone | two initials || A
+mc: C || Pinyin differs from English because || letters represent different sounds | it's random | it has no vowels | it's French || A
+mc: C || Learning pinyin first helps you || pronounce any character | write characters | skip tones | read English || A
+sa: B || Define pinyin. || The romanization system for Mandarin.
+sa: B || Name the three parts of a syllable. || Initial, final, tone.
+sa: I || Give English hints for q, x and c. || Ch in cheese, sh in she, ts in cats.
+sa: I || Split zhōng, xiè and chī. || Zh + ong; x + ie; ch + i.
+sa: I || Describe how to say ü. || Say "ee" with rounded lips.
+sa: I || Give two syllables where i is not "ee." || Shí, sì.
+sa: C || Explain why pinyin isn't read like English. || Letters stand for different sounds.
+sa: C || Read your syllable list. || Answers vary.
+
+=== CHI7.A1 2
+hook: Mā, má, mǎ, mà: four tones, four different words (mother, hemp, horse, scold). Writing tone marks correctly is how readers know which word you mean.
+sc: I can write tone marks on the correct vowel | I can apply the third-tone change rule | I can read and write words with tone marks and neutral tone
+v: 声调 shēngdiào :: tone
+v: ˉ :: first tone mark (high, level)
+v: ˊ :: second tone mark (rising)
+v: ˇ :: third tone mark (dipping)
+v: ˋ :: fourth tone mark (falling)
+v: 轻声 qīngshēng :: neutral tone (light, no mark)
+v: 你好 nǐ hǎo :: hello (said ní hǎo)
+v: 不 bù :: not
+ts: Tone Marks || Practice || Where do tone marks go, and how do tones change?
+tx: Tone mark rules (written for this lesson): ¶ 1. If there is an a or e, it takes the mark: hǎo, xiè, gěi. ¶ 2. In ou, the o takes the mark: dōu, gǒu (dog). ¶ 3. Otherwise, the mark goes on the last vowel: in iu and ui, mark the second vowel: liù (six), duì (correct). ¶ 4. The dot on i disappears under a mark: nǐ, qī. ¶ Neutral tone: light and short, no mark: māma (mom), xièxie (thanks), bàba (dad). ¶ Third-tone change: when two third tones come together, the first becomes second tone: nǐ hǎo is said ní hǎo (but written nǐ hǎo). ¶ 不 bù change: before a fourth tone, bù becomes bú: bú shì (is not). ¶ Activities: 1. Add tone marks to 20 syllables using the rules (e.g. hao3 → hǎo, liu4 → liù, gui4 → guì). 2. Tone dictation: teacher says syllables; students write pinyin with marks. 3. Partners practise nǐ hǎo, hěn hǎo, bú shì with the changes.
+src: Original activity written for this lesson; rules follow standard pinyin conventions.
+st: Learn where tone marks go | Practise iu and ui | Learn the neutral tone | Apply the third-tone change | Take a tone dictation
+org: Number form | With tone mark | Rule used
+an: Why does a always take the mark? | Where does the mark go in "liu"? | How is nǐ hǎo really pronounced? | Why does bù change before fourth tone?
+pr: Write tone marks on 20 syllables correctly and record yourself saying five phrases with tone changes.
+ex: a first || Mark "hao3." || a takes the mark || hǎo || Mark "xie4."
+ex: iu || Mark "liu4." || Last vowel in iu || liù || Mark "gui4."
+ex: Third tone || How is "hěn hǎo" said? || 3 + 3 → 2 + 3 || hén hǎo || Is the spelling changed?
+ex: Bù || How is "bù shì" said? || Before 4th tone || bú shì || What about bù hǎo?
+p: B || What is 声调 shēngdiào? || Tone.
+p: B || Which tone mark is level? || First tone (ˉ).
+p: B || Which tone mark falls? || Fourth tone (ˋ).
+p: B || What is the neutral tone? || A light tone with no mark.
+p: B || What does 你好 mean? || Hello.
+p: I || Mark "ma1." || Mā.
+p: I || Mark "gou3." || Gǒu.
+p: I || Mark "dui4." || Duì.
+p: I || Mark "liu4." || Liù.
+p: I || How is nǐ hǎo pronounced? || Ní hǎo.
+p: I || How is bù shì pronounced? || Bú shì.
+p: C || Why does the i lose its dot under a mark? || The tone mark replaces the dot.
+p: C || Why is nǐ hǎo still written with two third tones? || Pinyin shows the original tones; the change is in speech.
+p: C || Where does the mark go in "shui3"? || Shuǐ, on the i.
+p: C || Record your phrases. || Answers vary.
+mis: Putting the mark on the wrong vowel in iu/ui | Writing ní hǎo instead of nǐ hǎo | Marking neutral tones
+et: Mark "xie4 xie5." | How is nǐ hǎo pronounced?
+mc: B || 声调 means || tone | syllable | pinyin | character || A
+mc: B || The first tone is || high and level | rising | dipping | falling || A
+mc: B || The fourth tone is || falling | rising | level | dipping || A
+mc: B || The neutral tone has || no mark | a dot | two marks | a circle || A
+mc: B || 你好 means || hello | goodbye | thank you | sorry || A
+mc: B || 不 bù means || not | good | you | yes || A
+mc: I || "hao3" is written || hǎo | hāo | haǒ | háo || A
+mc: I || "liu4" is written || liù | lìu | lìù | liú || A
+mc: I || nǐ hǎo is said || ní hǎo | nǐ háo | nì hào | nī hāo || A
+mc: I || bù shì is said || bú shì | bù shí | bū shì | bǔ shì || A
+mc: C || If a syllable has a or e, the mark goes on || the a or e | the last letter | the first letter | the i || A
+mc: C || In iu and ui, mark the || second vowel | first vowel | consonant | nothing || A
+sa: B || Name the four tone marks. || ˉ ˊ ˇ ˋ (level, rising, dipping, falling).
+sa: B || What is the neutral tone? || A light, short tone with no mark.
+sa: I || State the tone mark rules. || A or e first; o in ou; otherwise the last vowel.
+sa: I || Mark gui4 and liu2. || Guì, liú.
+sa: I || Explain the third-tone change. || Two third tones: the first becomes second tone.
+sa: I || Explain the bù change. || Bù becomes bú before a fourth tone.
+sa: C || Explain why spelling doesn't show tone changes. || Pinyin shows original tones.
+sa: C || Record your phrases. || Answers vary.
+
+=== CHI7.B1 0
+hook: 你好! Nǐ hǎo! These two characters are probably the most famous words in Mandarin. Today you'll learn how to greet people properly, including teachers and elders, and say goodbye.
+sc: I can greet people and say goodbye in Mandarin | I can use polite greetings for teachers and elders | I can respond to thanks and apologies
+v: 你好 nǐ hǎo :: hello
+v: 您好 nín hǎo :: hello (polite, to elders and teachers)
+v: 老师好 lǎoshī hǎo :: hello, teacher
+v: 早上好 zǎoshang hǎo :: good morning
+v: 再见 zàijiàn :: goodbye
+v: 谢谢 xièxie :: thank you
+v: 不客气 bú kèqi :: you're welcome
+v: 对不起 duìbuqǐ :: sorry
+ts: 你好! || Dialogue || How do I greet people in Mandarin?
+tx: Dialogue (read with a partner): ¶ 学生 (student): 老师好! Lǎoshī hǎo! ¶ 老师 (teacher): 你们好! Nǐmen hǎo! (Hello, everyone!) ¶ 小明 Xiǎo Míng: 你好! Nǐ hǎo! ¶ 小红 Xiǎo Hóng: 你好! 你好吗? Nǐ hǎo! Nǐ hǎo ma? (How are you?) ¶ 小明: 我很好, 谢谢。你呢? Wǒ hěn hǎo, xièxie. Nǐ ne? (I'm fine, thanks. And you?) ¶ 小红: 我也很好。再见! Wǒ yě hěn hǎo. Zàijiàn! (I'm fine too. Bye!) ¶ 小明: 再见! Zàijiàn! ¶ Culture: 您 nín is the respectful "you," used with teachers, elders and strangers. In China, students often stand and greet the teacher together at the start of class: 老师好! Friends often greet with questions like 你吃了吗? Nǐ chī le ma? (Have you eaten?), a friendly way of showing care. ¶ Activity: role-play greetings in three situations: a friend, a teacher in the morning, a grandparent. Choose 你 or 您.
+src: Original dialogue written for this lesson.
+st: Read the dialogue in pinyin and characters | Learn polite 您 | Practise 你好吗 and responses | Learn thanks and apologies | Role-play three situations
+org: Situation | Greeting | Response
+an: When do you use 您 instead of 你? | How do you answer 你好吗? | What does 你吃了吗 show about culture? | How do students greet teachers in China?
+pr: Perform three greeting role-plays (friend, teacher, elder), choosing 你 or 您 correctly, and include thanks and goodbye.
+ex: Teacher || Greet your teacher. || 老师 + 好 || 老师好! Lǎoshī hǎo! || Greet a grandparent.
+ex: Elder || Greet an elder politely. || 您 || 您好! Nín hǎo! || Why 您?
+ex: Response || Answer 你好吗? || 我很好 || 我很好, 谢谢。你呢? || What does 你呢 mean?
+ex: Thanks || Respond to 谢谢. || You're welcome || 不客气! Bú kèqi! || Respond to 对不起.
+p: B || How do you say hello? || 你好 nǐ hǎo.
+p: B || How do you say goodbye? || 再见 zàijiàn.
+p: B || How do you say thank you? || 谢谢 xièxie.
+p: B || How do you say sorry? || 对不起 duìbuqǐ.
+p: B || How do you greet a teacher? || 老师好 lǎoshī hǎo.
+p: I || When do you use 您? || With teachers, elders and strangers.
+p: I || What does 你好吗 mean? || How are you?
+p: I || What does 我很好 mean? || I'm fine.
+p: I || What does 你呢 mean? || And you?
+p: I || What does 不客气 mean? || You're welcome.
+p: I || What does 你们好 mean? || Hello, everyone.
+p: C || What does 你吃了吗 show about culture? || Caring about someone's wellbeing is a greeting.
+p: C || Why is 不 pronounced bú in 不客气? || It's before a fourth tone (kè).
+p: C || Write a dialogue between you and a teacher. || Answers vary.
+p: C || Perform your role-plays. || Answers vary.
+mis: Using 你 with elders | Thinking 你吃了吗 is a real meal invitation | Saying zàijiàn with flat tones
+et: Greet your teacher in Mandarin. | Say thank you and you're welcome.
+mc: B || 你好 means || hello | goodbye | thanks | sorry || A
+mc: B || 再见 means || goodbye | hello | sorry | welcome || A
+mc: B || 谢谢 means || thank you | sorry | hello | please || A
+mc: B || 对不起 means || sorry | thanks | goodbye | excuse me only || A
+mc: B || 老师 means || teacher | student | old | friend || A
+mc: B || 早上好 means || good morning | good night | goodbye | good food || A
+mc: I || 您 is used with || elders and teachers | close friends only | pets | younger siblings || A
+mc: I || 你好吗 means || How are you? | Who are you? | Where are you? | Are you good? only || A
+mc: I || 不客气 means || You're welcome | Not good | I'm sorry | No guests || A
+mc: I || 你呢 means || And you? | Where? | Who? | Not you || A
+mc: C || 你吃了吗 is a || friendly greeting | dinner invitation | rude question | test || A
+mc: C || 不 before kè is said || bú | bù | bū | bǔ || A
+sa: B || Write hello and goodbye in characters and pinyin. || 你好 nǐ hǎo; 再见 zàijiàn.
+sa: B || How do you greet a teacher? || 老师好 lǎoshī hǎo.
+sa: I || When do you use 您? || With elders, teachers and strangers.
+sa: I || Answer 你好吗. || 我很好, 谢谢。你呢?
+sa: I || Respond to 谢谢. || 不客气 bú kèqi.
+sa: I || Explain 你吃了吗. || A caring greeting meaning "Have you eaten?"
+sa: C || Explain why 不 changes tone in 不客气. || It's before a fourth tone.
+sa: C || Perform your role-plays. || Answers vary.
+
+=== CHI7.B1 1
+hook: 我叫… wǒ jiào… In just a few words you can tell someone your name, age and nationality. You'll also discover how Chinese names work, family name first.
+sc: I can say my name with 我叫 and 我姓 | I can say my age with 岁 | I can ask someone's name, age and nationality
+v: 我 wǒ :: I, me
+v: 叫 jiào :: to be called
+v: 姓 xìng :: family name; to be surnamed
+v: 什么 shénme :: what
+v: 名字 míngzi :: name
+v: 岁 suì :: years old
+v: 几 jǐ :: how many (small numbers)
+v: 加拿大人 Jiānádà rén :: Canadian (person)
+ts: 我叫… || Dialogue || How do I introduce myself in Mandarin?
+tx: Dialogue (read with a partner): ¶ A: 你好! 你叫什么名字? Nǐ hǎo! Nǐ jiào shénme míngzi? (What's your name?) ¶ B: 我叫王丽。你呢? Wǒ jiào Wáng Lì. Nǐ ne? ¶ A: 我叫 Sam。你姓王吗? Wǒ jiào Sam. Nǐ xìng Wáng ma? (Is your family name Wang?) ¶ B: 对, 我姓王。你几岁? Duì, wǒ xìng Wáng. Nǐ jǐ suì? (How old are you?) ¶ A: 我十二岁。你是中国人吗? Wǒ shí'èr suì. Nǐ shì Zhōngguó rén ma? ¶ B: 不是, 我是加拿大人。 Bú shì, wǒ shì Jiānádà rén. ¶ Grammar: question particle 吗 ma turns a statement into a yes/no question: 你是加拿大人吗? ¶ Age: no verb needed: 我十二岁 (I twelve years). For adults, 您多大年纪? is more polite. ¶ Names: Chinese names put the family name first: 王丽 = family name 王 Wáng + given name 丽 Lì. Common family names include 王 Wáng, 李 Lǐ, 张 Zhāng, 刘 Liú and 陈 Chén. ¶ Nationality: country + 人 rén: 中国人, 加拿大人, 美国人. ¶ Activity: choose or receive a Chinese name, then interview three classmates.
+src: Original dialogue written for this lesson.
+st: Read the dialogue | Learn 叫 and 姓 | Make yes/no questions with 吗 | Say age with 岁 | Interview three classmates
+org: 名字 | 几岁 | 哪国人
+an: What is 王丽's family name? | How do you turn a statement into a question? | Why is there no verb in 我十二岁? | What order do Chinese names use?
+pr: Write and perform a self-introduction with your name, family name, age and nationality, and ask a partner three questions.
+ex: Name || Say "My name is Sam." || 我叫 + name || 我叫 Sam。 || Ask a partner's name.
+ex: Family name || "My family name is Li." || 我姓 + family name || 我姓李。 || Ask if someone is surnamed Zhang.
+ex: Age || "I am thirteen." || number + 岁 || 我十三岁。 || Ask "How old are you?"
+ex: 吗 question || "Are you Canadian?" || statement + 吗 || 你是加拿大人吗? || Answer no.
+p: B || What does 我 mean? || I, me.
+p: B || What does 叫 mean? || To be called.
+p: B || What does 姓 mean? || Family name, to be surnamed.
+p: B || What does 岁 mean? || Years old.
+p: B || What does 什么 mean? || What.
+p: I || Ask "What's your name?" || 你叫什么名字?
+p: I || Say "I'm twelve." || 我十二岁。
+p: I || Ask "How old are you?" || 你几岁?
+p: I || Say "I'm Canadian." || 我是加拿大人。
+p: I || What does 吗 do? || Makes a yes/no question.
+p: I || What is Wang Li's given name? || 丽 Lì.
+p: C || Why is there no verb in 我十二岁? || Mandarin doesn't need "to be" with ages.
+p: C || How are Chinese names ordered? || Family name first, given name second.
+p: C || Name three common Chinese family names. || 王, 李, 张.
+p: C || Perform your self-introduction. || Answers vary.
+mis: Saying 我是十二岁 | Putting the given name first | Adding 吗 to a question that already has 什么
+et: 你叫什么名字? | 你几岁?
+mc: B || 我 means || I | you | he | we || A
+mc: B || 叫 means || to be called | to eat | to go | to see || A
+mc: B || 岁 means || years old | name | country | family || A
+mc: B || 什么 means || what | who | where | when || A
+mc: B || 名字 means || name | word | school | friend || A
+mc: B || 加拿大人 means || Canadian person | Canada | Chinese person | a teacher || A
+mc: I || "What's your name?" is || 你叫什么名字? | 你几岁? | 你是哪国人? | 你好吗? || A
+mc: I || "I'm twelve" is || 我十二岁。 | 我是十二。 | 我二十岁。 | 我十二个。 || A
+mc: I || 吗 makes || a yes/no question | a negative | the past | a plural || A
+mc: I || In 王丽, the family name is || 王 | 丽 | both | neither || A
+mc: C || Chinese names put first || the family name | the given name | the nickname | the title || A
+mc: C || Ages in Mandarin || need no verb | need 是 | need 有 | need 吗 || A
+sa: B || Introduce your name in Mandarin. || 我叫…
+sa: B || Say your age. || 我…岁。
+sa: I || Ask a partner's name and age. || 你叫什么名字? 你几岁?
+sa: I || Ask "Are you Chinese?" || 你是中国人吗?
+sa: I || Explain 我姓 vs 我叫. || Family name versus full or given name.
+sa: I || Explain Chinese name order. || Family name first.
+sa: C || Explain why ages have no verb. || Mandarin doesn't use "to be" with ages.
+sa: C || Perform your introduction. || Answers vary.
+
+=== CHI7.B1 2
+hook: Many Chinese characters began as pictures: 人 looks like a walking person, 山 like a mountain with three peaks, 日 was once a circle for the sun. Learning their stories makes them easier to remember.
+sc: I can read and write ten basic characters | I can follow basic stroke order rules | I can explain how some characters developed from pictures
+v: 汉字 Hànzì :: Chinese characters
+v: 笔画 bǐhuà :: stroke
+v: 笔顺 bǐshùn :: stroke order
+v: 人 rén :: person
+v: 大 dà :: big
+v: 小 xiǎo :: small
+v: 山 shān :: mountain
+v: 日 rì :: sun, day
+ts: 汉字 || Writing || How are basic Chinese characters written and remembered?
+tx: Characters (written for this lesson): ¶ Pictograph stories: 人 rén (person): two legs walking. 口 kǒu (mouth): an open mouth. 日 rì (sun, day): once a circle with a dot. 月 yuè (moon, month): a crescent moon. 山 shān (mountain): three peaks. 水 shuǐ (water): flowing streams. 木 mù (tree): trunk, branches and roots. 大 dà (big): a person with arms stretched wide. 小 xiǎo (small): small bits. 中 zhōng (middle): a line through the centre of a box. ¶ Stroke order rules: 1. Top to bottom (三). 2. Left to right (川). 3. Horizontal before vertical (十). 4. Outside before inside, then close the box (日: left side, top and right, middle line, bottom). 5. Middle before sides when symmetrical (小). ¶ Character combinations: 大人 dàrén (adult), 中国 Zhōngguó (China), 日本 Rìběn (Japan), 山水 shānshuǐ (landscape). ¶ Activities: 1. Match characters to ancient pictures. 2. Practise each character on grid paper, counting strokes aloud. 3. Character bingo.
+src: Original activity written for this lesson; character origins summarized from common teaching resources.
+st: Learn ten basic characters | Match them to their picture origins | Learn five stroke order rules | Practise on grid paper | Play character bingo
+org: 汉字 | Pinyin | Meaning | Picture story | Strokes
+an: Which character looks most like its meaning? | Which stroke order rule is hardest? | Why does stroke order matter? | What does 大人 mean, and why?
+pr: Write ten characters neatly with correct stroke order on grid paper, labelled with pinyin, meaning and a picture story.
+ex: Origin || What does 山 look like? || Picture || Three mountain peaks || What does 水 look like?
+ex: Stroke order || How do you write 十? || Horizontal before vertical || Horizontal stroke first, then vertical || How about 三?
+ex: Box || How do you write 日? || Outside, inside, close || Left, top-right, middle, then bottom || What about 口?
+ex: Combination || What does 大人 mean? || Big + person || Adult || What does 中国 mean?
+p: B || What is 汉字? || Chinese characters.
+p: B || What does 人 mean? || Person.
+p: B || What does 山 mean? || Mountain.
+p: B || What does 日 mean? || Sun, day.
+p: B || What does 大 mean? || Big.
+p: I || What does 月 mean? || Moon, month.
+p: I || What does 水 mean? || Water.
+p: I || What does 木 mean? || Tree, wood.
+p: I || What does 中国 mean? || China.
+p: I || Name two stroke order rules. || Top to bottom; left to right.
+p: I || How many strokes in 人? || Two.
+p: C || Why does stroke order matter? || It makes characters neat, consistent and easier to read and remember.
+p: C || How does 大 show "big"? || A person with arms stretched wide.
+p: C || Why do characters combine into words? || To build new meanings from simpler ones.
+p: C || Show your character sheet. || Answers vary.
+mis: Writing strokes in random order | Thinking every character is a picture | Closing boxes too early
+et: Write 人, 大, 小. | What does 日 mean?
+mc: B || 汉字 means || Chinese characters | pinyin | tones | grammar || A
+mc: B || 人 means || person | big | mouth | tree || A
+mc: B || 山 means || mountain | water | sun | moon || A
+mc: B || 水 means || water | fire | tree | mountain || A
+mc: B || 大 means || big | small | middle | person || A
+mc: B || 小 means || small | big | middle | many || A
+mc: I || 月 means || moon or month | sun | day | year || A
+mc: I || 中国 means || China | Japan | middle school | adult || A
+mc: I || 十 is written || horizontal first | vertical first | dot first | any order || A
+mc: I || 大人 means || adult | big mouth | giant | child || A
+mc: C || Stroke order helps characters be || neat and consistent | colourful | faster to forget | longer || A
+mc: C || Boxes like 日 are closed || last | first | in the middle | never || A
+sa: B || Write five characters with meanings. || Answers vary, e.g. 人 person, 山 mountain.
+sa: B || What is 笔顺? || Stroke order.
+sa: I || List three stroke order rules. || Top to bottom, left to right, horizontal before vertical.
+sa: I || Explain the picture origin of two characters. || Answers vary.
+sa: I || What do 中国 and 日本 mean? || China, Japan.
+sa: I || Explain how to write 日. || Outside first, middle line, close the bottom last.
+sa: C || Explain why stroke order matters. || Neatness, consistency and memory.
+sa: C || Show your character sheet. || Answers vary.
+
+=== CHI7.C1 0
+hook: Mandarin numbers are among the most logical in the world: 11 is "ten-one," 20 is "two-ten," 99 is "nine-ten-nine." Learn 1–10 and you can count to 99 instantly.
+sc: I can count from 0 to 100 in Mandarin | I can read and write number characters | I can use numbers in phone numbers, math and prices
+v: 一 yī :: one
+v: 二 èr :: two
+v: 十 shí :: ten
+v: 零 líng :: zero
+v: 一百 yìbǎi :: one hundred
+v: 两 liǎng :: two (before measure words)
+v: 数字 shùzì :: number, digit
+v: 加 jiā / 减 jiǎn :: plus / minus
+ts: 数字 || Practice || How do numbers work in Mandarin?
+tx: Numbers (written for this lesson): ¶ 一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí, 零 líng (zero). ¶ 11–19: 十 + number: 十一 shíyī (11), 十五 shíwǔ (15). ¶ Tens: number + 十: 二十 èrshí (20), 五十 wǔshí (50). ¶ 21–99: tens + ones: 二十一 èrshíyī (21), 九十九 jiǔshíjiǔ (99). ¶ 100: 一百 yìbǎi. ¶ 两 liǎng is used for "two" before measure words: 两个人 (two people). ¶ Phone numbers: digits read one by one; 一 is often said yāo to avoid confusion with 七 qī. ¶ Math: 三加四等于七 sān jiā sì děngyú qī (3 + 4 = 7). ¶ Culture: 八 bā sounds like 发 fā (to prosper), so 8 is considered lucky; 四 sì sounds like 死 sǐ (death), so 4 is often avoided in building floor numbers. ¶ Finger counting: there are one-hand signs for 6–10 (e.g. 6 = thumb and pinkie out). ¶ Activities: number bingo, math races and phone-number dictation.
+src: Original activity written for this lesson; number cultural notes are widely described.
+st: Learn 0–10 | Build 11–99 | Learn 一百 and 两 | Practise math and phone numbers | Learn number culture
+org: Number | 汉字 | Pinyin
+an: How is 11 built in Mandarin? | Why is 8 lucky? | When do you use 两 instead of 二? | How do you say 1 in phone numbers?
+pr: Write 20 numbers from 0 to 100 in characters and pinyin, and solve five spoken math problems.
+ex: Teens || Say 17. || 十 + 七 || 十七 shíqī || Say 13.
+ex: Tens || Say 60. || 六 + 十 || 六十 liùshí || Say 40.
+ex: Mixed || Say 58. || 五十 + 八 || 五十八 wǔshíbā || Say 99.
+ex: Math || 6 + 7? || 六加七等于… || 十三 shísān || 20 − 5?
+p: B || What is 五? || 5.
+p: B || What is 九? || 9.
+p: B || What is 十? || 10.
+p: B || What is 零? || 0.
+p: B || What is 一百? || 100.
+p: I || Say 12. || 十二 shí'èr.
+p: I || Say 30. || 三十 sānshí.
+p: I || Say 47. || 四十七 sìshíqī.
+p: I || Say 99. || 九十九 jiǔshíjiǔ.
+p: I || When do you use 两? || Before measure words.
+p: I || How is 1 often said in phone numbers? || Yāo.
+p: C || Why is 8 considered lucky? || 八 sounds like 发 (prosper).
+p: C || Why is 4 often avoided? || 四 sounds like 死 (death).
+p: C || What is 二十加三十? || 五十 (50).
+p: C || Write your 20 numbers. || Answers vary.
+mis: Saying 二个人 instead of 两个人 | Mixing 四 sì and 十 shí tones | Reading 11 as "one-ten"
+et: Write 15, 50 and 55 in characters. | Why is 8 lucky?
+mc: B || 三 is || 3 | 2 | 4 | 30 || A
+mc: B || 七 is || 7 | 6 | 8 | 70 || A
+mc: B || 十 is || 10 | 1 | 100 | 20 || A
+mc: B || 零 is || 0 | 10 | 1 | 100 || A
+mc: B || 一百 is || 100 | 10 | 1,000 | 11 || A
+mc: B || 加 means || plus | minus | equals | times || A
+mc: I || 15 is || 十五 | 五十 | 一五 | 五十一 || A
+mc: I || 50 is || 五十 | 十五 | 五零 | 五百 || A
+mc: I || 99 is || 九十九 | 九九十 | 十九九 | 九百九 || A
+mc: I || "Two people" is || 两个人 | 二个人 | 二人个 | 两人个 || A
+mc: C || 8 is lucky because it sounds like || prosper | rich only | eight | luck || A
+mc: C || In phone numbers, 1 is often || yāo | yī | èr | líng || A
+sa: B || Count 1 to 10 in characters. || 一二三四五六七八九十.
+sa: B || Write 0 and 100. || 零, 一百.
+sa: I || Explain how 11–19 are built. || 十 + ones.
+sa: I || Explain how tens are built. || Number + 十.
+sa: I || Write 68 and 84. || 六十八, 八十四.
+sa: I || When is 两 used? || Before measure words.
+sa: C || Explain 8 and 4 in Chinese culture. || 8 sounds like prosper; 4 sounds like death.
+sa: C || Write your 20 numbers. || Answers vary.
+
+=== CHI7.C1 1
+hook: In Mandarin, dates go from biggest to smallest: year, month, day, like 2026年11月3日. Once you know numbers, dates are easy, because months are just numbered.
+sc: I can say and write dates in Mandarin | I can say months and my birthday | I can ask what the date is
+v: 年 nián :: year
+v: 月 yuè :: month
+v: 日 rì / 号 hào :: day (written / spoken)
+v: 今天 jīntiān :: today
+v: 明天 míngtiān :: tomorrow
+v: 昨天 zuótiān :: yesterday
+v: 生日 shēngrì :: birthday
+v: 几月几号? jǐ yuè jǐ hào :: What's the date?
+ts: 几月几号? || Practice || How do I say dates in Mandarin?
+tx: Dates (written for this lesson): ¶ Order: year → month → day: 2026年11月3日 (èr líng èr liù nián shíyī yuè sān rì). ¶ Years: read digit by digit: 2026 = 二零二六年 èr líng èr liù nián. ¶ Months: number + 月: 一月 (January), 二月 (February), … 十二月 (December). ¶ Days: number + 日 (written) or 号 (spoken): 三号. ¶ Questions: 今天几月几号? Jīntiān jǐ yuè jǐ hào? (What's the date today?) 你的生日是几月几号? Nǐ de shēngrì shì jǐ yuè jǐ hào? (When is your birthday?) ¶ Answers: 今天十一月三号。我的生日是五月二十号。 ¶ Culture: many families also celebrate the Lunar New Year, whose date changes each year in January or February because it follows the lunar calendar. A traditional birthday food is long noodles (长寿面 chángshòu miàn) for long life. ¶ Activity: birthday line-up: students line up in birthday order by asking 你的生日是几月几号? in Mandarin only.
+src: Original activity written for this lesson.
+st: Learn date order | Read years digit by digit | Learn months | Ask and answer dates | Do a birthday line-up
+org: English | 汉字 | Pinyin
+an: Why does Mandarin put the year first? | How are months named? | When is your birthday in Mandarin? | Why does Lunar New Year change dates?
+pr: Write today's date, your birthday and three family birthdays in characters and pinyin, and ask a partner theirs.
+ex: Month || What is 九月? || Number + month || September || What is 十二月?
+ex: Year || Say 2027. || Digit by digit || 二零二七年 èr líng èr qī nián || Say 2010.
+ex: Full date || Write 25 December 2026. || Year month day || 2026年12月25日 || Say it aloud.
+ex: Birthday || "My birthday is 20 May." || 我的生日是 + date || 我的生日是五月二十号。 || Ask a partner.
+p: B || What does 年 mean? || Year.
+p: B || What does 月 mean? || Month.
+p: B || What does 今天 mean? || Today.
+p: B || What does 生日 mean? || Birthday.
+p: B || What does 明天 mean? || Tomorrow.
+p: I || What is 三月? || March.
+p: I || What is 十月? || October.
+p: I || Say 2026 in Mandarin. || 二零二六年.
+p: I || Ask "What's the date today?" || 今天几月几号?
+p: I || What is the difference between 日 and 号? || 日 is written, 号 is spoken.
+p: I || What does 昨天 mean? || Yesterday.
+p: C || Why are dates written year-month-day? || Mandarin goes from largest to smallest unit.
+p: C || Why does Lunar New Year move? || It follows the lunar calendar.
+p: C || What is 长寿面? || Long-life noodles for birthdays.
+p: C || Write your dates. || Answers vary.
+mis: Reading years as whole numbers | Putting the day first | Confusing 今天 and 明天
+et: 今天几月几号? | 你的生日是几月几号?
+mc: B || 年 means || year | month | day | week || A
+mc: B || 月 means || month | year | day | hour || A
+mc: B || 今天 means || today | tomorrow | yesterday | now only || A
+mc: B || 明天 means || tomorrow | today | yesterday | morning || A
+mc: B || 生日 means || birthday | day of birth only | life | sun || A
+mc: B || 昨天 means || yesterday | today | tomorrow | last year || A
+mc: I || 八月 is || August | October | June | March || A
+mc: I || 2026 is said || 二零二六年 | 两千二十六年 only | 二十二六年 | 二六年 || A
+mc: I || Dates go || year, month, day | day, month, year | month, day, year | random || A
+mc: I || "What's the date?" is || 几月几号? | 几岁? | 什么名字? | 几点? || A
+mc: C || Lunar New Year moves because || it follows the lunar calendar | it's random | of weather | of school || A
+mc: C || Birthday long noodles mean || long life | long hair | big meal | luck at school || A
+sa: B || Name four months in Mandarin. || 一月, 二月, 三月, 四月.
+sa: B || What does 生日 mean? || Birthday.
+sa: I || Write today's date in characters. || 2026年11月3日.
+sa: I || Say your birthday. || 我的生日是…
+sa: I || Explain how years are read. || Digit by digit + 年.
+sa: I || Ask a partner's birthday. || 你的生日是几月几号?
+sa: C || Explain the date order. || From largest unit to smallest.
+sa: C || Write your dates. || Answers vary.
+
+=== CHI7.C1 2
+hook: Monday in Mandarin is literally "week-one": 星期一. The days are numbered, except Sunday, which is "week-sun" or "week-heaven." It's one of the easiest systems to learn.
+sc: I can say the days of the week in Mandarin | I can ask and say what day it is | I can describe my weekly schedule
+v: 星期 xīngqī :: week
+v: 星期一 xīngqīyī :: Monday
+v: 星期三 xīngqīsān :: Wednesday
+v: 星期五 xīngqīwǔ :: Friday
+v: 星期六 xīngqīliù :: Saturday
+v: 星期天 / 星期日 xīngqītiān / xīngqīrì :: Sunday
+v: 今天星期几? jīntiān xīngqī jǐ :: What day is it today?
+v: 周末 zhōumò :: weekend
+ts: 星期几? || Practice || How do I say the days of the week in Mandarin?
+tx: Days (written for this lesson): ¶ 星期一 Monday, 星期二 Tuesday, 星期三 Wednesday, 星期四 Thursday, 星期五 Friday, 星期六 Saturday, 星期天 or 星期日 Sunday. ¶ Pattern: 星期 + number (1–6); Sunday uses 天 (sky/day) or 日 (sun). ¶ Also common: 周一 zhōuyī, 周二… (shorter, often in writing and schedules). ¶ Question: 今天星期几? Answer: 今天星期二。 ¶ Full date with day: 今天是2026年11月3日, 星期二。 ¶ Schedule sentences (time words go before the verb): 我星期一有中文课。Wǒ xīngqīyī yǒu Zhōngwén kè. (I have Chinese class on Monday.) 星期六我踢足球。Xīngqīliù wǒ tī zúqiú. (On Saturday I play soccer.) 周末我看电影。Zhōumò wǒ kàn diànyǐng. (On the weekend I watch movies.) ¶ Activity: make a weekly planner in characters; partners ask 你星期几有…? and answer.
+src: Original activity written for this lesson.
+st: Learn the days | Notice the number pattern | Ask and answer 星期几 | Say the full date with day | Write a weekly planner
+org: Day | 汉字 | Activity
+an: What pattern do the days follow? | What are the two ways to say Sunday? | Where do time words go in a sentence? | What do you do on weekends?
+pr: Write a weekly planner in characters with one activity per day and five sentences with time words before the verb.
+ex: Day || What is 星期四? || 星期 + 4 || Thursday || What is 星期六?
+ex: Question || Ask what day it is. || 今天星期几? || 今天星期几? || Answer for Friday.
+ex: Schedule || "I have Chinese class on Wednesday." || Time word before verb || 我星期三有中文课。 || Another?
+ex: Full date || Say "Today is Tuesday, 3 November." || Date then day || 今天十一月三号, 星期二。 || Say tomorrow's.
+p: B || What is 星期? || Week.
+p: B || What is 星期一? || Monday.
+p: B || What is 星期五? || Friday.
+p: B || What is 周末? || Weekend.
+p: B || What is 星期天? || Sunday.
+p: I || What is 星期二? || Tuesday.
+p: I || What is 星期六? || Saturday.
+p: I || Ask what day it is. || 今天星期几?
+p: I || Give another word for Sunday. || 星期日.
+p: I || Say "On Saturday I play soccer." || 星期六我踢足球。
+p: I || What is a short form of 星期一? || 周一.
+p: C || Where do time words go? || Before the verb, often at the start or after the subject.
+p: C || Why does Sunday use 天 or 日? || It's not numbered like the others.
+p: C || Translate: On the weekend I watch movies. || 周末我看电影。
+p: C || Share your planner. || Answers vary.
+mis: Saying 星期七 for Sunday | Putting time words at the end | Confusing 星期 with 生日
+et: 今天星期几? | What do you do on Saturday?
+mc: B || 星期 means || week | star | month | day only || A
+mc: B || 星期一 is || Monday | Sunday | January | first week || A
+mc: B || 星期三 is || Wednesday | Tuesday | Thursday | March || A
+mc: B || 周末 is || the weekend | the week | Friday | holiday || A
+mc: B || 星期天 is || Sunday | Saturday | Monday | sky day only || A
+mc: B || 星期五 is || Friday | Thursday | May | Saturday || A
+mc: I || "What day is it?" is || 今天星期几? | 今天几号? | 你几岁? | 几点? || A
+mc: I || Sunday can also be || 星期日 | 星期七 | 星期零 | 周七 || A
+mc: I || "On Monday I have class" is || 我星期一有课。 | 我有课星期一。 | 星期一课我有。 | 我课有星期一。 || A
+mc: I || 周二 means || Tuesday | weekend | week two | February || A
+mc: C || Time words go || before the verb | at the very end | after the object | nowhere || A
+mc: C || Days 1–6 are named by || 星期 + number | animals | planets | colours || A
+sa: B || List the seven days in characters. || 星期一, 星期二, 星期三, 星期四, 星期五, 星期六, 星期天.
+sa: B || What does 周末 mean? || Weekend.
+sa: I || Ask and answer what day it is. || 今天星期几? 今天星期…
+sa: I || Say today's full date with the day. || Answers vary.
+sa: I || Write two schedule sentences. || Answers vary.
+sa: I || Give two ways to say Sunday. || 星期天, 星期日.
+sa: C || Explain where time words go. || Before the verb.
+sa: C || Share your planner. || Answers vary.
+
+=== CHI7.D1 0
+hook: English has one word for "brother," but Mandarin has two: 哥哥 for an older brother and 弟弟 for a younger one. Family words in Mandarin show age and which side of the family someone is on.
+sc: I can name family members in Mandarin | I can distinguish older and younger siblings | I can tell paternal and maternal grandparents apart
+v: 家 jiā :: family, home
+v: 爸爸 bàba :: dad
+v: 妈妈 māma :: mom
+v: 哥哥 gēge :: older brother
+v: 姐姐 jiějie :: older sister
+v: 弟弟 dìdi :: younger brother
+v: 妹妹 mèimei :: younger sister
+v: 爷爷 / 奶奶 yéye / nǎinai :: paternal grandfather / grandmother
+ts: 我的家 || Reading || Who is in a family in Mandarin?
+tx: Family words (written for this lesson): ¶ 爸爸 bàba (dad), 妈妈 māma (mom). ¶ Siblings: 哥哥 gēge (older brother), 姐姐 jiějie (older sister), 弟弟 dìdi (younger brother), 妹妹 mèimei (younger sister). ¶ Grandparents: father's side: 爷爷 yéye (grandfather), 奶奶 nǎinai (grandmother); mother's side: 外公 wàigōng (grandfather), 外婆 wàipó (grandmother). (Some regions say 姥爷 lǎoye and 姥姥 lǎolao.) ¶ Possession with 的: 我的妈妈 (my mom). With close family, 的 is often dropped: 我妈妈. ¶ Text: 这是我的家。这是我爸爸, 这是我妈妈。这是我哥哥, 他十五岁。这是我妹妹, 她八岁。这是我奶奶。 Zhè shì wǒ de jiā. Zhè shì wǒ bàba, zhè shì wǒ māma. Zhè shì wǒ gēge, tā shíwǔ suì. Zhè shì wǒ mèimei, tā bā suì. Zhè shì wǒ nǎinai. ¶ 这是 zhè shì = this is. 他 tā = he, 她 tā = she (same sound!). ¶ Activity: draw a family tree (real or invented) and label it in characters and pinyin; introduce it with 这是我….
+src: Original text written for this lesson.
+st: Learn parents and siblings | Learn older and younger forms | Learn paternal and maternal grandparents | Use 的 and 这是 | Label and present a family tree
+org: 汉字 | Pinyin | English | Side or age
+an: Why does Mandarin have two words for brother? | How are paternal and maternal grandparents different? | When can 的 be dropped? | How do 他 and 她 differ?
+pr: Draw and label a family tree in characters and pinyin with at least six members, and present it with 这是我….
+ex: Older || "my older sister" || 姐姐 || 我姐姐 jiějie || "my younger brother"?
+ex: Grandparents || Mother's father? || Maternal || 外公 wàigōng || Father's mother?
+ex: Introduce || "This is my dad." || 这是 + 我 + 爸爸 || 这是我爸爸。 || "This is my younger sister."
+ex: Age || "He is fifteen." || 他 + 十五岁 || 他十五岁。 || "She is eight."
+p: B || What is 家? || Family, home.
+p: B || What is 爸爸? || Dad.
+p: B || What is 妈妈? || Mom.
+p: B || What is 哥哥? || Older brother.
+p: B || What is 妹妹? || Younger sister.
+p: I || What is 弟弟? || Younger brother.
+p: I || What is 姐姐? || Older sister.
+p: I || Father's father? || 爷爷 yéye.
+p: I || Mother's mother? || 外婆 wàipó.
+p: I || What does 这是 mean? || This is.
+p: I || How old is the brother in the text? || 15.
+p: C || Why does Mandarin distinguish older and younger siblings? || Age and family position are important in Chinese culture.
+p: C || Why is 的 often dropped with family? || Close relationships don't need it.
+p: C || How can you tell 他 from 她 in speech? || You can't; only context or writing shows it.
+p: C || Present your family tree. || Answers vary.
+mis: Using 哥哥 for any brother | Mixing paternal and maternal grandparents | Thinking 他 and 她 sound different
+et: Name four siblings words. | Who is 外公?
+mc: B || 家 means || family or home | school | friend | country || A
+mc: B || 爸爸 means || dad | mom | brother | grandpa || A
+mc: B || 妈妈 means || mom | dad | sister | aunt || A
+mc: B || 哥哥 means || older brother | younger brother | dad | uncle || A
+mc: B || 妹妹 means || younger sister | older sister | mom | aunt || A
+mc: B || 这是 means || this is | that is | who is | where is || A
+mc: I || 弟弟 means || younger brother | older brother | cousin | son || A
+mc: I || Father's mother is || 奶奶 | 外婆 | 妈妈 | 姐姐 || A
+mc: I || Mother's father is || 外公 | 爷爷 | 爸爸 | 哥哥 || A
+mc: I || 他 and 她 sound || the same | different | silent | like English || A
+mc: C || Sibling words show || age order | height | name | job || A
+mc: C || 的 is often dropped with || close family | strangers | objects | places || A
+sa: B || Name the four sibling words. || 哥哥, 姐姐, 弟弟, 妹妹.
+sa: B || Write dad and mom. || 爸爸, 妈妈.
+sa: I || Name four grandparent words. || 爷爷, 奶奶, 外公, 外婆.
+sa: I || Introduce a family member. || 这是我…
+sa: I || Explain older vs younger siblings. || Different words for older and younger.
+sa: I || Say a sibling's age. || Answers vary.
+sa: C || Explain why family terms show age and side. || Family position matters in Chinese culture.
+sa: C || Present your family tree. || Answers vary.
+
+=== CHI7.D1 1
+hook: "How many people are in your family?" In Mandarin you'd say 你家有几口人? using 口, "mouth," as a counter for family members, as if counting mouths around the dinner table.
+sc: I can use 有 and 没有 to say what I have | I can use the measure words 个 and 口 | I can ask and answer how many people are in a family
+v: 有 yǒu :: to have
+v: 没有 méiyǒu :: not have
+v: 个 gè :: general measure word
+v: 口 kǒu :: measure word for family members
+v: 几 jǐ :: how many
+v: 和 hé :: and (between nouns)
+v: 只 zhī :: measure word for many animals
+v: 狗 / 猫 gǒu / māo :: dog / cat
+ts: 你家有几口人? || Grammar || How do I count people and things in Mandarin?
+tx: Grammar (written for this lesson): ¶ 有 yǒu = to have: 我有一个哥哥。(I have an older brother.) Negative: 没有 méiyǒu (never 不有): 我没有妹妹。 ¶ Measure words: in Mandarin, numbers need a measure word before nouns: number + measure word + noun. 个 gè is the most common: 一个哥哥, 三个朋友. Family size uses 口 kǒu: 我家有五口人。Animals often use 只 zhī: 两只猫, 一只狗. ¶ 两 liǎng (two) is used with measure words: 两个姐姐. ¶ Questions: 你家有几口人? (How many people in your family?) 你有兄弟姐妹吗? Nǐ yǒu xiōngdì jiěmèi ma? (Do you have siblings?) ¶ 和 hé joins nouns: 爸爸、妈妈、哥哥和我. ¶ Text: 我家有四口人: 爸爸、妈妈、弟弟和我。我没有哥哥, 也没有姐姐。我们有一只狗。 ¶ Activity: class survey: ask five classmates 你家有几口人? 你有兄弟姐妹吗? and record answers in characters.
+src: Original text written for this lesson.
+st: Learn 有 and 没有 | Learn measure words 个, 口 and 只 | Use 两 with measure words | Ask about family size | Survey five classmates
+org: 名字 | 几口人 | 兄弟姐妹 | 宠物
+an: Why is it 没有, not 不有? | Why does family size use 口? | When do you use 两 instead of 二? | What's the most common family size in class?
+pr: Write five sentences about your family using 有, 没有, 个, 口 and 只, and report one classmate's survey answers.
+ex: Have || "I have two older sisters." || 两 + 个 || 我有两个姐姐。 || "I have one younger brother."
+ex: Not have || "I don't have a dog." || 没有 || 我没有狗。 || "I don't have siblings."
+ex: Family size || "There are five people in my family." || 口 || 我家有五口人。 || Ask how many.
+ex: Animals || "We have two cats." || 只 || 我们有两只猫。 || "One dog."
+p: B || What does 有 mean? || To have.
+p: B || What does 没有 mean? || Not have.
+p: B || What is 个? || The general measure word.
+p: B || What does 狗 mean? || Dog.
+p: B || What does 猫 mean? || Cat.
+p: I || Say "I have an older brother." || 我有一个哥哥。
+p: I || Say "I don't have a younger sister." || 我没有妹妹。
+p: I || Ask "How many people are in your family?" || 你家有几口人?
+p: I || Say "There are four people in my family." || 我家有四口人。
+p: I || Say "two cats." || 两只猫.
+p: I || What does 和 mean? || And.
+p: C || Why do numbers need measure words? || Mandarin grammar requires them between numbers and nouns.
+p: C || Why is 口 used for family members? || It counts "mouths" in the household.
+p: C || Translate: I don't have older brothers or older sisters. || 我没有哥哥, 也没有姐姐。
+p: C || Report your survey. || Answers vary.
+mis: Saying 不有 | Leaving out measure words | Saying 二个 instead of 两个
+et: 你家有几口人? | Say "I have two dogs."
+mc: B || 有 means || to have | to be | to go | to want || A
+mc: B || 没有 means || not have | have | not be | maybe || A
+mc: B || 个 is || a measure word | a verb | a name | a number || A
+mc: B || 狗 is || dog | cat | bird | fish || A
+mc: B || 猫 is || cat | dog | horse | rabbit || A
+mc: B || 和 means || and | or | but | with only || A
+mc: I || "I have a brother" is || 我有一个哥哥。 | 我有哥哥一个。 | 我是一个哥哥。 | 我一哥哥有。 || A
+mc: I || "I don't have a sister" is || 我没有姐姐。 | 我不有姐姐。 | 我有没姐姐。 | 我姐姐没。 || A
+mc: I || Family size uses || 口 | 个 | 只 | 本 || A
+mc: I || "Two cats" is || 两只猫 | 二只猫 | 两猫 | 二个猫 || A
+mc: C || Measure words go || between number and noun | after the noun | before the number | nowhere || A
+mc: C || 有 is negated with || 没 | 不 | 别 | 非 || A
+sa: B || What do 有 and 没有 mean? || Have; not have.
+sa: B || Name three measure words. || 个, 口, 只.
+sa: I || Say how many people are in your family. || 我家有…口人。
+sa: I || Say what siblings you have or don't have. || Answers vary.
+sa: I || Ask a partner about siblings. || 你有兄弟姐妹吗?
+sa: I || Say "We have one dog." || 我们有一只狗。
+sa: C || Explain why Mandarin uses measure words. || Grammar requires them with numbers.
+sa: C || Report your survey. || Answers vary.
+
+=== CHI7.D1 2
+hook: Now you can introduce your whole family in Mandarin: who they are, how old they are, what they do and what they like. Today you'll put it all together in a short presentation.
+sc: I can describe family members' age, job and personality | I can use 很 with adjectives | I can present my family in Mandarin
+v: 他 / 她 tā :: he / she
+v: 很 hěn :: very (also links adjectives)
+v: 高 gāo :: tall
+v: 好 hǎo :: good, kind
+v: 喜欢 xǐhuan :: to like
+v: 工作 gōngzuò :: to work; job
+v: 医生 yīshēng :: doctor
+v: 学生 xuésheng :: student
+ts: 介绍我的家 || Presentation || How do I describe my family in Mandarin?
+tx: Model (written for this lesson): ¶ 大家好! 我叫 Mia。我家有五口人。我爸爸是医生, 他很高。我妈妈是老师, 她很好。我有一个哥哥和一个妹妹。我哥哥十六岁, 他是学生, 他喜欢打篮球。我妹妹六岁, 她很可爱。我爱我的家! ¶ Pinyin: Dàjiā hǎo! Wǒ jiào Mia. Wǒ jiā yǒu wǔ kǒu rén. Wǒ bàba shì yīshēng, tā hěn gāo. Wǒ māma shì lǎoshī, tā hěn hǎo. Wǒ yǒu yí ge gēge hé yí ge mèimei. Wǒ gēge shíliù suì, tā shì xuésheng, tā xǐhuan dǎ lánqiú. Wǒ mèimei liù suì, tā hěn kě'ài. Wǒ ài wǒ de jiā! ¶ Grammar: 很 + adjective: in Mandarin, adjectives usually need 很 (not 是): 他很高 (he is tall). Without 很, it can sound like a comparison. ¶ Jobs with 是: 她是老师。 ¶ Useful adjectives: 高 tall, 矮 ǎi short, 好 good/kind, 可爱 kě'ài cute, 聪明 cōngming smart, 忙 máng busy. ¶ Activity: present a real, invented or famous family for 1 minute with a picture or tree; classmates ask 他几岁? 她做什么工作? (What job does she do?)
+src: Original model written for this lesson.
+st: Read the model | Use 很 with adjectives | Use 是 with jobs | Add likes with 喜欢 | Present and answer questions
+org: 人 | 几岁 | 工作 | 怎么样 (what they're like) | 喜欢
+an: Why is it 他很高 and not 他是高? | What does Mia's brother like? | How do you ask what job someone does? | What was hardest to say?
+pr: Present a family of at least four people in Mandarin for 1 minute, including ages, jobs, adjectives with 很 and likes, and answer one question.
+ex: Adjective || "My mom is busy." || 很 + adjective || 我妈妈很忙。 || "My sister is smart."
+ex: Job || "My dad is a doctor." || 是 + job || 我爸爸是医生。 || "My brother is a student."
+ex: Like || "She likes cats." || 喜欢 + noun || 她喜欢猫。 || "He likes basketball."
+ex: Question || Ask "What job does he do?" || 做什么工作 || 他做什么工作? || Answer it.
+p: B || What does 很 mean? || Very; it links adjectives.
+p: B || What does 高 mean? || Tall.
+p: B || What does 喜欢 mean? || To like.
+p: B || What is 医生? || Doctor.
+p: B || What is 学生? || Student.
+p: I || Say "He is tall." || 他很高。
+p: I || Say "My mom is a teacher." || 我妈妈是老师。
+p: I || Say "My sister is cute." || 我妹妹很可爱。
+p: I || Ask "What job does she do?" || 她做什么工作?
+p: I || What does Mia's brother like? || Playing basketball.
+p: I || What does 大家好 mean? || Hello, everyone.
+p: C || Why is it 他很高, not 他是高? || Adjectives don't use 是; they use 很.
+p: C || Translate: My grandfather is very smart and likes tea. || 我爷爷很聪明, 他喜欢茶。
+p: C || What does 我爱我的家 mean? || I love my family.
+p: C || Present your family. || Answers vary.
+mis: Saying 他是高 | Forgetting measure words when counting siblings | Using 是 with ages
+et: Describe one family member. | Ask what job someone does.
+mc: B || 很 means || very | not | is | have || A
+mc: B || 高 means || tall | short | good | busy || A
+mc: B || 喜欢 means || to like | to love only | to want | to work || A
+mc: B || 医生 is || doctor | teacher | student | nurse || A
+mc: B || 学生 is || student | teacher | school | study || A
+mc: B || 可爱 means || cute | clever | busy | tall || A
+mc: I || "He is tall" is || 他很高。 | 他是高。 | 他有高。 | 他高是。 || A
+mc: I || "My dad is a doctor" is || 我爸爸是医生。 | 我爸爸很医生。 | 我爸爸有医生。 | 医生是我爸爸很。 || A
+mc: I || "What job does she do?" is || 她做什么工作? | 她几岁? | 她叫什么? | 她喜欢什么工作吗? || A
+mc: I || Mia's family has || 五口人 | 四口人 | 三口人 | 六口人 || A
+mc: C || Adjectives in Mandarin usually use || 很 | 是 | 有 | 的 || A
+mc: C || Jobs use || 是 | 很 | 有 | 吗 || A
+sa: B || Name four adjectives in Mandarin. || 高, 好, 可爱, 聪明.
+sa: B || Name two jobs. || 医生, 老师.
+sa: I || Describe a family member with 很. || Answers vary.
+sa: I || Say a family member's job. || Answers vary.
+sa: I || Say what a family member likes. || Answers vary.
+sa: I || Ask a classmate about a family member's age. || 他/她几岁?
+sa: C || Explain 很 vs 是 with adjectives. || Adjectives use 很, not 是.
+sa: C || Present your family. || Answers vary.

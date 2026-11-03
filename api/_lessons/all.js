@@ -101,6 +101,9 @@ module.exports = {
   "SPA9.C1": require("./SPA9.C1.json"),
   "SPA9.D1": require("./SPA9.D1.json"),
   "CHI7.A1": require("./CHI7.A1.json"),
+  "CHI7.B1": require("./CHI7.B1.json"),
+  "CHI7.C1": require("./CHI7.C1.json"),
+  "CHI7.D1": require("./CHI7.D1.json"),
   "CHI8.A1": require("./CHI8.A1.json"),
   "CHI9.A1": require("./CHI9.A1.json"),
 };
