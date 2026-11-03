@@ -1,0 +1,659 @@
+=== CHI9.A1 1
+hook: English uses "can" for many things: skills, possibility and permission. Mandarin splits these up: 会 for skills you've learned, 能 for being able to in a situation, and 可以 for permission.
+sc: I can use 会 for learned skills | I can use 能 and 可以 for ability, possibility and permission | I can talk about what I can and can't do
+v: 会 huì :: can (a learned skill)
+v: 能 néng :: can, be able to (circumstances, physical ability)
+v: 可以 kěyǐ :: may, can (permission)
+v: 不会 bú huì :: can't (haven't learned)
+v: 不能 bù néng :: can't (not able to now)
+v: 游泳 yóuyǒng :: to swim
+v: 说中文 shuō Zhōngwén :: to speak Chinese
+v: 弹钢琴 tán gāngqín :: to play piano
+ts: 会, 能, 可以 || Grammar || How do I say "can" in Mandarin?
+tx: Grammar (written for this lesson): ¶ 会 huì: skills learned through practice: 我会游泳。(I can swim.) 我会说一点儿中文。(I can speak a little Chinese.) 我不会弹钢琴。(I can't play piano: I never learned.) ¶ 能 néng: ability in a situation or physical ability: 我今天不能游泳, 我感冒了。(I can't swim today; I have a cold.) 他能跑十公里。(He is able to run 10 km.) ¶ 可以 kěyǐ: permission: 我可以用你的笔吗? (May I use your pen?) 这里不可以拍照。(No photos here.) ¶ Questions: 你会…吗? / 你能…吗? / 我可以…吗? ¶ Skills list: 游泳, 滑冰 huábīng (skate), 滑雪 huáxuě (ski), 做饭 zuò fàn (cook), 画画 huà huà (draw), 唱歌 chàng gē (sing), 跳舞 tiào wǔ (dance), 骑自行车 qí zìxíngchē (ride a bike). ¶ Activity: "Find someone who…": ask classmates 你会滑冰吗? and record names, then report: Lily 会滑冰, 但是不会滑雪。
+src: Original activity written for this lesson.
+st: Learn 会 for skills | Learn 能 for ability in a situation | Learn 可以 for permission | Ask yes/no questions | Survey and report
+org: Skill | 会 or 不会? | Classmate
+an: When do you use 会 instead of 能? | Why "我今天不能游泳" not "不会"? | How do you ask permission? | What skills are common in the class?
+pr: Write eight sentences about skills and abilities using 会, 能 and 可以 correctly, including negatives and one permission question.
+ex: Skill || "I can ski." || Learned skill → 会 || 我会滑雪。 || "I can't cook."
+ex: Situation || "I can't come today; I'm busy." || Circumstance → 能 || 我今天不能来, 我很忙。 || Another?
+ex: Permission || "May I go to the washroom?" || 可以 || 我可以去洗手间吗? || Another?
+ex: Report || "Sam can dance but can't sing." || 会…但是不会… || Sam 会跳舞, 但是不会唱歌。 || Report a classmate.
+p: B || What does 会 mean? || Can (learned skill).
+p: B || What does 能 mean? || Can, be able to.
+p: B || What does 可以 mean? || May (permission).
+p: B || What does 游泳 mean? || To swim.
+p: B || What does 唱歌 mean? || To sing.
+p: I || Say "I can swim." || 我会游泳。
+p: I || Say "I can't play piano." || 我不会弹钢琴。
+p: I || Say "May I use your pen?" || 我可以用你的笔吗?
+p: I || Say "I can't come today." || 我今天不能来。
+p: I || Ask "Can you skate?" || 你会滑冰吗?
+p: I || What does 滑雪 mean? || To ski.
+p: C || Why use 不能 not 不会 when you're sick? || It's about circumstances, not a missing skill.
+p: C || How is 可以 different from 会? || 可以 is permission; 会 is a learned skill.
+p: C || Translate: I can speak a little Chinese. || 我会说一点儿中文。
+p: C || Report your survey. || Answers vary.
+mis: Using 能 for every "can" | Using 会 for permission | Saying 不可以 when you mean you never learned
+et: 你会游泳吗? | Ask permission to open the window.
+mc: B || 会 is for || learned skills | permission | location | time || A
+mc: B || 能 is for || ability in a situation | permission only | names | food || A
+mc: B || 可以 is for || permission | learned skills | the past | colours || A
+mc: B || 游泳 means || to swim | to travel | to sing | to ski || A
+mc: B || 跳舞 means || to dance | to jump | to sing | to cook || A
+mc: B || 做饭 means || to cook | to eat | to buy food | to wash || A
+mc: I || "I can swim" (skill) is || 我会游泳。 | 我可以游泳吗。 | 我游泳会。 | 我能是游泳。 || A
+mc: I || "May I use your pen?" is || 我可以用你的笔吗? | 我会用你的笔吗? | 我用你的笔会? | 你的笔可以我? || A
+mc: I || Sick today, "I can't swim" is || 我今天不能游泳。 | 我今天不会游泳。 | 我不可以游泳会。 | 我游泳今天不。 || A
+mc: I || 滑冰 means || to skate | to ski | to swim | to slide || A
+mc: C || 不会 means || haven't learned how | not allowed | not today | won't || A
+mc: C || Permission questions use || 可以 | 会 | 能 only | 是 || A
+sa: B || Explain 会, 能 and 可以. || Learned skill; able in a situation; permission.
+sa: B || Name five skills in Mandarin. || 游泳, 滑冰, 滑雪, 唱歌, 跳舞.
+sa: I || Say two things you can and can't do with 会. || Answers vary.
+sa: I || Say something you can't do today with 能. || Answers vary.
+sa: I || Ask permission for something. || 我可以…吗?
+sa: I || Report a classmate's skills. || Answers vary.
+sa: C || Explain why 不能 is used when sick. || It's about circumstances.
+sa: C || Report your survey. || Answers vary.
+
+=== CHI9.A1 2
+hook: Time to become a reporter. You'll interview a classmate about their hobbies and skills in Mandarin, then write a short profile, just like a student newspaper.
+sc: I can ask a series of questions about hobbies and skills | I can follow up with 为什么 and 多长时间 | I can write a profile of a classmate in Mandarin
+v: 爱好 àihào :: hobby
+v: 为什么 wèishénme :: why
+v: 因为…所以… yīnwèi… suǒyǐ… :: because… so…
+v: 常常 chángcháng :: often
+v: 有时候 yǒushíhou :: sometimes
+v: 跟…一起 gēn… yìqǐ :: together with…
+v: 多长时间 duō cháng shíjiān :: how long
+v: 采访 cǎifǎng :: to interview
+ts: 采访同学 || Interview || How do I interview a classmate about hobbies in Mandarin?
+tx: Interview questions (written for this lesson): ¶ 1. 你的爱好是什么? Nǐ de àihào shì shénme? (What's your hobby?) ¶ 2. 你为什么喜欢…? (Why do you like…?) ¶ 3. 你常常跟谁一起…? (Who do you often do it with?) ¶ 4. 你学了多长时间? (How long have you learned it?) ¶ 5. 你会…吗? 你还会什么? (Can you…? What else can you do?) ¶ Sample answers: 我的爱好是打篮球。因为打篮球很有意思, 所以我常常打。我常常跟朋友一起打。我学了三年。我还会游泳。 ¶ Grammar: 因为…所以… (because… so…). Frequency words go before the verb: 我常常打篮球。我有时候画画。 ¶ Profile model: 我的同学叫 Leo。他的爱好是滑冰。因为他觉得滑冰很好玩, 所以他每个周末都去滑冰。他常常跟哥哥一起去。他学了五年。他还会弹吉他。 ¶ Activity: interview a partner (record notes in pinyin or characters), then write a 6–8 sentence profile and share it.
+src: Original interview and profile written for this lesson.
+st: Learn five interview questions | Learn 因为…所以… | Use frequency words | Interview a partner | Write and share a profile
+org: Question | Partner's answer
+an: What is your partner's hobby? | Why do they like it? | How long have they done it? | What surprised you?
+pr: Interview a classmate and write a 6–8 sentence profile in Mandarin using 因为…所以…, a frequency word and 会.
+ex: Why || Ask "Why do you like drawing?" || 为什么 || 你为什么喜欢画画? || Answer it.
+ex: Because so || "Because swimming is fun, I often swim." || 因为…所以… || 因为游泳很有意思, 所以我常常游泳。 || Another?
+ex: Together || "I often play with friends." || 跟…一起 || 我常常跟朋友一起玩。 || Another?
+ex: How long || "I've learned for two years." || 学了 + time || 我学了两年。 || Ask your partner.
+p: B || What is 爱好? || Hobby.
+p: B || What does 为什么 mean? || Why.
+p: B || What does 常常 mean? || Often.
+p: B || What does 有时候 mean? || Sometimes.
+p: B || What does 采访 mean? || To interview.
+p: I || Ask "What's your hobby?" || 你的爱好是什么?
+p: I || Ask "How long have you learned it?" || 你学了多长时间?
+p: I || Say "I often play with my brother." || 我常常跟哥哥一起玩。
+p: I || What does 因为…所以… mean? || Because… so…
+p: I || Where do frequency words go? || Before the verb.
+p: I || What is Leo's hobby in the model? || Skating.
+p: C || Why use follow-up questions in interviews? || They get more detailed answers.
+p: C || Translate: Because I like music, I often sing. || 因为我喜欢音乐, 所以我常常唱歌。
+p: C || What does 还会 mean? || Can also.
+p: C || Share your profile. || Answers vary.
+mis: Putting 常常 after the verb | Using 因为 without a result | Asking only yes/no questions
+et: 你的爱好是什么? | Use 因为…所以… in a sentence.
+mc: B || 爱好 is || hobby | love | good | friend || A
+mc: B || 为什么 means || why | what | who | how || A
+mc: B || 常常 means || often | never | always | sometimes || A
+mc: B || 有时候 means || sometimes | often | never | always || A
+mc: B || 采访 means || to interview | to visit | to play | to write || A
+mc: B || 一起 means || together | once | alone | first || A
+mc: I || "What's your hobby?" is || 你的爱好是什么? | 你为什么爱好? | 你会什么? | 你几岁? || A
+mc: I || 因为…所以… means || because… so… | if… then… | first… then… | both… and… || A
+mc: I || "I often swim" is || 我常常游泳。 | 我游泳常常。 | 常常我游泳了。 | 我常游泳常。 || A
+mc: I || "How long?" is || 多长时间? | 几点? | 多少钱? | 为什么? || A
+mc: C || Follow-up questions give || more detail | less detail | yes/no only | nothing || A
+mc: C || Frequency words go || before the verb | at the end | after the object | nowhere || A
+sa: B || Ask a partner's hobby. || 你的爱好是什么?
+sa: B || What does 为什么 mean? || Why.
+sa: I || Write a 因为…所以… sentence. || Answers vary.
+sa: I || Write a sentence with 跟…一起. || Answers vary.
+sa: I || Write a sentence with a frequency word. || Answers vary.
+sa: I || Ask how long someone has learned a skill. || 你学了多长时间?
+sa: C || Explain why follow-up questions help. || They get detailed answers.
+sa: C || Share your profile. || Answers vary.
+
+=== CHI9.B1 0
+hook: 洗手间在哪儿? "Where's the washroom?" is one of the most useful questions any traveller can ask. In Mandarin, 在 zài tells you where something is.
+sc: I can ask where places are with 在哪儿 | I can say where places are using location words | I can describe locations in my school or neighbourhood
+v: 在 zài :: to be at, in
+v: 哪儿 nǎr :: where
+v: 前边 qiánbian :: in front
+v: 后边 hòubian :: behind
+v: 旁边 pángbiān :: next to
+v: 对面 duìmiàn :: across from
+v: 里边 lǐbian :: inside
+v: 洗手间 xǐshǒujiān :: washroom
+ts: 在哪儿? || Practice || How do I ask and say where places are in Mandarin?
+tx: Grammar (written for this lesson): ¶ Place + 在 + location: 图书馆在哪儿? Túshūguǎn zài nǎr? (Where is the library?) 图书馆在食堂旁边。(The library is next to the cafeteria.) ¶ Location words often follow a noun: 学校前边 (in front of the school), 银行对面 (across from the bank), 教室里边 (inside the classroom), 商店后边 (behind the store). ¶ Places: 学校 xuéxiào school, 图书馆 túshūguǎn library, 食堂 shítáng cafeteria, 体育馆 tǐyùguǎn gym, 医院 yīyuàn hospital, 银行 yínháng bank, 商店 shāngdiàn store, 公园 gōngyuán park, 饭馆 fànguǎn restaurant. ¶ Polite: 请问 qǐngwèn (excuse me, may I ask): 请问, 洗手间在哪儿? ¶ Note: in some regions people say 哪里 nǎlǐ instead of 哪儿 nǎr. ¶ Activity: label a school map in Mandarin, then partners ask 请问, …在哪儿? and answer with location words.
+src: Original activity written for this lesson.
+st: Learn 在哪儿 | Learn location words | Learn place names | Use 请问 politely | Ask and answer with a school map
+org: Place | 在哪儿?
+an: Where does the location word go? | How do you ask politely? | What's the difference between 哪儿 and 哪里? | Where is the gym in your school?
+pr: Label a map of your school in Mandarin and write six sentences describing where places are.
+ex: Ask || Ask where the library is. || 请问 + place + 在哪儿 || 请问, 图书馆在哪儿? || Ask about the gym.
+ex: Next to || "The gym is next to the library." || 在 + noun + 旁边 || 体育馆在图书馆旁边。 || Another?
+ex: Across || "The bank is across from the park." || 对面 || 银行在公园对面。 || Another?
+ex: Inside || "The teacher is in the classroom." || 里边 || 老师在教室里边。 || Another?
+p: B || What does 在 mean? || To be at, in.
+p: B || What does 哪儿 mean? || Where.
+p: B || What does 旁边 mean? || Next to.
+p: B || What does 对面 mean? || Across from.
+p: B || What is 洗手间? || Washroom.
+p: I || Ask "Where is the washroom?" || 洗手间在哪儿?
+p: I || What is 图书馆? || Library.
+p: I || What is 食堂? || Cafeteria.
+p: I || Say "The park is behind the school." || 公园在学校后边。
+p: I || What does 请问 mean? || Excuse me, may I ask.
+p: I || What is 医院? || Hospital.
+p: C || Where do location words go? || After the noun they describe.
+p: C || How is Mandarin word order different from English here? || The reference noun comes before the location word.
+p: C || Translate: The restaurant is across from the bank. || 饭馆在银行对面。
+p: C || Describe your school map. || Answers vary.
+mis: Putting location words before the noun | Forgetting 在 | Leaving out 请问 with strangers
+et: 请问, 图书馆在哪儿? | Say "The gym is next to the cafeteria."
+mc: B || 在 means || at, in | where | what | when || A
+mc: B || 哪儿 means || where | what | who | why || A
+mc: B || 旁边 means || next to | behind | inside | across || A
+mc: B || 对面 means || across from | next to | behind | below || A
+mc: B || 后边 means || behind | in front | inside | next to || A
+mc: B || 洗手间 is || washroom | kitchen | library | classroom || A
+mc: I || "Where is the library?" is || 图书馆在哪儿? | 哪儿是图书馆在? | 在图书馆哪儿? | 图书馆哪儿在? || A
+mc: I || "Next to the school" is || 学校旁边 | 旁边学校 | 学校在旁 | 旁学校边 || A
+mc: I || 请问 means || excuse me, may I ask | please give | thank you | sorry || A
+mc: I || 食堂 is || cafeteria | gym | library | office || A
+mc: C || Location words come || after the reference noun | before it | at the start | never || A
+mc: C || 哪里 is || another way to say where | a place name | a person | a time || A
+sa: B || Ask where the washroom is. || 请问, 洗手间在哪儿?
+sa: B || Name four location words. || 前边, 后边, 旁边, 对面.
+sa: I || Name five places in Mandarin. || 学校, 图书馆, 食堂, 医院, 银行.
+sa: I || Describe where two places are. || Answers vary.
+sa: I || Explain word order with location words. || Noun + location word.
+sa: I || Say "The teacher is inside the classroom." || 老师在教室里边。
+sa: C || Compare Mandarin and English location word order. || Mandarin puts the reference noun first.
+sa: C || Describe your school map. || Answers vary.
+
+=== CHI9.B1 1
+hook: You're lost in Beijing and someone says "一直走, 到红绿灯往左拐." Would you know where to go? Giving and following directions is a key travel skill.
+sc: I can give directions with 往, 拐 and 一直走 | I can follow directions on a map | I can describe a route from one place to another
+v: 一直走 yìzhí zǒu :: go straight
+v: 往左拐 wǎng zuǒ guǎi :: turn left
+v: 往右拐 wǎng yòu guǎi :: turn right
+v: 左 / 右 zuǒ / yòu :: left / right
+v: 红绿灯 hónglǜdēng :: traffic lights
+v: 路口 lùkǒu :: intersection
+v: 到 dào :: to arrive at, until
+v: 离…远/近 lí… yuǎn / jìn :: far from / near to
+ts: 怎么走? || Role-play || How do I give and follow directions in Mandarin?
+tx: Directions (written for this lesson): ¶ Asking: 请问, 去图书馆怎么走? Qǐngwèn, qù túshūguǎn zěnme zǒu? (Excuse me, how do I get to the library?) 远不远? (Is it far?) ¶ Giving: 一直走。(Go straight.) 到红绿灯往左拐。(At the traffic lights turn left.) 在第二个路口往右拐。(Turn right at the second intersection.) 图书馆在右边。(The library is on the right.) ¶ Distance: 医院离这儿很近。(The hospital is very near here.) 公园离学校很远。(The park is far from school.) ¶ Dialogue: ¶ A: 请问, 去火车站怎么走? ¶ B: 一直走, 到第二个路口往右拐。火车站在银行对面。 ¶ A: 远不远? ¶ B: 不远, 走路十分钟。 ¶ A: 谢谢! ¶ B: 不客气。 ¶ Activity: with a town map, one partner gives directions from the school to a secret place; the other traces the route and names the destination.
+src: Original dialogue and activity written for this lesson.
+st: Learn to ask 怎么走 | Learn direction phrases | Learn 离…远/近 | Read the dialogue | Give and follow map directions
+org: From | To | Directions
+an: How do you ask how to get somewhere? | What does 到红绿灯往左拐 mean? | How far is the station? | Did your partner find the secret place?
+pr: Write directions in Mandarin from your school to three places on a map, using 一直走, 往左拐/往右拐, 到 and 离.
+ex: Ask || "How do I get to the park?" || 去 + place + 怎么走 || 请问, 去公园怎么走? || Ask about the hospital.
+ex: Turn || "At the intersection, turn right." || 到路口往右拐 || 到路口往右拐。 || "At the lights, turn left."
+ex: Distance || "The bank is near here." || 离这儿很近 || 银行离这儿很近。 || "School is far from my home."
+ex: Route || Station directions? || Read the dialogue || 一直走, 到第二个路口往右拐; 在银行对面 || How long does it take?
+p: B || What does 一直走 mean? || Go straight.
+p: B || What does 往左拐 mean? || Turn left.
+p: B || What does 往右拐 mean? || Turn right.
+p: B || What is 红绿灯? || Traffic lights.
+p: B || What is 路口? || Intersection.
+p: I || Ask "How do I get to the library?" || 请问, 去图书馆怎么走?
+p: I || Say "At the lights turn left." || 到红绿灯往左拐。
+p: I || Say "The hospital is very near here." || 医院离这儿很近。
+p: I || Ask "Is it far?" || 远不远?
+p: I || How long is the walk to the station? || Ten minutes.
+p: I || What does 第二个路口 mean? || The second intersection.
+p: C || How does 远不远 form a question? || Positive + negative forms make a yes/no question.
+p: C || Translate: Go straight, then turn right at the second intersection. || 一直走, 然后在第二个路口往右拐。
+p: C || Translate: The park is far from my home. || 公园离我家很远。
+p: C || Write your directions. || Answers vary.
+mis: Mixing up 左 and 右 | Forgetting 往 before 左/右 | Saying 离 in the wrong place
+et: Ask how to get to the park. | Say "turn left at the lights."
+mc: B || 一直走 means || go straight | turn left | stop | go back || A
+mc: B || 往左拐 means || turn left | turn right | go straight | go up || A
+mc: B || 往右拐 means || turn right | turn left | stop | cross || A
+mc: B || 红绿灯 is || traffic lights | a lantern | a sign | a crossing || A
+mc: B || 路口 is || an intersection | a road | a mouth | a door || A
+mc: B || 近 means || near | far | big | slow || A
+mc: I || "How do I get to the station?" is || 去火车站怎么走? | 火车站在几点? | 火车站多少钱? | 怎么火车站? || A
+mc: I || "The bank is near here" is || 银行离这儿很近。 | 银行近这儿离。 | 这儿银行很近离。 | 离银行近。 || A
+mc: I || 远不远 asks || is it far? | how far exactly | is it near only | where || A
+mc: I || The station is || across from the bank | next to the park | behind school | far away || A
+mc: C || A-not-A (远不远) forms || a yes/no question | a negative | a command | the past || A
+mc: C || 往 before 左 means || toward | stop | from | at || A
+sa: B || Give three direction phrases. || 一直走, 往左拐, 往右拐.
+sa: B || Ask how to get somewhere. || 请问, 去…怎么走?
+sa: I || Give directions to the station. || 一直走, 到第二个路口往右拐。
+sa: I || Use 离 in a sentence. || Answers vary.
+sa: I || Ask whether a place is far. || 远不远?
+sa: I || Say "At the intersection turn left." || 到路口往左拐。
+sa: C || Explain the A-not-A question. || Positive plus negative makes a yes/no question.
+sa: C || Write your directions. || Answers vary.
+
+=== CHI9.B1 2
+hook: China's high-speed rail network is the longest in the world, and trains between Beijing and Shanghai can take about four and a half hours for a trip of over 1,000 km. How do you get around?
+sc: I can name kinds of transportation in Mandarin | I can say how I travel with 坐, 骑 and 开 | I can compare travel times and choices
+v: 坐 zuò :: to ride, take (a vehicle you sit in)
+v: 骑 qí :: to ride (straddle: bike, horse)
+v: 开车 kāi chē :: to drive a car
+v: 走路 zǒulù :: to walk
+v: 地铁 dìtiě :: subway
+v: 公共汽车 gōnggòng qìchē :: bus
+v: 飞机 fēijī :: airplane
+v: 高铁 gāotiě :: high-speed train
+ts: 怎么去? || Practice || How do I talk about transportation in Mandarin?
+tx: Grammar (written for this lesson): ¶ 坐 zuò + vehicle you sit in: 坐公共汽车, 坐地铁, 坐飞机, 坐火车, 坐高铁, 坐出租车 (taxi). ¶ 骑 qí + vehicle you straddle: 骑自行车 (bike), 骑马 (horse). ¶ 开车 kāi chē: to drive. 走路 zǒulù: to walk. ¶ How you go: subject + how + 去 + place: 我坐公共汽车去学校。(I go to school by bus.) 我爸爸开车去上班。(My dad drives to work.) ¶ Question: 你怎么去学校? Nǐ zěnme qù xuéxiào? (How do you get to school?) ¶ Time: 坐地铁要二十分钟。(It takes 20 minutes by subway.) ¶ Facts: China has the world's largest high-speed rail network; the fastest Beijing–Shanghai trains take around four and a half hours. Many Chinese cities have large subway systems; bike-sharing is common. In Alberta, Calgary has the CTrain and Edmonton has the LRT. ¶ Activity: class survey 你怎么去学校? 要多长时间? Then make a bar chart labelled in Mandarin.
+src: Original activity written for this lesson; transport facts are general and from public sources.
+st: Learn vehicle words | Use 坐, 骑 and 开 | Say how you go somewhere | Say how long it takes | Survey and chart class travel
+org: 名字 | 怎么去学校 | 多长时间
+an: Why is it 坐 for buses but 骑 for bikes? | How do most classmates get to school? | How long does your trip take? | How is transport in Chinese cities different from Alberta?
+pr: Write six sentences about how you and family members travel, with times, and report your class survey results.
+ex: Bus || "I go to school by bus." || 坐 + bus + 去 + place || 我坐公共汽车去学校。 || "by subway"?
+ex: Bike || "My sister bikes to school." || 骑自行车 || 我妹妹骑自行车去学校。 || Another?
+ex: Drive || "My mom drives to work." || 开车去 || 我妈妈开车去上班。 || Another?
+ex: Time || "It takes 15 minutes on foot." || 走路要 + time || 走路要十五分钟。 || Your own?
+p: B || What does 坐 mean? || To ride, take (sitting).
+p: B || What does 骑 mean? || To ride (straddling).
+p: B || What is 地铁? || Subway.
+p: B || What is 飞机? || Airplane.
+p: B || What does 走路 mean? || To walk.
+p: I || Say "I walk to school." || 我走路去学校。
+p: I || Say "take the plane." || 坐飞机.
+p: I || Say "ride a bike." || 骑自行车.
+p: I || Ask "How do you get to school?" || 你怎么去学校?
+p: I || What is 高铁? || High-speed train.
+p: I || Say "It takes 30 minutes by bus." || 坐公共汽车要三十分钟。
+p: C || Why 坐 for a bus but 骑 for a bike? || You sit in a bus but straddle a bike.
+p: C || What is the word order for "I go by bus to school"? || Subject + 坐车 + 去 + place.
+p: C || About how long is the fastest Beijing–Shanghai train? || About four and a half hours.
+p: C || Report your survey. || Answers vary.
+mis: Saying 骑公共汽车 | Putting the vehicle after the place | Forgetting 去
+et: 你怎么去学校? | Say "I ride my bike."
+mc: B || 坐 is for || vehicles you sit in | bikes | walking | horses only || A
+mc: B || 骑 is for || bikes and horses | buses | planes | trains || A
+mc: B || 地铁 is || subway | bus | taxi | train only || A
+mc: B || 飞机 is || airplane | car | boat | bike || A
+mc: B || 走路 means || to walk | to run | to drive | to fly || A
+mc: B || 开车 means || to drive | to open a car | to ride | to walk || A
+mc: I || "I go to school by bus" is || 我坐公共汽车去学校。 | 我去学校坐公共汽车。 | 我骑公共汽车去学校。 | 我公共汽车学校去。 || A
+mc: I || "Ride a bike" is || 骑自行车 | 坐自行车 | 开自行车 | 走自行车 || A
+mc: I || 高铁 is || high-speed train | airplane | subway | tall tower || A
+mc: I || "How do you go to school?" is || 你怎么去学校? | 你几点去学校? | 你为什么去学校? | 学校在哪儿? || A
+mc: C || The transport phrase goes || before 去 + place | after the place | at the end | nowhere || A
+mc: C || China's high-speed rail network is || the world's largest | small | new only | the slowest || A
+sa: B || Name five ways to travel. || 坐公共汽车, 坐地铁, 坐飞机, 骑自行车, 走路.
+sa: B || Explain 坐 vs 骑. || Sit in versus straddle.
+sa: I || Say how you get to school. || Answers vary.
+sa: I || Say how long it takes. || Answers vary.
+sa: I || Say how a family member gets to work. || Answers vary.
+sa: I || Name Alberta's train systems. || Calgary's CTrain and Edmonton's LRT.
+sa: C || Explain the word order for travel. || Subject + transport + 去 + place.
+sa: C || Report your survey. || Answers vary.
+
+=== CHI9.C1 0
+hook: Harbin in northeast China holds a famous ice and snow festival in winter, with temperatures well below −20 °C, while Guangzhou in the south stays warm. China's weather is as varied as Canada's.
+sc: I can ask about and describe the weather in Mandarin | I can say temperatures with 度 and 零下 | I can give a simple weather forecast
+v: 天气 tiānqì :: weather
+v: 冷 lěng :: cold
+v: 热 rè :: hot
+v: 下雨 xià yǔ :: to rain
+v: 下雪 xià xuě :: to snow
+v: 刮风 guā fēng :: windy
+v: 晴天 qíngtiān :: sunny day
+v: 度 dù :: degree(s)
+ts: 天气怎么样? || Practice || How do I describe the weather in Mandarin?
+tx: Weather (written for this lesson): ¶ Question: 今天天气怎么样? Jīntiān tiānqì zěnmeyàng? (How's the weather today?) ¶ Answers: 今天很冷。今天很热。今天下雨。今天下雪。今天刮风。今天是晴天。今天阴天 yīntiān (cloudy). ¶ Temperatures: 二十度 (20 degrees); 零下十五度 líng xià shíwǔ dù (−15 degrees). 今天多少度? (What's the temperature?) ¶ Forecast: 明天会下雪。(It will snow tomorrow.) 会 here means "will likely." ¶ Model forecast: 今天卡尔加里刮风, 零下五度。明天会下雪, 零下十二度。后天是晴天。 (Today Calgary is windy, −5 °C. Tomorrow it will snow, −12 °C. The day after tomorrow will be sunny.) ¶ China facts: Harbin's Ice and Snow Festival is held in winter; Guangzhou has hot, humid summers and mild winters; Beijing has cold, dry winters and hot summers. ¶ Activity: groups present a TV-style forecast in Mandarin for two Canadian and two Chinese cities using a map.
+src: Original activity written for this lesson; climate notes are general.
+st: Learn weather words | Ask 天气怎么样 | Say temperatures with 度 and 零下 | Use 会 for forecasts | Present a four-city forecast
+org: City | 天气 | 温度
+an: How do you say −20 °C? | What is the weather like today? | How is Harbin's winter like Alberta's? | How do you make a forecast?
+pr: Present a weather forecast in Mandarin for four cities with weather, temperatures and one sentence using 会.
+ex: Question || Ask about today's weather. || 天气怎么样 || 今天天气怎么样? || Answer for a snowy day.
+ex: Below zero || Say −18 °C. || 零下 + number + 度 || 零下十八度 || Say 25 °C.
+ex: Forecast || "It will rain tomorrow." || 明天会下雨 || 明天会下雨。 || "It will be windy."
+ex: Description || "Today is sunny and hot." || 晴天, 很热 || 今天是晴天, 很热。 || Describe today.
+p: B || What is 天气? || Weather.
+p: B || What does 冷 mean? || Cold.
+p: B || What does 热 mean? || Hot.
+p: B || What does 下雪 mean? || To snow.
+p: B || What does 下雨 mean? || To rain.
+p: I || Ask "How's the weather today?" || 今天天气怎么样?
+p: I || Say −10 °C. || 零下十度.
+p: I || Say "It's windy." || 刮风。
+p: I || Say "It will snow tomorrow." || 明天会下雪。
+p: I || What is 晴天? || A sunny day.
+p: I || What is 阴天? || A cloudy day.
+p: C || What does 会 mean in forecasts? || Will likely.
+p: C || How is Harbin's winter similar to Alberta's? || Both are very cold with snow.
+p: C || Translate: Today it's minus five and windy. || 今天零下五度, 刮风。
+p: C || Present your forecast. || Answers vary.
+mis: Saying 是冷 for "it's cold" | Forgetting 零下 for negatives | Putting 度 before the number
+et: 今天天气怎么样? | Say −20 °C.
+mc: B || 天气 is || weather | sky | day | season || A
+mc: B || 冷 means || cold | hot | warm | cool || A
+mc: B || 热 means || hot | cold | wet | dry || A
+mc: B || 下雪 means || to snow | to rain | windy | sunny || A
+mc: B || 下雨 means || to rain | to snow | to blow | to shine || A
+mc: B || 度 means || degree | day | hour | city || A
+mc: I || −15 °C is || 零下十五度 | 十五零下度 | 度十五零下 | 零十五度 || A
+mc: I || "It will rain tomorrow" is || 明天会下雨。 | 明天下雨会。 | 会明天下雨。 | 明天下会雨。 || A
+mc: I || "How's the weather?" is || 天气怎么样? | 天气几点? | 天气多少? | 天气在哪儿? || A
+mc: I || 刮风 means || windy | rainy | snowy | sunny || A
+mc: C || In forecasts, 会 means || will likely | can (skill) | may | must || A
+mc: C || Harbin is famous for its || ice and snow festival | beaches | deserts | tea || A
+sa: B || Name six weather words. || 冷, 热, 下雨, 下雪, 刮风, 晴天.
+sa: B || Ask about the weather. || 今天天气怎么样?
+sa: I || Say −25 °C and 30 °C. || 零下二十五度, 三十度.
+sa: I || Make a forecast for tomorrow. || Answers vary.
+sa: I || Describe today's weather. || Answers vary.
+sa: I || Compare Harbin and Guangzhou. || Harbin is very cold in winter; Guangzhou is warm.
+sa: C || Explain 会 in forecasts. || It means will likely.
+sa: C || Present your forecast. || Answers vary.
+
+=== CHI9.C1 1
+hook: Spring, summer, autumn, winter: the Chinese names for the seasons appear in poems, festivals and the traditional calendar. And every Albertan has an opinion about which season is best.
+sc: I can name the four seasons in Mandarin | I can describe weather and activities in each season | I can say which season I like and why
+v: 季节 jìjié :: season
+v: 春天 chūntiān :: spring
+v: 夏天 xiàtiān :: summer
+v: 秋天 qiūtiān :: autumn
+v: 冬天 dōngtiān :: winter
+v: 暖和 nuǎnhuo :: warm
+v: 凉快 liángkuai :: cool, pleasantly cool
+v: 最 zuì :: most
+ts: 四个季节 || Speaking || How do I talk about the seasons in Mandarin?
+tx: Seasons (written for this lesson): ¶ 一年有四个季节: 春天、夏天、秋天和冬天。 ¶ Descriptions: 春天很暖和, 常常刮风。夏天很热, 有时候下雨。秋天很凉快, 树叶变红了。冬天很冷, 常常下雪。 (Spring is warm and often windy. Summer is hot and sometimes rainy. Autumn is cool and the leaves turn red. Winter is cold and it often snows.) ¶ Activities: 夏天我游泳。冬天我滑雪。 ¶ Favourite: 你最喜欢哪个季节? Nǐ zuì xǐhuan nǎge jìjié? (Which season do you like most?) 我最喜欢秋天, 因为天气很凉快。 ¶ Culture: the traditional Chinese calendar divides the year into 24 solar terms (二十四节气), which guided farming; 立春 lìchūn marks the start of spring around early February. ¶ Alberta note: 在阿尔伯塔, 冬天很长! (In Alberta, winter is long!) ¶ Activity: make a four-panel seasons poster with weather and activities in Mandarin; then survey: 你最喜欢哪个季节? 为什么?
+src: Original activity written for this lesson.
+st: Learn the four seasons | Describe weather in each season | Name seasonal activities | Say your favourite season with 最 and 因为 | Make a seasons poster
+org: 季节 | 天气 | 活动
+an: What is autumn like? | Which season does the class like most? | What are the 24 solar terms? | How are Alberta's seasons different from southern China's?
+pr: Create a four-season poster with weather and an activity for each in Mandarin, and write why one is your favourite.
+ex: Season || "Summer is hot." || 夏天 + 很热 || 夏天很热。 || "Winter is cold."
+ex: Activity || "In winter I ski." || 冬天 + 我 + activity || 冬天我滑雪。 || "In summer I swim."
+ex: Favourite || "I like spring most." || 最喜欢 || 我最喜欢春天。 || Why?
+ex: Reason || "…because the weather is warm." || 因为 || 因为天气很暖和。 || Your reason?
+p: B || What is 季节? || Season.
+p: B || What is 春天? || Spring.
+p: B || What is 夏天? || Summer.
+p: B || What is 秋天? || Autumn.
+p: B || What is 冬天? || Winter.
+p: I || What does 暖和 mean? || Warm.
+p: I || What does 凉快 mean? || Pleasantly cool.
+p: I || What does 最 mean? || Most.
+p: I || Ask "Which season do you like most?" || 你最喜欢哪个季节?
+p: I || Say "In autumn the leaves turn red." || 秋天树叶变红了。
+p: I || How many seasons are in a year? || 四个.
+p: C || What are the 24 solar terms? || Traditional calendar divisions that guided farming.
+p: C || Translate: In Alberta, winter is long and very cold. || 在阿尔伯塔, 冬天很长, 很冷。
+p: C || Why might someone prefer autumn? || The weather is cool and pleasant.
+p: C || Present your poster. || Answers vary.
+mis: Mixing up 春 and 秋 | Saying 是热 | Putting 最 after the verb
+et: 你最喜欢哪个季节? | Describe winter.
+mc: B || 季节 means || season | weather | year | month || A
+mc: B || 春天 is || spring | summer | autumn | winter || A
+mc: B || 夏天 is || summer | spring | winter | autumn || A
+mc: B || 秋天 is || autumn | spring | summer | winter || A
+mc: B || 冬天 is || winter | autumn | summer | spring || A
+mc: B || 最 means || most | more | very | less || A
+mc: I || 暖和 means || warm | hot | cold | cool || A
+mc: I || "I like summer most" is || 我最喜欢夏天。 | 我喜欢最夏天。 | 最我喜欢夏天。 | 我夏天最喜欢。 || A
+mc: I || "In winter I ski" is || 冬天我滑雪。 | 我滑雪冬天在。 | 冬天滑冰我。 | 我冬天游泳。 || A
+mc: I || 凉快 means || pleasantly cool | very cold | hot | wet || A
+mc: C || The 24 solar terms guided || farming | school | sports | travel || A
+mc: C || 立春 marks || the start of spring | winter | summer | New Year only || A
+sa: B || Name the four seasons. || 春天, 夏天, 秋天, 冬天.
+sa: B || What does 最 mean? || Most.
+sa: I || Describe two seasons. || Answers vary.
+sa: I || Say an activity for each season. || Answers vary.
+sa: I || Say your favourite season and why. || Answers vary.
+sa: I || What are the 24 solar terms? || Traditional calendar divisions for farming.
+sa: C || Compare Alberta's winter with southern China's. || Alberta's is much longer and colder.
+sa: C || Present your poster. || Answers vary.
+
+=== CHI9.C1 2
+hook: "今天比昨天冷!" Comparing is natural when talking about weather: colder than yesterday, warmer than Calgary. Mandarin uses one small word for comparisons: 比 bǐ.
+sc: I can compare two things with A 比 B + adjective | I can add how much with 一点儿 and 得多 | I can say two things are the same with 跟…一样
+v: 比 bǐ :: compared to, than
+v: A 比 B + adj :: A is more … than B
+v: 一点儿 yìdiǎnr :: a little
+v: 得多 de duō :: much more
+v: 没有 méiyǒu :: not as … as
+v: 跟…一样 gēn… yíyàng :: the same as
+v: 更 gèng :: even more
+v: 温度 wēndù :: temperature
+ts: 比一比 || Grammar || How do I compare things in Mandarin?
+tx: Comparisons (written for this lesson): ¶ A 比 B + adjective (no 很!): 今天比昨天冷。(Today is colder than yesterday.) 哈尔滨比广州冷。(Harbin is colder than Guangzhou.) ¶ How much: A 比 B + adj + 一点儿 (a little): 今天比昨天冷一点儿。 A 比 B + adj + 得多 (much): 冬天比夏天冷得多。 ¶ Not as: A 没有 B + adj: 温哥华没有卡尔加里冷。(Vancouver is not as cold as Calgary.) ¶ Same: A 跟 B 一样 + adj: 今天跟昨天一样冷。 ¶ Even more: 更: 明天会更冷。 ¶ Common mistake: don't use 很 with 比: say 今天比昨天冷, not 今天比昨天很冷. ¶ Data activity: groups get average January temperatures for Calgary, Edmonton, Vancouver, Beijing, Harbin and Guangzhou (teacher provides from public climate data) and write six comparison sentences. Then compare other things: 我哥哥比我高。中文比英文难吗?
+src: Original activity written for this lesson; teachers provide current climate data.
+st: Learn A 比 B + adjective | Add 一点儿 and 得多 | Use 没有 for "not as" | Use 跟…一样 for "the same" | Compare city temperatures
+org: City A | City B | Comparison sentence
+an: Why can't you use 很 with 比? | Which city is coldest in January? | How do you say "not as cold as"? | What else can you compare?
+pr: Write eight comparison sentences about weather and people using 比, 一点儿, 得多, 没有 and 跟…一样.
+ex: Basic || "Edmonton is colder than Vancouver." || A 比 B + adj || 埃德蒙顿比温哥华冷。 || Compare two other cities.
+ex: Much more || "Winter is much colder than summer." || 得多 || 冬天比夏天冷得多。 || Another?
+ex: Not as || "Guangzhou isn't as cold as Beijing." || A 没有 B + adj || 广州没有北京冷。 || Another?
+ex: Same || "My brother is as tall as me." || 跟…一样 || 我哥哥跟我一样高。 || Another?
+p: B || What does 比 mean? || Compared to, than.
+p: B || What does 一点儿 mean? || A little.
+p: B || What does 得多 mean? || Much more.
+p: B || What does 一样 mean? || The same.
+p: B || What does 更 mean? || Even more.
+p: I || Say "Today is hotter than yesterday." || 今天比昨天热。
+p: I || Say "Harbin is much colder than Guangzhou." || 哈尔滨比广州冷得多。
+p: I || Say "Today is a little colder." || 今天冷一点儿。
+p: I || Say "Calgary isn't as warm as Vancouver." || 卡尔加里没有温哥华暖和。
+p: I || Say "Today is as cold as yesterday." || 今天跟昨天一样冷。
+p: I || Say "Tomorrow will be even colder." || 明天会更冷。
+p: C || Why not use 很 with 比? || 比 already shows the comparison; 很 conflicts with it.
+p: C || Where does 得多 go? || After the adjective.
+p: C || Translate: Is Chinese harder than English? || 中文比英文难吗?
+p: C || Write your comparison sentences. || Answers vary.
+mis: Saying 比…很冷 | Putting 一点儿 before the adjective | Using 不 instead of 没有 for "not as"
+et: Compare two cities with 比. | Say "not as cold as."
+mc: B || 比 means || than | very | same | not || A
+mc: B || 一点儿 means || a little | a lot | one o'clock | one more || A
+mc: B || 得多 means || much more | many people | a little | less || A
+mc: B || 一样 means || the same | different | once | more || A
+mc: B || 更 means || even more | less | same | not || A
+mc: B || 温度 means || temperature | weather | season | degree only || A
+mc: I || "Today is colder than yesterday" is || 今天比昨天冷。 | 今天比昨天很冷。 | 今天冷比昨天。 | 昨天比今天冷。 || A
+mc: I || "Much colder" is || 冷得多 | 得多冷 | 很冷多 | 多冷得 || A
+mc: I || "Not as cold as" uses || 没有 | 不 | 比 | 很 || A
+mc: I || "As tall as me" is || 跟我一样高 | 比我一样高 | 没有我高一样 | 一样我高 || A
+mc: C || With 比, you should not use || 很 | 一点儿 | 得多 | 更 || A
+mc: C || 一点儿 goes || after the adjective | before 比 | before the adjective | at the start || A
+sa: B || Explain the 比 pattern. || A 比 B + adjective.
+sa: B || What do 一点儿 and 得多 add? || A little; much more.
+sa: I || Write a 比 sentence about weather. || Answers vary.
+sa: I || Write a 没有 comparison. || Answers vary.
+sa: I || Write a 跟…一样 sentence. || Answers vary.
+sa: I || Compare two people. || Answers vary.
+sa: C || Explain why 很 isn't used with 比. || 比 already shows the comparison.
+sa: C || Write your comparison sentences. || Answers vary.
+
+=== CHI9.D1 0
+hook: Chinese Canadians helped build this country, including the Canadian Pacific Railway through the Rocky Mountains, while facing unfair laws for decades. Their history is part of Canada's history.
+sc: I can describe key events in Chinese Canadian history | I can explain the head tax and the Chinese Immigration Act | I can explain why the history matters today
+v: 华人 Huárén :: ethnic Chinese people
+v: 历史 lìshǐ :: history
+v: 铁路 tiělù :: railway
+v: 移民 yímín :: immigrant, to immigrate
+v: 人头税 réntóushuì :: head tax
+v: 不公平 bù gōngpíng :: unfair
+v: 道歉 dàoqiàn :: to apologize
+v: 贡献 gòngxiàn :: contribution
+ts: 华人在加拿大的历史 || Research || What is the history of Chinese Canadians?
+tx: Timeline (written for this lesson from public sources): ¶ 1858: Chinese miners arrive in British Columbia during the Fraser River gold rush. ¶ 1881–1885: thousands of Chinese labourers help build the Canadian Pacific Railway (CPR) through British Columbia's mountains. They did some of the most dangerous work for lower pay than other workers, and many died. ¶ 1885: once the railway was nearly finished, the federal government imposed a head tax on Chinese immigrants: $50, raised to $100 in 1900 and $500 in 1903, a huge sum at the time. ¶ 1923: the Chinese Immigration Act almost completely banned Chinese immigration. Chinese Canadians sometimes call 1 July 1923 "Humiliation Day." ¶ 1947: the act was repealed and Chinese Canadians gained the right to vote federally, partly in recognition of Chinese Canadians who served in the Second World War. ¶ 2006: the Government of Canada formally apologized for the head tax and offered redress. ¶ Activity: groups build a bilingual timeline (English with Mandarin key words: 铁路, 人头税, 道歉) and discuss: Why is it important to remember unfair laws? What contributions did Chinese Canadians make?
+src: Summary from public sources, including Government of Canada and museum records.
+st: Learn about the gold rush and railway | Learn about the head tax | Learn about the 1923 act and its repeal | Learn about the 2006 apology | Build a bilingual timeline
+org: Year | Event | 关键词 (key word)
+an: What work did Chinese labourers do on the CPR? | Why was the head tax unfair? | Why did the law change in 1947? | Why does an apology matter?
+pr: Create a bilingual timeline of six events in Chinese Canadian history and write a paragraph on why this history matters.
+ex: Railway || What did Chinese labourers build? || 1881–1885 || The Canadian Pacific Railway through BC || What were the conditions?
+ex: Head tax || How much was the head tax in 1903? || Increases || $500 || Why was it raised?
+ex: 1923 || What did the 1923 act do? || Exclusion || Almost completely banned Chinese immigration || When was it repealed?
+ex: Apology || When did Canada apologize? || 2006 || The federal government formally apologized for the head tax || Why does it matter?
+p: B || What does 华人 mean? || Ethnic Chinese people.
+p: B || What does 历史 mean? || History.
+p: B || What is 铁路? || Railway.
+p: B || What is 人头税? || Head tax.
+p: B || What does 道歉 mean? || To apologize.
+p: I || When did Chinese miners arrive in BC? || 1858.
+p: I || When was the CPR built with Chinese labour? || 1881–1885.
+p: I || How much was the head tax in 1885? || $50.
+p: I || When was the Chinese Immigration Act passed? || 1923.
+p: I || When was it repealed? || 1947.
+p: I || When did Canada apologize? || 2006.
+p: C || Why was the head tax unfair? || It targeted one group and made immigration very expensive.
+p: C || Why did the law change in 1947? || Partly in recognition of Chinese Canadians' war service.
+p: C || Why remember unfair laws? || To learn from the past and prevent discrimination.
+p: C || Present your timeline. || Answers vary.
+mis: Thinking Chinese Canadians arrived only recently | Thinking the head tax was fair or small | Ignoring the 1923 act
+et: What was the head tax? | Name one contribution of Chinese Canadians.
+mc: B || 华人 means || ethnic Chinese people | Canadians | immigrants only | workers || A
+mc: B || 历史 means || history | culture | story only | geography || A
+mc: B || 铁路 is || railway | iron | road | bridge || A
+mc: B || 人头税 is || head tax | income tax | land tax | sales tax || A
+mc: B || 道歉 means || to apologize | to thank | to explain | to celebrate || A
+mc: B || 贡献 means || contribution | tax | history | law || A
+mc: I || Chinese labourers helped build || the CPR | the Trans-Canada Highway | Parliament | the CN Tower || A
+mc: I || In 1903 the head tax was || $500 | $50 | $100 | $5 || A
+mc: I || The Chinese Immigration Act was passed in || 1923 | 1885 | 1947 | 2006 || A
+mc: I || Canada apologized in || 2006 | 1947 | 1985 | 2016 || A
+mc: C || The head tax was unfair because it || targeted one group | applied to everyone | was tiny | helped immigrants || A
+mc: C || Remembering this history helps || prevent discrimination | forget the past | blame people today | nothing || A
+sa: B || Define 人头税. || Head tax, a fee charged to Chinese immigrants.
+sa: B || What did Chinese labourers build? || The Canadian Pacific Railway.
+sa: I || List the head tax amounts and years. || $50 (1885), $100 (1900), $500 (1903).
+sa: I || What did the 1923 act do? || Almost completely banned Chinese immigration.
+sa: I || What happened in 1947? || The act was repealed and Chinese Canadians gained the federal vote.
+sa: I || What happened in 2006? || The federal government apologized for the head tax.
+sa: C || Explain why this history matters. || To learn from injustice and recognize contributions.
+sa: C || Present your timeline. || Answers vary.
+
+=== CHI9.D1 1
+hook: Chinatowns in Victoria, Vancouver, Calgary and Edmonton grew because Chinese Canadians built communities where they could support each other, keep their culture and run businesses, especially when laws kept them out of other places.
+sc: I can describe the history and role of Chinatowns in Canada | I can describe community life and cultural organizations | I can name notable Chinese Canadians, including Albertans
+v: 唐人街 Tángrénjiē :: Chinatown
+v: 社区 shèqū :: community
+v: 文化 wénhuà :: culture
+v: 中文学校 Zhōngwén xuéxiào :: Chinese-language school
+v: 餐馆 cānguǎn :: restaurant
+v: 商店 shāngdiàn :: shop
+v: 庆祝活动 qìngzhù huódòng :: celebration event
+v: 有名 yǒumíng :: famous
+ts: 唐人街和社区 || Research || What role do Chinatowns and communities play for Chinese Canadians?
+tx: Background (written for this lesson from public sources): ¶ Victoria's Chinatown, founded in 1858, is the oldest in Canada. Vancouver's Chinatown is one of the largest in North America. Calgary's and Edmonton's Chinatowns date from the early 1900s. ¶ Why Chinatowns grew: discrimination and laws limited where Chinese immigrants could live and work, so they built communities with shops, restaurants, family and clan associations, newspapers and schools to support one another. ¶ Community life today: Chinese-language schools on weekends, lion dance teams, Lunar New Year parades, cultural centres, seniors' associations and businesses. Many Chinese Canadians now live across cities, and newer communities have grown in suburbs. ¶ Notable Chinese Canadians: Douglas Jung, the first Chinese Canadian member of Parliament (1957); Adrienne Clarkson, Governor General of Canada (1999–2005); Normie Kwong, born in Calgary, a Canadian Football League star and Lieutenant Governor of Alberta (2005–2010). ¶ Mandarin sentences: 卡尔加里有唐人街。唐人街有很多餐馆和商店。周末很多学生去中文学校。 ¶ Activity: groups research one Chinatown or community organization and present three facts with Mandarin key words.
+src: Summary from public sources on Canadian Chinatowns and notable Chinese Canadians.
+st: Learn the history of Canadian Chinatowns | Learn why they formed | Explore community life today | Learn about notable Chinese Canadians | Research and present one community
+org: Place or person | Facts | 关键词
+an: Which is Canada's oldest Chinatown? | Why did Chinatowns form? | What does a Chinese-language school do? | Who was Normie Kwong?
+pr: Research a Chinatown, community organization or notable Chinese Canadian and present three facts with five Mandarin key words.
+ex: Oldest || Which Chinatown is oldest in Canada? || 1858 || Victoria's || Which is largest?
+ex: Why || Why did Chinatowns form? || Discrimination || Laws limited where Chinese immigrants could live and work, so they supported each other || What did they build?
+ex: Alberta || Who was Normie Kwong? || Calgary || A CFL star and Lieutenant Governor of Alberta (2005–2010) || Why is he notable?
+ex: Sentence || "Calgary has a Chinatown." || 有 || 卡尔加里有唐人街。 || Describe it.
+p: B || What is 唐人街? || Chinatown.
+p: B || What is 社区? || Community.
+p: B || What is 文化? || Culture.
+p: B || What is 中文学校? || A Chinese-language school.
+p: B || What does 有名 mean? || Famous.
+p: I || Which is Canada's oldest Chinatown? || Victoria's (1858).
+p: I || Who was the first Chinese Canadian MP? || Douglas Jung.
+p: I || When was Adrienne Clarkson Governor General? || 1999–2005.
+p: I || Who was Lieutenant Governor of Alberta from 2005 to 2010? || Normie Kwong.
+p: I || Name two community activities. || Lion dance teams and Lunar New Year parades.
+p: I || Say "Chinatown has many restaurants." || 唐人街有很多餐馆。
+p: C || Why did Chinatowns form? || Discrimination limited where Chinese immigrants could live and work.
+p: C || How do Chinese-language schools keep culture alive? || They teach language and culture to younger generations.
+p: C || Why do communities now also grow in suburbs? || People moved across cities as opportunities opened.
+p: C || Present your research. || Answers vary.
+mis: Thinking Chinatowns are only tourist areas | Thinking all Chinese Canadians live in Chinatowns | Ignoring Alberta's Chinese Canadian history
+et: Name a Canadian Chinatown. | Name a notable Chinese Canadian.
+mc: B || 唐人街 is || Chinatown | a temple | a school | a street name only || A
+mc: B || 社区 is || community | society only | city | school || A
+mc: B || 文化 is || culture | history | language | art only || A
+mc: B || 餐馆 is || restaurant | shop | school | bank || A
+mc: B || 有名 means || famous | has a name | new | old || A
+mc: B || 商店 is || shop | restaurant | school | hospital || A
+mc: I || Canada's oldest Chinatown is in || Victoria | Calgary | Toronto | Halifax || A
+mc: I || The first Chinese Canadian MP was || Douglas Jung | Normie Kwong | Adrienne Clarkson | none || A
+mc: I || Normie Kwong was born in || Calgary | Vancouver | Hong Kong | Edmonton || A
+mc: I || Adrienne Clarkson was || Governor General | Prime Minister | Premier | Mayor || A
+mc: C || Chinatowns formed partly because of || discrimination | tourism only | weather | sports || A
+mc: C || Chinese-language schools help || keep language and culture alive | replace school | sell food | build railways || A
+sa: B || Define 唐人街. || Chinatown.
+sa: B || Name two Canadian Chinatowns. || Victoria, Vancouver.
+sa: I || Explain why Chinatowns formed. || Discrimination limited where people could live and work.
+sa: I || Name three notable Chinese Canadians. || Douglas Jung, Adrienne Clarkson, Normie Kwong.
+sa: I || Describe community life today. || Language schools, lion dance, parades, cultural centres.
+sa: I || Write two Mandarin sentences about Chinatown. || Answers vary.
+sa: C || Explain how communities keep culture alive. || Schools, festivals and organizations.
+sa: C || Present your research. || Answers vary.
+
+=== CHI9.D1 2
+hook: Cultural heritage is what we inherit from our families and communities: languages, foods, stories, celebrations and values. In this final project, you'll present on cultural heritage in Mandarin and English.
+sc: I can research an aspect of Chinese Canadian heritage or my own heritage | I can present it using Mandarin I've learned in grades 7–9 | I can reflect on how heritage is kept alive
+v: 传统 chuántǒng :: tradition
+v: 文化遗产 wénhuà yíchǎn :: cultural heritage
+v: 保持 bǎochí :: to keep, maintain
+v: 介绍 jièshào :: to introduce, present
+v: 重要 zhòngyào :: important
+v: 我觉得 wǒ juéde :: I think, I feel
+v: 学到 xué dào :: to have learned
+v: 骄傲 jiāo'ào :: proud
+ts: 文化遗产 || Presentation || How is cultural heritage kept alive, and how can I present it in Mandarin?
+tx: Project guide (written for this lesson): ¶ Choose one topic: a Chinese Canadian tradition (Lunar New Year in Calgary or Edmonton, lion dance, Chinese-language school, family recipes like dumplings), a part of Chinese Canadian history (railway workers, the head tax, a Chinatown), a notable Chinese Canadian, or your own family's heritage compared with a Chinese tradition. ¶ Content (2–3 minutes): 1. 介绍 (introduce): 我要介绍… 2. What and where: facts (in English with Mandarin key words). 3. Why it's important: 我觉得…很重要, 因为… 4. How it's kept alive: 社区…, 学校…, 家人… 5. Reflection: what you learned in Mandarin 7–9: 我学到了… ¶ Language goals: use at least ten Mandarin sentences, drawing on structures from grades 7–9 (有, 在, 会, 比, 因为…所以…, 都, 也). ¶ Visuals: images and key characters. ¶ Respect: present cultures and histories accurately; if interviewing family or community members, ask permission and thank them. ¶ Rubric: content, Mandarin accuracy and range, pronunciation and tones, visuals, reflection.
+src: Original project written for this lesson.
+st: Choose a heritage topic | Research facts | Write ten Mandarin sentences using learned structures | Prepare visuals | Present and reflect on your learning
+org: Section | English notes | 中文句子
+an: Why did you choose your topic? | How is this heritage kept alive? | Which Mandarin structures did you use? | What are you proudest of learning in Mandarin?
+pr: Present a 2–3 minute heritage presentation with at least ten Mandarin sentences, visuals and a reflection on your Mandarin learning.
+ex: Introduce || "I want to introduce the lion dance." || 我要介绍 || 我要介绍舞狮。 || Introduce your topic.
+ex: Important || "I think this tradition is important because…" || 我觉得…因为… || 我觉得这个传统很重要, 因为它让家人在一起。 || Another reason?
+ex: Kept alive || "The community keeps the culture alive." || 保持 || 社区保持文化。 || How else?
+ex: Reflection || "I learned to speak a little Chinese." || 我学到了 || 我学到了说一点儿中文。 || What else?
+p: B || What is 传统? || Tradition.
+p: B || What is 文化遗产? || Cultural heritage.
+p: B || What does 保持 mean? || To keep, maintain.
+p: B || What does 重要 mean? || Important.
+p: B || What does 我觉得 mean? || I think, I feel.
+p: I || Say "I want to introduce…" || 我要介绍…
+p: I || Say "I think it is very important." || 我觉得很重要。
+p: I || What does 骄傲 mean? || Proud.
+p: I || How many Mandarin sentences should you use? || At least ten.
+p: I || How long is the presentation? || 2–3 minutes.
+p: I || Name three structures to include. || 比, 因为…所以…, 会.
+p: C || Why ask permission when interviewing family? || To respect their privacy and stories.
+p: C || How is heritage kept alive? || Through family, schools, festivals and community.
+p: C || Translate: I am proud that I can speak Chinese. || 我很骄傲我会说中文。
+p: C || Give your presentation. || Answers vary.
+mis: Presenting stereotypes instead of accurate facts | Using only English | Forgetting to reflect on learning
+et: Name your topic. | Write one 我觉得 sentence.
+mc: B || 传统 is || tradition | history | culture only | language || A
+mc: B || 文化遗产 is || cultural heritage | a museum | a festival | money || A
+mc: B || 保持 means || to keep | to protect only | to forget | to change || A
+mc: B || 重要 means || important | heavy | difficult | famous || A
+mc: B || 我觉得 means || I think, I feel | I sleep | I know only | I see || A
+mc: B || 骄傲 means || proud | tired | angry | shy || A
+mc: I || "I want to introduce…" is || 我要介绍… | 我介绍要… | 要我介绍… | 我介绍了要… || A
+mc: I || Use at least || ten Mandarin sentences | one sentence | none | fifty || A
+mc: I || The presentation lasts || 2–3 minutes | 20 minutes | 20 seconds | an hour || A
+mc: I || "I learned…" is || 我学到了… | 我学… | 我要学… | 我会学… || A
+mc: C || Heritage is kept alive through || family, schools and community | forgetting | laws only | tourism only || A
+mc: C || When interviewing family you should || ask permission and thank them | record secretly | invent answers | skip it || A
+sa: B || Define 文化遗产. || Cultural heritage.
+sa: B || What does 保持 mean? || To keep, maintain.
+sa: I || Introduce your topic in Mandarin. || Answers vary.
+sa: I || Write a sentence with 我觉得…因为…. || Answers vary.
+sa: I || Explain how your topic is kept alive. || Answers vary.
+sa: I || Write a reflection sentence with 我学到了. || Answers vary.
+sa: C || Explain why accuracy and respect matter. || Heritage is meaningful to communities.
+sa: C || Give your presentation. || Answers vary.
