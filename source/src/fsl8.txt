@@ -1,0 +1,659 @@
+=== FSL8.A1 1
+hook: Before you buy a jacket in a boutique in Montréal, you'll want to know how much it costs and if it comes in your size. Today you'll learn numbers for prices and the questions shoppers ask.
+sc: I can ask how much something costs | I can say prices using numbers up to 100 | I can ask about size and colour
+v: Combien coûte… ? :: How much does … cost?
+v: Combien coûtent… ? :: How much do … cost?
+v: Ça coûte… :: It costs…
+v: cher / chère :: expensive
+v: pas cher :: inexpensive, cheap
+v: la taille :: the size (clothing)
+v: la pointure :: the size (shoes)
+v: Vous l'avez en… ? :: Do you have it in…?
+ts: Combien ça coûte ? || Practice || How do I ask and give prices in French?
+tx: Numbers for prices (written for this lesson): 20 vingt, 30 trente, 40 quarante, 50 cinquante, 60 soixante, 70 soixante-dix, 80 quatre-vingts, 90 quatre-vingt-dix, 100 cent. Examples: 75 soixante-quinze; 82 quatre-vingt-deux; 99 quatre-vingt-dix-neuf. ¶ Prices: 24,99 $ = vingt-quatre dollars quatre-vingt-dix-neuf. ¶ Questions: Combien coûte le chandail ? (singular) Combien coûtent les bottes ? (plural) Vous l'avez en bleu ? Vous l'avez en taille moyenne ? Quelle est votre pointure ? ¶ Sizes: petit (S), moyen (M), grand (L). ¶ Store flyer: un chandail 34,99 $; un jean 49,50 $; une tuque 15,00 $; des bottes 89,99 $; un manteau d'hiver 120,00 $; des mitaines 12,75 $. ¶ Note: in Canadian French, un chandail is a sweater, une tuque is a toque and des mitaines are mittens. ¶ Activity: partners ask and answer about flyer prices, then decide what they could buy with 100 $.
+src: Original flyer and activity written for this lesson.
+st: Learn numbers 20–100 | Read the store flyer | Ask prices in singular and plural | Ask about size and colour | Budget 100 $
+org: Vêtement | Prix | En lettres
+an: How do you say 70, 80 and 90 in French? | Why is it "coûtent" for boots? | What could you buy with 100 $? | Which Canadian French words are different from France?
+pr: Write a shopping dialogue asking about three items' prices, sizes or colours, and calculate the total.
+ex: Seventy || Say 72. || 60 + 12 || soixante-douze || Say 79.
+ex: Eighty || Say 85. || 4 × 20 + 5 || quatre-vingt-cinq || Say 91.
+ex: Plural question || Ask the price of the boots. || coûtent || Combien coûtent les bottes ? || What's the answer?
+ex: Budget || Jean + tuque + mitaines? || 49,50 + 15,00 + 12,75 || 77,25 $ || How much change from 100 $?
+p: B || How do you ask "How much does it cost?" || Combien ça coûte ?
+p: B || What does "cher" mean? || Expensive.
+p: B || What is "la taille"? || The clothing size.
+p: B || What is "la pointure"? || The shoe size.
+p: B || What is "une tuque"? || A toque.
+p: I || Say 70. || Soixante-dix.
+p: I || Say 80. || Quatre-vingts.
+p: I || Say 90. || Quatre-vingt-dix.
+p: I || Say 76. || Soixante-seize.
+p: I || How much is the coat? || 120,00 $.
+p: I || Ask "Do you have it in red?" || Vous l'avez en rouge ?
+p: C || Why does 90 mean "four twenties ten"? || French counts by twenties from 80.
+p: C || Total the sweater and the boots. || 124,98 $.
+p: C || Translate: The boots cost 89,99 $. That's expensive! || Les bottes coûtent quatre-vingt-neuf dollars quatre-vingt-dix-neuf. C'est cher !
+p: C || Write your shopping dialogue. || Answers vary.
+mis: Saying "septante" when Canadian French uses soixante-dix | Using coûte with plural items | Confusing taille and pointure
+et: Say 95 in French. | Ask the price of a jacket.
+mc: B || "Combien coûte… ?" means || How much does … cost? | Where is…? | What colour…? | What size…? || A
+mc: B || "Cher" means || expensive | cheap | big | new || A
+mc: B || "La pointure" is || shoe size | clothing size | price | colour || A
+mc: B || "Une tuque" is || a toque | a T-shirt | a shoe | a scarf || A
+mc: B || "Des mitaines" are || mittens | socks | boots | hats || A
+mc: B || "Un chandail" in Canada is || a sweater | a candle | a shoe | a jacket || A
+mc: I || 70 is || soixante-dix | septante | soixante | sept-dix || A
+mc: I || 80 is || quatre-vingts | huitante | octante | huit-dix || A
+mc: I || 99 is || quatre-vingt-dix-neuf | neuf-neuf | quatre-vingt-neuf | cent moins un || A
+mc: I || "How much are the boots?" is || Combien coûtent les bottes ? | Combien coûte les bottes ? | Combien bottes ? | Les bottes combien coûte ? || A
+mc: C || Jean + tuque + mitaines total || 77,25 $ | 67,25 $ | 87,25 $ | 76,50 $ || A
+mc: C || French 80 literally means || four twenties | eight tens | eighty | four tens || A
+sa: B || Ask "How much does it cost?" || Combien ça coûte ?
+sa: B || Name three clothing words from Canadian French. || Un chandail, une tuque, des mitaines.
+sa: I || Write 72, 85 and 96 in French. || Soixante-douze, quatre-vingt-cinq, quatre-vingt-seize.
+sa: I || Ask "Do you have it in medium?" || Vous l'avez en taille moyenne ?
+sa: I || Say 34,99 $ in French. || Trente-quatre dollars quatre-vingt-dix-neuf.
+sa: I || What's the difference between taille and pointure? || Clothing size versus shoe size.
+sa: C || Explain how French counts 70–99. || Sixty plus ten to nineteen; four twenties plus.
+sa: C || Write your shopping dialogue. || Answers vary.
+
+=== FSL8.A1 2
+hook: Time to shop! In this role-play, you'll be either a customer looking for an outfit or a salesperson helping them, using everything you've learned about clothing, colours, sizes and prices.
+sc: I can play a customer or salesperson in a French shopping role-play | I can use polite expressions and ask for help | I can try on, choose and pay for items in French
+v: Je peux vous aider ? :: Can I help you?
+v: Je cherche… :: I'm looking for…
+v: Je peux l'essayer ? :: Can I try it on?
+v: la cabine d'essayage :: the fitting room
+v: Ça me va ? :: Does it suit me?
+v: Ça vous va très bien ! :: It suits you very well!
+v: Je le prends / Je la prends :: I'll take it
+v: payer par carte / en argent comptant :: pay by card / in cash
+ts: Au magasin || Role-play || How do I shop for clothes in French?
+tx: Model dialogue (read in pairs): ¶ Vendeuse : Bonjour ! Je peux vous aider ? ¶ Client : Oui, je cherche un manteau d'hiver. ¶ Vendeuse : Quelle taille ? ¶ Client : Moyen, s'il vous plaît. Vous l'avez en vert ? ¶ Vendeuse : Oui, voilà. ¶ Client : Je peux l'essayer ? ¶ Vendeuse : Bien sûr, la cabine d'essayage est là-bas. ¶ (plus tard) Client : Ça me va ? ¶ Vendeuse : Ça vous va très bien ! ¶ Client : Combien coûte-t-il ? ¶ Vendeuse : Cent vingt dollars. ¶ Client : Je le prends. Je peux payer par carte ? ¶ Vendeuse : Oui, bien sûr. Merci et bonne journée ! ¶ Grammar: object pronouns le (masculine) and la (feminine) replace the item: le manteau → Je le prends. la robe → Je la prends. ¶ Role-play: each customer gets a card (an occasion and a budget: e.g. "une fête, 80 $"); salespeople use the class flyer. Switch roles. Peers score with a checklist: greeting, item, size or colour, trying on, price, decision, payment, goodbye.
+src: Original dialogue written for this lesson.
+st: Read the model dialogue | Learn le and la as object pronouns | Get a role card | Perform as customer and salesperson | Peer-assess with the checklist
+org: Étape | Client | Vendeur
+an: What does the customer look for? | Why "je le prends" for a coat? | Did you stay within your budget? | Which phrases were most useful?
+pr: Perform a shopping role-play including all eight checklist steps and stay within your budget.
+ex: Looking for || Say "I'm looking for a scarf." || Je cherche + item || Je cherche un foulard. || Say "I'm looking for boots."
+ex: Pronoun || "I'll take the dress." || la robe → la || Je la prends. || "I'll take the hat."
+ex: Try on || Ask to try the jeans on. || Je peux l'essayer ? || Je peux l'essayer ? || Where do you go?
+ex: Compliment || Say "It suits you very well." || Ça vous va || Ça vous va très bien ! || How do you ask if it suits you?
+p: B || What does "Je peux vous aider ?" mean? || Can I help you?
+p: B || What does "Je cherche" mean? || I'm looking for.
+p: B || What is "la cabine d'essayage"? || The fitting room.
+p: B || How do you say "I'll take it" for a masculine item? || Je le prends.
+p: B || What does "payer par carte" mean? || Pay by card.
+p: I || Say "I'll take the skirt." || Je la prends.
+p: I || Ask "Can I try it on?" || Je peux l'essayer ?
+p: I || Ask "Does it suit me?" || Ça me va ?
+p: I || Say "Have a nice day." || Bonne journée.
+p: I || What does the customer buy? || A winter coat.
+p: I || How do you say "in cash"? || En argent comptant.
+p: C || Why use le or la? || To avoid repeating the noun.
+p: C || Why does la become l' in "Je peux l'essayer"? || It's before a vowel.
+p: C || How do you politely refuse an item? || Non merci, je ne le prends pas.
+p: C || Perform your role-play. || Answers vary.
+mis: Using le for feminine items | Forgetting greetings in the store | Saying "je veux" instead of polite forms
+et: Say "I'm looking for a sweater." | Say "I'll take it" for a jacket (une veste).
+mc: B || "Je cherche" means || I'm looking for | I'll take | I can | I have || A
+mc: B || "La cabine d'essayage" is || the fitting room | the checkout | the window | the exit || A
+mc: B || "Ça vous va très bien" means || It suits you well | It's expensive | It's too big | Goodbye || A
+mc: B || "Je le prends" means || I'll take it | I'm looking | I try it | I leave it || A
+mc: B || "Payer par carte" is || pay by card | pay in cash | pay later | not pay || A
+mc: B || "Bonne journée" means || Have a nice day | Good night | Hello | Thanks || A
+mc: I || "I'll take the dress" is || Je la prends. | Je le prends. | Je les prends. | Je prends la. || A
+mc: I || "Can I try it on?" is || Je peux l'essayer ? | Je l'essaye peux ? | Peux essayer ? | Je peux le prends ? || A
+mc: I || "I'm looking for boots" is || Je cherche des bottes. | Je cherche les bottes ? | Je bottes cherche. | Je trouve bottes. || A
+mc: I || For a masculine item, use || le | la | les | lui || A
+mc: C || Object pronouns avoid || repeating nouns | using verbs | being polite | prices || A
+mc: C || Le/la become l' before || a vowel | a consonant | a number | a price || A
+sa: B || Say "Can I help you?" || Je peux vous aider ?
+sa: B || Say "I'm looking for a coat." || Je cherche un manteau.
+sa: I || Say "I'll take it" for a skirt and a sweater. || Je la prends; je le prends.
+sa: I || Ask to try something on. || Je peux l'essayer ?
+sa: I || Ask to pay by card. || Je peux payer par carte ?
+sa: I || List the eight checklist steps. || Greeting, item, size or colour, trying on, price, decision, payment, goodbye.
+sa: C || Explain object pronouns le and la. || They replace masculine and feminine nouns.
+sa: C || Perform your role-play. || Answers vary.
+
+=== FSL8.B1 0
+hook: "Head, shoulders, knees and toes" works in French too: la tête, les épaules, les genoux et les orteils. Knowing body parts helps you in sports, at the doctor's and when giving directions in a fitness class.
+sc: I can name parts of the body in French | I can use the correct article with body parts | I can follow and give simple body instructions
+v: la tête :: the head
+v: le bras :: the arm
+v: la main :: the hand
+v: la jambe :: the leg
+v: le pied :: the foot
+v: le dos :: the back
+v: le ventre :: the stomach / belly
+v: la gorge :: the throat
+ts: Le corps humain || Practice || What are the parts of the body in French?
+tx: Body vocabulary (written for this lesson): la tête (head), les yeux (eyes; singular l'œil), le nez (nose), la bouche (mouth), les oreilles (ears), la gorge (throat), le cou (neck), les épaules (shoulders), le bras (arm), la main (hand), les doigts (fingers), le dos (back), le ventre (stomach), la jambe (leg), le genou (knee; plural les genoux), le pied (foot). ¶ Note: in French we often use the article, not "my," with body parts in actions: Lève la main ! (Raise your hand!) ¶ Activities: 1. Label a body diagram. 2. "Jacques a dit" (Simon says): Jacques a dit : touchez la tête ! Touchez le genou ! 3. Song: sing "Tête, épaules, genoux et pieds." 4. Fitness warm-up led by a student in French: Levez les bras ! Pliez les genoux ! Tournez la tête !
+src: Original activity written for this lesson; "Tête, épaules, genoux et pieds" is a traditional children's song.
+st: Learn body vocabulary | Label a diagram | Play "Jacques a dit" | Sing the song | Lead a French warm-up
+org: Partie du corps | Article | Pluriel
+an: Which body words have irregular plurals? | Why do we say "lève la main" not "lève ta main"? | Which instruction was hardest to follow? | How could you use these words in sports?
+pr: Label a body diagram with 15 parts and write five fitness instructions in French.
+ex: Plural || What is the plural of l'œil? || Irregular || les yeux || What about le genou?
+ex: Instruction || "Raise your arms!" (vous) || Levez + les || Levez les bras ! || "Bend your knees!"
+ex: Article || "Touch your nose." || Touchez + le || Touchez le nez ! || Why not "votre"?
+ex: Gender || Is "main" masculine or feminine? || Check || Feminine: la main || What about pied?
+p: B || What is "la tête"? || The head.
+p: B || What is "le bras"? || The arm.
+p: B || What is "la main"? || The hand.
+p: B || What is "la jambe"? || The leg.
+p: B || What is "le pied"? || The foot.
+p: I || What is the plural of l'œil? || Les yeux.
+p: I || What is the plural of le genou? || Les genoux.
+p: I || What is "la gorge"? || The throat.
+p: I || What is "le dos"? || The back.
+p: I || Say "Raise your hand!" (tu) || Lève la main !
+p: I || Say "Touch your knees!" (vous) || Touchez les genoux !
+p: C || Why does French use le/la with body parts in instructions? || It's clear whose body part it is.
+p: C || Translate: Bend your legs and raise your arms. || Pliez les jambes et levez les bras.
+p: C || Name five face words. || Les yeux, le nez, la bouche, les oreilles, la tête.
+p: C || Write your warm-up instructions. || Answers vary.
+mis: Saying "les œils" | Saying "les genous" | Using mon/ma in every instruction
+et: Nomme cinq parties du corps. | Say "Touch your head!"
+mc: B || "La tête" is || the head | the hand | the foot | the back || A
+mc: B || "Le pied" is || the foot | the leg | the arm | the knee || A
+mc: B || "La main" is || the hand | the arm | the head | the neck || A
+mc: B || "Le dos" is || the back | the stomach | the neck | the knee || A
+mc: B || "Le ventre" is || the stomach | the throat | the back | the leg || A
+mc: B || "La bouche" is || the mouth | the nose | the ear | the eye || A
+mc: I || Plural of l'œil is || les yeux | les œils | les œuils | les yeus || A
+mc: I || Plural of le genou is || les genoux | les genous | les genoues | le genoux || A
+mc: I || "Raise your arms!" (vous) is || Levez les bras ! | Lève vos bras ! | Levez la bras ! | Lever les bras ! || A
+mc: I || "La gorge" is || the throat | the head | the hand | the toe || A
+mc: C || French uses le/la with body parts because || ownership is clear | it's random | it's plural | it's rude || A
+mc: C || "Pliez les genoux" means || Bend your knees | Touch your knees | Raise your knees | Hurt your knees || A
+sa: B || Name eight body parts in French. || La tête, le bras, la main, la jambe, le pied, le dos, le ventre, la gorge.
+sa: B || What is "le cou"? || The neck.
+sa: I || Give two irregular plurals. || Les yeux, les genoux.
+sa: I || Give two fitness instructions. || Levez les bras ! Pliez les genoux !
+sa: I || Say "Touch your nose" (tu). || Touche le nez !
+sa: I || Why "Lève la main" not "Lève ta main"? || French uses the article for body parts.
+sa: C || Explain irregular plurals with examples. || Œil → yeux; genou → genoux.
+sa: C || Write your warm-up. || Answers vary.
+
+=== FSL8.B1 1
+hook: "J'ai mal à la tête !" If you ever get sick on a trip to Quebec or France, telling a pharmacist or doctor what hurts is essential. French uses one simple pattern: avoir mal à.
+sc: I can describe pain with avoir mal à | I can use au, à la, à l' and aux correctly | I can describe common symptoms at a doctor's visit
+v: J'ai mal à… :: My … hurts / I have a … ache
+v: Où as-tu mal ? :: Where does it hurt?
+v: J'ai de la fièvre :: I have a fever
+v: Je tousse :: I'm coughing
+v: J'ai le rhume :: I have a cold
+v: Je suis malade :: I'm sick
+v: Je suis fatigué(e) :: I'm tired
+v: le médecin :: the doctor
+ts: Chez le médecin || Dialogue || How do I describe symptoms in French?
+tx: Grammar: avoir mal à + body part. à + le = au: J'ai mal au ventre. à + la = à la: J'ai mal à la tête. à + l' = à l': J'ai mal à l'oreille. à + les = aux: J'ai mal aux pieds. ¶ Dialogue (read in pairs): ¶ Médecin : Bonjour, Zoé. Qu'est-ce qui ne va pas ? ¶ Zoé : Je suis malade. J'ai mal à la gorge et j'ai mal à la tête. ¶ Médecin : Tu as de la fièvre ? ¶ Zoé : Oui, un peu. Et je tousse beaucoup. ¶ Médecin : Depuis quand ? ¶ Zoé : Depuis deux jours. ¶ Médecin : Tu as le rhume. Ce n'est pas grave. ¶ Note: "depuis" + present = for/since (Je tousse depuis deux jours = I've been coughing for two days). ¶ Activity: symptom cards: partners act out a symptom; the other asks "Où as-tu mal ?" and diagnoses with avoir mal à.
+src: Original dialogue written for this lesson.
+st: Learn avoir mal à with contractions | Read the doctor dialogue | Learn other symptoms | Use depuis | Act out symptom cards
+org: Symptôme | En français
+an: What are Zoé's symptoms? | Why is it "au ventre" but "à la tête"? | What does "depuis deux jours" mean? | What did the doctor decide?
+pr: Write a doctor dialogue with at least four symptoms using avoir mal à correctly and one sentence with depuis.
+ex: Au || "My stomach hurts." || à + le ventre = au || J'ai mal au ventre. || "My back hurts."
+ex: À la || "My throat hurts." || à la gorge || J'ai mal à la gorge. || "My leg hurts."
+ex: Aux || "My feet hurt." || à + les = aux || J'ai mal aux pieds. || "My eyes hurt."
+ex: Depuis || "I've had a fever for three days." || depuis + present || J'ai de la fièvre depuis trois jours. || "I've been coughing since Monday."
+p: B || How do you say "My head hurts"? || J'ai mal à la tête.
+p: B || What does "Je tousse" mean? || I'm coughing.
+p: B || What does "J'ai de la fièvre" mean? || I have a fever.
+p: B || What is "le médecin"? || The doctor.
+p: B || What does "Où as-tu mal ?" mean? || Where does it hurt?
+p: I || Say "My stomach hurts." || J'ai mal au ventre.
+p: I || Say "My ear hurts." || J'ai mal à l'oreille.
+p: I || Say "My feet hurt." || J'ai mal aux pieds.
+p: I || Say "I have a cold." || J'ai le rhume.
+p: I || What are Zoé's symptoms? || Sore throat, headache, fever, cough.
+p: I || How long has Zoé been sick? || Two days.
+p: C || Why does à + le become au? || French contracts them.
+p: C || What tense follows depuis for ongoing actions? || The present.
+p: C || Translate: I've had a sore back since Saturday. || J'ai mal au dos depuis samedi.
+p: C || Write your doctor dialogue. || Answers vary.
+mis: Saying "à le ventre" | Saying "ma tête fait mal" word for word | Using the past tense with depuis for ongoing actions
+et: Say "My throat hurts." | Ask "Where does it hurt?"
+mc: B || "J'ai mal à la tête" means || I have a headache | My hand hurts | I'm tired | I'm hungry || A
+mc: B || "Je tousse" means || I'm coughing | I'm sneezing | I'm sleeping | I'm eating || A
+mc: B || "J'ai de la fièvre" means || I have a fever | I'm cold | I'm happy | I'm late || A
+mc: B || "Le médecin" is || the doctor | the medicine | the nurse | the hospital || A
+mc: B || "Je suis malade" means || I'm sick | I'm sad | I'm tired | I'm angry || A
+mc: B || "J'ai le rhume" means || I have a cold | I have a fever | I'm hot | I'm fine || A
+mc: I || "My stomach hurts" is || J'ai mal au ventre. | J'ai mal à le ventre. | J'ai mal aux ventre. | J'ai mal la ventre. || A
+mc: I || "My feet hurt" is || J'ai mal aux pieds. | J'ai mal au pieds. | J'ai mal à les pieds. | J'ai mal pieds. || A
+mc: I || "My ear hurts" is || J'ai mal à l'oreille. | J'ai mal au oreille. | J'ai mal à la oreille. | J'ai mal aux oreille. || A
+mc: I || "Depuis deux jours" means || for two days | in two days | two days ago | after two days || A
+mc: C || À + les becomes || aux | au | à les | des || A
+mc: C || With depuis, ongoing actions use || the present | the past | the future | the infinitive || A
+sa: B || Say "My head hurts." || J'ai mal à la tête.
+sa: B || Say "I'm sick." || Je suis malade.
+sa: I || Give au, à la, à l' and aux examples. || Au ventre, à la gorge, à l'oreille, aux pieds.
+sa: I || List Zoé's symptoms. || Sore throat, headache, fever, cough.
+sa: I || Say "I've been coughing for three days." || Je tousse depuis trois jours.
+sa: I || Ask "What's wrong?" || Qu'est-ce qui ne va pas ?
+sa: C || Explain the contractions with à. || À + le = au; à + les = aux.
+sa: C || Write your doctor dialogue. || Answers vary.
+
+=== FSL8.B1 2
+hook: "Bois de l'eau ! Repose-toi ! Va chez le médecin !" When someone's sick, we give advice and commands. In French, that's the imperative mood, and it's easier than you might think.
+sc: I can form the imperative for tu, nous and vous | I can give health advice using the imperative and il faut | I can create a healthy-living poster in French
+v: l'impératif :: the imperative (command form)
+v: Bois ! / Buvez ! :: Drink! (tu / vous)
+v: Mange ! / Mangez ! :: Eat! (tu / vous)
+v: Va ! / Allez ! :: Go! (tu / vous)
+v: Il faut… :: You must… / It's necessary to…
+v: Il ne faut pas… :: You must not…
+v: se reposer :: to rest
+v: la santé :: health
+ts: Conseils santé || Grammar || How do I give health advice in French?
+tx: Imperative guide (written for this lesson): ¶ Take the present tense without the subject: tu manges → Mange ! (drop the -s for -er verbs), nous mangeons → Mangeons ! (Let's eat!), vous mangez → Mangez ! ¶ Other verbs keep the -s: tu bois → Bois ! tu fais → Fais ! Irregular: aller → Va ! Allons ! Allez ! ¶ Negative: Ne mange pas trop de bonbons ! ¶ Reflexive (useful phrase): Repose-toi ! Reposez-vous ! (Rest!) ¶ Il faut + infinitive (general advice): Il faut dormir huit heures. Il ne faut pas fumer. ¶ Advice examples: Bois beaucoup d'eau ! Mange des fruits et des légumes ! Fais du sport ! Dors bien ! Lave-toi les mains ! ¶ Activity: groups make a "Conseils santé" poster with eight pieces of advice (four imperatives and four with il faut), then present to the class.
+src: Original activity written for this lesson.
+st: Form imperatives from the present | Learn negative imperatives | Use il faut + infinitive | Give advice for symptoms | Create a health poster
+org: Problème | Conseil (impératif) | Conseil (il faut)
+an: Why does "tu manges" become "Mange !"? | How do you make a command negative? | When would you use il faut instead of the imperative? | Which advice is most important?
+pr: Create a "Conseils santé" poster with eight pieces of advice using the imperative and il faut.
+ex: Tu form || Command a friend to eat vegetables. || tu manges → Mange || Mange des légumes ! || Command to drink water.
+ex: Vous form || Tell a class to sleep well. || vous dormez → Dormez || Dormez bien ! || Tell them to exercise.
+ex: Negative || "Don't eat too much sugar!" || ne … pas around verb || Ne mange pas trop de sucre ! || "Don't watch too much TV!"
+ex: Il faut || "You must wash your hands." || Il faut + infinitive || Il faut se laver les mains. || "You must not smoke."
+p: B || What is the imperative? || The command form.
+p: B || How do you say "Drink!" to a friend? || Bois !
+p: B || How do you say "Eat!" to a group? || Mangez !
+p: B || What does "Il faut" mean? || You must.
+p: B || What does "la santé" mean? || Health.
+p: I || Make "tu écoutes" an imperative. || Écoute !
+p: I || Make "vous faites" an imperative. || Faites !
+p: I || What is the tu imperative of aller? || Va !
+p: I || Say "Let's go!" || Allons-y !
+p: I || Say "Don't eat candy!" || Ne mange pas de bonbons !
+p: I || Say "You must sleep eight hours." || Il faut dormir huit heures.
+p: C || Why does Mange lose its -s? || -er verbs drop the -s in the tu imperative.
+p: C || When use il faut instead of the imperative? || For general advice to everyone.
+p: C || Give advice for a headache. || Repose-toi et bois de l'eau !
+p: C || Present your health poster. || Answers vary.
+mis: Keeping the -s on -er tu imperatives | Including the subject pronoun | Conjugating after il faut
+et: Give a friend two pieces of health advice. | Say "Don't watch too much TV!"
+mc: B || The imperative gives || commands | questions | past events | descriptions || A
+mc: B || "Bois !" means || Drink! | Eat! | Go! | Sleep! || A
+mc: B || "Mangez !" means || Eat! (vous) | Eat! (tu) | Let's eat! | I eat || A
+mc: B || "Il faut" means || you must | it's cold | there is | I want || A
+mc: B || "La santé" means || health | holiday | hospital | doctor || A
+mc: B || "Va !" comes from || aller | voir | vouloir | venir || A
+mc: I || Tu imperative of écouter is || Écoute ! | Écoutes ! | Tu écoutes ! | Écouter ! || A
+mc: I || "Let's eat!" is || Mangeons ! | Mangez ! | Mange ! | Mangent ! || A
+mc: I || "Don't eat candy!" is || Ne mange pas de bonbons ! | Mange pas ne bonbons ! | Ne pas mange bonbons ! | Mange ne bonbons pas ! || A
+mc: I || After il faut use || the infinitive | a conjugated verb | a noun only | the past || A
+mc: C || -er tu imperatives || drop the -s | add -s | add -t | keep tu || A
+mc: C || Il faut is best for || general advice | one friend only | questions | the past || A
+sa: B || Give the tu and vous imperatives of manger. || Mange ! Mangez !
+sa: B || What does il ne faut pas mean? || You must not.
+sa: I || Give three health tips with the imperative. || Bois de l'eau ! Mange des légumes ! Dors bien !
+sa: I || Give two health tips with il faut. || Il faut faire du sport. Il faut dormir.
+sa: I || Make "Fais du sport" negative. || Ne fais pas de sport.
+sa: I || Give advice for a sore throat. || Answers vary.
+sa: C || Explain how to form the imperative. || Present tense without the subject; -er tu drops the -s.
+sa: C || Present your poster. || Answers vary.
+
+=== FSL8.C1 0
+hook: Alberta is famous for weather surprises: a chinook can raise the temperature by more than 20 degrees in a few hours. "Quel temps fait-il ?" is a question Albertans ask every day, in any language.
+sc: I can ask and describe the weather in French | I can name the seasons and say what the weather is like in each | I can give a weather forecast
+v: Quel temps fait-il ? :: What's the weather like?
+v: Il fait beau / mauvais :: It's nice / bad weather
+v: Il fait chaud / froid :: It's hot / cold
+v: Il pleut :: It's raining
+v: Il neige :: It's snowing
+v: Il y a du vent / du soleil :: It's windy / sunny
+v: Il fait -15 degrés :: It's -15 degrees
+v: les saisons :: the seasons
+ts: Quel temps fait-il ? || Practice || How do I talk about weather and seasons in French?
+tx: Weather and seasons (written for this lesson): ¶ Seasons: en été (in summer), en automne (in autumn), en hiver (in winter), au printemps (in spring). ¶ Expressions with faire: il fait beau, il fait mauvais, il fait chaud, il fait froid, il fait frais (cool). ¶ Other: il pleut, il neige, il y a du vent, il y a du soleil, il y a des nuages, il y a un orage (storm). ¶ Alberta weather: Un chinook est un vent chaud et sec. Il arrive en hiver des montagnes Rocheuses. La température peut monter très vite ! ¶ Forecast model: Aujourd'hui à Calgary, il fait soleil le matin. L'après-midi, il y a du vent. Il fait cinq degrés. Demain, il va neiger ! ¶ Activity: groups present a TV-style weather forecast for four Canadian cities using a map and symbols.
+src: Original activity written for this lesson; chinook description is general.
+st: Learn the seasons | Learn weather expressions | Read about chinooks | Read a model forecast | Present a weather forecast
+org: Ville | Temps | Température
+an: Why do we say "au printemps" but "en été"? | What is a chinook? | What is the weather like today? | Which season is your favourite and why?
+pr: Present a weather forecast for four Canadian cities with at least six different weather expressions.
+ex: Today || Describe weather: sunny and cold. || il y a + il fait || Il y a du soleil et il fait froid. || Describe a rainy day.
+ex: Season || Say "In winter it snows." || en hiver || En hiver, il neige. || Say what happens in spring.
+ex: Temperature || Say "It's minus 20." || Il fait … degrés || Il fait moins vingt degrés. || Say 30.
+ex: Chinook || What is a chinook? || Warm wind || A warm, dry wind from the Rockies in winter || What does it do to temperature?
+p: B || How do you ask about the weather? || Quel temps fait-il ?
+p: B || What does "Il pleut" mean? || It's raining.
+p: B || What does "Il neige" mean? || It's snowing.
+p: B || What does "Il fait chaud" mean? || It's hot.
+p: B || What does "Il y a du vent" mean? || It's windy.
+p: I || How do you say "in summer"? || En été.
+p: I || How do you say "in spring"? || Au printemps.
+p: I || How do you say "in winter"? || En hiver.
+p: I || Say "It's minus 10 degrees." || Il fait moins dix degrés.
+p: I || Say "It's cloudy." || Il y a des nuages.
+p: I || What is a chinook? || A warm, dry winter wind from the Rockies.
+p: C || Why "au printemps"? || Printemps starts with a consonant, so it uses au.
+p: C || Translate: In autumn it's cool and windy. || En automne, il fait frais et il y a du vent.
+p: C || Translate: Tomorrow it's going to snow. || Demain, il va neiger.
+p: C || Present your forecast. || Answers vary.
+mis: Saying "il est froid" for weather | Saying "en printemps" | Saying "il fait pleut"
+et: Quel temps fait-il aujourd'hui ? | Say "In summer it's hot."
+mc: B || "Quel temps fait-il ?" asks about || weather | time | age | price || A
+mc: B || "Il pleut" means || it's raining | it's snowing | it's sunny | it's windy || A
+mc: B || "Il neige" means || it's snowing | it's raining | it's hot | it's cloudy || A
+mc: B || "Il fait froid" means || it's cold | it's hot | it's nice | it's raining || A
+mc: B || "Il y a du soleil" means || it's sunny | it's windy | it's stormy | it's night || A
+mc: B || "Les saisons" are || the seasons | the days | the months | the years || A
+mc: I || "In spring" is || au printemps | en printemps | à printemps | le printemps || A
+mc: I || "In winter" is || en hiver | au hiver | à hiver | dans hiver || A
+mc: I || "It's cold" (weather) is || Il fait froid. | Il est froid. | C'est froid il. | Il a froid. || A
+mc: I || A chinook is || a warm dry wind | a snowstorm | a lake | a fish || A
+mc: C || Weather with chaud/froid uses || il fait | il est | il a | c'est || A
+mc: C || Printemps uses au because it starts with || a consonant | a vowel | a number | an h || A
+sa: B || Ask about the weather. || Quel temps fait-il ?
+sa: B || Name the four seasons with prepositions. || En été, en automne, en hiver, au printemps.
+sa: I || Describe today's weather. || Answers vary.
+sa: I || Say "It's minus 25." || Il fait moins vingt-cinq degrés.
+sa: I || Describe a chinook in French. || Un chinook est un vent chaud et sec.
+sa: I || Give three weather expressions with il y a. || Il y a du vent, du soleil, des nuages.
+sa: C || Explain il fait vs il est for weather. || Weather uses il fait.
+sa: C || Present your forecast. || Answers vary.
+
+=== FSL8.C1 1
+hook: "Je vais visiter Québec. Je vais manger une poutine. Je vais faire du ski." With one verb, aller, you can talk about everything you're going to do on your next trip.
+sc: I can conjugate aller in the present | I can talk about future plans with aller + infinitive | I can use à, en, au and aux with cities and countries
+v: aller :: to go
+v: Je vais + infinitif :: I'm going to…
+v: le voyage :: the trip
+v: la destination :: the destination
+v: visiter :: to visit (a place)
+v: en avion / en train / en voiture :: by plane / by train / by car
+v: à + ville :: in/to a city (à Paris)
+v: en / au / aux + pays :: in/to a country
+ts: On va voyager ! || Grammar || How do I talk about trip plans in French?
+tx: Aller (written for this lesson): je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont. ¶ Futur proche: aller + infinitive: Je vais visiter Montréal. Nous allons prendre le train. Ils vont faire du camping. Negative: Je ne vais pas prendre l'avion. ¶ Places: cities use à: à Québec, à Paris, à Dakar. Feminine countries (most ending in -e) use en: en France, en Belgique, en Suisse. Masculine countries use au: au Canada, au Sénégal, au Maroc, au Québec. Plural countries use aux: aux États-Unis. ¶ Text: Cet été, ma famille va voyager au Québec. Nous allons prendre l'avion de Calgary à Québec. Je vais visiter le Vieux-Québec et le Château Frontenac. Mon frère va faire du vélo. Après, nous allons aller à Montréal en train. ¶ Activity: "Mon voyage de rêve": partners interview each other: Où vas-tu aller ? Comment ? Qu'est-ce que tu vas faire ?
+src: Original text written for this lesson.
+st: Conjugate aller | Form the futur proche | Learn à, en, au, aux with places | Read the travel text | Interview a partner about a dream trip
+org: Où ? | Comment ? | Activités
+an: Where is the family going, and how? | Why "en France" but "au Canada"? | How do you make the futur proche negative? | What is your partner's dream trip?
+pr: Write a paragraph about a dream trip with at least six futur proche sentences and correct place prepositions.
+ex: Futur proche || "I'm going to visit Paris." || vais + infinitive + à || Je vais visiter Paris. || "We're going to swim."
+ex: Country || "in France" || feminine → en || en France || "in Morocco"?
+ex: Masculine || "to Senegal" || masculine → au || au Sénégal || "to the United States"?
+ex: Negative || "I'm not going to fly." || ne … pas around vais || Je ne vais pas prendre l'avion. || "They're not going to drive."
+p: B || Conjugate aller with je. || Je vais.
+p: B || Conjugate aller with nous. || Nous allons.
+p: B || Conjugate aller with ils. || Ils vont.
+p: B || What is "le voyage"? || The trip.
+p: B || How do you say "by train"? || En train.
+p: I || Say "I'm going to visit Quebec City." || Je vais visiter Québec.
+p: I || "in Belgium"? || En Belgique.
+p: I || "in Canada"? || Au Canada.
+p: I || "in the United States"? || Aux États-Unis.
+p: I || "in Dakar"? || À Dakar.
+p: I || Say "We're going to take the plane." || Nous allons prendre l'avion.
+p: C || Why "en France" but "au Maroc"? || France is feminine; Maroc is masculine.
+p: C || Where does ne … pas go in the futur proche? || Around aller.
+p: C || Translate: Next summer, my sister is going to go to Switzerland. || L'été prochain, ma sœur va aller en Suisse.
+p: C || Write about your dream trip. || Answers vary.
+mis: Conjugating the second verb | Saying "à France" | Putting pas after the infinitive
+et: Où vas-tu aller cet été ? | Say "in Morocco."
+mc: B || "Je vais" means || I go / I'm going | I have | I am | I want || A
+mc: B || "Nous allons" means || we go | you go | they go | I go || A
+mc: B || "Ils vont" means || they go | we go | he goes | you go || A
+mc: B || "En avion" means || by plane | by train | by car | by bike || A
+mc: B || "Visiter" means || to visit a place | to see a friend | to leave | to drive || A
+mc: B || "La destination" is || the destination | the departure | the ticket | the hotel || A
+mc: I || "I'm going to swim" is || Je vais nager. | Je vais nage. | Je nager vais. | Je vas nager. || A
+mc: I || "In France" is || en France | au France | à France | aux France || A
+mc: I || "In Canada" is || au Canada | en Canada | à Canada | aux Canada || A
+mc: I || "In the United States" is || aux États-Unis | au États-Unis | en États-Unis | à États-Unis || A
+mc: C || Feminine countries use || en | au | aux | à || A
+mc: C || "I'm not going to fly" is || Je ne vais pas prendre l'avion. | Je vais ne pas prendre l'avion. | Je ne vais prendre pas l'avion. | Je vais prendre pas l'avion. || A
+sa: B || Conjugate aller fully. || Je vais, tu vas, il va, nous allons, vous allez, ils vont.
+sa: B || How do you form the futur proche? || Aller + infinitive.
+sa: I || Say "We're going to go to Montreal by train." || Nous allons aller à Montréal en train.
+sa: I || Give à, en, au, aux examples. || À Paris, en France, au Canada, aux États-Unis.
+sa: I || Make a futur proche sentence negative. || Answers vary.
+sa: I || Where is the family in the text going? || Au Québec.
+sa: C || Explain country prepositions. || En for feminine, au for masculine, aux for plural.
+sa: C || Write about your dream trip. || Answers vary.
+
+=== FSL8.C1 2
+hook: Travel agents make trips sound irresistible. Today you become one: plan a trip to a French-speaking destination and present it so well that your class wants to go.
+sc: I can plan a trip to a francophone destination | I can present an itinerary using the futur proche and weather vocabulary | I can answer questions about my plan
+v: l'itinéraire :: the itinerary
+v: le premier jour :: the first day
+v: ensuite / après :: then / after
+v: l'hôtel :: the hotel
+v: le billet :: the ticket
+v: le budget :: the budget
+v: faire les valises :: to pack
+v: découvrir :: to discover
+ts: Agence de voyage || Presentation || How do I plan and present a trip in French?
+tx: Project guide (written for this lesson): ¶ Choose a francophone destination: Québec City, Montréal, Moncton, Paris, Bruxelles, Genève, Dakar, Marrakech, Port-au-Prince, Martinique, La Réunion, Tahiti, or another. ¶ Research (in English is fine; present in French): when to go and the weather, how to get there, three attractions, a local food, a local tradition or event. ¶ Itinerary (3 days): Le premier jour, nous allons… Le deuxième jour, nous allons… Le troisième jour, nous allons… ¶ Include: transportation (en avion, en train), weather and what to pack (Il va faire chaud. Il faut apporter des lunettes de soleil.), budget estimate, one sentence about why it's a great trip. ¶ Presentation (2–3 minutes) with a poster or slides; classmates ask one question each: Combien coûte le voyage ? Quel temps va-t-il faire ? Qu'est-ce qu'on va manger ? ¶ Peer feedback: content, futur proche accuracy, pronunciation, visuals.
+src: Original project written for this lesson.
+st: Choose a francophone destination | Research weather, transport and attractions | Write a three-day itinerary | Make a poster or slides | Present and answer questions
+org: Jour | Activités | Temps | À apporter
+an: Why did you choose your destination? | What will the weather be like? | What food will you try? | Which classmate's trip would you choose?
+pr: Present a 2–3 minute travel plan to a francophone destination with a three-day itinerary, weather, packing and budget, using the futur proche.
+ex: Itinerary || "On the first day, we're going to visit the old city." || futur proche || Le premier jour, nous allons visiter la vieille ville. || The second day?
+ex: Packing || It will be hot. What to bring? || il faut apporter || Il faut apporter des lunettes de soleil et de la crème solaire. || What for winter?
+ex: Weather || "It's going to be hot." || aller + faire || Il va faire chaud. || "It's going to snow."
+ex: Question || Ask how much the trip costs. || combien coûte || Combien coûte le voyage ? || How might you answer?
+p: B || What is "l'itinéraire"? || The itinerary.
+p: B || How do you say "the first day"? || Le premier jour.
+p: B || What does "ensuite" mean? || Then.
+p: B || What is "le billet"? || The ticket.
+p: B || What does "faire les valises" mean? || To pack.
+p: I || Say "It's going to be hot." || Il va faire chaud.
+p: I || Say "It's going to rain." || Il va pleuvoir.
+p: I || Say "We're going to eat crêpes." || Nous allons manger des crêpes.
+p: I || Say "You must bring a coat." || Il faut apporter un manteau.
+p: I || Name three francophone destinations. || Québec, Dakar, Paris.
+p: I || How long is the presentation? || 2–3 minutes.
+p: C || Why research the weather before packing? || To bring the right clothes.
+p: C || Translate: Then we're going to discover the market. || Ensuite, nous allons découvrir le marché.
+p: C || Why present in French but research in English? || Research needs detail; presenting builds French skills.
+p: C || Present your travel plan. || Answers vary.
+mis: Using the present for future plans in the presentation | Choosing a non-francophone destination | Reading slides word for word
+et: Name your destination and one activity. | Say what the weather will be like.
+mc: B || "L'itinéraire" is || the itinerary | the hotel | the ticket | the budget || A
+mc: B || "Le premier jour" is || the first day | the last day | the weekend | the trip || A
+mc: B || "Ensuite" means || then | before | never | because || A
+mc: B || "Le billet" is || the ticket | the bill | the bag | the hotel || A
+mc: B || "Faire les valises" means || to pack | to travel | to shop | to sleep || A
+mc: B || "Découvrir" means || to discover | to cover | to leave | to buy || A
+mc: I || "It's going to be hot" is || Il va faire chaud. | Il fait va chaud. | Il va chaud. | Il est chaud. || A
+mc: I || "It's going to rain" is || Il va pleuvoir. | Il va pleut. | Il pleut va. | Il va pleuvoit. || A
+mc: I || A francophone destination is || Dakar | Madrid | Berlin | Tokyo || A
+mc: I || "You must bring sunglasses" is || Il faut apporter des lunettes de soleil. | Il faut apportes lunettes. | Faut il lunettes. | Il apporte lunettes. || A
+mc: C || Research weather to || pack the right clothes | waste time | buy tickets | learn verbs || A
+mc: C || Plans are presented with || the futur proche | the past | no verbs | the imperative only || A
+sa: B || Define itinéraire. || The itinerary.
+sa: B || Name four francophone destinations. || Québec, Paris, Dakar, Bruxelles.
+sa: I || Write day 1 of your itinerary. || Answers vary.
+sa: I || Say what the weather will be like. || Answers vary.
+sa: I || Write two packing sentences with il faut. || Answers vary.
+sa: I || Ask a classmate a question about their trip. || Answers vary.
+sa: C || Explain why research comes before packing. || To bring the right items.
+sa: C || Present your travel plan. || Answers vary.
+
+=== FSL8.D1 0
+hook: French is spoken on five continents by more than 300 million people, from Montréal to Dakar to Tahiti. La Francophonie is a whole world connected by one language.
+sc: I can locate francophone countries and regions on a map | I can explain what La Francophonie is | I can describe facts about one francophone country
+v: la Francophonie :: the community of French-speaking countries and people
+v: un pays :: a country
+v: un continent :: a continent
+v: la langue officielle :: the official language
+v: la capitale :: the capital
+v: l'Afrique / l'Europe :: Africa / Europe
+v: les Antilles :: the Caribbean islands
+v: parler :: to speak
+ts: Le monde francophone || Research || Where in the world is French spoken?
+tx: Background (written for this lesson from public sources): ¶ The Organisation internationale de la Francophonie (OIF), founded in 1970, brings together dozens of states and governments that share the French language; Canada, Quebec and New Brunswick are members. ¶ 20 March is la Journée internationale de la Francophonie. ¶ French around the world: Europe: France, Belgium, Switzerland, Luxembourg, Monaco. Africa: Senegal, Côte d'Ivoire, Cameroon, Mali, Madagascar, the Democratic Republic of the Congo (the country with the largest French-speaking population) and others; French is also widely used in Morocco, Algeria and Tunisia. Americas: Canada, Haiti, Martinique, Guadeloupe, French Guiana. Indian Ocean and Pacific: La Réunion, Mauritius, French Polynesia, New Caledonia. ¶ Sentences: Au Sénégal, on parle français et wolof. La capitale est Dakar. En Haïti, on parle français et créole haïtien. ¶ Activity: groups each take a continent, colour a world map, and write three sentences for one country: language(s), capital, one fact.
+src: Summary from public sources, including the Organisation internationale de la Francophonie.
+st: Learn what La Francophonie is | Locate francophone countries by continent | Colour a world map | Write facts about one country | Share with the class
+org: Pays | Continent | Capitale | Langues
+an: Which continent has the most francophone countries? | Which country has the largest French-speaking population? | When is the Journée internationale de la Francophonie? | What surprised you?
+pr: Create a fact card about one francophone country with its continent, capital, languages and two facts, written in French.
+ex: Language || What languages are spoken in Senegal? || Research || Le français et le wolof || What is the capital?
+ex: Sentence || "In Belgium, people speak French and Dutch." || on parle || En Belgique, on parle français et néerlandais. || Try Switzerland.
+ex: Largest || Which country has the most French speakers? || Population || La République démocratique du Congo || Which continent?
+ex: Date || When is the Journée internationale de la Francophonie? || March || Le 20 mars || How could your school celebrate?
+p: B || What is la Francophonie? || The community of French-speaking countries and people.
+p: B || What is "un pays"? || A country.
+p: B || What is "la capitale"? || The capital.
+p: B || What does "on parle" mean? || People speak / one speaks.
+p: B || What is "l'Afrique"? || Africa.
+p: I || When was the OIF founded? || 1970.
+p: I || When is the Journée internationale de la Francophonie? || 20 March.
+p: I || Name three European francophone countries. || France, Belgium, Switzerland.
+p: I || Name three African francophone countries. || Senegal, Cameroon, Madagascar.
+p: I || What is the capital of Senegal? || Dakar.
+p: I || What languages are spoken in Haiti? || French and Haitian Creole.
+p: C || Why is French spoken in so many African countries? || History of colonization and its continued use in government and schools.
+p: C || About how many people speak French worldwide? || More than 300 million.
+p: C || Translate: In Switzerland, people speak French, German and Italian. || En Suisse, on parle français, allemand et italien.
+p: C || Present your fact card. || Answers vary.
+mis: Thinking French is only spoken in France and Quebec | Thinking francophone countries speak only French | Ignoring Africa's large francophone population
+et: Nomme trois pays francophones. | What is la Francophonie?
+mc: B || La Francophonie is || French-speaking countries and people | a French city | a festival | a newspaper || A
+mc: B || "Un pays" is || a country | a city | a river | a person || A
+mc: B || "La capitale" is || the capital | the country | the language | the flag || A
+mc: B || "On parle français" means || people speak French | we parle | French people | speak French! || A
+mc: B || The capital of Senegal is || Dakar | Paris | Rabat | Abidjan || A
+mc: B || Haiti is in || the Caribbean | Africa | Europe | the Pacific || A
+mc: I || The OIF was founded in || 1970 | 1870 | 2000 | 1950 || A
+mc: I || The Journée de la Francophonie is || 20 March | 14 July | 24 June | 1 July || A
+mc: I || The country with the largest French-speaking population is || the DR Congo | Belgium | Switzerland | Monaco || A
+mc: I || In Haiti, people speak || French and Haitian Creole | Spanish | Portuguese | Dutch || A
+mc: C || French spread to many African countries through || colonial history | tourism | trade fairs | sports || A
+mc: C || French speakers worldwide number || more than 300 million | about 3 million | 30 thousand | 3 billion || A
+sa: B || Define la Francophonie. || The community of French-speaking countries and people.
+sa: B || Name three francophone continents. || Europe, Africa, the Americas.
+sa: I || Name six francophone countries. || France, Belgium, Senegal, Haiti, Canada, Madagascar.
+sa: I || Write a sentence about languages in one country. || Answers vary.
+sa: I || When is the Journée internationale de la Francophonie? || 20 March.
+sa: I || Which country has the most French speakers? || The DR Congo.
+sa: C || Explain why French is spoken in Africa. || Colonial history and continued official use.
+sa: C || Present your fact card. || Answers vary.
+
+=== FSL8.D1 1
+hook: Alberta's francophone story goes back to the fur trade, when French-speaking voyageurs and Métis travelled its rivers. Today there are French schools, newspapers, radio and festivals across the province.
+sc: I can describe the history of francophones in Alberta | I can name francophone organizations, schools and media in Alberta | I can explain why language rights matter
+v: la communauté franco-albertaine :: the Franco-Albertan community
+v: les voyageurs :: fur-trade canoe travellers
+v: les Métis :: a distinct Indigenous people with French, Cree and other roots
+v: une école francophone :: a French-language school
+v: le journal :: the newspaper
+v: les droits linguistiques :: language rights
+v: la radio :: the radio
+v: l'histoire :: history
+ts: L'Alberta francophone || Research || What is the story of francophones in Alberta?
+tx: Background (written for this lesson from public sources): ¶ Fur trade: French-speaking voyageurs paddled canoes across the West for fur-trading companies. Many married into First Nations families, and the Métis Nation emerged with its own culture and its language, Michif, which mixes French and Cree. ¶ Communities: French-Canadian settlers founded or settled communities such as Saint-Albert, Saint-Paul, Bonnyville, Falher, Legal and Plamondon, and Edmonton's Bonnie Doon area. ¶ Organizations and media: the Association canadienne-française de l'Alberta (ACFA), founded in 1926, represents Franco-Albertans. Le Franco is Alberta's French-language newspaper. Radio-Canada broadcasts in French in Alberta. ¶ Schools and rights: section 23 of the Canadian Charter of Rights and Freedoms (1982) gives French-speaking parents in Alberta the right to have their children educated in French where numbers warrant. Today Alberta has francophone school authorities and many French-immersion programs. The University of Alberta's Campus Saint-Jean offers university programs in French. ¶ Activity: create a timeline with five events in French and English, then answer: Pourquoi les droits linguistiques sont-ils importants ?
+src: Summary from public sources on Franco-Albertan history.
+st: Learn about voyageurs and the Métis | Locate francophone communities | Learn about ACFA, Le Franco and Radio-Canada | Learn about section 23 | Make a bilingual timeline
+org: Date | Événement | En anglais
+an: How did the fur trade bring French to Alberta? | What language do many Métis speak? | What does section 23 protect? | Why do language rights matter?
+pr: Create a bilingual timeline of Franco-Albertan history with five events and a paragraph on why language rights matter.
+ex: Voyageurs || Who were the voyageurs? || Fur trade || French-speaking canoe travellers in the fur trade || Where did they travel?
+ex: Michif || What is Michif? || Métis language || A language mixing French and Cree || Who speaks it?
+ex: ACFA || When was ACFA founded? || Date || 1926 || What does it do?
+ex: Section 23 || What does section 23 protect? || Charter || Minority-language education rights || Why does it matter?
+p: B || Who were the voyageurs? || French-speaking fur-trade canoe travellers.
+p: B || What is "le journal"? || The newspaper.
+p: B || What is "une école francophone"? || A French-language school.
+p: B || What does "les droits linguistiques" mean? || Language rights.
+p: B || What is "l'histoire"? || History.
+p: I || What language do many Métis speak? || Michif.
+p: I || When was ACFA founded? || 1926.
+p: I || What is Alberta's French newspaper? || Le Franco.
+p: I || Which Charter section protects French education? || Section 23.
+p: I || Name a French-language university campus in Alberta. || Campus Saint-Jean.
+p: I || Name three francophone communities in Alberta. || Saint-Paul, Bonnyville, Falher.
+p: C || Why do language rights matter? || They help communities keep their language and culture alive.
+p: C || How did the fur trade shape Alberta's culture? || It brought French speakers and led to Métis culture.
+p: C || Translate: Franco-Albertans have their own schools and newspaper. || Les Franco-Albertains ont leurs propres écoles et leur journal.
+p: C || Present your timeline. || Answers vary.
+mis: Thinking French arrived in Alberta recently | Thinking the Métis are only French | Thinking minority languages don't need protection
+et: Nomme une communauté francophone en Alberta. | What does section 23 protect?
+mc: B || The voyageurs were || fur-trade canoe travellers | farmers | soldiers | teachers || A
+mc: B || "Le journal" is || the newspaper | the day | the journey | the radio || A
+mc: B || "Les droits linguistiques" are || language rights | traffic laws | taxes | sports rules || A
+mc: B || "L'histoire" means || history | a hiss | the story only | science || A
+mc: B || Michif mixes || French and Cree | English and Spanish | French and German | Cree and Inuktitut || A
+mc: B || Le Franco is a || newspaper | river | town | school || A
+mc: I || ACFA was founded in || 1926 | 1826 | 1982 | 2006 || A
+mc: I || Section 23 protects || minority-language education | voting | free speech | mobility || A
+mc: I || Campus Saint-Jean is part of || the University of Alberta | a high school | a museum | a hospital || A
+mc: I || A francophone community in Alberta is || Falher | Halifax | Moncton | Gatineau || A
+mc: C || Language rights help communities || keep language and culture | lose language | move away | stop school || A
+mc: C || The fur trade led to || Métis culture | the gold rush | oil sands | railways || A
+sa: B || Who were the voyageurs? || French-speaking fur-trade canoe travellers.
+sa: B || What is Michif? || A Métis language mixing French and Cree.
+sa: I || Name ACFA and its founding year. || Association canadienne-française de l'Alberta, 1926.
+sa: I || What does section 23 of the Charter do? || Protects minority-language education rights.
+sa: I || Name three francophone communities in Alberta. || Saint-Paul, Bonnyville, Falher.
+sa: I || Name two francophone media in Alberta. || Le Franco, Radio-Canada.
+sa: C || Explain why language rights matter. || They protect language and culture.
+sa: C || Present your timeline. || Answers vary.
+
+=== FSL8.D1 2
+hook: In spring, families across Quebec head to the cabane à sucre to pour hot maple syrup on snow and roll it onto a stick. Every culture has traditions like this, and comparing them shows how much we share.
+sc: I can describe a francophone tradition in French | I can compare it with a tradition from my own life | I can present the comparison using comparison phrases
+v: la tradition :: the tradition
+v: la cabane à sucre :: the sugar shack
+v: la tire sur la neige :: maple taffy on snow
+v: le réveillon :: the late-night holiday meal
+v: la Chandeleur :: Candlemas, crêpe day (2 February)
+v: comme :: like, as
+v: par contre :: on the other hand
+v: les deux :: both
+ts: Nos traditions || Presentation || How are francophone traditions similar to and different from mine?
+tx: Traditions (written for this lesson): ¶ Le temps des sucres: in March and April, in Quebec and eastern Canada, people visit a cabane à sucre to eat pancakes, beans, ham and maple syrup, and make tire sur la neige. ¶ Le réveillon: in Quebec and France, families share a big meal late on Christmas Eve or New Year's Eve; in Quebec, tourtière (meat pie) is a classic. ¶ La Chandeleur: on 2 February in France and Quebec, families make crêpes; some flip them holding a coin for good luck. ¶ Le Carnaval de Québec: winter festival with Bonhomme Carnaval, ice sculptures and canoe races on the St. Lawrence. ¶ Comparison phrases: Les deux traditions… (Both traditions…). Comme chez moi, on mange… (Like at my home, we eat…). Par contre, chez moi… (On the other hand, at my home…). C'est différent parce que… ¶ Task: choose one francophone tradition and one tradition from your family or culture. Make a Venn diagram, then write and present 6–8 sentences comparing them.
+src: Summary of widely known francophone traditions written for this lesson.
+st: Learn four francophone traditions | Choose one to compare | Choose a tradition of your own | Make a Venn diagram | Present 6–8 comparison sentences
+org: Tradition francophone | Les deux | Ma tradition
+an: Which francophone tradition interests you most? | What do the traditions have in common? | How are they different? | Why do people keep traditions?
+pr: Present a 6–8 sentence comparison of a francophone tradition and your own, using comme, par contre and les deux.
+ex: Describe || Describe la tire sur la neige. || What and where || On verse du sirop d'érable chaud sur la neige. || When does it happen?
+ex: Comme || "Like at my home, we eat with family." || Comme chez moi || Comme chez moi, on mange en famille. || Write another.
+ex: Par contre || "On the other hand, at my home we eat dumplings." || Par contre, chez moi || Par contre, chez moi, on mange des dumplings. || Write your own.
+ex: Les deux || "Both traditions celebrate the new year." || Les deux traditions || Les deux traditions célèbrent la nouvelle année. || Find another similarity.
+p: B || What is "la tradition"? || The tradition.
+p: B || What is "la cabane à sucre"? || The sugar shack.
+p: B || What does "comme" mean? || Like / as.
+p: B || What does "par contre" mean? || On the other hand.
+p: B || What does "les deux" mean? || Both.
+p: I || When is the temps des sucres? || March and April.
+p: I || What is la tire sur la neige? || Maple taffy on snow.
+p: I || When is la Chandeleur? || 2 February.
+p: I || What do families make for la Chandeleur? || Crêpes.
+p: I || What is le réveillon? || A late-night holiday meal.
+p: I || Who is the mascot of the Carnaval de Québec? || Bonhomme Carnaval.
+p: C || Why do people keep traditions? || To connect with family, culture and history.
+p: C || Translate: Both traditions are in winter. || Les deux traditions sont en hiver.
+p: C || Translate: On the other hand, my tradition is in summer. || Par contre, ma tradition est en été.
+p: C || Present your comparison. || Answers vary.
+mis: Only listing facts without comparing | Using English sentence structure | Treating one culture's tradition as "weird"
+et: Décris une tradition francophone. | Use "par contre" in a sentence.
+mc: B || "La cabane à sucre" is || the sugar shack | a candy store | a bakery | a cabin hotel || A
+mc: B || "Comme" means || like | but | because | after || A
+mc: B || "Par contre" means || on the other hand | for example | because | again || A
+mc: B || "Les deux" means || both | two days | the second | the double || A
+mc: B || "La tire sur la neige" is || maple taffy on snow | a snow sled | a tire | a snowman || A
+mc: B || "La tradition" means || the tradition | the translation | the trade | the train || A
+mc: I || La Chandeleur is on || 2 February | 24 June | 25 December | 1 July || A
+mc: I || La Chandeleur food is || crêpes | poutine | tourtière | croissants || A
+mc: I || The temps des sucres is in || March and April | July | December | October || A
+mc: I || Bonhomme Carnaval is linked to || Québec City | Paris | Dakar | Edmonton || A
+mc: C || People keep traditions to || connect with culture and family | win prizes | avoid school | sell food || A
+mc: C || A good comparison includes || similarities and differences | only facts | only opinions | nothing || A
+sa: B || Name two francophone traditions. || Le temps des sucres, la Chandeleur.
+sa: B || What does "par contre" mean? || On the other hand.
+sa: I || Describe a francophone tradition in two sentences. || Answers vary.
+sa: I || Write a sentence with comme. || Answers vary.
+sa: I || Write a sentence with les deux. || Answers vary.
+sa: I || When is la Chandeleur and what do people do? || 2 February; they make crêpes.
+sa: C || Explain why traditions matter. || They connect people with culture and history.
+sa: C || Present your comparison. || Answers vary.
