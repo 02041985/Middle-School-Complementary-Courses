@@ -1,0 +1,637 @@
+=== ART9.A1 1
+hook: Art doesn't only decorate walls; sometimes it argues. Picasso's Guernica protested the bombing of a town. Street artists paint messages about war, money and the environment on city walls. When art comments on society, it asks viewers to think, and sometimes to act.
+sc: I can explain what social commentary in art is | I can analyze how an artwork communicates a message about society | I can evaluate how effective an artwork's message is
+v: social commentary :: Art that expresses an opinion about society or an issue.
+v: issue :: A topic people disagree about or want to change, such as war, poverty or the environment.
+v: protest art :: Art made to oppose something or call for change.
+v: juxtaposition :: Placing contrasting things side by side to create meaning.
+v: satire :: Using humour or exaggeration to criticize something.
+v: audience response :: How viewers react to an artwork's message.
+ts: Art With a Message || Studio || How does art comment on society?
+tx: Artworks to analyze (show images from public museum sources): ¶ A. Pablo Picasso, Guernica (1937): a huge black, white and grey painting made after the bombing of the Spanish town of Guernica during the Spanish Civil War. Twisted figures, a screaming horse, a mother holding a child. ¶ B. Brian Jungen (Dane-zaa and Swiss-Canadian), Prototype for New Understanding series (1998–2005): Nike Air Jordan sneakers cut apart and sewn into forms that look like Northwest Coast masks, raising questions about consumerism, sports culture and how Indigenous art is bought and sold. ¶ C. Kent Monkman (Cree), large paintings that place his gender-fluid alter ego, Miss Chief Eagle Testickle, into scenes copied from famous colonial-era paintings, retelling history from an Indigenous point of view. ¶ Task: Choose one work. Identify the issue, the message, the techniques used (colour, juxtaposition, scale, satire, symbols) and the intended audience. Then evaluate: is the message clear and powerful?
+src: Summaries written for this lesson; teachers show images from public museum websites.
+st: Look closely at one artwork | Identify the issue and message | Analyze the techniques | Consider the intended audience | Evaluate how effective the message is
+org: Artwork | Issue | Message | Techniques | Effective? Why?
+an: What issue does the artwork address? | Which technique makes the message strongest? | Why might the artist have chosen this medium or scale? | Does art change people's minds? Give an example.
+pr: Write an analysis of one social commentary artwork: issue, message, techniques, audience and your evaluation with evidence.
+ex: Colour choice || Why might Guernica be black, white and grey? || Mood and reference || It feels bleak, like a newspaper photo of a tragedy || How would colour change it?
+ex: Juxtaposition || What is juxtaposed in Jungen's masks? || Two worlds || Mass-produced sneakers and the form of traditional masks || What does that make viewers question?
+ex: Retelling history || Why does Kent Monkman copy colonial-era paintings? || Point of view || To retell history from an Indigenous perspective and challenge the original story || Is this effective?
+ex: Evaluating || Improve "It has a good message." || Name the message and evidence || "Guernica's screaming figures make the suffering of war impossible to ignore" || Add one technique.
+p: B || What is social commentary? || Art expressing an opinion about society.
+p: B || What is protest art? || Art opposing something or calling for change.
+p: B || What is juxtaposition? || Placing contrasting things side by side.
+p: B || What is satire? || Using humour or exaggeration to criticize.
+p: B || What is an issue? || A topic people disagree about or want to change.
+p: I || What event inspired Guernica? || The 1937 bombing of the town of Guernica.
+p: I || What material did Brian Jungen use in Prototype for New Understanding? || Nike Air Jordan sneakers.
+p: I || What colours does Guernica use? || Black, white and grey.
+p: I || Who is Miss Chief Eagle Testickle? || Kent Monkman's alter ego.
+p: I || What issue might Jungen's work raise? || Consumerism and how Indigenous art is bought and sold.
+p: I || What is audience response? || How viewers react to the message.
+p: C || Why might artists use large scale for social commentary? || Size makes the message overwhelming and hard to ignore.
+p: C || Can art change society? Explain. || Yes; it raises awareness and starts conversations, though change takes many actions.
+p: C || Why is it important to know the context of protest art? || The message depends on the event or issue it responds to.
+p: C || Evaluate the effectiveness of one artwork. || Answers vary.
+mis: Thinking art has to be pretty to be good | Thinking social commentary always states its message directly | Thinking an artwork has only one correct interpretation
+et: Name an issue addressed by one artwork. | Name one technique the artist used.
+mc: B || Social commentary art || expresses opinions about society | is only decoration | is always funny | has no message || A
+mc: B || Juxtaposition means || placing contrasts side by side | mixing colours | framing | carving || A
+mc: B || Satire uses || humour or exaggeration to criticize | only facts | silence | realism only || A
+mc: B || Protest art || calls for change | sells products | decorates homes | copies photos || A
+mc: B || An issue is || a topic people disagree about | a frame | a colour | a medium || A
+mc: B || Guernica was painted by || Pablo Picasso | Emily Carr | Kent Monkman | Brian Jungen || A
+mc: I || Guernica responds to || a bombing during war | a celebration | a sports game | a wedding || A
+mc: I || Brian Jungen used || Nike sneakers | marble | oil paint only | photographs || A
+mc: I || Kent Monkman retells history from || an Indigenous perspective | a European king's view | a robot's view | no perspective || A
+mc: I || Guernica's colours are || black, white and grey | bright pinks | neon greens | gold || A
+mc: C || Large scale makes a message || hard to ignore | weaker | cheaper | private || A
+mc: C || Knowing context helps because || the message depends on the issue | it changes colours | it is required | it is fun || A
+sa: B || Define social commentary. || Art that expresses an opinion about society or an issue.
+sa: B || What is juxtaposition? || Placing contrasting things side by side to create meaning.
+sa: I || What inspired Guernica? || The 1937 bombing of Guernica in the Spanish Civil War.
+sa: I || What is juxtaposed in Jungen's Prototype for New Understanding? || Sneakers and the form of Northwest Coast masks.
+sa: I || Why does Kent Monkman copy colonial paintings? || To retell history from an Indigenous perspective.
+sa: I || Name two techniques of social commentary art. || Juxtaposition and satire.
+sa: C || Analyze one social commentary artwork. || Answers vary.
+sa: C || Explain whether art can change society. || Answers vary; must give reasons.
+
+=== ART9.A1 2
+hook: Canada has produced artists whose work changed how the world sees this land: Emily Carr's forests, the Group of Seven's rocky north, Daphne Odjig's flowing figures, Kenojuak Ashevak's owls. Today you become the expert on one of them.
+sc: I can research a Canadian artist using reliable sources | I can explain how the artist's life and context shaped their work | I can present my research clearly
+v: research :: Finding and recording information to answer questions.
+v: reliable source :: A trustworthy source, such as a gallery, museum or encyclopedia website.
+v: biography :: The story of a person's life.
+v: influence :: Something that affects an artist's style or ideas.
+v: signature style :: The features that make an artist's work recognizable.
+v: citation :: A note telling where information came from.
+ts: Canadian Artist Study || Studio || How do an artist's life and context shape their art?
+tx: Research guide (written for this lesson): ¶ Choose one artist: Emily Carr (1871–1945), Lawren Harris of the Group of Seven (1885–1970), Daphne Odjig (Odawa-Potawatomi, 1919–2016), Kenojuak Ashevak (Inuit, 1927–2013), Alex Janvier (Denesuline and Saulteaux, born 1935), Norval Morrisseau (Anishinaabe, 1932–2007), Mary Pratt (1935–2018) or Brian Jungen (born 1970). ¶ Research questions: 1. When and where did they live? 2. What experiences shaped them? 3. What is their signature style (subjects, colours, techniques)? 4. What influenced them, and whom did they influence? 5. What is one important artwork, and what does it mean? ¶ Sources: use the National Gallery of Canada, the Canadian Encyclopedia, the Art Canada Institute and gallery websites. Record a citation for each fact. ¶ Product: a one-page artist profile with an image description, plus a small study (sketch or painting) in the artist's style, not a copy.
+src: Research guide written for this lesson; students use public, reliable art-history websites.
+st: Choose a Canadian artist | Answer five research questions | Record citations from reliable sources | Create a one-page artist profile | Make a small study in the artist's style
+org: Question | What I found | Source
+an: How did the artist's life shape their art? | What makes their style recognizable? | What surprised you in your research? | How is your study in their style different from a copy?
+pr: Create a one-page artist profile with citations and a small original study inspired by the artist's style.
+ex: Reliable sources || Is a random social-media post reliable? || Who wrote it? Can it be checked? || Usually not; use galleries, museums or encyclopedias || Name a reliable source.
+ex: Context || How did northern Ontario shape the Group of Seven? || Place and time || They painted rugged landscapes to create a distinct Canadian style in the early 1900s || What was their main subject?
+ex: Signature style || Describe Norval Morrisseau's signature style. || Lines and colours || Bold black outlines, bright colours and lines connecting figures (Woodland style) || What did it express?
+ex: Study vs copy || What makes a study "in the style of" rather than a copy? || Original subject || You use the artist's techniques on your own subject || Plan your study.
+p: B || What is research? || Finding information to answer questions.
+p: B || What is a reliable source? || A trustworthy source such as a gallery or museum website.
+p: B || What is a biography? || The story of a person's life.
+p: B || What is a signature style? || The features that make an artist's work recognizable.
+p: B || What is a citation? || A note telling where information came from.
+p: I || Which artist painted British Columbia forests? || Emily Carr.
+p: I || Which group included Lawren Harris? || The Group of Seven.
+p: I || What style is Norval Morrisseau known for? || The Woodland style.
+p: I || Name two reliable sources for art research. || National Gallery of Canada and the Canadian Encyclopedia.
+p: I || What years did Daphne Odjig live? || 1919–2016.
+p: I || What is an influence? || Something that affects an artist's style or ideas.
+p: C || Why cite sources? || To show where facts came from and respect others' work.
+p: C || How can an artist's culture shape their style? || Stories, symbols and traditions appear in their subjects and forms.
+p: C || Why make a study in an artist's style rather than copying? || You learn their techniques while creating something original.
+p: C || Explain how your artist's context shaped their work. || Answers vary.
+mis: Trusting any website | Copying an artwork and calling it a study | Listing facts without connecting them to the art
+et: Name your artist and their signature style. | Name one reliable source you used.
+mc: B || A reliable source is || trustworthy | any website | a rumour | an ad || A
+mc: B || A citation shows || where information came from | the price | the colour | the frame || A
+mc: B || A biography is || a life story | a painting | a frame | a map || A
+mc: B || A signature style is || what makes an artist recognizable | a signature only | a price | a frame || A
+mc: B || Research means || finding information | painting | framing | copying || A
+mc: B || An influence || affects an artist's style | is a frame | is a price | is a tool || A
+mc: I || Emily Carr painted || forests | city streets | portraits only | robots || A
+mc: I || The Woodland style is linked to || Norval Morrisseau | Mary Pratt | Picasso | Hokusai || A
+mc: I || Lawren Harris belonged to || the Group of Seven | the Impressionists | the Dada group | the Surrealists || A
+mc: I || A reliable art source is || the National Gallery of Canada | an anonymous meme | a rumour | a pop-up ad || A
+mc: C || Citing sources shows || respect and accuracy | laziness | copying | nothing || A
+mc: C || A study in an artist's style || uses their techniques on your own subject | copies exactly | traces | ignores them || A
+sa: B || Define citation. || A note telling where information came from.
+sa: B || What is a signature style? || The features that make an artist's work recognizable.
+sa: I || Name three Canadian artists and their subjects. || Answers vary.
+sa: I || Name two reliable sources. || Answers vary; e.g. National Gallery of Canada.
+sa: I || Describe Norval Morrisseau's style. || Bold black outlines, bright colours, connecting lines.
+sa: I || How is a study different from a copy? || It uses the style on an original subject.
+sa: C || Explain how your artist's life shaped their work. || Answers vary.
+sa: C || Create a one-page artist profile with citations. || Answers vary.
+
+=== ART9.B1 0
+hook: Most beginners draw heads too big and legs too short. Artists since ancient Greece have used a simple trick: measure the body in "heads." An adult is about seven and a half heads tall, and once you know the landmarks, figures start to look right.
+sc: I can use the head as a unit to measure body proportions | I can locate key landmarks on the figure | I can draw a proportioned figure from observation
+v: proportion :: The size of parts compared to each other and to the whole.
+v: head unit :: The height of the head, used to measure the body.
+v: landmark :: A key point on the body used to check proportion, such as the elbow or knee.
+v: sighting :: Measuring a model by holding a pencil at arm's length.
+v: canon :: A set of rules for ideal proportions.
+v: mannequin :: A jointed figure model used for drawing.
+ts: Measuring the Figure || Studio || How do artists draw the human body in proportion?
+tx: Studio steps (written for this lesson): ¶ 1. Proportion guide (adult figure, about 7½ to 8 heads tall): head = 1; chin to nipples ≈ 1 more; navel ≈ 3 heads down; hip joint and crotch ≈ 4 (the middle of the body); knees ≈ 6; feet at 7½ to 8. Elbows line up with the waist; wrists line up with the crotch; the shoulders are about 2 heads wide. Teenagers are often about 7 heads tall. ¶ 2. Proportion chart (15 minutes): Draw a vertical line and divide it into 8 equal head units. Draw a simple figure of ovals and lines that fits the landmarks. ¶ 3. Sighting (25 minutes): A classmate poses standing (fully clothed, simple pose) for 10 minutes at a time. Hold your pencil at arm's length, measure the head with your thumb, then count how many heads tall the model is. Draw the figure lightly, checking landmarks. ¶ Note: in Grade 9 we draw clothed classmates, mannequins and figures from photos.
+src: Original activity written for this lesson; proportions follow common art-teaching guidelines.
+st: Learn the head-unit proportion guide | Draw a proportion chart figure | Practise sighting with a pencil | Draw a posed classmate in proportion | Check landmarks and adjust
+org: Landmark | Head units from top | Check on my drawing
+an: How many heads tall was your model? | Which landmark was most helpful? | Where did your drawing go wrong at first, and how did you fix it? | Why do children have different proportions?
+pr: Complete a proportion chart and a figure drawing of a posed classmate, with three landmarks labelled.
+ex: Middle of the body || Where is the middle of an adult figure? || 4 of 8 heads || At the hip joint or crotch || Where is the navel?
+ex: Arm length || Where do the wrists fall? || Hands hanging down || Around the crotch, level with the hip || Where do fingertips reach?
+ex: Sighting || The head measures 2 cm and the figure 15 cm. How many heads? || 15 ÷ 2 || 7½ heads || Is that typical for an adult?
+ex: Children || A toddler is about 4 heads tall. What does that mean? || Head compared to body || The head is much larger relative to the body || How does a teen compare?
+p: B || What is proportion? || The size of parts compared to each other and the whole.
+p: B || What is a head unit? || The height of the head used to measure the body.
+p: B || What is a landmark on the figure? || A key point like the elbow or knee.
+p: B || What is sighting? || Measuring by holding a pencil at arm's length.
+p: B || About how many heads tall is an adult? || About 7½ to 8.
+p: I || Where are the knees in head units? || About 6 heads down.
+p: I || Where are the elbows? || Level with the waist.
+p: I || How wide are the shoulders? || About 2 heads.
+p: I || About how many heads tall are many teenagers? || About 7.
+p: I || A figure is 14 cm with a 2 cm head. How many heads? || 7.
+p: I || Where is the navel? || About 3 heads down.
+p: C || Why do beginners often draw heads too big? || They focus on the face and think of it as more important.
+p: C || Why use a canon if real people vary? || It gives a starting guide that can be adjusted.
+p: C || Why keep your arm straight when sighting? || So measurements are consistent.
+p: C || Explain how you corrected a proportion error. || Answers vary.
+mis: Thinking the head is a third of the body | Thinking everyone has identical proportions | Drawing arms too short
+et: How many heads tall is an adult? | Where is the middle of the body?
+mc: B || Proportion compares || sizes of parts | colours | textures | prices || A
+mc: B || The head unit is || the head's height | the arm's length | the foot size | a ruler || A
+mc: B || An adult is about || 7½ to 8 heads tall | 3 heads tall | 12 heads tall | 2 heads tall || A
+mc: B || Sighting uses || a pencil at arm's length | a camera | a scale | a tape measure only || A
+mc: B || A landmark is || a key point like the knee | a colour | a background | a frame || A
+mc: B || A canon is || a set of proportion rules | a cannon | a paint | a frame || A
+mc: I || The middle of an adult body is at || the hip or crotch | the neck | the knees | the chest || A
+mc: I || Elbows line up with || the waist | the knees | the head | the feet || A
+mc: I || A 15 cm figure with a 2 cm head is || 7½ heads | 5 heads | 10 heads | 3 heads || A
+mc: I || Knees are about || 6 heads down | 2 heads down | 8 heads down | 1 head down || A
+mc: C || Beginners draw heads too big because they || focus on the face | measure carefully | use canons | sight || A
+mc: C || A straight arm in sighting keeps || measurements consistent | colours bright | lines dark | paper flat || A
+sa: B || Define proportion. || The size of parts compared to each other and the whole.
+sa: B || What is sighting? || Measuring by holding a pencil at arm's length.
+sa: I || Name three landmarks and their head units. || Navel 3, crotch 4, knees 6.
+sa: I || Where do the elbows and wrists line up? || Elbows at the waist; wrists at the crotch.
+sa: I || How many heads tall is a figure 16 cm with a 2 cm head? || 8.
+sa: I || How do children's proportions differ? || Their heads are larger relative to their bodies.
+sa: C || Explain why artists use head units. || They give a simple, consistent way to check proportions.
+sa: C || Describe how you corrected a proportion error. || Answers vary.
+
+=== ART9.B1 1
+hook: Watch a dancer or a soccer player and try to draw them. They move too fast for details. Gesture drawing captures the action in 30 seconds: not the eyelashes, but the swing, twist and energy of the whole body.
+sc: I can draw quick gestures that capture movement | I can use a line of action to show energy | I can build a figure from gesture to form
+v: gesture drawing :: A fast drawing that captures the movement and pose of a figure.
+v: line of action :: An imaginary curved line running through the figure that shows its main movement.
+v: contrapposto :: A pose where weight rests on one leg, tilting the hips and shoulders in opposite directions.
+v: weight shift :: Moving the body's weight from one leg to another.
+v: timed pose :: A pose held for a set time, such as 30 seconds or 2 minutes.
+v: stick figure :: A simple figure of lines used as a first step.
+ts: Capture the Motion || Studio || How can quick drawings capture movement?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Study Edgar Degas's ballet dancers (1870s–1880s) and the ancient Greek sculpture Doryphoros, an early example of contrapposto. ¶ 2. Line of action (5 minutes): For each of five photos of athletes, draw only the one curved line that shows the main movement. ¶ 3. 30-second gestures (10 minutes): Classmates take turns holding action poses (throwing, reaching, kicking, dancing) for 30 seconds. Draw the line of action first, then the head, ribcage and hips as simple shapes, then quick limbs. Don't erase. ¶ 4. Longer poses (15 minutes): Three 2-minute poses. Add proportion checks to the gesture. ¶ 5. Contrapposto (10 minutes): One 5-minute standing pose with weight on one leg. Notice how the hips tilt one way and shoulders the other.
+src: Original activity written for this lesson; teachers show images from public museum sources.
+st: Find lines of action in athlete photos | Do 30-second gesture drawings | Do 2-minute poses with proportion checks | Draw a contrapposto pose | Choose your best gesture and explain why
+org: Pose | Time | Line of action shape | What worked
+an: How does the line of action change from pose to pose? | Why not erase during gesture drawing? | What happens to the hips and shoulders in contrapposto? | Which gesture shows the most energy?
+pr: Complete a page of at least ten gesture drawings and circle your three most energetic, explaining one choice.
+ex: Line of action || What line of action shows a soccer kick? || Curve of the body || A long C-curve from the head through the kicking leg || What about a straight standing pose?
+ex: Contrapposto || Weight is on the right leg. Which hip is higher? || The supporting hip rises || The right hip || What do the shoulders do?
+ex: Simple shapes || Why draw the ribcage and hips as ovals? || Big forms first || They show how the body twists and tilts quickly || What comes after?
+ex: No erasing || Why keep wrong lines in gesture drawing? || Speed and searching || They help you find the right line and keep energy || When can you erase?
+p: B || What is gesture drawing? || A fast drawing capturing movement and pose.
+p: B || What is a line of action? || A curved line showing the figure's main movement.
+p: B || What is contrapposto? || A pose with weight on one leg, hips and shoulders tilting opposite.
+p: B || What is a timed pose? || A pose held for a set time.
+p: B || What is a weight shift? || Moving weight from one leg to the other.
+p: I || How long are the quick gestures? || 30 seconds.
+p: I || Which artist drew ballet dancers? || Edgar Degas.
+p: I || What do you draw first in a gesture? || The line of action.
+p: I || Which ancient sculpture shows contrapposto? || Doryphoros.
+p: I || Weight on the left leg: which hip is higher? || The left hip.
+p: I || How are the ribcage and hips drawn? || As simple ovals or shapes.
+p: C || Why do quick gestures improve longer drawings? || They train you to see the whole pose and movement first.
+p: C || Why does contrapposto look natural? || Real bodies balance weight unevenly when relaxed.
+p: C || How can a line of action show emotion? || Strong curves feel energetic; slumped curves feel tired or sad.
+p: C || Explain why your best gesture shows energy. || Answers vary.
+mis: Starting with details like faces in a gesture | Thinking gesture drawings should look finished | Drawing stiff, straight figures
+et: What is a line of action? | Describe contrapposto.
+mc: B || Gesture drawing captures || movement and pose | tiny details | colour | texture || A
+mc: B || A line of action shows || the main movement | the outline only | the ground | the background || A
+mc: B || Contrapposto puts weight on || one leg | both legs equally | the arms | the head || A
+mc: B || Quick gestures last || about 30 seconds | 30 minutes | 3 hours | 3 seconds || A
+mc: B || A timed pose is held for || a set time | forever | no time | random time || A
+mc: B || The first mark in a gesture is || the line of action | the eyes | the shoes | the shadow || A
+mc: I || Degas drew || ballet dancers | grain elevators | owls | forests || A
+mc: I || Weight on the right leg raises the || right hip | left hip | head | left shoulder || A
+mc: I || Doryphoros is an example of || contrapposto | perspective | collage | printmaking || A
+mc: I || The ribcage and hips are drawn as || simple shapes | detailed bones | text | colours || A
+mc: C || Contrapposto looks natural because || relaxed bodies shift weight | it's symmetrical | it's stiff | it's ancient || A
+mc: C || A slumped line of action can show || tiredness or sadness | excitement | anger only | speed || A
+sa: B || Define gesture drawing. || A fast drawing that captures movement and pose.
+sa: B || What is contrapposto? || A pose with weight on one leg, hips and shoulders tilting opposite ways.
+sa: I || What do you draw first in a gesture? || The line of action.
+sa: I || Which hip is higher with weight on the right leg? || The right.
+sa: I || Name an artist known for drawing movement. || Edgar Degas.
+sa: I || Why not erase in gesture drawing? || To keep speed and energy.
+sa: C || Explain how gesture drawing improves figure drawing. || It trains you to see the whole pose first.
+sa: C || Explain why one of your gestures shows energy. || Answers vary.
+
+=== ART9.B1 2
+hook: Most people draw eyes near the top of the head. In reality, the eyes sit halfway down. Once you know a few facial proportions, your portraits start to look like real people instead of cartoons.
+sc: I can use facial proportions to place features | I can draw a portrait from observation | I can use value to model the face
+v: portrait :: An artwork showing a person, especially the face.
+v: facial proportions :: The guidelines for where features sit on the face.
+v: features :: The eyes, nose, mouth and ears.
+v: self-portrait :: A portrait an artist makes of themselves.
+v: three-quarter view :: A view of the face turned partly to the side.
+v: likeness :: How much a portrait looks like the real person.
+ts: Face to Face || Studio || How do facial proportions help me draw a convincing portrait?
+tx: Facial proportion guide (front view, written for this lesson): ¶ Draw an egg shape. A horizontal line halfway down is the eye line. ¶ The face is about five eyes wide, with one eye's width between the eyes. ¶ The bottom of the nose is about halfway between the eye line and the chin. ¶ The mouth is about one-third of the way from the nose to the chin. The corners of the mouth line up with the centres of the eyes. ¶ The ears sit between the eye line (or eyebrows) and the bottom of the nose. ¶ The hairline is about halfway between the eye line and the top of the head; hair adds volume above the skull. ¶ Studio steps: 1. Draw a proportion guide face (15 minutes). 2. Self-portrait from a mirror (35 minutes): lightly draw the guidelines, place features, then use value to show the shadows under the brow, nose and chin. 3. Compare: does it look like you? Which feature gives the strongest likeness?
+src: Original activity written for this lesson; proportions follow common art-teaching guidelines.
+st: Draw the egg shape and guidelines | Place features using proportions | Draw a self-portrait from a mirror | Add value to model the face | Compare and check likeness
+org: Feature | Where it goes | Check on my drawing
+an: Where are the eyes on a real face? | Which proportion surprised you most? | Where are the darkest shadows on your face? | What makes your portrait look like you?
+pr: Complete a facial proportion guide and a shaded self-portrait drawn from a mirror.
+ex: Eye line || Where are the eyes vertically? || Halfway down the head || On the halfway line || Why do people draw them higher?
+ex: Eye spacing || How far apart are the eyes? || In eye widths || About one eye width apart || How wide is the face?
+ex: Mouth corners || Where do the mouth corners line up? || Look straight down from the eyes || With the centres of the eyes || Check in a mirror.
+ex: Shading || Where are typical shadows on a face lit from above? || Overhangs || Under the brow, nose, lower lip and chin || How does this add form?
+p: B || What is a portrait? || An artwork showing a person, especially the face.
+p: B || What is a self-portrait? || A portrait of yourself.
+p: B || What are features? || Eyes, nose, mouth and ears.
+p: B || What is likeness? || How much a portrait looks like the person.
+p: B || What is a three-quarter view? || A face turned partly to the side.
+p: I || Where is the eye line? || Halfway down the head.
+p: I || How many eye widths wide is the face? || About five.
+p: I || Where is the bottom of the nose? || Halfway between the eye line and the chin.
+p: I || Where do the ears sit? || Between the eye line and the bottom of the nose.
+p: I || Where do the mouth corners line up? || With the centres of the eyes.
+p: I || Where is the mouth? || About one-third of the way from nose to chin.
+p: C || Why do beginners draw eyes too high? || They forget the forehead and skull take up space above the eyes.
+p: C || Why use value in a portrait? || It shows the face's 3-D form.
+p: C || How do proportions change in a three-quarter view? || Features on the far side look narrower and closer together.
+p: C || What gives your portrait its likeness? || Answers vary.
+mis: Placing eyes near the top of the head | Drawing outlines around every feature | Making the face flat with no shading
+et: Where are the eyes on the head? | Name one other facial proportion.
+mc: B || A portrait shows || a person | a landscape | a bowl of fruit | a building || A
+mc: B || A self-portrait shows || the artist | the teacher | a stranger | an animal || A
+mc: B || Features include || eyes, nose, mouth | hair colour only | the background | the frame || A
+mc: B || Likeness means || resemblance to the person | colour | size | frame || A
+mc: B || A three-quarter view is || turned partly to the side | straight on | from behind | from above || A
+mc: B || The eye line is || halfway down the head | at the top | at the chin | at the hairline || A
+mc: I || The face is about || five eyes wide | two eyes wide | ten eyes wide | one eye wide || A
+mc: I || Eyes are about || one eye width apart | two eye widths apart | touching | three apart || A
+mc: I || Mouth corners line up with || eye centres | ear tips | the nose tip | the chin || A
+mc: I || Ears sit between || eye line and nose bottom | chin and neck | hair and eyes | mouth and chin || A
+mc: C || Value in a portrait shows || 3-D form | outline only | colour | age || A
+mc: C || In three-quarter view, far-side features look || narrower | wider | bigger | the same || A
+sa: B || Define likeness. || How much a portrait looks like the real person.
+sa: B || Where are the eyes on the head? || Halfway down.
+sa: I || Where is the bottom of the nose? || Halfway between the eye line and the chin.
+sa: I || How wide is a face in eye widths? || About five.
+sa: I || Where do shadows fall on a face lit from above? || Under the brow, nose, lip and chin.
+sa: I || Where do the ears sit? || Between the eye line and the bottom of the nose.
+sa: C || Explain why beginners draw eyes too high. || They forget the space taken by the forehead and skull.
+sa: C || Describe what gives your self-portrait its likeness. || Answers vary.
+
+=== ART9.C1 0
+hook: In 1912, Pablo Picasso glued a piece of printed oilcloth into a painting, and collage entered fine art. Since then, artists have combined paint, paper, photographs, fabric, found objects and even digital prints. Mixed media lets you mix materials to say more than one medium alone.
+sc: I can combine two or more media in one artwork | I can choose media for their effects | I can explain how mixing media adds meaning
+v: mixed media :: Artwork made with more than one medium.
+v: collage :: Artwork made by gluing materials onto a surface.
+v: photomontage :: A collage made from photographs.
+v: found object :: An everyday object used in art.
+v: layering :: Building up an artwork in layers of materials.
+v: transfer :: Moving an image from one surface to another, such as a photocopy onto paper.
+ts: Layer It Up || Studio || How does combining media change what an artwork can say?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Hannah Höch's photomontages (Germany, about 1919) cut and rearrange magazine photos to comment on society; Romare Bearden's collages (United States, 1960s) combine painted paper and photographs to show community life. ¶ 2. Media sampler (20 minutes): On a page divided into six boxes, test combinations: watercolour + oil pastel resist; tissue paper + glue layers; magazine collage + pencil drawing; acrylic + texture paste or sand; ink + found paper (maps, music sheets, newspapers); and a photocopy transfer. ¶ 3. Small work (30 minutes): Create a 15 cm × 20 cm artwork on a theme (my neighbourhood, technology, nature, memory) combining at least three media. Plan layers from background to foreground.
+src: Original activity written for this lesson; teachers show images from public museum sources.
+st: Look at mixed-media artworks | Test six media combinations | Choose a theme | Plan layers from back to front | Create a small mixed-media work with at least three media
+org: Combination | Effect | Could it suit my theme?
+an: Which combination surprised you most? | Why might an artist use a real map or newspaper instead of drawing one? | How did layering add depth? | How do your media choices connect to your theme?
+pr: Complete a six-box media sampler and a small mixed-media artwork using at least three media, with a sentence explaining each choice.
+ex: Resist || What happens when watercolour goes over oil pastel? || Oil repels water || The pastel lines show through; the paint fills around them || When would you use this?
+ex: Found paper || Why use a real map in a work about home? || Real material carries meaning || It adds real information and memories of place || What other found papers carry meaning?
+ex: Photomontage || What did Hannah Höch use? || Cut photos || Magazine and newspaper photographs rearranged || What did her work comment on?
+ex: Layering order || What goes first: tissue background or pencil detail? || Back to front || Tissue background first, detail last || Why this order?
+p: B || What is mixed media? || Art made with more than one medium.
+p: B || What is collage? || Art made by gluing materials onto a surface.
+p: B || What is photomontage? || A collage made from photographs.
+p: B || What is a found object? || An everyday object used in art.
+p: B || What is layering? || Building up an artwork in layers.
+p: I || When did Picasso first glue material into a painting? || 1912.
+p: I || Who made photomontages around 1919? || Hannah Höch.
+p: I || Who made collages of community life in the 1960s? || Romare Bearden.
+p: I || What is a resist? || A material such as oil pastel that repels water-based paint.
+p: I || How many media must your artwork use? || At least three.
+p: I || What order should you layer in? || Background to foreground.
+p: C || Why might real materials add meaning? || They carry their own history and associations.
+p: C || How can mixed media add texture? || Paper, sand, fabric and paste give actual texture.
+p: C || What problem can too many media cause? || The artwork can lose unity.
+p: C || Explain how your media connect to your theme. || Answers vary.
+mis: Thinking mixed media means random materials | Gluing heavy objects on thin paper | Ignoring the order of layers
+et: Name the three media you used. | Why did you choose one of them?
+mc: B || Mixed media uses || more than one medium | one medium | no medium | only digital || A
+mc: B || Collage is made by || gluing materials | carving | firing clay | photography only || A
+mc: B || Photomontage uses || photographs | clay | metal | paint only || A
+mc: B || A found object is || an everyday object in art | a lost artwork | a tool | a frame || A
+mc: B || Layering means || building up layers | removing paint | framing | signing || A
+mc: B || Oil pastel under watercolour acts as a || resist | glue | solvent | frame || A
+mc: I || Picasso began using collage in || 1912 | 1812 | 2012 | 1950 || A
+mc: I || Hannah Höch is known for || photomontage | marble sculpture | landscapes | portraits in oil || A
+mc: I || Romare Bearden showed || community life | grain elevators | owls | forests || A
+mc: I || Layering goes from || background to foreground | foreground to background | random | top to bottom only || A
+mc: C || Real materials add meaning because they || carry history and associations | are free | are flat | are colourful || A
+mc: C || Too many media can hurt || unity | texture | colour | balance only || A
+sa: B || Define mixed media. || Artwork made with more than one medium.
+sa: B || What is a found object? || An everyday object used in art.
+sa: I || What happens with an oil pastel resist? || Watercolour fills around the pastel lines.
+sa: I || Name two mixed-media artists. || Hannah Höch and Romare Bearden.
+sa: I || Why layer from back to front? || So details stay on top and visible.
+sa: I || Name three media you tested. || Answers vary.
+sa: C || Explain how real materials can add meaning. || They carry their own history and associations.
+sa: C || Explain your media choices for your theme. || Answers vary.
+
+=== ART9.C1 1
+hook: Mixed media can easily turn into a messy pile of stuff. What makes some collages powerful and others chaotic? Two principles: emphasis, which gives the eye a place to land, and unity, which makes everything feel like one artwork.
+sc: I can create a clear focal point in a mixed-media work | I can use colour, repetition and theme to create unity | I can revise a work to improve emphasis and unity
+v: emphasis :: Making one area stand out as the focal point.
+v: unity :: The sense that all parts of an artwork belong together.
+v: focal point :: The area the eye goes to first.
+v: colour scheme :: A planned set of colours, such as analogous or complementary.
+v: analogous colours :: Colours next to each other on the colour wheel.
+v: visual hierarchy :: The order in which the eye sees parts of an artwork.
+ts: Focus and Belonging || Studio || How do emphasis and unity make mixed media work?
+tx: Studio steps (written for this lesson): ¶ 1. Compare (10 minutes): Look at two collages: one chaotic (many colours, no clear focus) and one unified (limited colours, one focal point, repeated shapes). List what makes the difference. ¶ 2. Emphasis toolkit: create a focal point using contrast (light against dark), isolation (one item alone in space), placement (near the centre or at a rule-of-thirds point), size, or detail. ¶ 3. Unity toolkit: a limited colour scheme (analogous or complementary), repeated shapes or textures, a consistent theme, overlapping pieces, and a unifying wash of colour over everything. ¶ 4. Revise (35 minutes): Take your mixed-media work from last lesson, photograph it, then improve it: strengthen one focal point and add two unity techniques. Photograph it again to compare.
+src: Original activity written for this lesson.
+st: Compare a chaotic and a unified collage | Learn five emphasis techniques | Learn five unity techniques | Revise your mixed-media work | Photograph and compare before and after
+org: Technique | Emphasis or unity | Where I used it | Effect
+an: What made the chaotic collage feel chaotic? | Where is your focal point now? | Which unity technique helped most? | How did your work change between photos?
+pr: Revise your mixed-media work for emphasis and unity, and present before-and-after photos with three sentences explaining your changes.
+ex: Isolation || How does isolation create emphasis? || Empty space || One element alone in empty space draws the eye || Where could you use it?
+ex: Colour scheme || Name an analogous scheme for a calm work. || Neighbouring colours || Blue, blue-green and green || What scheme is more energetic?
+ex: Unifying wash || What does a thin wash over a collage do? || Covers all parts || Tints everything the same colour so parts belong together || What is the risk?
+ex: Rule of thirds || Where are the strongest focal positions? || Divide into thirds || Where the third lines cross || Why not the exact centre always?
+p: B || What is emphasis? || Making one area stand out.
+p: B || What is unity? || The sense that all parts belong together.
+p: B || What is a focal point? || Where the eye goes first.
+p: B || What is a colour scheme? || A planned set of colours.
+p: B || What are analogous colours? || Colours next to each other on the wheel.
+p: I || Name three ways to create emphasis. || Contrast, isolation and size.
+p: I || Name three ways to create unity. || Limited colours, repetition and a consistent theme.
+p: I || What is visual hierarchy? || The order in which the eye sees parts of an artwork.
+p: I || Where are rule-of-thirds points? || Where lines dividing the image into thirds cross.
+p: I || What makes a collage chaotic? || Too many colours and no clear focus.
+p: I || Why photograph before revising? || To compare and see improvements.
+p: C || How can too much unity make a work boring? || With no contrast or focus, nothing stands out.
+p: C || How do emphasis and unity work together? || Unity holds the work together while emphasis guides the eye.
+p: C || Why do artists revise? || To strengthen the message and composition.
+p: C || Explain how you improved your focal point. || Answers vary.
+mis: Thinking more materials always make a better collage | Thinking unity means everything must match | Having several competing focal points
+et: Where is your focal point? | Name one unity technique you used.
+mc: B || Emphasis creates || a focal point | chaos | sameness | blank space || A
+mc: B || Unity makes parts || belong together | clash | disappear | random || A
+mc: B || A focal point is || where the eye goes first | the frame | the edge | the signature || A
+mc: B || Analogous colours are || next to each other | opposite | black and white | random || A
+mc: B || A colour scheme is || a planned set of colours | a brush | a paper | a frame || A
+mc: B || Isolation creates emphasis by || leaving space around one element | adding clutter | adding colours | removing focus || A
+mc: I || Blue, blue-green, green are || analogous | complementary | warm | neutral || A
+mc: I || A chaotic collage usually has || too many colours and no focus | one focal point | a limited scheme | repetition || A
+mc: I || Rule-of-thirds points are where || third lines cross | edges meet | the centre is | colours change || A
+mc: I || A unifying wash || tints everything together | removes colour | adds chaos | creates emphasis only || A
+mc: C || Too much unity can make work || boring | chaotic | colourful | 3-D || A
+mc: C || Emphasis and unity together || hold the work together and guide the eye | cancel out | create chaos | remove focus || A
+sa: B || Define unity. || The sense that all parts of an artwork belong together.
+sa: B || What is a focal point? || The area the eye goes to first.
+sa: I || Name three emphasis techniques. || Contrast, isolation, size.
+sa: I || Name three unity techniques. || Limited colour scheme, repetition, consistent theme.
+sa: I || Give an analogous colour scheme. || Answers vary; e.g. yellow, yellow-orange, orange.
+sa: I || What makes a collage chaotic? || Too many colours and no focus.
+sa: C || Explain how emphasis and unity work together. || Unity holds the work together; emphasis guides the eye.
+sa: C || Describe your revisions with before-and-after evidence. || Answers vary.
+
+=== ART9.C1 2
+hook: Claude Monet painted the same haystacks over and over in 1890–1891, at sunrise, in snow, in fog, at sunset. One painting is a picture; a series is an investigation. Artists use series to explore an idea from many angles.
+sc: I can explain why artists work in series | I can plan a series of three related works | I can create variation while keeping the series connected
+v: series :: A group of related artworks that explore one idea.
+v: theme :: The central idea that connects a series.
+v: variation :: Changes from one work to the next.
+v: consistency :: Features kept the same across a series.
+v: investigation :: Exploring an idea in depth by trying different approaches.
+v: triptych :: A set of three related artworks shown together.
+ts: Three Ways of Seeing || Studio || How can a series explore one idea in depth?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Claude Monet's Haystacks series (1890–1891); Andy Warhol's repeated soup cans (1962); Lawren Harris's paintings of Lake Superior. Discuss what stays the same and what changes. ¶ 2. Choose a theme: an object, a place, a person, a feeling or an issue (for example, my street at three times of day; a shoe as old, new and imagined; climate in three seasons). ¶ 3. Decide consistency and variation: Keep 2–3 things the same (size, medium, subject or composition) and change 1–2 things (colour scheme, time of day, viewpoint, mood, style). ¶ 4. Thumbnails (15 minutes): Plan all three works on one page. ¶ 5. Create (two lessons): Make three works about 15 cm × 20 cm, mixed media allowed. Display them side by side as a triptych.
+src: Original activity written for this lesson; teachers show images from public museum sources.
+st: Study three artists' series | Choose a theme | Decide what stays the same and what changes | Plan three thumbnails | Create and display a series of three
+org: Work | What stays the same | What changes | Effect
+an: What does Monet's series show that one painting couldn't? | What connects your three works? | What changes, and what does that show? | Which work in your series is strongest?
+pr: Create a series of three related works and write a short statement explaining the theme, the consistency and the variation.
+ex: Monet || What changes in Monet's Haystacks? || Same subject || Light, season and time of day || What stays the same?
+ex: Warhol || Why repeat soup cans? || Mass production || To comment on mass-produced consumer culture || How is this different from Monet's purpose?
+ex: Consistency || Choose two consistent features for a series about a tree. || Keep the same || Same tree, same viewpoint || What could change?
+ex: Variation || Change one feature to show mood. || Colour || Warm colours for joyful, cool for lonely, grey for neutral || How would viewers read the set?
+p: B || What is a series? || A group of related artworks exploring one idea.
+p: B || What is a theme? || The central idea connecting a series.
+p: B || What is variation? || Changes from one work to the next.
+p: B || What is consistency? || Features kept the same across a series.
+p: B || What is a triptych? || Three related artworks shown together.
+p: I || When did Monet paint the Haystacks series? || 1890–1891.
+p: I || What did Warhol repeat in 1962? || Soup cans.
+p: I || What changes in Monet's Haystacks? || Light, season and time of day.
+p: I || How many works are in your series? || Three.
+p: I || How many features should stay the same? || Two or three.
+p: I || Name a Canadian painter of Lake Superior. || Lawren Harris.
+p: C || Why do artists work in series? || To explore an idea in depth from many angles.
+p: C || What happens if a series has no consistency? || It no longer looks connected.
+p: C || What happens if a series has no variation? || It becomes repetitive with nothing new to say.
+p: C || Explain your series theme. || Answers vary.
+mis: Thinking a series means copying the same picture | Changing everything so works don't connect | Thinking series are only for professional artists
+et: What connects your series? | What changes across it?
+mc: B || A series is || related works on one idea | one artwork | a frame | a tool || A
+mc: B || A theme is || the central idea | the frame | the price | the paper || A
+mc: B || Variation means || changes between works | sameness | the frame | signing || A
+mc: B || Consistency means || features kept the same | everything changes | no theme | random || A
+mc: B || A triptych is || three related works | one work | a sculpture | a print only || A
+mc: B || Monet painted || haystacks | soup cans | owls | robots || A
+mc: I || Monet's Haystacks date from || 1890–1891 | 1962 | 1937 | 2000 || A
+mc: I || Warhol repeated || soup cans | haystacks | lakes | owls || A
+mc: I || In Monet's series, what changes? || light and season | the subject | the medium | the size wildly || A
+mc: I || Lawren Harris painted || Lake Superior | Paris streets | soup cans | haystacks || A
+mc: C || Artists work in series to || explore ideas in depth | save paint | copy themselves | avoid planning || A
+mc: C || A series with no variation becomes || repetitive | unified and interesting | chaotic | colourful || A
+sa: B || Define series. || A group of related artworks that explore one idea.
+sa: B || What is a triptych? || Three related artworks shown together.
+sa: I || What changes in Monet's Haystacks? || Light, season and time of day.
+sa: I || Why did Warhol repeat soup cans? || To comment on mass-produced consumer culture.
+sa: I || Name two consistent features in your series. || Answers vary.
+sa: I || Name one variation in your series. || Answers vary.
+sa: C || Explain why artists work in series. || To explore an idea from many angles.
+sa: C || Write a statement about your series. || Answers vary.
+
+=== ART9.D1 0
+hook: You can recognize a Van Gogh from across a room by the swirling brushstrokes, or a Kenojuak Ashevak print by its bold, balanced shapes. That recognizable quality is style. After three years of art, you're starting to have one too.
+sc: I can identify my artistic strengths and preferences | I can name artists who influence me | I can describe my developing personal style
+v: personal style :: The recognizable way an artist makes their work.
+v: influence :: An artist or idea that affects your own work.
+v: strength :: A skill you do well.
+v: preference :: A choice you like to make, such as a favourite medium or subject.
+v: body of work :: A collection of an artist's works over time.
+v: self-assessment :: Judging your own work and progress.
+ts: What Makes It Mine? || Studio || What makes my art recognizably mine?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Compare two artworks by Vincent van Gogh (such as The Starry Night, 1889) and two by Kenojuak Ashevak. List what makes each artist recognizable: subjects, colours, lines, materials, mood. ¶ 2. Gather (15 minutes): Lay out at least eight of your artworks from Grades 7–9 (or photos of them). ¶ 3. Find patterns (15 minutes): What subjects do you return to? Which media do you choose? What colours? Do you prefer realism, abstraction or something in between? Which works are you proudest of and why? ¶ 4. Influences (10 minutes): Name two artists (from class, books, games, comics, animation or social media) whose work you admire. What have you borrowed from them? ¶ 5. Style statement (10 minutes): Write three sentences beginning: "My work often...", "I am influenced by...", "Next I want to try..."
+src: Original activity written for this lesson.
+st: Identify style in two artists' work | Gather eight of your artworks | Look for patterns in your own work | Name two influences | Write a style statement
+org: Pattern | Examples from my work | Why I think it happens
+an: What makes Van Gogh recognizable? | What patterns did you find in your own work? | Who influences you and how? | What do you want to try next?
+pr: Write a style statement and create a one-page "style map" showing your patterns, strengths and influences with small sketches.
+ex: Recognizing style || What makes Van Gogh's work recognizable? || Brushwork and colour || Thick swirling brushstrokes and intense colours || What about Kenojuak Ashevak?
+ex: Finding patterns || Five of your eight works use cool colours. What does that suggest? || Preference || You prefer cool colours, perhaps for calm moods || Is that part of your style?
+ex: Influence vs copying || How is being influenced different from copying? || Borrowing ideas || You adapt techniques into your own work rather than reproducing someone's piece || Give an example.
+ex: Strength || Improve "I'm good at drawing." || Be specific || "I'm strong at shading with value to show form" || Name another strength.
+p: B || What is personal style? || The recognizable way an artist makes work.
+p: B || What is an influence? || An artist or idea that affects your work.
+p: B || What is a preference? || A choice you like to make.
+p: B || What is a body of work? || A collection of an artist's works over time.
+p: B || What is self-assessment? || Judging your own work and progress.
+p: I || When did Van Gogh paint The Starry Night? || 1889.
+p: I || How many of your artworks should you gather? || At least eight.
+p: I || Name two things that create style. || Subjects and colours.
+p: I || What are the three style-statement sentence starters? || My work often..., I am influenced by..., Next I want to try...
+p: I || Can influences come from comics or games? || Yes.
+p: I || What makes Kenojuak Ashevak's prints recognizable? || Bold, balanced shapes and strong colour.
+p: C || Why does style develop slowly? || It grows through practice, experiments and influences over time.
+p: C || Why is it healthy to have influences? || Artists learn from others and build on what came before.
+p: C || How can a style change? || New experiences, media and ideas change your choices.
+p: C || Describe your developing style. || Answers vary.
+mis: Thinking style must be fixed forever | Thinking influences mean copying | Thinking you need to be a professional to have a style
+et: Name one pattern in your work. | Name one influence.
+mc: B || Personal style is || recognizable choices | one artwork | a price | a frame || A
+mc: B || An influence || affects your work | is copying | is a frame | is a medium || A
+mc: B || A preference is || a choice you like | a rule | a grade | a price || A
+mc: B || A body of work is || a collection over time | one sketch | a frame | a gallery || A
+mc: B || Self-assessment means || judging your own work | grading others | copying | framing || A
+mc: B || Van Gogh is known for || swirling brushstrokes | flat grey shapes | photographs | sculpture || A
+mc: I || The Starry Night dates from || 1889 | 1989 | 1789 | 1937 || A
+mc: I || Gather at least || eight artworks | one artwork | two artworks | fifty artworks || A
+mc: I || Being influenced means || adapting ideas | copying exactly | tracing | ignoring || A
+mc: I || A specific strength is || "shading with value" | "good at art" | "nice" | "okay" || A
+mc: C || Style develops through || practice and influences | luck only | one artwork | copying || A
+mc: C || Style can change because of || new experiences and media | nothing | rules | age only || A
+sa: B || Define personal style. || The recognizable way an artist makes their work.
+sa: B || What is an influence? || An artist or idea that affects your own work.
+sa: I || What makes Van Gogh recognizable? || Swirling brushstrokes and intense colour.
+sa: I || Name two patterns in your artwork. || Answers vary.
+sa: I || How is influence different from copying? || Influence adapts ideas; copying reproduces a work.
+sa: I || Name a specific artistic strength. || Answers vary.
+sa: C || Write your style statement. || Answers vary.
+sa: C || Explain how style develops. || Through practice, experiments and influences over time.
+
+=== ART9.D1 1
+hook: When you walk into a gallery, there's usually a small card beside each artwork or a statement on the wall. Those few sentences can change how you see the work. An artist statement is your chance to tell viewers what to look for.
+sc: I can explain the purpose of an artist statement | I can write a clear artist statement about my work | I can revise my statement for clarity
+v: artist statement :: A short text explaining an artist's ideas, process and intentions.
+v: intention :: What an artist meant to do or express.
+v: process :: How an artwork was made.
+v: first person :: Writing with "I" and "my."
+v: jargon :: Words that are too technical or vague for readers.
+v: revision :: Improving writing by changing ideas, words or structure.
+ts: In My Words || Studio || How do I explain my art clearly to others?
+tx: Artist statement guide (written for this lesson): ¶ Length: 100–150 words. Written in first person. ¶ Paragraph structure: ¶ 1. What: what the work (or body of work) is about, in one clear sentence. "My series explores how my street changes from morning to night." ¶ 2. How: materials and process, and why you chose them. "I combined watercolour with collage from local bus maps to show movement through the neighbourhood." ¶ 3. Why: what you hope viewers think or feel, or what you learned. "I want viewers to notice ordinary places they usually rush past." ¶ Avoid: "I just made it because I like it"; long lists of every step; vague words like "interesting" or "cool"; over-complicated jargon. ¶ Sample weak statement (written for this lesson): "This is my art. I used lots of stuff. It is about life and it's really cool." ¶ Revise it using the guide, then write your own for your strongest work or series.
+src: Original activity written for this lesson.
+st: Read the artist statement guide | Analyze a weak sample statement | Revise the sample with a partner | Draft your own statement | Peer-review and revise
+org: Part | My sentence | Is it specific?
+an: What makes the sample statement weak? | Which part of your statement was hardest to write? | Did your partner understand your intention? | How did revising improve your statement?
+pr: Write and revise a 100–150-word artist statement for your strongest work or series.
+ex: What sentence || Improve "It is about life." || Specific subject || "My portrait series explores how my grandmother's stories shaped my family" || Write your own.
+ex: How sentence || Improve "I used lots of stuff." || Name materials and why || "I layered ink over old family letters to connect past and present" || Why explain choices?
+ex: Why sentence || Improve "It's really cool." || Effect on viewers || "I hope viewers think about the stories in their own families" || Write your why sentence.
+ex: Jargon || Is "I juxtaposed liminal signifiers" clear? || Readers || No; use plain words viewers understand || Rewrite it plainly.
+p: B || What is an artist statement? || A short text explaining an artist's ideas and process.
+p: B || What is intention? || What an artist meant to express.
+p: B || What does first person mean? || Writing with "I" and "my."
+p: B || What is jargon? || Overly technical or vague words.
+p: B || What is revision? || Improving writing.
+p: I || How long should an artist statement be? || 100–150 words.
+p: I || What are the three parts of the statement? || What, how and why.
+p: I || Name a vague word to avoid. || "Interesting" or "cool."
+p: I || Why explain material choices? || They help viewers understand meaning.
+p: I || Who should read your draft? || A peer reviewer.
+p: I || What should the first sentence do? || Say clearly what the work is about.
+p: C || How can a statement change how viewers see art? || It points them to ideas and details they might miss.
+p: C || Why avoid listing every step? || It's boring and hides the main idea.
+p: C || Why should statements use plain language? || So all viewers can understand them.
+p: C || Write your "what" sentence. || Answers vary.
+mis: Thinking the statement should describe what the viewer can already see | Using fancy words to sound important | Writing about liking it instead of meaning
+et: Write your "what" sentence. | Name one thing you revised.
+mc: B || An artist statement explains || ideas and process | the price | the frame | the gallery hours || A
+mc: B || Intention is || what the artist meant | the medium | the size | the price || A
+mc: B || First person uses || I and my | he and she | they | you || A
+mc: B || Jargon is || overly technical or vague words | plain words | titles | prices || A
+mc: B || Revision means || improving writing | deleting all | copying | printing || A
+mc: B || A statement should be || 100–150 words | 1,000 words | 5 words | 10 pages || A
+mc: I || The three parts are || what, how, why | who, when, where | buy, sell, frame | none || A
+mc: I || "It's really cool" is || vague | specific | jargon | a how sentence || A
+mc: I || A strong how sentence names || materials and reasons | the price | the teacher | the date only || A
+mc: I || A strong what sentence || says what the work is about | lists steps | gives a price | describes the frame || A
+mc: C || Statements help viewers by || pointing out ideas they might miss | replacing the art | listing prices | confusing them || A
+mc: C || Plain language helps because || all viewers understand | it sounds smarter | it's longer | it's required || A
+sa: B || Define artist statement. || A short text explaining an artist's ideas, process and intentions.
+sa: B || What is jargon? || Words that are too technical or vague for readers.
+sa: I || List the three parts of an artist statement. || What, how, why.
+sa: I || Revise "I used lots of stuff." || Answers vary; must name materials and reasons.
+sa: I || Why avoid vague words? || They don't tell viewers anything specific.
+sa: I || How long is a statement? || 100–150 words.
+sa: C || Write your artist statement. || Answers vary.
+sa: C || Explain how a statement changes how viewers see art. || It guides them to the ideas and details that matter.
+
+=== ART9.D1 2
+hook: A gallery curator doesn't hang every painting an artist ever made. They choose, order and arrange works so the show tells a story. Today you curate your own work into a portfolio and exhibition that shows who you are as an artist.
+sc: I can select my strongest works for a portfolio | I can arrange works so they tell a story | I can present my portfolio and reflect on my growth
+v: portfolio :: A selected collection of an artist's best work.
+v: curate :: To select, organize and present artworks.
+v: curator :: A person who chooses and arranges works for an exhibition.
+v: exhibition :: A public display of artworks.
+v: label :: A small card with an artwork's title, medium, size and year.
+v: growth :: Improvement over time.
+ts: Curate Yourself || Studio || How do I choose and present work that shows who I am as an artist?
+tx: Portfolio guide (written for this lesson): ¶ 1. Select (15 minutes): From your Grades 7–9 work, choose 6 to 8 pieces. Include: your strongest work, a work that shows growth (an early piece beside a later one), a work showing a skill (perspective, portrait, printmaking), a series or mixed-media piece, and one that shows your personal style. ¶ 2. Order: Decide how to tell your story: by time (showing growth), by theme, or from strongest to most experimental. ¶ 3. Labels: Write a label for each work: Title, Medium, Size (cm), Year. ¶ 4. Statement: Attach your artist statement from last lesson. ¶ 5. Exhibition (one lesson): Display portfolios as a class exhibition. Visitors leave one comment card per portfolio. ¶ 6. Reflection (10 minutes): Write about how you've grown since Grade 7 and what you want to explore in high school art.
+src: Original activity written for this lesson.
+st: Select 6–8 works | Decide the order and story | Write a label for each work | Display with your artist statement | Visit others' portfolios and reflect on your growth
+org: Work | Why I chose it | Skill or idea it shows | Label written
+an: Why did you choose your strongest work? | What story does your order tell? | What feedback did visitors give? | How have you grown since Grade 7?
+pr: Present a curated portfolio of 6–8 labelled works with your artist statement, and write a one-paragraph reflection on your growth.
+ex: Selection || Should you include every artwork? || Curate || No; choose the strongest and most meaningful || Why include an early piece?
+ex: Showing growth || How can two works show growth? || Before and after || Place an early drawing beside a later one using the same skill || What should viewers notice?
+ex: Label || Write a label for a lino print. || Title, medium, size, year || "Northern Owl, linocut print, 15 × 20 cm, 2026" || What goes first?
+ex: Order || What story does arranging by time tell? || Chronological || How your skills and ideas developed || When might a theme order be better?
+p: B || What is a portfolio? || A selected collection of an artist's best work.
+p: B || What does curate mean? || To select, organize and present artworks.
+p: B || What is a curator? || A person who chooses and arranges works for an exhibition.
+p: B || What is an exhibition? || A public display of artworks.
+p: B || What goes on a label? || Title, medium, size and year.
+p: I || How many works should your portfolio include? || 6 to 8.
+p: I || Name three types of work to include. || Strongest work, growth example, series piece.
+p: I || Name three ways to order a portfolio. || By time, by theme or strongest to most experimental.
+p: I || What document is attached to the portfolio? || Your artist statement.
+p: I || What do visitors leave? || A comment card.
+p: I || Why include an early work? || To show growth.
+p: C || Why is choosing fewer, stronger works better? || Weaker pieces distract from your best work.
+p: C || How can a portfolio help in high school or beyond? || It shows skills for course placement, programs or jobs.
+p: C || How does the order of works affect viewers? || It guides the story they understand.
+p: C || Reflect on your growth since Grade 7. || Answers vary.
+mis: Thinking a portfolio should include everything | Thinking order doesn't matter | Leaving out early work that shows growth
+et: Name one work you chose and why. | How have you grown as an artist?
+mc: B || A portfolio is || a selected collection of best work | every artwork ever | one drawing | a frame || A
+mc: B || To curate is to || select and arrange | paint | carve | sell || A
+mc: B || A curator || arranges exhibitions | paints all works | sells tickets | frames only || A
+mc: B || An exhibition is || a public display | a sketchbook | a tool | a grade || A
+mc: B || A label includes || title, medium, size, year | price only | the teacher's name | nothing || A
+mc: B || The portfolio has || 6 to 8 works | 1 work | 50 works | no works || A
+mc: I || An early piece is included to show || growth | mistakes only | nothing | price || A
+mc: I || Ordering by time shows || development | colour | price | size || A
+mc: I || "Northern Owl, linocut print, 15 × 20 cm, 2026" is a || label | statement | brief | critique || A
+mc: I || Visitors leave || comment cards | grades | prices | nothing || A
+mc: C || Fewer, stronger works are better because || weak pieces distract | more is boring | it's cheaper | rules say so || A
+mc: C || A portfolio helps later by || showing skills | replacing school | listing prices | nothing || A
+sa: B || Define curate. || To select, organize and present artworks.
+sa: B || What goes on an artwork label? || Title, medium, size and year.
+sa: I || Name three kinds of work for your portfolio. || Strongest, growth example, series piece.
+sa: I || Name three ways to order a portfolio. || By time, theme, or strongest to experimental.
+sa: I || Write a label for one of your works. || Answers vary.
+sa: I || Why include an early work? || To show growth.
+sa: C || Explain why curators choose fewer, stronger works. || Weaker work distracts from the best.
+sa: C || Reflect on your growth since Grade 7. || Answers vary.
