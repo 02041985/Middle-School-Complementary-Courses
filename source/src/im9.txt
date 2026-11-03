@@ -1,0 +1,637 @@
+=== IM9.A1 1
+hook: Every band piece has that one run of fast notes that makes players nervous. Professionals don't just play it over and over at full speed; they take it apart, fix the exact problem and rebuild it.
+sc: I can find the exact problem in a technical passage | I can use rhythm variations and chunking to fix it | I can play a technical passage cleanly at a target tempo
+v: technical passage :: A fast or difficult run of notes.
+v: chunking :: Breaking a passage into small groups and practising each.
+v: rhythm variation :: Practising even notes in dotted or uneven patterns to strengthen finger control.
+v: backward chaining :: Practising the end first, then adding earlier notes one at a time.
+v: finger efficiency :: Keeping fingers close to keys or valves to move quickly.
+v: target tempo :: The speed you are working toward.
+ts: Taming Fast Passages || Performance || How do I fix a difficult technical passage?
+tx: Technical passage toolkit (written for this lesson): ¶ 1. Diagnose: play the passage once slowly. Circle the exact two or three notes where it breaks (often a hard finger change or register crossing). ¶ 2. Isolate the problem notes: play just the two notes back and forth 10 times smoothly. ¶ 3. Chunk: split the run into groups of 4 notes; play each group, pausing on the first note of the next group ("stop on the beat"). ¶ 4. Rhythm variations: play even sixteenths as long-short (dotted), then short-long. This trains each finger move. ¶ 5. Backward chaining: play the last group, then the last two groups, and so on to the beginning. ¶ 6. Tempo ladder: start at a tempo you can play 3 times perfectly; raise by 4 BPM; if you make a mistake, drop back 8. ¶ 7. Finger efficiency: watch in a mirror; keep fingers low and relaxed. ¶ Apply to one passage from the concert music; log start and end tempo.
+src: Original activity written for this lesson.
+st: Diagnose the exact problem notes | Isolate and repeat them | Chunk into groups of 4 | Use rhythm variations and backward chaining | Climb the tempo ladder
+org: Passage | Problem notes | Strategy used | Start tempo | End tempo
+an: Where exactly did the passage break? | Which strategy helped most? | How much did your tempo improve? | Why does slow, perfect practice work better than fast, messy practice?
+pr: Fix one technical passage from the concert music using at least three strategies, and log your tempo progress.
+ex: Diagnose || A run falls apart at notes 6–7. First step? || Isolate || Play notes 6 and 7 back and forth slowly and smoothly || Then?
+ex: Rhythm variation || How do you vary even sixteenths? || Uneven patterns || Play long-short, then short-long || Why does it help?
+ex: Backward chaining || Why start from the end? || Confidence || The ending gets the most practice and you always play into a known section || Try it.
+ex: Tempo ladder || You make a mistake at 96 BPM. Next? || Drop back || Go back to 88 BPM and rebuild || Why drop 8?
+p: B || What is a technical passage? || A fast or difficult run of notes.
+p: B || What is chunking? || Breaking a passage into small groups.
+p: B || What is a rhythm variation? || Practising even notes in uneven patterns.
+p: B || What is backward chaining? || Practising the end first, adding earlier notes.
+p: B || What is finger efficiency? || Keeping fingers close to keys.
+p: I || What is the first step in fixing a passage? || Diagnose the exact problem notes.
+p: I || How many notes per chunk? || 4.
+p: I || What does "stop on the beat" mean? || Pause on the first note of the next group.
+p: I || How much do you raise the tempo? || 4 BPM.
+p: I || How much do you drop after a mistake? || 8 BPM.
+p: I || How can you check finger efficiency? || Watch in a mirror.
+p: C || Why do rhythm variations improve even playing? || Each finger move is practised at fast and slow speeds.
+p: C || Why is fast, messy practice harmful? || It trains mistakes into muscle memory.
+p: C || Why fix only the problem notes first? || It's efficient and targets the real issue.
+p: C || Log your passage progress. || Answers vary.
+mis: Playing the whole passage fast repeatedly | Practising only the easy parts | Raising tempo after one good try
+et: Name three strategies for technical passages. | What is backward chaining?
+mc: B || A technical passage is || fast or difficult | a rest | a slow note | a title || A
+mc: B || Chunking breaks a passage into || small groups | one note | silence | a new key || A
+mc: B || Rhythm variations use || uneven patterns | silence | louder notes | new keys || A
+mc: B || Backward chaining starts || at the end | at the start | in the middle | nowhere || A
+mc: B || Finger efficiency keeps fingers || close to keys | far from keys | stiff | off the instrument || A
+mc: B || The first step is to || diagnose problem notes | play fast | skip it | perform || A
+mc: I || Chunks are groups of || 4 | 40 | 1 | 100 || A
+mc: I || Raise tempo by || 4 BPM | 40 BPM | 1 BPM | 100 BPM || A
+mc: I || After a mistake drop back || 8 BPM | 0 BPM | 50 BPM | to stop || A
+mc: I || Check finger efficiency with || a mirror | a tuner | a metronome only | a drum || A
+mc: C || Fast messy practice trains || mistakes | accuracy | tone | rhythm || A
+mc: C || Rhythm variations practise each move || at different speeds | louder | never | silently || A
+sa: B || Define chunking. || Breaking a passage into small groups and practising each.
+sa: B || What is backward chaining? || Practising the end first, then adding earlier notes.
+sa: I || Describe the tempo ladder. || Start where it's perfect, raise 4 BPM, drop 8 after mistakes.
+sa: I || How do you vary even sixteenths? || Long-short, then short-long.
+sa: I || What do you do first with a hard passage? || Find the exact problem notes.
+sa: I || How do you improve finger efficiency? || Keep fingers low; check in a mirror.
+sa: C || Explain why slow, perfect practice works. || It builds correct muscle memory.
+sa: C || Log your passage progress. || Answers vary.
+
+=== IM9.A1 2
+hook: Two students practise for 30 minutes. One improves hugely; the other barely changes. The difference isn't talent: it's how they practise. Deliberate practice with goals and feedback is what moves players forward.
+sc: I can plan a structured practice session with goals | I can use tools like a metronome, tuner and recording to get feedback | I can reflect on practice and adjust my plan
+v: deliberate practice :: Focused practice on specific weaknesses with clear goals and feedback.
+v: practice goal :: A specific, measurable target for a session.
+v: warm-up :: Exercises that prepare the body and instrument to play.
+v: recording yourself :: Listening back to your playing to hear what you can't while playing.
+v: spaced practice :: Practising in shorter sessions spread across days.
+v: practice journal :: A log of goals, work done and results.
+ts: Practise Smarter || Performance || How do I make my practice time count?
+tx: The 30-minute practice plan (written for this lesson): ¶ 1. Warm-up (5 minutes): long tones with tuner; lip slurs or register exercises. ¶ 2. Technique (8 minutes): scales or chromatic scale with metronome; one articulation pattern. ¶ 3. Repertoire focus (12 minutes): one or two tricky spots using the technical toolkit; set a measurable goal ("Bars 33–36 at 100 BPM, 3 times clean"). ¶ 4. Run-through (3 minutes): play a whole section without stopping, as in performance. ¶ 5. Reflect (2 minutes): write what improved and the goal for tomorrow. ¶ Feedback tools: metronome (tempo), tuner (pitch), phone recording (tone, rhythm, dynamics; listen back with the music). ¶ Science of practice: spreading practice across several days (spaced practice) generally works better than one long cram session. Short breaks help focus. ¶ Activity: plan a week of practice in your journal, record yourself on day 1 and day 5, and compare.
+src: Original activity written for this lesson.
+st: Learn the five-part practice plan | Write measurable goals | Use metronome, tuner and recording for feedback | Plan a week of spaced practice | Compare day 1 and day 5 recordings
+org: Day | Goal | Tools used | Result | Next goal
+an: How did your day 1 and day 5 recordings compare? | Which feedback tool showed the most? | Were your goals measurable? | How will you change your practice plan?
+pr: Complete a week-long practice journal with daily measurable goals and compare two recordings of the same passage.
+ex: Vague vs measurable || Make "practise the hard part" measurable. || Bars, tempo, repetitions || "Bars 33–36 at 100 BPM, 3 times clean" || Write another.
+ex: Recording || What can a recording show that you miss while playing? || Listening back || Uneven rhythm, tone, intonation and dynamics || How do you use it?
+ex: Spaced practice || 2 hours on Sunday or 20 minutes a day for 6 days? || Spread out || 20 minutes a day usually works better || Why?
+ex: Run-through || Why include a run-through without stopping? || Performance || It builds endurance and recovery from mistakes || When do you do it?
+p: B || What is deliberate practice? || Focused practice with goals and feedback.
+p: B || What is a practice goal? || A specific, measurable target.
+p: B || What is a warm-up? || Exercises preparing body and instrument.
+p: B || What is spaced practice? || Shorter sessions spread over days.
+p: B || What is a practice journal? || A log of goals and results.
+p: I || How long is the warm-up? || 5 minutes.
+p: I || How long is repertoire focus? || 12 minutes.
+p: I || Name three feedback tools. || Metronome, tuner, recording.
+p: I || What does a tuner give feedback on? || Pitch.
+p: I || When should you record yourself to compare? || Day 1 and day 5.
+p: I || What is the final step of a session? || Reflect and set tomorrow's goal.
+p: C || Why does spaced practice work better than cramming? || The brain consolidates skills between sessions.
+p: C || Why are measurable goals better than vague ones? || You know when you've succeeded.
+p: C || Why do players avoid practising weaknesses? || Playing what you already know feels better.
+p: C || Compare your two recordings. || Answers vary.
+mis: Thinking more time always means more progress | Only playing favourite parts | Never listening back to yourself
+et: Write one measurable goal. | Name two feedback tools.
+mc: B || Deliberate practice is || focused with goals | random | only fun parts | none || A
+mc: B || A practice goal should be || measurable | vague | secret | impossible || A
+mc: B || A warm-up prepares || body and instrument | the audience | the stand | the hall || A
+mc: B || Spaced practice is || spread over days | one long session | none | random || A
+mc: B || A practice journal logs || goals and results | concerts | lyrics | snacks || A
+mc: B || A tuner checks || pitch | tempo | dynamics | lyrics || A
+mc: I || The warm-up lasts || 5 minutes | 30 minutes | 1 minute | an hour || A
+mc: I || Repertoire focus lasts || 12 minutes | 2 minutes | 60 minutes | none || A
+mc: I || Record yourself on || day 1 and day 5 | never | concert day only | day 100 || A
+mc: I || A measurable goal names || bars, tempo and repetitions | nothing | feelings | the composer || A
+mc: C || Spaced practice helps because || the brain consolidates | it's shorter | it's easier | no reason || A
+mc: C || Players avoid weaknesses because || known parts feel better | weaknesses are easy | rules | time || A
+sa: B || Define deliberate practice. || Focused practice on weaknesses with goals and feedback.
+sa: B || What is spaced practice? || Practising in shorter sessions across days.
+sa: I || List the five parts of the practice plan. || Warm-up, technique, repertoire, run-through, reflect.
+sa: I || Make a vague goal measurable. || Name bars, tempo and repetitions.
+sa: I || What does recording reveal? || Rhythm, tone, intonation, dynamics.
+sa: I || Name three feedback tools. || Metronome, tuner, recording.
+sa: C || Explain why spaced practice works. || The brain consolidates skills between sessions.
+sa: C || Compare your two recordings. || Answers vary.
+
+=== IM9.B1 0
+hook: Advanced band music has signs that send you back, forward and around: D.S. al Coda, first and second endings, key changes in the middle. Miss one and you're playing a different part of the piece from everyone else.
+sc: I can follow a road map of repeats, endings, D.C., D.S. and coda | I can spot key and time signature changes before playing | I can use a full sight-reading checklist
+v: road map :: The order you play sections in, following repeats and signs.
+v: D.C. al Fine :: Go back to the beginning and play to "Fine" (the end).
+v: D.S. al Coda :: Go back to the sign (𝄋), play to "To Coda," then jump to the coda (𝄌).
+v: first and second endings :: Bracketed endings: play the first ending the first time and skip to the second ending on the repeat.
+v: coda :: A closing section.
+v: meter change :: A new time signature in the middle of a piece.
+ts: Reading the Road Map || Performance || How do I navigate complex music on the first read?
+tx: Advanced sight-reading checklist (written for this lesson): ¶ 1. Title, composer, style marking: what character is the music? ¶ 2. Key signature and any key changes later (look for double bar lines with new sharps or flats). ¶ 3. Time signature and any meter changes. ¶ 4. Tempo and tempo changes (rit., accel., a tempo). ¶ 5. Road map: trace with your finger: repeats, first and second endings, D.C., D.S., Fine, To Coda, Coda. ¶ 6. Rhythms: find the hardest bars and count them. ¶ 7. Dynamics and articulations: note the biggest changes. ¶ 8. Accidentals. ¶ Road map practice: a teacher-made one-page piece: A section with repeat and 1st/2nd endings; B section; D.S. al Coda; coda. Trace the order and write it as letters: e.g. A(1st) A(2nd) B A-to-coda Coda. Then sight-read it in pairs.
+src: Original activity written for this lesson; signs follow standard notation.
+st: Learn D.C., D.S., coda and endings | Use the eight-step checklist | Trace a road map with your finger | Write the road map as letters | Sight-read the practice piece
+org: Sign | Symbol | What to do
+an: Which sign did you nearly miss? | How did tracing the road map help? | Did you spot the key change before playing? | How did your pair do on the sight-read?
+pr: Trace and write the road map of a one-page piece, then sight-read it accurately with a partner.
+ex: D.S. al Coda || What do you do at D.S. al Coda? || Sign and coda || Go back to the 𝄋, play to "To Coda," jump to the 𝄌 || What's the difference from D.C.?
+ex: Endings || How do first and second endings work? || Brackets || First time play ending 1; on the repeat skip to ending 2 || What if there's a third ending?
+ex: D.C. al Fine || What does D.C. al Fine mean? || Beginning to end word || Go back to the start and stop at Fine || Where is Fine written?
+ex: Key change || How do you spot a key change? || Double bar || A double bar line followed by a new key signature || When do you check?
+p: B || What is a road map? || The order of sections to play.
+p: B || What does D.C. al Fine mean? || Back to the start, end at Fine.
+p: B || What does D.S. al Coda mean? || Back to the sign, then jump to the coda.
+p: B || What is a coda? || A closing section.
+p: B || What is a meter change? || A new time signature mid-piece.
+p: I || What does D.C. stand for? || Da capo, "from the head."
+p: I || What does D.S. stand for? || Dal segno, "from the sign."
+p: I || How do first and second endings work? || Play ending 1 first, then skip to ending 2 on the repeat.
+p: I || How many steps are in the checklist? || 8.
+p: I || How do you trace a road map? || With your finger.
+p: I || How is a key change shown? || A double bar line and new key signature.
+p: C || Why write the road map as letters? || It makes the order clear before playing.
+p: C || Why check for key and meter changes before playing? || They come mid-piece and are easy to miss.
+p: C || Why does the character of a piece matter in sight-reading? || It guides articulation and style choices.
+p: C || Write the road map of the practice piece. || Answers vary.
+mis: Playing straight through ignoring signs | Repeating the first ending | Missing mid-piece key changes
+et: What does D.S. al Coda mean? | How do first and second endings work?
+mc: B || A road map is || the order to play | a key | a tempo | a rhythm || A
+mc: B || D.C. al Fine means || back to start, end at Fine | to the coda | repeat twice | stop now || A
+mc: B || D.S. means || from the sign | from the start | the end | a rest || A
+mc: B || A coda is || a closing section | an opening | a key | a rest || A
+mc: B || A meter change is || a new time signature | a new key | a new tempo | a rest || A
+mc: B || D.C. means || from the head | from the sign | to the end | the coda || A
+mc: I || On the repeat, skip to || the second ending | the first ending | the start | the coda || A
+mc: I || A key change is shown by || a double bar and new signature | a dot | a fermata | an accent || A
+mc: I || The checklist has || 8 steps | 2 steps | 20 steps | 1 step || A
+mc: I || Trace a road map with || your finger | a tuner | a mallet | nothing || A
+mc: C || Writing the road map as letters || clarifies order | wastes time | changes the piece | is wrong || A
+mc: C || Key changes are easy to miss because || they come mid-piece | they're loud | they're first | they're rare || A
+sa: B || Define D.S. al Coda. || Go back to the sign, play to "To Coda," then jump to the coda.
+sa: B || What is a coda? || A closing section.
+sa: I || Explain first and second endings. || Play ending 1 first; on the repeat skip to ending 2.
+sa: I || List the eight checklist steps. || Title and style, key, time, tempo, road map, rhythms, dynamics and articulation, accidentals.
+sa: I || What do D.C. and D.S. stand for? || Da capo; dal segno.
+sa: I || How is a key change shown? || A double bar and new key signature.
+sa: C || Explain why you trace the road map. || To know the order before playing.
+sa: C || Write the practice piece's road map. || Answers vary.
+
+=== IM9.B1 1
+hook: Sixteenth notes, triplets, 6/8 and cut time: these rhythms show up in grade-level band music and can make sight-reading feel impossible. With the right counting system, they become patterns you recognize instantly.
+sc: I can count sixteenth-note patterns with "1 e & a" | I can count triplets and compound metre | I can read cut time
+v: sixteenth note :: A quarter of a beat in 4/4, counted "1 e & a."
+v: triplet :: Three equal notes in the space of two, counted "1 trip let."
+v: compound metre :: A metre where each beat divides into three, such as 6/8.
+v: 6/8 :: Six eighth notes per bar, felt in two beats of three.
+v: cut time (𝄵) :: 2/2: two half-note beats per bar.
+v: pattern recognition :: Recognizing common rhythm shapes at a glance.
+ts: Complex Rhythms Decoded || Performance || How do I count complex rhythms quickly?
+tx: Counting systems (written for this lesson): ¶ Sixteenths in 4/4: "1 e & a 2 e & a." Common patterns in one beat: four sixteenths (1 e & a); eighth + two sixteenths (1 & a); two sixteenths + eighth (1 e &); dotted eighth + sixteenth (1 a). ¶ Triplets: three eighth notes in one quarter-note beat: "1 trip let, 2 trip let." ¶ 6/8: six eighths grouped 3 + 3; count "1 2 3 4 5 6" slowly or feel 2 big beats ("1 la li 2 la li") at faster tempos. Dotted quarter = one big beat. ¶ Cut time: same notes as 4/4 but the half note gets the beat; count "1 & 2 &" where each count is a quarter note. Marches are often in cut time. ¶ Activities: 1. Flash cards: name and clap rhythm patterns on sight. 2. Clap a sixteenth-note line with the metronome on quarters. 3. Play triplets against a duple beat. 4. Read the same melody in 6/8 at slow (6 beats) and fast (2 beats) tempos. 5. Play a march excerpt in cut time.
+src: Original activity written for this lesson.
+st: Learn "1 e & a" for sixteenths | Learn triplet counting | Feel 6/8 in six and in two | Read cut time | Recognize patterns from flash cards
+org: Pattern | Count | Where it appears
+an: Which sixteenth pattern was hardest? | How does 6/8 feel different from 3/4? | Why are marches written in cut time? | How did flash cards help you read faster?
+pr: Clap and play a line with sixteenth patterns, triplets and a 6/8 section accurately with a metronome.
+ex: Sixteenths || Count eighth + two sixteenths in beat 1. || 1 e & a grid || 1 & a || What about two sixteenths + eighth?
+ex: Dotted eighth || How is dotted eighth + sixteenth counted? || 3 parts + 1 || 1 (e &) a || Where does it appear?
+ex: 6/8 in two || How do you feel fast 6/8? || Big beats || Two beats per bar, each a dotted quarter || What does each beat divide into?
+ex: Cut time || In cut time, what gets the beat? || 2/2 || The half note || How many beats per bar?
+p: B || How is a sixteenth note counted? || 1 e & a.
+p: B || What is a triplet? || Three equal notes in the space of two.
+p: B || What is compound metre? || Beats divided into three.
+p: B || What does 6/8 mean? || Six eighths per bar felt in two.
+p: B || What is cut time? || 2/2, two half-note beats per bar.
+p: I || Count eighth + two sixteenths. || 1 & a.
+p: I || Count two sixteenths + eighth. || 1 e &.
+p: I || Count dotted eighth + sixteenth. || 1 a.
+p: I || Count triplets on one beat. || 1 trip let.
+p: I || How is 6/8 grouped? || 3 + 3.
+p: I || What note gets the beat in cut time? || The half note.
+p: C || Why feel fast 6/8 in two? || Counting six is too fast; two big beats are steadier.
+p: C || Why are marches often in cut time? || They have a strong two-beat feel for marching.
+p: C || How does pattern recognition speed up reading? || You read whole shapes instead of single notes.
+p: C || Write and count a sixteenth-note bar. || Answers vary.
+mis: Confusing 6/8 with 3/4 | Rushing triplets into sixteenths | Counting cut time in four at fast tempos
+et: Count four sixteenths. | How many beats in cut time?
+mc: B || Sixteenths count || 1 e & a | 1 & | 1 trip let | 1 2 || A
+mc: B || A triplet is || three in the space of two | two in three | four in one | one note || A
+mc: B || Compound metre divides beats into || three | two | four | none || A
+mc: B || 6/8 has || six eighths per bar | six quarters | three halves | eight sixes || A
+mc: B || Cut time is || 2/2 | 4/4 | 3/4 | 6/8 || A
+mc: B || Triplets count || 1 trip let | 1 e & a | 1 & | 1 2 3 4 || A
+mc: I || Eighth + two sixteenths counts || 1 & a | 1 e & | 1 a | 1 e || A
+mc: I || Dotted eighth + sixteenth counts || 1 a | 1 & | 1 e & | 1 trip || A
+mc: I || 6/8 groups as || 3 + 3 | 2 + 2 + 2 | 4 + 2 | 6 || A
+mc: I || Cut time beat is || the half note | the quarter | the eighth | the whole || A
+mc: C || Fast 6/8 is felt in || two | six | three | four || A
+mc: C || Marches use cut time for || a strong two-beat feel | slowness | silence | waltzing || A
+sa: B || How is a sixteenth note counted? || 1 e & a.
+sa: B || What is cut time? || 2/2: two half-note beats per bar.
+sa: I || Count four common sixteenth patterns. || 1 e & a; 1 & a; 1 e &; 1 a.
+sa: I || How is 6/8 felt at fast tempos? || In two dotted-quarter beats.
+sa: I || Count triplets on two beats. || 1 trip let 2 trip let.
+sa: I || Why are marches in cut time? || For a strong two-beat feel.
+sa: C || Explain how pattern recognition helps. || You read shapes, not single notes.
+sa: C || Write and count a sixteenth-note bar. || Answers vary.
+
+=== IM9.B1 2
+hook: Sight-reading alone is one challenge; sight-reading with a whole band means keeping going while 40 other people are doing the same. It's a key skill for festivals, auditions and honour bands.
+sc: I can sight-read as part of an ensemble | I can recover and rejoin after a mistake | I can use the study time before sight-reading well
+v: study time :: The time given before sight-reading to look at the music.
+v: recovery :: Finding your place and rejoining after a mistake.
+v: landmark :: An easy spot to find, such as a rehearsal letter or a long note.
+v: festival adjudication :: When judges assess a band's performance and sight-reading.
+v: silent fingering :: Fingering notes without playing to prepare.
+v: ensemble awareness :: Listening to others to stay together.
+ts: Reading Together || Performance || How does a band sight-read successfully?
+tx: Ensemble sight-reading routine (written for this lesson; modelled on common festival sight-reading formats): ¶ Study time (e.g. 5 minutes): the director talks through key, time, tempo, road map and tricky spots. Players: finger silently, count hard rhythms under breath, and mark nothing unless the rules allow pencils. ¶ Landmarks: note rehearsal letters, long notes and places where your section plays alone. If you get lost, aim for the next landmark. ¶ Recovery rule: if lost, stop playing, follow the music with your eyes, listen for the melody or a landmark, and rejoin on a strong beat. Never stop the band by yourself. ¶ Ensemble awareness: watch the conductor at tempo changes and listen for the melody. ¶ Practice: the band sight-reads two short pieces in festival format. After each, students rate: Did we keep going? Were key and rhythm correct? Where did people get lost? ¶ Reflection: name your landmarks and how you recovered.
+src: Original activity written for this lesson.
+st: Use study time well | Finger silently and count hard rhythms | Mark landmarks | Use the recovery rule | Reflect on the ensemble sight-read
+org: Piece | Landmarks | Where I got lost | How I recovered
+an: How did you use study time? | Where did you get lost and how did you rejoin? | Did the band keep going? | What will you do differently next time?
+pr: Sight-read with the band in festival format and write a reflection on your landmarks and recovery.
+ex: Lost || You lose your place in bar 12. What next? || Recovery rule || Stop, follow with eyes, listen for a landmark, rejoin on a strong beat || What landmark might help?
+ex: Study time || What do you do during study time? || Prepare || Finger silently and count hard rhythms || What does the director do?
+ex: Landmark || Name a good landmark. || Easy to find || A rehearsal letter or a long note || Why use it?
+ex: Never stop || Why not stop the band? || Ensemble || Everyone else is still reading; you rejoin instead || Who can stop the band?
+p: B || What is study time? || Time to look at music before sight-reading.
+p: B || What is recovery? || Rejoining after a mistake.
+p: B || What is a landmark? || An easy spot to find in the music.
+p: B || What is silent fingering? || Fingering without playing.
+p: B || What is ensemble awareness? || Listening to others to stay together.
+p: I || How long might study time be? || About 5 minutes.
+p: I || What do players do during study time? || Finger silently and count hard rhythms.
+p: I || Name two landmarks. || Rehearsal letters and long notes.
+p: I || What is the first step of recovery? || Stop playing and follow with your eyes.
+p: I || When do you rejoin? || On a strong beat.
+p: I || Who can stop the band? || Only the conductor.
+p: C || Why aim for the next landmark when lost? || It's easy to find and gets you back in.
+p: C || Why listen for the melody when lost? || It helps you hear where the band is.
+p: C || Why is sight-reading part of festivals? || It shows real reading skill, not just rehearsed pieces.
+p: C || Write your sight-reading reflection. || Answers vary.
+mis: Stopping the band when lost | Wasting study time | Guessing instead of finding a landmark
+et: What do you do when lost? | Name a landmark.
+mc: B || Study time is || before sight-reading | after | during | never || A
+mc: B || Recovery means || rejoining after a mistake | stopping forever | starting over | leaving || A
+mc: B || A landmark is || an easy spot to find | a hard bar | a rest only | the title || A
+mc: B || Silent fingering is || fingering without playing | playing loud | singing | resting || A
+mc: B || Ensemble awareness means || listening to others | ignoring others | playing solo | stopping || A
+mc: B || Only this person stops the band || the conductor | any player | the audience | the judge || A
+mc: I || During study time, players || finger silently | play loudly | talk | leave || A
+mc: I || A good landmark is || a rehearsal letter | a random note | a sixteenth | a rest in a tutti || A
+mc: I || Rejoin on || a strong beat | any off-beat | the last note | never || A
+mc: I || Study time might be || 5 minutes | 5 hours | 5 seconds | none || A
+mc: C || Listening for melody when lost || shows where the band is | wastes time | confuses | stops you || A
+mc: C || Festivals include sight-reading to show || real reading skill | memorization | volume | costumes || A
+sa: B || Define recovery. || Finding your place and rejoining after a mistake.
+sa: B || What is a landmark? || An easy spot to find, like a rehearsal letter.
+sa: I || Describe the recovery rule. || Stop, follow with eyes, listen, rejoin on a strong beat.
+sa: I || What do you do during study time? || Finger silently and count hard rhythms.
+sa: I || Who can stop the band? || Only the conductor.
+sa: I || Name two landmarks. || Rehearsal letters, long notes.
+sa: C || Explain why sight-reading is part of festivals. || It shows real reading skill.
+sa: C || Write your reflection. || Answers vary.
+
+=== IM9.C1 0
+hook: In a small ensemble there's no conductor to save you. Three to eight players must count, cue and listen for themselves. It's the best way to become an independent, confident musician.
+sc: I can rehearse a small-ensemble piece without a conductor | I can follow a rehearsal plan with my group | I can play my part independently while others play different parts
+v: chamber ensemble :: A small group with one player per part, such as a quartet.
+v: quartet :: A group of four players.
+v: independence :: Holding your own part while others play different parts.
+v: rehearsal plan :: A list of goals and sections for each rehearsal.
+v: score :: Music showing all the parts together.
+v: count-off :: Counting aloud or with gestures to start together.
+ts: No Conductor Needed || Performance || How do small groups rehearse on their own?
+tx: Small-ensemble rehearsal guide (written for this lesson): ¶ Groups: duets, trios, quartets or quintets (e.g. brass quintet: 2 trumpets, horn, trombone, tuba; woodwind quintet: flute, oboe, clarinet, horn, bassoon; mixed groups and percussion ensembles also work). ¶ Rehearsal plan (write before you start): 1. Tune together (2 minutes). 2. Warm up with a unison scale (3 minutes). 3. Run the piece once without stopping to find problems (4 minutes). 4. Fix two problem spots (15 minutes): name the bar, the problem and the fix. 5. Run again (4 minutes). 6. Set goals for next rehearsal (2 minutes). ¶ Starting together: one player gives a silent count-off or breath cue with the instrument (one bar of tempo). ¶ Independence: each player must count their own rests; use the score to see how parts fit. If you get lost, listen for the melody. ¶ Respectful rehearsals: comments are about the music ("bar 12 rhythm doesn't line up"), not the person; everyone suggests fixes.
+src: Original activity written for this lesson.
+st: Form a small group and choose a piece | Write a rehearsal plan | Tune and warm up together | Run, fix two spots and run again | Set goals for next time
+org: Bar | Problem | Fix | Fixed?
+an: How did you start together without a conductor? | Which problem spot took longest? | How did the score help? | How did your group give feedback respectfully?
+pr: Lead a small-group rehearsal using a written plan, fixing two problem spots, and report the results.
+ex: Count-off || How do you start without a conductor? || One player leads || A silent count-off or breath cue with the instrument || Who should give it?
+ex: Lost || You're lost in your rests. What helps? || Score || Look at the score to see who plays before your entrance || What else?
+ex: Feedback || Rewrite "You're always late." || About the music || "In bar 12, the second note seems late; can we try it slower?" || Why does this help?
+ex: Rehearsal plan || Why write a plan? || Focus || It keeps time on the most important problems || What's in it?
+p: B || What is a chamber ensemble? || A small group with one player per part.
+p: B || What is a quartet? || A group of four.
+p: B || What is independence? || Holding your own part.
+p: B || What is a rehearsal plan? || Goals and sections for a rehearsal.
+p: B || What is a score? || Music showing all parts.
+p: I || Name the instruments of a brass quintet. || 2 trumpets, horn, trombone, tuba.
+p: I || Name the instruments of a woodwind quintet. || Flute, oboe, clarinet, horn, bassoon.
+p: I || How do you start together? || A silent count-off or breath cue.
+p: I || How many problem spots do you fix? || Two.
+p: I || What do you do first in rehearsal? || Tune together.
+p: I || How should feedback be phrased? || About the music, not the person.
+p: C || Why do small ensembles build independence? || There's no conductor; each player must count and listen.
+p: C || Why run once before fixing? || To find the real problems.
+p: C || Why is respectful feedback important? || It keeps everyone motivated and focused on music.
+p: C || Report your rehearsal results. || Answers vary.
+mis: Playing through without fixing anything | Waiting for someone else to lead | Personal criticism instead of musical comments
+et: How do you start without a conductor? | Name one part of a rehearsal plan.
+mc: B || A chamber ensemble has || one player per part | 50 players | no parts | a conductor always || A
+mc: B || A quartet has || four players | three | five | two || A
+mc: B || Independence means || holding your own part | copying others | stopping | soloing || A
+mc: B || A rehearsal plan lists || goals and sections | concert dates | snacks | grades || A
+mc: B || A score shows || all parts | one part | lyrics | tickets || A
+mc: B || A woodwind quintet includes || horn | tuba | drums | piano || A
+mc: I || A brass quintet has || 2 trumpets, horn, trombone, tuba | 5 trumpets | flutes | strings || A
+mc: I || Start together with || a silent count-off | guessing | a shout | nothing || A
+mc: I || Fix how many spots? || Two | Twenty | None | One hundred || A
+mc: I || First in rehearsal || tune together | perform | leave | snack || A
+mc: C || Running once first helps || find real problems | waste time | finish early | skip work || A
+mc: C || Feedback should be about || the music | the person | clothing | grades || A
+sa: B || Define chamber ensemble. || A small group with one player per part.
+sa: B || What is independence? || Holding your own part while others play different parts.
+sa: I || List the rehearsal plan steps. || Tune, warm up, run, fix two spots, run, set goals.
+sa: I || How do you start without a conductor? || A silent count-off or breath cue.
+sa: I || How does the score help? || It shows how parts fit and cues entrances.
+sa: I || Rewrite a personal comment as musical feedback. || Answers vary.
+sa: C || Explain why small ensembles build independence. || Each player counts and listens alone.
+sa: C || Report your rehearsal. || Answers vary.
+
+=== IM9.C1 1
+hook: Watch a string quartet and you'll see tiny head nods, raised eyebrows and breaths that start and stop the music. Leading and following without words is a skill every ensemble musician needs.
+sc: I can give clear visual cues for starts, releases and tempo | I can follow cues from other players | I can decide who leads each section of a piece
+v: cue :: A gesture that signals an entrance, release or change.
+v: lead :: Giving the signals others follow.
+v: follow :: Watching and responding to another player's cues.
+v: eye contact :: Looking at other players to stay connected.
+v: breath cue :: A visible breath that signals the start.
+v: handoff :: Passing the lead from one player to another.
+ts: Lead and Follow || Performance || How do small ensembles communicate without words?
+tx: Cueing guide (written for this lesson): ¶ Start cue: the leader lifts the instrument slightly on the upbeat, breathes in tempo, and moves down on beat 1. Everyone breathes with the leader. ¶ Release cue: a small circle or lift of the bell or head on the final note, ending with a clear stop. ¶ Tempo change: the leader shows a slower or faster motion with the instrument; others watch. ¶ Fermatas: the leader holds and shows the release. ¶ Who leads? Usually the player with the melody or the most rhythmic part leads that section; the lead can pass ("handoff") during the piece. Mark "L" in your part where you lead. ¶ Activities: 1. Silent starts: groups start and stop a single chord using only breath cues. 2. Tempo game: the leader varies tempo in a scale; followers match. 3. Handoffs: decide who leads each section of your piece and mark it. 4. Eyes up: memorize the first bar so you can look at the leader on the start.
+src: Original activity written for this lesson.
+st: Practise start cues with breath | Practise release cues | Follow a leader's tempo changes | Plan handoffs and mark "L" in parts | Memorize the first bar for eye contact
+org: Section | Leader | Cue type | Notes
+an: Which cue was hardest to make clear? | How did following feel compared with leading? | Who led each section and why? | Did memorizing the first bar help eye contact?
+pr: Perform your small-ensemble piece with planned leaders and cues, starting, changing tempo and releasing together without a conductor.
+ex: Start cue || How does a leader give a start? || Upbeat and breath || Lift on the upbeat, breathe in tempo, move down on beat 1 || What do others do?
+ex: Release || How do you end a final note together? || Visible cue || The leader makes a small circle and a clear stop || When?
+ex: Who leads || The horn has the melody in section B. Who leads? || Melody || The horn || How do you show this?
+ex: Eye contact || How can you look up at the start? || Memorize || Memorize the first bar || Why does it matter?
+p: B || What is a cue? || A gesture signalling an entrance or change.
+p: B || What does lead mean? || Giving signals others follow.
+p: B || What does follow mean? || Responding to another's cues.
+p: B || What is a breath cue? || A visible breath signalling a start.
+p: B || What is a handoff? || Passing the lead.
+p: I || When does the leader breathe? || On the upbeat, in tempo.
+p: I || How is a release shown? || A small circle and a clear stop.
+p: I || Who usually leads a section? || The melody or most rhythmic player.
+p: I || How do you mark where you lead? || Write "L."
+p: I || Why memorize the first bar? || To keep eye contact at the start.
+p: I || How does a leader show slowing down? || Slower instrument motion.
+p: C || Why must the breath cue be in tempo? || It shows the speed of the music.
+p: C || Why pass the lead during a piece? || The most important part changes.
+p: C || How does following make you a better leader? || You learn what clear cues look like.
+p: C || Describe your group's cue plan. || Answers vary.
+mis: Giving cues that are too small to see | Never looking up from the music | Assuming one person always leads
+et: How do you give a start cue? | Who leads a section?
+mc: B || A cue is || a signalling gesture | a rest | a scale | a key || A
+mc: B || Lead means || giving signals | copying | stopping | resting || A
+mc: B || Follow means || responding to cues | ignoring | leading | playing solo || A
+mc: B || A breath cue signals || a start | an end only | a key | a rest || A
+mc: B || A handoff passes || the lead | the music stand | the score | snacks || A
+mc: B || Eye contact keeps players || connected | apart | silent | lost || A
+mc: I || The leader breathes on || the upbeat | beat 3 | after playing | never || A
+mc: I || A release is shown by || a small circle and stop | a shout | a stomp | nothing || A
+mc: I || Sections are usually led by || the melody player | the quietest | nobody | the audience || A
+mc: I || Mark leading spots with || L | X | ? | ! || A
+mc: C || The breath cue shows || tempo | key | volume only | nothing || A
+mc: C || The lead passes because || the important part changes | people get bored | rules | randomly || A
+sa: B || Define cue. || A gesture that signals an entrance, release or change.
+sa: B || What is a handoff? || Passing the lead from one player to another.
+sa: I || Describe a start cue. || Lift on the upbeat, breathe in tempo, down on beat 1.
+sa: I || Describe a release cue. || A small circle and a clear stop.
+sa: I || Who usually leads? || The player with the melody or most rhythmic part.
+sa: I || Why memorize the first bar? || To keep eye contact at the start.
+sa: C || Explain why the lead passes. || The most important part changes.
+sa: C || Describe your cue plan. || Answers vary.
+
+=== IM9.C1 2
+hook: Performance day for your small ensemble: no conductor, no full band to hide behind. Just you, your group and an audience. It's one of the most rewarding performances a musician can give.
+sc: I can perform a small-ensemble piece with independence and communication | I can introduce our piece to the audience | I can assess our group's performance
+v: performance :: Playing music for an audience.
+v: introduction :: Telling the audience about the piece before playing.
+v: stage presence :: Confidence and professionalism on stage.
+v: group assessment :: A group's evaluation of its own performance.
+v: rubric :: A scoring guide with criteria and levels.
+v: recovery :: Continuing together after a mistake.
+ts: Ensemble Showcase || Performance || How do we give a polished small-ensemble performance?
+tx: Showcase plan (written for this lesson): ¶ Before: final rehearsal with a full run; check chairs and stands setup so everyone can see each other (semicircle). ¶ Introduction (30 seconds): one member says the group's name, the piece title, the composer or arranger, and one thing to listen for. ¶ Performance: leader cues the start; follow your planned handoffs; if something goes wrong, keep going and use cues to stay together. ¶ After: group bow together on a cue. ¶ Rubric (each 1–4): tone and intonation; rhythm and togetherness; dynamics and expression; communication (cues and eye contact); stage presence and introduction. ¶ Assessment: watch a recording if possible; each member rates the group and writes one strength and one goal. Audience members give two "glows" and one "grow" to other groups.
+src: Original activity written for this lesson.
+st: Set up in a semicircle for sightlines | Introduce the piece | Perform with planned cues | Bow together | Assess with the rubric
+org: Criterion | Rating 1–4 | Evidence | Goal
+an: How did your introduction set up the performance? | Were your cues clear on stage? | How did you recover from any mistakes? | What was your group's biggest strength?
+pr: Perform your small-ensemble piece with an introduction, and complete a group assessment using the rubric.
+ex: Setup || Why sit in a semicircle? || Sightlines || Everyone can see each other's cues || What else to check?
+ex: Introduction || What goes in an introduction? || Four items || Group name, piece, composer, one thing to listen for || How long?
+ex: Recovery || A player misses an entrance. What should the group do? || Keep going || Keep playing; the player rejoins with a cue at the next landmark || Why not stop?
+ex: Glow and grow || Give one glow and one grow. || Specific || Glow: "great balance in the slow part"; grow: "start cue could be bigger" || Why be specific?
+p: B || What is performance? || Playing for an audience.
+p: B || What is an introduction? || Telling the audience about the piece.
+p: B || What is stage presence? || Confidence and professionalism on stage.
+p: B || What is a rubric? || A scoring guide.
+p: B || What is recovery? || Continuing together after a mistake.
+p: I || How long is the introduction? || About 30 seconds.
+p: I || What goes in the introduction? || Group name, piece, composer, one listening point.
+p: I || How should chairs be set up? || In a semicircle.
+p: I || How many rubric criteria are there? || Five.
+p: I || How do you bow? || Together on a cue.
+p: I || What feedback do audience members give? || Two glows and one grow.
+p: C || Why tell the audience what to listen for? || It helps them engage with the music.
+p: C || Why keep going after a mistake? || Stopping breaks the performance; most audiences won't notice.
+p: C || Why assess as a group? || Everyone sees strengths and goals together.
+p: C || Write your group assessment. || Answers vary.
+mis: Stopping after a mistake | Mumbling the introduction | Sitting where you can't see each other
+et: What goes in an introduction? | What do you do after a mistake?
+mc: B || Performance means || playing for an audience | practising alone | tuning | resting || A
+mc: B || An introduction tells || about the piece | jokes only | nothing | the grade || A
+mc: B || Stage presence is || confidence on stage | hiding | talking | slouching || A
+mc: B || A rubric is || a scoring guide | a song | a scale | a key || A
+mc: B || Recovery means || continuing together | stopping | leaving | restarting || A
+mc: B || Bow together on || a cue | random | never | individually || A
+mc: I || The introduction lasts about || 30 seconds | 10 minutes | 1 second | an hour || A
+mc: I || Chairs go in a || semicircle | straight line facing away | pile | corner || A
+mc: I || Audience feedback is || two glows and a grow | a grade only | silence | boos || A
+mc: I || The rubric has || five criteria | one criterion | fifty | none || A
+mc: C || Telling listeners what to listen for || helps them engage | bores them | is wrong | wastes time || A
+mc: C || After a mistake, groups should || keep going | stop | restart | leave || A
+sa: B || Define stage presence. || Confidence and professionalism on stage.
+sa: B || What is recovery? || Continuing together after a mistake.
+sa: I || What goes in an introduction? || Group name, piece, composer, one thing to listen for.
+sa: I || Why sit in a semicircle? || So everyone can see cues.
+sa: I || List the five rubric criteria. || Tone and intonation, rhythm and togetherness, dynamics and expression, communication, stage presence.
+sa: I || Give a glow and a grow. || Answers vary.
+sa: C || Explain why you keep going after mistakes. || Stopping breaks the performance.
+sa: C || Write your group assessment. || Answers vary.
+
+=== IM9.D1 0
+hook: Playing the right notes is only the start. To play a piece truly well, you need to know where it comes from: who wrote it, when, why, and what style it calls for. That knowledge shapes every choice you make.
+sc: I can research a piece's composer, era and style | I can explain how history affects performance choices | I can write a programme note
+v: interpretation :: The choices a performer makes to express a piece.
+v: era :: A period of music history with shared style features.
+v: programme note :: A short written introduction to a piece for the audience.
+v: composer :: The person who wrote the piece.
+v: style period :: Baroque, Classical, Romantic or 20th century and beyond.
+v: primary source :: Original material such as the score or the composer's own words.
+ts: Know Your Piece || Research || How does research shape performance?
+tx: Research guide (written for this lesson): ¶ Style periods (approximate): Baroque (about 1600–1750): steady tempos, terraced dynamics (sudden loud/soft), ornaments. Classical (about 1750–1820): balance, clear phrases, elegance. Romantic (about 1820–1900): expressive, rubato, big dynamic range. 20th century and beyond: varied styles, changing meters, new sounds. ¶ Band history examples: Gustav Holst's First Suite in E♭ for Military Band (composed 1909) helped establish serious original music for concert band; Percy Grainger's Lincolnshire Posy (1937) is based on English folk songs. ¶ Research questions for your solo or ensemble piece: Who is the composer and when did they live? What era or style is the piece? Why was it written (event, folk song, commission)? What does the title mean? What do tempo and expression markings tell you? ¶ Sources: the score's notes, publisher's website, library database, reliable encyclopedias. ¶ Programme note (100–150 words): composer, background, what to listen for. No copied text; cite sources.
+src: Summary written for this lesson.
+st: Learn the style periods | Choose a piece to research | Answer the five research questions | Use reliable sources | Write a 100–150 word programme note
+org: Question | Finding | Source
+an: What surprised you about your piece's history? | How does the era affect how you should play it? | What did the title mean? | What will you tell the audience to listen for?
+pr: Write a 100–150 word programme note for your piece with sources, and explain two performance choices your research suggests.
+ex: Era to style || A Baroque piece shows f then p with no hairpins. Why? || Terraced dynamics || Baroque style used sudden dynamic changes || What about a Romantic piece?
+ex: Holst || Why is Holst's First Suite important? || Band history || It helped establish serious original concert-band music || When was it composed?
+ex: Programme note || What three things go in a programme note? || Audience needs || Composer, background, what to listen for || How long?
+ex: Title meaning || Lincolnshire Posy: what is a "posy"? || Look it up || A small bunch of flowers, here a collection of folk songs || Why does that matter?
+p: B || What is interpretation? || The choices a performer makes.
+p: B || What is an era? || A period of music history.
+p: B || What is a programme note? || A short introduction for the audience.
+p: B || What is a primary source? || Original material like the score.
+p: B || What is a style period? || Baroque, Classical, Romantic or 20th century.
+p: I || When was the Baroque era? || About 1600–1750.
+p: I || When was the Classical era? || About 1750–1820.
+p: I || When was the Romantic era? || About 1820–1900.
+p: I || What are terraced dynamics? || Sudden loud and soft changes.
+p: I || When did Holst compose his First Suite in E♭? || 1909.
+p: I || What is Lincolnshire Posy based on? || English folk songs.
+p: C || How does knowing the era affect performance? || It guides tempo, dynamics and expression.
+p: C || Why shouldn't you copy text for a programme note? || It must be your own writing with credit to sources.
+p: C || Why tell the audience what to listen for? || It helps them understand and enjoy the music.
+p: C || Write your programme note. || Answers vary.
+mis: Thinking history doesn't affect how you play | Copying programme notes from websites | Applying Romantic rubato to every piece
+et: Name the four style periods. | What goes in a programme note?
+mc: B || Interpretation means || performer's choices | the composer's name | the key | a rest || A
+mc: B || An era is || a period of music history | a note | a key | a rest || A
+mc: B || A programme note is || an audience introduction | a review | a ticket | a score || A
+mc: B || A primary source is || original material | a rumour | a guess | an ad || A
+mc: B || The Romantic era features || expressive rubato | no dynamics | strict tempo only | silence || A
+mc: B || Baroque dynamics are often || terraced | gradual only | absent | random || A
+mc: I || Baroque is about || 1600–1750 | 1900–2000 | 1820–1900 | 1750–1820 || A
+mc: I || Classical is about || 1750–1820 | 1600–1750 | 1820–1900 | 1950–2000 || A
+mc: I || Holst's First Suite was composed in || 1909 | 1809 | 2009 | 1709 || A
+mc: I || Lincolnshire Posy is by || Percy Grainger | Holst | Sousa | Beethoven || A
+mc: C || Knowing the era guides || tempo, dynamics and expression | ticket prices | stage lights | nothing || A
+mc: C || A programme note must be || your own writing with sources | copied | blank | a list of notes || A
+sa: B || Define programme note. || A short written introduction to a piece for the audience.
+sa: B || What is interpretation? || The choices a performer makes to express a piece.
+sa: I || Name the four style periods with dates. || Baroque 1600–1750, Classical 1750–1820, Romantic 1820–1900, 20th century onward.
+sa: I || Why is Holst's First Suite important? || It helped establish serious original band music.
+sa: I || What are terraced dynamics? || Sudden loud and soft changes in Baroque music.
+sa: I || What goes in a programme note? || Composer, background, what to listen for.
+sa: C || Explain how research shapes performance. || Era and purpose guide style choices.
+sa: C || Write your programme note. || Answers vary.
+
+=== IM9.D1 1
+hook: Give five great musicians the same piece and you'll hear five different performances. Each makes choices about tempo, dynamics, phrasing and tone. Interpretation is where you add your own voice.
+sc: I can make interpretive choices about tempo, dynamics, phrasing and tone | I can justify choices using the score and research | I can mark and perform my interpretation consistently
+v: rubato :: Expressive stretching and pushing of tempo.
+v: expression :: Feeling and meaning shown through musical choices.
+v: phrasing :: How phrases are shaped and connected.
+v: tone colour :: The quality of sound, such as bright or dark.
+v: justify :: Give reasons for a choice.
+v: interpretive marking :: A pencil note in the music showing a performance choice.
+ts: Making It Yours || Performance || How do I make and justify interpretive choices?
+tx: Interpretation workshop (written for this lesson): ¶ 1. What the composer wrote: list tempo, dynamics, articulations and expression words (e.g. dolce = sweetly; espressivo = expressively; maestoso = majestic). These are the frame. ¶ 2. What's open to you: exact tempo within a range; size of dynamic changes; where phrases peak; tone colour; small rubato at phrase ends (if suited to the style); length of fermatas and breaths. ¶ 3. Listen to two recordings of a piece (or two classmates); list three differences. ¶ 4. Make choices for your piece: write at least five interpretive markings in pencil (e.g. "peak here," "warmer tone," "slight rit."). ¶ 5. Justify each: "I chose a slight ritardando in bar 16 because it ends the A section and the style is Romantic." ¶ 6. Consistency: play it twice; are your choices the same both times? Performers practise interpretation just like notes.
+src: Original activity written for this lesson.
+st: List what the composer wrote | Identify what's open to interpretation | Compare two performances | Mark five interpretive choices | Justify and perform consistently
+org: Bar | Choice | Justification | Consistent?
+an: What differences did you hear between two performances? | Which of your choices is most personal? | How did research support your choices? | Were your choices consistent across two run-throughs?
+pr: Mark at least five interpretive choices in your piece, justify each in writing, and perform it consistently.
+ex: Expression word || What does dolce mean? || Italian || Sweetly || How would you play it?
+ex: Within the frame || The tempo is marked 72–80. Choice? || Range || Choose a tempo within the range that suits the character || Why not 100?
+ex: Justify || Write a justification for a crescendo to bar 12. || Reason from score or style || "Bar 12 is the highest note and the phrase peak" || Write another.
+ex: Rubato style || Should you use heavy rubato in a march? || Style || No; marches need a steady tempo || Where is rubato suitable?
+p: B || What is rubato? || Expressive stretching of tempo.
+p: B || What is expression? || Feeling shown through musical choices.
+p: B || What is phrasing? || How phrases are shaped.
+p: B || What does justify mean? || Give reasons for a choice.
+p: B || What is an interpretive marking? || A pencil note showing a choice.
+p: I || What does dolce mean? || Sweetly.
+p: I || What does espressivo mean? || Expressively.
+p: I || What does maestoso mean? || Majestic.
+p: I || How many interpretive markings do you add? || At least five.
+p: I || Name two things open to interpretation. || Exact tempo within range and size of dynamic changes.
+p: I || How do you check consistency? || Play it twice and compare.
+p: C || Why must choices stay within the composer's frame? || To respect what the composer wrote.
+p: C || Why should interpretation be practised? || So choices are consistent in performance.
+p: C || How does style limit interpretive choices? || Some choices, like heavy rubato, don't suit every style.
+p: C || Justify two of your choices. || Answers vary.
+mis: Ignoring the composer's markings | Making random choices without reasons | Changing interpretation every time
+et: What does dolce mean? | Justify one of your choices.
+mc: B || Rubato is || tempo stretching | strict tempo | silence | a key || A
+mc: B || Expression is || feeling in music | a rest | a scale | a key || A
+mc: B || Phrasing is || shaping phrases | tuning | assembly | buying music || A
+mc: B || Justify means || give reasons | guess | copy | skip || A
+mc: B || Interpretive markings go in || pencil | pen | marker | nowhere || A
+mc: B || Dolce means || sweetly | loudly | fast | short || A
+mc: I || Espressivo means || expressively | quickly | quietly | sharply || A
+mc: I || Maestoso means || majestic | silly | very fast | silent || A
+mc: I || Add at least || five markings | fifty | none | one || A
+mc: I || Heavy rubato in a march is || unsuitable | required | best | normal || A
+mc: C || Choices should stay within || the composer's frame | random ideas | silence | nothing || A
+mc: C || Practising interpretation makes it || consistent | random | slower | louder || A
+sa: B || Define rubato. || Expressive stretching and pushing of tempo.
+sa: B || What does justify mean? || Give reasons for a choice.
+sa: I || Translate dolce, espressivo and maestoso. || Sweetly, expressively, majestic.
+sa: I || List three things open to interpretation. || Tempo within range, dynamic size, phrase peaks, tone colour.
+sa: I || Why is heavy rubato wrong in a march? || Marches need a steady tempo.
+sa: I || How do you check consistency? || Play twice and compare.
+sa: C || Explain why choices must respect the composer's frame. || To stay true to the score.
+sa: C || Justify two of your choices. || Answers vary.
+
+=== IM9.D1 2
+hook: The final performance brings everything together: technique, reading, ensemble skills and interpretation. Afterwards, honest self-assessment is what turns one performance into the next level.
+sc: I can perform a prepared piece with expression and stage presence | I can manage performance nerves with strategies | I can self-assess using a recording and set goals
+v: stage presence :: Confidence and professionalism while performing.
+v: performance anxiety :: Nervousness before or during a performance.
+v: routine :: A set of steps done before every performance.
+v: self-assessment :: Evaluating your own performance against criteria.
+v: SMART goal :: A goal that is specific, measurable, achievable, relevant and time-bound.
+v: recording review :: Listening back to a recording to evaluate.
+ts: Final Performance || Performance || How do I perform at my best and learn from it?
+tx: Performance guide (written for this lesson): ¶ Nerves are normal: a racing heart is your body preparing. Strategies: slow breathing (in 4, hold 4, out 6); a pre-performance routine (warm up, tune, check music, three slow breaths); positive self-talk ("I've prepared this"); focus on the music's message, not on mistakes. ¶ Performance (solo or ensemble): walk on with confidence; introduce the piece with your programme note highlight; perform your interpretation; acknowledge applause with a bow. ¶ Recording review: listen back with the music and rate 1–4: tone, technique, rhythm, intonation, expression and interpretation, stage presence. For each rating, write evidence with a bar number. ¶ SMART goal: e.g. "Within four weeks, play the chromatic scale over two octaves at 100 BPM in sixteenths with even tone." ¶ Reflection: what you're proudest of across the year, and your plan for continuing music.
+src: Original activity written for this lesson.
+st: Practise a pre-performance routine | Use breathing for nerves | Perform with introduction and bow | Review the recording with the rubric | Write a SMART goal and reflection
+org: Criterion | Rating 1–4 | Evidence (bar) | Goal
+an: Which nerve strategy helped most? | What did the recording show that you didn't notice while playing? | Which criterion was your strongest? | What is your SMART goal?
+pr: Perform your piece, review the recording with evidence for each criterion, and write a SMART goal and reflection.
+ex: Breathing || Describe the calming breath. || Counts || In 4, hold 4, out 6 || Why a longer exhale?
+ex: Routine || Name four routine steps. || Before stage || Warm up, tune, check music, three slow breaths || Why the same every time?
+ex: Evidence || Rate intonation 3 with evidence. || Bar number || "Mostly in tune; bars 21–22 were sharp in the high register" || Why include bars?
+ex: SMART || Make "get better at scales" SMART. || Five parts || "In four weeks, play concert E♭ two octaves at 96 BPM in eighths, clean" || Check each letter.
+p: B || What is stage presence? || Confidence and professionalism while performing.
+p: B || What is performance anxiety? || Nervousness about performing.
+p: B || What is a routine? || Set steps before every performance.
+p: B || What is self-assessment? || Evaluating your own performance.
+p: B || What is a SMART goal? || Specific, measurable, achievable, relevant, time-bound.
+p: I || Describe the calming breath. || In 4, hold 4, out 6.
+p: I || Name a routine step. || Warm up, tune, check music or breathe.
+p: I || What is positive self-talk? || Encouraging thoughts like "I've prepared this."
+p: I || What should each rating include? || Evidence with a bar number.
+p: I || Name three rubric criteria. || Tone, rhythm, intonation.
+p: I || What does the R in SMART stand for? || Relevant.
+p: C || Why are nerves normal? || The body is preparing to perform.
+p: C || Why use a recording to self-assess? || You hear things you miss while playing.
+p: C || Why should goals be time-bound? || A deadline helps you plan and track progress.
+p: C || Write your SMART goal. || Answers vary.
+mis: Thinking nerves mean you're not ready | Self-assessing without evidence | Setting vague goals
+et: Describe the calming breath. | Write a SMART goal.
+mc: B || Stage presence is || confidence on stage | hiding | rushing off | talking || A
+mc: B || Performance anxiety is || nervousness | boredom | sleep | a key || A
+mc: B || A routine is || set pre-performance steps | random | a song | a scale || A
+mc: B || Self-assessment evaluates || your own performance | others | the hall | ticket sales || A
+mc: B || SMART goals are || specific and measurable | vague | secret | impossible || A
+mc: B || The T in SMART means || time-bound | tone | tempo | tuning || A
+mc: I || The calming breath is || in 4, hold 4, out 6 | in 1, out 1 | hold 20 | none || A
+mc: I || Ratings include evidence with || bar numbers | emojis | nothing | names || A
+mc: I || Positive self-talk sounds like || "I've prepared this" | "I'll fail" | nothing | shouting || A
+mc: I || A routine step is || tuning | skipping warm-up | leaving | talking || A
+mc: C || Nerves are normal because || the body prepares | you're unready | you're ill | nothing || A
+mc: C || Recordings help because || you hear what you miss | they're fun | they're short | nothing || A
+sa: B || Define SMART goal. || Specific, measurable, achievable, relevant, time-bound.
+sa: B || What is a routine? || Set steps done before every performance.
+sa: I || Name three strategies for nerves. || Slow breathing, routine, positive self-talk.
+sa: I || Why include bar numbers in self-assessment? || To give specific evidence.
+sa: I || List the six rubric criteria. || Tone, technique, rhythm, intonation, expression and interpretation, stage presence.
+sa: I || Make a vague goal SMART. || Answers vary.
+sa: C || Explain why nerves are normal. || The body is preparing to perform.
+sa: C || Write your SMART goal and reflection. || Answers vary.
