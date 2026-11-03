@@ -1,0 +1,659 @@
+=== CHI8.A1 1
+hook: 现在几点? Xiànzài jǐ diǎn? "What time is it now?" Telling time in Mandarin uses numbers you already know plus a few short words: 点 for o'clock, 分 for minutes, 半 for half.
+sc: I can ask and tell the time in Mandarin | I can use 点, 分, 半, 刻 and 差 | I can say when something happens
+v: 现在 xiànzài :: now
+v: 几点 jǐ diǎn :: what time
+v: 点 diǎn :: o'clock
+v: 分 fēn :: minute
+v: 半 bàn :: half
+v: 一刻 yí kè :: a quarter (15 minutes)
+v: 差 chà :: to, before (the hour)
+v: 上午 / 下午 shàngwǔ / xiàwǔ :: morning (a.m.) / afternoon (p.m.)
+ts: 现在几点? || Practice || How do I tell time in Mandarin?
+tx: Time guide (written for this lesson): ¶ 1:00 一点 yī diǎn. 2:00 两点 liǎng diǎn (use 两, not 二). 3:10 三点十分 sān diǎn shí fēn. 8:05 八点零五分 bā diǎn líng wǔ fēn. ¶ 4:30 四点半 sì diǎn bàn. 4:15 四点一刻 sì diǎn yí kè (or 四点十五分). 4:45 四点三刻 sì diǎn sān kè, or 差一刻五点 chà yí kè wǔ diǎn (a quarter to five). ¶ Time of day comes first: 早上 zǎoshang (early morning), 上午 (morning), 中午 zhōngwǔ (noon), 下午 (afternoon), 晚上 wǎnshang (evening). 下午三点 = 3 p.m. ¶ When: time goes before the verb: 我七点起床。Wǒ qī diǎn qǐchuáng. (I get up at 7.) 我们八点半上课。 ¶ Question: 现在几点? 你几点上学? ¶ Activity: paper clocks with a partner; then ask each other 你几点起床? 你几点吃午饭?
+src: Original activity written for this lesson.
+st: Learn 点 and 分 | Learn 半, 刻 and 差 | Use 两 for 2:00 | Add time-of-day words | Ask partners about their daily times
+org: Time | 汉字 | Pinyin
+an: Why is 2:00 两点 and not 二点? | What does 刻 mean? | Where does the time go in a sentence? | When does your partner get up?
+pr: Write ten times in characters and pinyin, including half, quarter and a.m./p.m., and five sentences about when you do things.
+ex: Half || Say 7:30. || 七点 + 半 || 七点半 qī diǎn bàn || Say 11:30.
+ex: Quarter || Say 9:15. || 一刻 || 九点一刻 jiǔ diǎn yí kè || Say 9:45.
+ex: Two || Say 2:00. || 两, not 二 || 两点 liǎng diǎn || Say 2:20.
+ex: When || "I eat lunch at 12." || Time before verb || 我十二点吃午饭。 || When do you go to bed?
+p: B || What does 现在 mean? || Now.
+p: B || What does 点 mean in time? || O'clock.
+p: B || What does 分 mean? || Minute.
+p: B || What does 半 mean? || Half.
+p: B || Ask "What time is it now?" || 现在几点?
+p: I || Say 6:00. || 六点.
+p: I || Say 2:00. || 两点.
+p: I || Say 10:30. || 十点半.
+p: I || Say 3:15 two ways. || 三点一刻 or 三点十五分.
+p: I || Say 3 p.m. || 下午三点.
+p: I || What does 差 mean? || To, before the hour.
+p: C || Why is 2:00 两点? || 两 is used before measure-like words such as 点.
+p: C || Where does time go in a Mandarin sentence? || Before the verb.
+p: C || Translate: I go to bed at 9:30 in the evening. || 我晚上九点半睡觉。
+p: C || Write your times. || Answers vary.
+mis: Saying 二点 | Putting time at the end of the sentence | Confusing 一刻 and 一点
+et: 现在几点? | Say "I get up at 7."
+mc: B || 现在 means || now | today | time | later || A
+mc: B || 点 in time means || o'clock | minute | half | dot only || A
+mc: B || 分 means || minute | hour | second | half || A
+mc: B || 半 means || half | quarter | hour | minute || A
+mc: B || 一刻 means || a quarter hour | one hour | a minute | one o'clock || A
+mc: B || 下午 means || afternoon | morning | evening | noon || A
+mc: I || 2:00 is || 两点 | 二点 | 二时 | 两分 || A
+mc: I || 7:30 is || 七点半 | 半七点 | 七半点 | 七点三 || A
+mc: I || 9:15 is || 九点一刻 | 九点十分 | 九刻一点 | 一刻九点 || A
+mc: I || "I get up at 7" is || 我七点起床。 | 我起床七点。 | 七点起床我。 | 我起床在七点。 || A
+mc: C || Time words go || before the verb | at the end | after the object | nowhere || A
+mc: C || 差一刻五点 means || 4:45 | 5:15 | 5:45 | 4:15 || A
+sa: B || Ask the time. || 现在几点?
+sa: B || Say 1:00 and 2:00. || 一点, 两点.
+sa: I || Say 8:30 and 8:45. || 八点半, 八点三刻.
+sa: I || Say 4 p.m. || 下午四点.
+sa: I || Say when you eat lunch. || Answers vary.
+sa: I || Explain 刻. || A quarter hour.
+sa: C || Explain the word order for time. || Time before the verb.
+sa: C || Write your times. || Answers vary.
+
+=== CHI8.A1 2
+hook: Many schools in China start early, have a long lunch break, and include eye exercises and morning exercises for the whole school. How does your school day compare?
+sc: I can describe my school day in Mandarin | I can use 上课, 下课, 放学 and time expressions | I can compare a school day in China and Canada
+v: 上课 shàngkè :: to start class
+v: 下课 xiàkè :: to end class
+v: 放学 fàngxué :: school lets out
+v: 午饭 wǔfàn :: lunch
+v: 起床 qǐchuáng :: to get up
+v: 先…然后… xiān… ránhòu… :: first… then…
+v: 每天 měitiān :: every day
+v: 作业 zuòyè :: homework
+ts: 我的一天 || Reading || How do I describe my school day in Mandarin?
+tx: Text (read aloud, written for this lesson): ¶ 我每天早上七点起床。七点半吃早饭。八点半上课。我第一节课是数学。十二点吃午饭。下午三点放学。放学以后, 我先做作业, 然后打篮球。晚上十点睡觉。 ¶ Pinyin: Wǒ měitiān zǎoshang qī diǎn qǐchuáng. Qī diǎn bàn chī zǎofàn. Bā diǎn bàn shàngkè. Wǒ dì-yī jié kè shì shùxué. Shí'èr diǎn chī wǔfàn. Xiàwǔ sān diǎn fàngxué. Fàngxué yǐhòu, wǒ xiān zuò zuòyè, ránhòu dǎ lánqiú. Wǎnshang shí diǎn shuìjiào. ¶ Grammar: 第 dì + number = ordinal: 第一节课 (first class). 以后 yǐhòu = after. 先…然后… = first… then…. ¶ School in China (general patterns): many schools start around 7:30–8:00, include morning exercises (课间操) and eye exercises (眼保健操), have a long lunch break where some students rest, and end later for older students who often have evening study. Students often stay in one classroom while teachers move. ¶ Activity: write your school day in a timeline, then compare it with a Chinese school day in a T-chart.
+src: Original text written for this lesson; school patterns are general and vary by region and school.
+st: Read the school-day text | Learn school routine words | Use 第, 以后 and 先…然后… | Learn about a Chinese school day | Compare in a T-chart
+org: 时间 | 我的学校 | 中国的学校
+an: When does the writer start class? | What does the writer do after school? | What are eye exercises? | What is most different about a Chinese school day?
+pr: Write eight sentences about your school day with times, 第, 以后 and 先…然后…, and two comparisons with a Chinese school day.
+ex: Ordinal || "My first class is science." || 第一节课 || 我第一节课是科学。 || "My second class is Chinese."
+ex: After || "After school I play soccer." || 放学以后 || 放学以后我踢足球。 || Another?
+ex: Sequence || "First homework, then TV." || 先…然后… || 我先做作业, 然后看电视。 || Another?
+ex: Compare || Which school has eye exercises? || Culture || Many Chinese schools || Why might they?
+p: B || What does 上课 mean? || To start class.
+p: B || What does 下课 mean? || To end class.
+p: B || What does 放学 mean? || School lets out.
+p: B || What is 午饭? || Lunch.
+p: B || What is 作业? || Homework.
+p: I || What time does the writer get up? || 7:00.
+p: I || What does 第一 mean? || First.
+p: I || What does 以后 mean? || After.
+p: I || Say "I eat lunch at 12." || 我十二点吃午饭。
+p: I || What does the writer do after school? || Homework, then basketball.
+p: I || What does 每天 mean? || Every day.
+p: C || How is the writer's day like yours? || Answers vary.
+p: C || Why might Chinese schools have eye exercises? || To rest students' eyes during long study.
+p: C || Translate: First I get up, then I eat breakfast. || 我先起床, 然后吃早饭。
+p: C || Write about your school day. || Answers vary.
+mis: Putting 以后 before the event | Forgetting 第 for ordinals | Assuming all Chinese schools are the same
+et: 你几点上课? | Use 先…然后… in a sentence.
+mc: B || 上课 means || to start class | to end class | to go up | homework || A
+mc: B || 下课 means || class ends | class starts | go down | lunch || A
+mc: B || 放学 means || school lets out | school starts | study | holiday || A
+mc: B || 午饭 is || lunch | breakfast | dinner | snack || A
+mc: B || 作业 is || homework | work only | a test | a class || A
+mc: B || 每天 means || every day | today | each week | sometimes || A
+mc: I || "First class" is || 第一节课 | 一第课 | 一节第课 | 课第一 || A
+mc: I || "After school" is || 放学以后 | 以后放学 | 放学前 | 上课以后 || A
+mc: I || The writer gets up at || 七点 | 八点 | 六点 | 九点 || A
+mc: I || 先…然后… means || first… then… | before… after | now… later | always… never || A
+mc: C || Many Chinese schools include || eye exercises | no lunch | no homework | short days || A
+mc: C || 以后 goes || after the event word | before it | at the end | nowhere || A
+sa: B || Name five school-day words. || 上课, 下课, 放学, 午饭, 作业.
+sa: B || What does 第一 mean? || First.
+sa: I || Describe your morning with times. || Answers vary.
+sa: I || Write a sentence with 以后. || Answers vary.
+sa: I || Write a sentence with 先…然后…. || Answers vary.
+sa: I || Name two features of Chinese school days. || Eye exercises, long lunch break.
+sa: C || Compare your day with a Chinese school day. || Answers vary.
+sa: C || Write about your school day. || Answers vary.
+
+=== CHI8.B1 0
+hook: Dumplings, noodles, rice, tea: Chinese food is enjoyed worldwide, and it varies hugely by region, from spicy Sichuan dishes to Cantonese dim sum. Food words are some of the most useful you'll learn.
+sc: I can name common foods and drinks in Mandarin | I can say what I like to eat and drink with 喜欢 and 不喜欢 | I can describe regional Chinese foods
+v: 米饭 mǐfàn :: cooked rice
+v: 面条 miàntiáo :: noodles
+v: 饺子 jiǎozi :: dumplings
+v: 包子 bāozi :: steamed buns
+v: 茶 chá :: tea
+v: 水 shuǐ :: water
+v: 吃 chī :: to eat
+v: 喝 hē :: to drink
+ts: 好吃! || Reading || What foods and drinks can I name in Mandarin?
+tx: Food words (written for this lesson): 米饭 rice, 面条 noodles, 饺子 dumplings, 包子 steamed buns, 鸡肉 jīròu chicken, 牛肉 niúròu beef, 鱼 yú fish, 菜 cài vegetables / dish, 水果 shuǐguǒ fruit, 苹果 píngguǒ apple; drinks: 茶 tea, 水 water, 牛奶 niúnǎi milk, 果汁 guǒzhī juice. ¶ Verbs: 吃 chī (eat), 喝 hē (drink). ¶ Likes: 我喜欢吃饺子。我不喜欢喝牛奶。你喜欢吃什么? ¶ 好吃 hǎochī = delicious (food); 好喝 hǎohē = tasty (drink). ¶ Regional food (general): northern China: wheat foods like noodles, dumplings and steamed buns; southern China: rice is the main staple; Sichuan: spicy food with Sichuan pepper; Guangdong (Cantonese): dim sum. ¶ Culture: chopsticks (筷子 kuàizi) shouldn't be stuck upright in a rice bowl, because that resembles incense at funerals. ¶ Activity: picture sort into 吃 and 喝, then a class survey: 你喜欢吃什么? 你喜欢喝什么?
+src: Original activity written for this lesson; regional food notes are general.
+st: Learn food and drink words | Use 吃 and 喝 | Say likes with 喜欢 and 不喜欢 | Learn regional food differences | Survey classmates
+org: 吃 | 喝 | 我喜欢 | 我不喜欢
+an: Why are there two verbs, 吃 and 喝? | How is northern food different from southern food? | Why shouldn't chopsticks stand in rice? | What does the class like most?
+pr: Write eight sentences about food and drinks you like and don't like, and two sentences about regional Chinese food.
+ex: Like || "I like eating noodles." || 喜欢 + 吃 + food || 我喜欢吃面条。 || "I like drinking tea."
+ex: Don't like || "I don't like fish." || 不喜欢吃 || 我不喜欢吃鱼。 || Another?
+ex: Question || Ask "What do you like to eat?" || 喜欢吃什么 || 你喜欢吃什么? || Answer it.
+ex: Delicious || "The dumplings are delicious!" || 很好吃 || 饺子很好吃! || "The tea is tasty!"
+p: B || What is 米饭? || Cooked rice.
+p: B || What is 面条? || Noodles.
+p: B || What is 饺子? || Dumplings.
+p: B || What is 茶? || Tea.
+p: B || What does 吃 mean? || To eat.
+p: I || What does 喝 mean? || To drink.
+p: I || What is 牛奶? || Milk.
+p: I || What is 鸡肉? || Chicken.
+p: I || Say "I like eating dumplings." || 我喜欢吃饺子。
+p: I || What does 好吃 mean? || Delicious.
+p: I || What is 筷子? || Chopsticks.
+p: C || What is the main staple in southern China? || Rice.
+p: C || Why not stand chopsticks in rice? || It resembles funeral incense.
+p: C || Translate: I don't like drinking milk, but I like juice. || 我不喜欢喝牛奶, 但是我喜欢喝果汁。
+p: C || Write your food sentences. || Answers vary.
+mis: Using 吃 with drinks | Saying 好吃 for drinks | Thinking all Chinese food is the same
+et: 你喜欢吃什么? | Say "I like drinking water."
+mc: B || 米饭 is || rice | noodles | bread | soup || A
+mc: B || 面条 is || noodles | rice | dumplings | buns || A
+mc: B || 饺子 is || dumplings | noodles | tea | fish || A
+mc: B || 茶 is || tea | coffee | water | juice || A
+mc: B || 吃 means || to eat | to drink | to cook | to buy || A
+mc: B || 喝 means || to drink | to eat | to like | to want || A
+mc: I || "I like noodles" is || 我喜欢吃面条。 | 我喜欢喝面条。 | 我面条喜欢。 | 我是面条。 || A
+mc: I || 好喝 describes || drinks | food | weather | people || A
+mc: I || 牛肉 is || beef | milk | chicken | fish || A
+mc: I || 筷子 are || chopsticks | dumplings | bowls | spoons || A
+mc: C || Northern China eats more || wheat foods | rice only | fish only | nothing || A
+mc: C || Chopsticks upright in rice resemble || funeral incense | flowers | candles | flags || A
+sa: B || Name six foods in Mandarin. || 米饭, 面条, 饺子, 包子, 鸡肉, 鱼.
+sa: B || Name three drinks. || 茶, 水, 牛奶.
+sa: I || Say what you like to eat and drink. || Answers vary.
+sa: I || Explain 好吃 vs 好喝. || Delicious food versus tasty drink.
+sa: I || Compare northern and southern Chinese staples. || Wheat in the north, rice in the south.
+sa: I || Ask a partner what they like to drink. || 你喜欢喝什么?
+sa: C || Explain the chopstick custom. || Upright chopsticks resemble funeral incense.
+sa: C || Write your food sentences. || Answers vary.
+
+=== CHI8.B1 1
+hook: You can't say "a tea" or "two noodles" in Mandarin. You need a measure word: 一杯茶 (a cup of tea), 两碗面 (two bowls of noodles). With 想要, you can politely ask for exactly what you want.
+sc: I can use 想要 and 要 to say what I want | I can use food measure words 杯, 碗, 盘 and 个 | I can make polite requests
+v: 想要 xiǎng yào :: would like, want
+v: 要 yào :: want (more direct)
+v: 杯 bēi :: cup, glass (measure word)
+v: 碗 wǎn :: bowl (measure word)
+v: 盘 pán :: plate (measure word)
+v: 瓶 píng :: bottle (measure word)
+v: 请 qǐng :: please
+v: 还要 hái yào :: also want
+ts: 我想要… || Grammar || How do I ask for food with measure words?
+tx: Grammar (written for this lesson): ¶ Number + measure word + noun: 一杯茶 (a cup of tea), 两杯水 (two glasses of water), 一碗米饭 (a bowl of rice), 一碗面条 (a bowl of noodles), 一盘饺子 (a plate of dumplings), 一瓶果汁 (a bottle of juice), 一个包子 (a steamed bun). ¶ Wanting: 我想要一杯茶。(I'd like a cup of tea; softer.) 我要一碗面条。(I want a bowl of noodles; direct but normal when ordering.) ¶ Adding: 我还要一瓶水。(I also want a bottle of water.) ¶ Questions: 你想要什么? (What would you like?) 你要几碗? (How many bowls?) ¶ 请 qǐng at the start makes requests polite: 请给我一杯水。(Please give me a glass of water.) ¶ Activity: "Measure word match": match food pictures to measure words, then partners order from a picture menu: 我想要两盘饺子和一杯茶。
+src: Original activity written for this lesson.
+st: Learn food measure words | Use 想要 and 要 | Add items with 还要 | Make polite requests with 请 | Order from a picture menu
+org: Food | Measure word | Example
+an: Why does Mandarin need measure words with food? | How is 想要 different from 要? | Which measure word goes with rice? | What did your partner order?
+pr: Write eight food requests using four different measure words, 想要, 还要 and 请.
+ex: Cup || "a cup of tea" || 一 + 杯 + 茶 || 一杯茶 || "two cups of milk"?
+ex: Bowl || "I'd like a bowl of noodles." || 想要 + 一碗 || 我想要一碗面条。 || "a bowl of rice"?
+ex: Plate || "two plates of dumplings" || 两 + 盘 || 两盘饺子 || "a plate of vegetables"?
+ex: Also || "I also want a bottle of juice." || 还要 || 我还要一瓶果汁。 || Another?
+p: B || What does 想要 mean? || Would like.
+p: B || What is 杯? || Measure word for cups or glasses.
+p: B || What is 碗? || Measure word for bowls.
+p: B || What is 盘? || Measure word for plates.
+p: B || What does 请 mean? || Please.
+p: I || Say "a cup of tea." || 一杯茶.
+p: I || Say "a bowl of rice." || 一碗米饭.
+p: I || Say "a plate of dumplings." || 一盘饺子.
+p: I || Say "two bottles of water." || 两瓶水.
+p: I || Say "I'd like a bowl of noodles." || 我想要一碗面条。
+p: I || What does 还要 mean? || Also want.
+p: C || Why use 两 not 二 with measure words? || 两 is the form used for "two" before measure words.
+p: C || How is 想要 more polite than 要? || It's softer, like "would like."
+p: C || Translate: Please give me two cups of tea and a plate of dumplings. || 请给我两杯茶和一盘饺子。
+p: C || Write your requests. || Answers vary.
+mis: Leaving out measure words | Saying 二杯 | Using 碗 for drinks in a glass
+et: Order a bowl of noodles. | Say "two cups of tea."
+mc: B || 想要 means || would like | want to sleep | think | eat || A
+mc: B || 杯 is for || cups and glasses | bowls | plates | bottles || A
+mc: B || 碗 is for || bowls | cups | plates | bottles || A
+mc: B || 盘 is for || plates | bowls | cups | people || A
+mc: B || 瓶 is for || bottles | bowls | plates | books || A
+mc: B || 请 means || please | thanks | sorry | hello || A
+mc: I || "A cup of tea" is || 一杯茶 | 一个茶 | 一碗茶杯 | 茶一杯 || A
+mc: I || "Two bowls of rice" is || 两碗米饭 | 二碗米饭 | 两米饭碗 | 两个碗饭 || A
+mc: I || "I also want juice" is || 我还要果汁。 | 我要还果汁。 | 还我要果汁。 | 我果汁还要。 || A
+mc: I || "A plate of dumplings" is || 一盘饺子 | 一碗饺子杯 | 一饺子盘 | 盘一饺子 || A
+mc: C || Measure words go || between number and noun | after the noun | before the number | at the end || A
+mc: C || 想要 compared with 要 is || softer | ruder | past tense | negative || A
+sa: B || Name four food measure words. || 杯, 碗, 盘, 瓶.
+sa: B || What does 想要 mean? || Would like.
+sa: I || Order three items with measure words. || Answers vary.
+sa: I || Say "I also want a bottle of water." || 我还要一瓶水。
+sa: I || Make a polite request with 请. || 请给我…
+sa: I || Explain 两 vs 二. || 两 before measure words.
+sa: C || Explain measure word order. || Number + measure word + noun.
+sa: C || Write your requests. || Answers vary.
+
+=== CHI8.B1 2
+hook: In many Chinese restaurants, dishes are shared at a round table with a lazy Susan, and the host often orders for everyone. Today you'll order a meal in Mandarin and learn some table manners.
+sc: I can order food at a restaurant in Mandarin | I can ask for the bill and respond to the server | I can describe restaurant customs in Chinese culture
+v: 服务员 fúwùyuán :: server
+v: 菜单 càidān :: menu
+v: 点菜 diǎn cài :: to order dishes
+v: 买单 mǎidān :: to pay the bill
+v: 还要别的吗? hái yào bié de ma :: Anything else?
+v: 就这些 jiù zhèxiē :: that's all
+v: 一共 yígòng :: altogether
+v: 好吃极了 hǎochī jí le :: extremely delicious
+ts: 在饭馆 || Role-play || How do I order a meal in a Chinese restaurant?
+tx: Dialogue (read in threes): ¶ 服务员: 你们好! 这是菜单。你们想吃什么? ¶ 小李: 我们要一盘饺子、一碗牛肉面和一盘炒菜。 ¶ 服务员: 喝什么? ¶ 小王: 两杯茶, 谢谢。 ¶ 服务员: 还要别的吗? ¶ 小李: 就这些。 ¶ (later) 小王: 服务员, 买单! ¶ 服务员: 一共八十五块。 ¶ Pinyin highlights: Nǐmen xiǎng chī shénme? / Hái yào bié de ma? / Jiù zhèxiē. / Fúwùyuán, mǎidān! / Yígòng bāshíwǔ kuài. ¶ Menu (prices in 块 kuài, yuan): 饺子 (一盘) 25; 牛肉面 (一碗) 30; 炒菜 (一盘) 20; 米饭 (一碗) 3; 茶 (一杯) 5; 果汁 (一杯) 10. ¶ Customs: dishes are usually shared; it's polite to serve others before yourself; hosts often insist on paying; tapping two fingers on the table can be a quiet thank-you when someone pours your tea (common in southern China). ¶ Activity: groups role-play ordering for three people from the menu and the server calculates the total.
+src: Original dialogue and menu written for this lesson.
+st: Read the restaurant dialogue | Learn server and customer phrases | Use the menu and measure words | Learn sharing customs | Role-play and total the bill
+org: Dish | Measure word | Price
+an: How does the server ask "Anything else?" | How do you ask for the bill? | What is the total of the dialogue's order? | How is sharing dishes different from Canadian restaurants?
+pr: Role-play ordering a meal for three in Mandarin, with at least five dishes or drinks, asking for the bill and stating the total.
+ex: Order || Order dumplings and tea. || 我们要 + measure words || 我们要一盘饺子和两杯茶。 || Add rice.
+ex: Anything else || Answer "That's all." || 就这些 || 就这些。 || Add one more item instead.
+ex: Bill || Ask for the bill. || 服务员, 买单! || 服务员, 买单! || What might they reply?
+ex: Total || Dumplings + noodles + vegetables + 2 teas? || 25 + 30 + 20 + 10 || 一共八十五块 || What if you add rice?
+p: B || What is 服务员? || Server.
+p: B || What is 菜单? || Menu.
+p: B || What does 买单 mean? || To pay the bill.
+p: B || What does 就这些 mean? || That's all.
+p: B || What does 一共 mean? || Altogether.
+p: I || Ask "What would you like to eat?" || 你们想吃什么?
+p: I || How much is a bowl of beef noodles? || 30 kuài.
+p: I || What does 还要别的吗 mean? || Anything else?
+p: I || Order a bowl of rice. || 我要一碗米饭。
+p: I || Say "It's extremely delicious!" || 好吃极了!
+p: I || What does 点菜 mean? || To order dishes.
+p: C || What is two bowls of rice and two juices? || 26 kuài.
+p: C || Why are dishes shared in many Chinese restaurants? || Meals are social and communal.
+p: C || What does tapping two fingers mean? || A quiet thank-you for pouring tea.
+p: C || Perform your role-play. || Answers vary.
+mis: Ordering dishes without measure words | Expecting individual plates for every dish | Forgetting to call the server to pay
+et: Ask for the menu. | Ask for the bill.
+mc: B || 服务员 is || the server | the menu | the chef | the customer || A
+mc: B || 菜单 is || the menu | a dish | the bill | the table || A
+mc: B || 买单 means || pay the bill | buy one | order | leave || A
+mc: B || 就这些 means || that's all | these ones | too many | not these || A
+mc: B || 一共 means || altogether | one time | together only | one dish || A
+mc: B || 好吃极了 means || extremely delicious | very bad | not hungry | full || A
+mc: I || Beef noodles cost || 30 kuài | 25 kuài | 5 kuài | 10 kuài || A
+mc: I || "Anything else?" is || 还要别的吗? | 你好吗? | 多少钱? | 几点? || A
+mc: I || The dialogue total is || 85 kuài | 75 kuài | 95 kuài | 80 kuài || A
+mc: I || Tea costs || 5 kuài a cup | 30 kuài | 25 kuài | free || A
+mc: C || In many Chinese restaurants dishes are || shared | individual only | eaten standing | free || A
+mc: C || Tapping two fingers means || thank you for the tea | more food | the bill | no || A
+sa: B || Name five restaurant words. || 服务员, 菜单, 点菜, 买单, 一共.
+sa: B || Say "That's all." || 就这些。
+sa: I || Order a meal for two. || Answers vary.
+sa: I || Ask for the bill. || 服务员, 买单!
+sa: I || Total two bowls of noodles and one juice. || 70 kuài.
+sa: I || Describe two Chinese dining customs. || Sharing dishes; serving others first.
+sa: C || Explain why meals are shared. || They are social and communal.
+sa: C || Perform your role-play. || Answers vary.
+
+=== CHI8.C1 0
+hook: China's currency is called 人民币 Rénmínbì, "the people's money." In everyday speech people say 块 kuài instead of 元 yuán, and 毛 máo for ten cents. Knowing both helps you read prices and hear them.
+sc: I can name Chinese money units | I can read and say prices with 块 and 毛 | I can convert simple amounts
+v: 钱 qián :: money
+v: 人民币 Rénmínbì :: Chinese currency (RMB)
+v: 元 yuán :: yuan (written)
+v: 块 kuài :: yuan (spoken)
+v: 角 jiǎo :: one tenth of a yuan (written)
+v: 毛 máo :: one tenth of a yuan (spoken)
+v: 分 fēn :: one hundredth of a yuan
+v: 加元 Jiāyuán :: Canadian dollar
+ts: 人民币 || Practice || How do I read and say prices in Chinese money?
+tx: Money guide (written for this lesson): ¶ 1 元 (yuán) = 10 角 (jiǎo) = 100 分 (fēn). ¶ Spoken: 块 kuài for 元, 毛 máo for 角. ¶ Prices: ¥5.00 五块 wǔ kuài; ¥2.00 两块 liǎng kuài; ¥3.50 三块五 (毛) sān kuài wǔ (máo); ¥12.80 十二块八 shí'èr kuài bā; ¥0.50 五毛 wǔ máo; ¥99 九十九块. ¶ The last unit is often dropped: 三块五 = 3.50. ¶ Written price tags use ¥ and decimals: ¥25.00 or 25元. ¶ Exchange: exchange rates change daily; your teacher will give a current approximate rate between Canadian dollars (加元) and yuan. Use it for estimates only. ¶ Today, many people in China pay with phone apps (scanning QR codes), but cash is still accepted and used. ¶ Activity: price-tag reading race: teams read price tags aloud in spoken form (块/毛); then convert three prices to Canadian dollars using the teacher's rate.
+src: Original activity written for this lesson; exchange rates vary and should be checked when used.
+st: Learn yuan, jiao and fen | Learn spoken 块 and 毛 | Read prices aloud | Use 两块 for ¥2 | Estimate conversions with a given rate
+org: Price tag | Spoken | Pinyin
+an: Why do people say 块 instead of 元? | How do you say ¥3.50? | Why is ¥2 两块? | How do many people pay in China today?
+pr: Read 12 price tags aloud in spoken form and write them in characters, then convert three to Canadian dollars with the given rate.
+ex: Whole || Say ¥8. || number + 块 || 八块 bā kuài || Say ¥2.
+ex: Decimal || Say ¥6.50. || 块 + 毛 || 六块五 (毛) || Say ¥15.80.
+ex: Small || Say ¥0.30. || 毛 only || 三毛 sān máo || Say ¥0.50.
+ex: Units || How many 毛 in 1 块? || 1 yuan = 10 jiao || 十毛 || How many 分?
+p: B || What does 钱 mean? || Money.
+p: B || What is 人民币? || Chinese currency.
+p: B || What is the spoken word for 元? || 块.
+p: B || What is the spoken word for 角? || 毛.
+p: B || How many 角 in 1 元? || 10.
+p: I || Say ¥5. || 五块.
+p: I || Say ¥2. || 两块.
+p: I || Say ¥4.50. || 四块五.
+p: I || Say ¥0.80. || 八毛.
+p: I || Say ¥20. || 二十块.
+p: I || How many 分 in 1 元? || 100.
+p: C || Why is the last unit often dropped? || It's understood from context.
+p: C || Why use the teacher's current rate? || Exchange rates change daily.
+p: C || What does 人民币 literally mean? || The people's money.
+p: C || Read your price tags. || Answers vary.
+mis: Saying 二块 | Confusing 毛 and 分 | Thinking 块 is a different currency from 元
+et: Say ¥7.50. | What is 毛?
+mc: B || 钱 means || money | bank | price | shop || A
+mc: B || 人民币 is || Chinese currency | Canadian dollar | a bank | a coin || A
+mc: B || 块 is spoken for || 元 | 角 | 分 | 毛 || A
+mc: B || 毛 is spoken for || 角 | 元 | 分 | 块 || A
+mc: B || 1 元 equals || 10 角 | 100 角 | 10 分 | 1 角 || A
+mc: B || 加元 is || the Canadian dollar | the yuan | the euro | a coin || A
+mc: I || ¥2 is said || 两块 | 二块 | 两毛 | 二元块 || A
+mc: I || ¥3.50 is said || 三块五 | 五块三 | 三毛五 | 三块五分 || A
+mc: I || ¥0.50 is said || 五毛 | 五块 | 五分 | 零五块 || A
+mc: I || ¥12.80 is said || 十二块八 | 十二毛八 | 八块十二 | 十二块八分 || A
+mc: C || Exchange rates || change daily | never change | are always 1:1 | are secret || A
+mc: C || Many people in China pay with || phone apps and cash | only cheques | only gold | only cards || A
+sa: B || Name the three units of Chinese money. || 元, 角, 分.
+sa: B || Give the spoken forms of 元 and 角. || 块, 毛.
+sa: I || Say ¥9.50 and ¥0.70. || 九块五, 七毛.
+sa: I || Explain why ¥2 is 两块. || 两 is used before measure words.
+sa: I || Convert a price using the teacher's rate. || Answers vary.
+sa: I || How many 分 in 1 元? || 100.
+sa: C || Explain why rates must be checked. || They change daily.
+sa: C || Read your price tags. || Answers vary.
+
+=== CHI8.C1 1
+hook: 多少钱? Duōshao qián? "How much?" is the essential shopping question. At markets in China, polite bargaining is sometimes expected, so you'll also learn how to say "too expensive!"
+sc: I can ask prices with 多少钱 | I can say an item is too expensive and ask for a lower price | I can use measure words with shopping items
+v: 多少钱? duōshao qián :: How much money?
+v: 太贵了 tài guì le :: too expensive
+v: 便宜 piányi :: cheap, inexpensive
+v: 便宜一点 piányi yìdiǎn :: a bit cheaper
+v: 买 mǎi :: to buy
+v: 卖 mài :: to sell
+v: 件 jiàn :: measure word for clothes, items
+v: 本 běn :: measure word for books
+ts: 多少钱? || Practice || How do I ask prices and bargain politely?
+tx: Shopping phrases (written for this lesson): ¶ Asking: 这个多少钱? Zhège duōshao qián? (How much is this?) 这件衣服多少钱? (How much is this piece of clothing?) 一本书多少钱? ¶ Answers: 五十块。 ¶ Reacting: 太贵了! (Too expensive!) 便宜一点, 可以吗? Piányi yìdiǎn, kěyǐ ma? (A bit cheaper, OK?) ¶ Agreeing: 好, 我买了。(OK, I'll buy it.) / 不要了, 谢谢。(I don't want it, thanks.) ¶ Measure words: 件 jiàn (clothes: 一件T恤), 本 běn (books: 两本书), 双 shuāng (pairs: 一双鞋 shoes), 个 gè (general: 一个包 bag). ¶ 买 mǎi (buy, third tone) vs 卖 mài (sell, fourth tone): the tone changes the meaning! ¶ Culture: in many outdoor markets and small stalls, friendly bargaining is common; in department stores and supermarkets, prices are fixed. Always stay polite and smile. ¶ Activity: partners practise with price cards: one asks, the other answers, then they bargain politely.
+src: Original activity written for this lesson.
+st: Learn 多少钱 | Learn shopping measure words | React with 太贵了 | Bargain with 便宜一点 | Practise with price cards
+org: Item | Measure word | Price | Bargained price
+an: How do 买 and 卖 differ? | Where is bargaining common? | How do you bargain politely? | Which measure word goes with shoes?
+pr: Write a shopping dialogue for three items with measure words, prices, one polite bargain and a final decision.
+ex: Price || Ask the price of a T-shirt. || 这件 + 多少钱 || 这件T恤多少钱? || Ask about a book.
+ex: Too expensive || React to ¥200. || 太贵了 || 太贵了! 便宜一点, 可以吗? || How might the seller reply?
+ex: Buy || "I'll buy two books." || 买 + 两本 || 我买两本书。 || "I'll buy a pair of shoes."
+ex: Tones || Is 卖 buy or sell? || Fourth tone || Sell || What is mǎi?
+p: B || What does 多少钱 mean? || How much money?
+p: B || What does 太贵了 mean? || Too expensive.
+p: B || What does 便宜 mean? || Cheap.
+p: B || What does 买 mean? || To buy.
+p: B || What does 卖 mean? || To sell.
+p: I || What measure word is used for clothes? || 件.
+p: I || What measure word is used for books? || 本.
+p: I || What measure word is used for pairs? || 双.
+p: I || Ask "How much is this?" || 这个多少钱?
+p: I || Ask for a lower price. || 便宜一点, 可以吗?
+p: I || Say "I'll buy it." || 我买了。
+p: C || Why must you be careful with 买 and 卖? || Only the tone distinguishes buy from sell.
+p: C || Where are prices usually fixed? || Department stores and supermarkets.
+p: C || Translate: How much is a pair of shoes? || 一双鞋多少钱?
+p: C || Write your shopping dialogue. || Answers vary.
+mis: Mixing up 买 and 卖 tones | Bargaining rudely or in fixed-price stores | Leaving out measure words
+et: Ask the price of a book. | Say "Too expensive!"
+mc: B || 多少钱 means || how much money | how many | what time | where || A
+mc: B || 太贵了 means || too expensive | too cheap | very good | too big || A
+mc: B || 便宜 means || cheap | expensive | convenient | small || A
+mc: B || 买 means || to buy | to sell | to pay | to want || A
+mc: B || 卖 means || to sell | to buy | to give | to open || A
+mc: B || 件 is used for || clothes | books | pairs | animals || A
+mc: I || 本 is used for || books | clothes | shoes | cups || A
+mc: I || "A pair of shoes" is || 一双鞋 | 一件鞋 | 一本鞋 | 一个双鞋 || A
+mc: I || "A bit cheaper" is || 便宜一点 | 贵一点 | 一点便宜 | 太便宜 || A
+mc: I || "How much is this T-shirt?" is || 这件T恤多少钱? | 这本T恤多少钱? | T恤几块? | 多少T恤? || A
+mc: C || Bargaining is common in || markets and small stalls | supermarkets | department stores | banks || A
+mc: C || 买 and 卖 differ by || tone | spelling only | meaning only | nothing || A
+sa: B || Ask "How much?" || 多少钱?
+sa: B || Say "Too expensive!" || 太贵了!
+sa: I || Give three shopping measure words with examples. || 一件衣服, 一本书, 一双鞋.
+sa: I || Bargain politely. || 便宜一点, 可以吗?
+sa: I || Explain 买 vs 卖. || Third tone buy; fourth tone sell.
+sa: I || Say "I don't want it, thanks." || 不要了, 谢谢。
+sa: C || Explain where bargaining is appropriate. || Markets and small stalls, not fixed-price stores.
+sa: C || Write your shopping dialogue. || Answers vary.
+
+=== CHI8.C1 2
+hook: Welcome to the class 市场 shìchǎng (market)! Today some of you are sellers and some are shoppers, and everything happens in Mandarin, from greeting to bargaining to paying.
+sc: I can shop at a role-play market in Mandarin | I can sell items, give prices and make change | I can use greetings, measure words, prices and bargaining together
+v: 市场 shìchǎng :: market
+v: 欢迎光临 huānyíng guānglín :: welcome (shop greeting)
+v: 要什么? yào shénme :: What would you like?
+v: 给你 gěi nǐ :: here you are
+v: 找你 zhǎo nǐ :: here's your change
+v: 可以 kěyǐ :: OK, can
+v: 一共 yígòng :: altogether
+v: 下次见 xiàcì jiàn :: see you next time
+ts: 中文市场 || Role-play || How do I shop and sell in Mandarin?
+tx: Market model (written for this lesson): ¶ 卖家 (seller): 欢迎光临! 你要什么? ¶ 买家 (buyer): 你好! 这件T恤多少钱? ¶ 卖家: 六十块。 ¶ 买家: 太贵了! 五十块, 可以吗? ¶ 卖家: 好, 可以。还要别的吗? ¶ 买家: 我还要两本书。 ¶ 卖家: 两本书二十块。一共七十块。 ¶ 买家: 给你一百块。 ¶ 卖家: 找你三十块。谢谢, 下次见! ¶ Setup: sellers run stalls (clothes 衣服, books 书, fruit 水果, snacks 零食) with price tags in ¥. Buyers get ¥200 in play money and a shopping list. ¶ Rules: everything in Mandarin; use measure words; bargain politely at least once; sellers calculate totals and change. ¶ Afterward: buyers record what they bought and spent; sellers record what they sold. Reflection: which phrases did you use most?
+src: Original role-play written for this lesson.
+st: Read the market model | Set up stalls with price tags | Shop with ¥200 and a list | Bargain and make change | Record purchases and reflect
+org: Item | Measure word | Price | Paid | Change
+an: What phrases did you use most? | How did you calculate change? | Was bargaining easy or hard? | How much of your ¥200 did you spend?
+pr: Complete the market role-play as buyer and seller, recording each transaction in characters with prices, totals and change.
+ex: Greeting || How does the seller greet you? || Shop phrase || 欢迎光临! || What do you reply?
+ex: Change || Pay ¥100 for ¥70. Change? || 100 − 70 || 找你三十块。 || Pay ¥50 for ¥35?
+ex: Total || T-shirt ¥50 + two books ¥20? || Add || 一共七十块。 || Add fruit ¥15.
+ex: Polite bargain || Offer ¥40 for a ¥50 bag. || 四十块, 可以吗? || 四十块, 可以吗? || How might they reply?
+p: B || What is 市场? || Market.
+p: B || What does 欢迎光临 mean? || Welcome (shop greeting).
+p: B || What does 给你 mean? || Here you are.
+p: B || What does 找你 mean? || Here's your change.
+p: B || What does 下次见 mean? || See you next time.
+p: I || How much change from ¥100 for ¥70? || ¥30.
+p: I || How much change from ¥50 for ¥35? || ¥15.
+p: I || Say "altogether ¥85." || 一共八十五块.
+p: I || Ask "What would you like?" as a seller. || 你要什么?
+p: I || How much play money do buyers get? || ¥200.
+p: I || Name four stall types. || 衣服, 书, 水果, 零食.
+p: C || Why do sellers calculate change? || To practise numbers and money in Mandarin.
+p: C || Translate: I'll give you 200. Here is your change of 45. || 给你两百块。找你四十五块。
+p: C || Why must everything be in Mandarin? || To practise real communication.
+p: C || Record your transactions. || Answers vary.
+mis: Switching to English when stuck | Forgetting measure words | Calculating change wrongly
+et: Greet a customer as a seller. | Give change for ¥100 on a ¥65 purchase.
+mc: B || 市场 is || a market | a city | a school | a menu || A
+mc: B || 欢迎光临 means || welcome | goodbye | thanks | sorry || A
+mc: B || 给你 means || here you are | give me | thank you | for me || A
+mc: B || 找你 means || here's your change | find you | call you | look for you || A
+mc: B || 下次见 means || see you next time | see you now | goodbye forever | hello || A
+mc: B || 可以 means || OK, can | cannot | maybe | never || A
+mc: I || Change from ¥100 for ¥70 is || 三十块 | 七十块 | 十七块 | 一百块 || A
+mc: I || Change from ¥50 for ¥35 is || 十五块 | 二十五块 | 五块 | 三十五块 || A
+mc: I || ¥50 + ¥20 is || 一共七十块 | 一共五十块 | 一共二十块 | 一共九十块 || A
+mc: I || Buyers start with || ¥200 | ¥20 | ¥2,000 | nothing || A
+mc: C || The role-play practises || numbers, money and phrases together | only writing | only tones | English || A
+mc: C || Bargaining should be || polite | rude | silent | in English || A
+sa: B || Name five market phrases. || 欢迎光临, 多少钱, 太贵了, 给你, 找你.
+sa: B || What is 市场? || Market.
+sa: I || Write one full transaction. || Answers vary.
+sa: I || Calculate change for ¥100 on ¥58. || ¥42.
+sa: I || Bargain politely for an item. || Answers vary.
+sa: I || Say "altogether ¥120." || 一共一百二十块.
+sa: C || Reflect on which phrases you used most. || Answers vary.
+sa: C || Record your transactions. || Answers vary.
+
+=== CHI8.D1 0
+hook: The Spring Festival, or Chinese New Year, is the most important holiday in Chinese culture, celebrated by over a billion people worldwide and in Chinatowns across Canada. Red decorations, reunion dinners and lucky red envelopes fill the season.
+sc: I can describe Spring Festival traditions in Mandarin and English | I can explain the meaning of common symbols | I can give New Year greetings
+v: 春节 Chūnjié :: Spring Festival
+v: 新年快乐 xīnnián kuàilè :: Happy New Year
+v: 红包 hóngbāo :: red envelope with money
+v: 年夜饭 niányèfàn :: New Year's Eve reunion dinner
+v: 春联 chūnlián :: spring couplets
+v: 福 fú :: good fortune
+v: 舞狮 wǔshī :: lion dance
+v: 恭喜发财 gōngxǐ fācái :: wishing you prosperity
+ts: 春节 || Reading || How is the Spring Festival celebrated?
+tx: Background (written for this lesson from public sources): ¶ 春节 follows the lunar calendar, falling between late January and mid-February. Each year is linked to one of twelve zodiac animals; 2026 is the Year of the Horse. ¶ Traditions: Families travel home for the 年夜饭 reunion dinner on New Year's Eve; in northern China, families often make 饺子 dumplings, shaped like old silver ingots for wealth. Homes are cleaned before the festival to sweep away bad luck. Red decorations (red is lucky) include 春联, poetic couplets hung on doorways, and the character 福 (good fortune), often hung upside down because 倒 dào (upside down) sounds like 到 dào (arrive): "good fortune arrives." Elders give children 红包 red envelopes with money. Fireworks and lion and dragon dances scare away bad luck. The festival ends with the Lantern Festival (元宵节) on the 15th day. ¶ Greetings: 新年快乐! 恭喜发财! (Wishing you prosperity!) ¶ In Canada: large celebrations take place in Chinatowns in Vancouver, Toronto, Calgary and Edmonton, among others. ¶ Activity: make a 红包 or a 福 poster and write two greetings in characters; explain three symbols.
+src: Summary from public sources about the Spring Festival.
+st: Learn when the festival happens | Learn traditions and symbols | Learn New Year greetings | Learn about celebrations in Canada | Make a 红包 or 福 poster
+org: Tradition | 汉字 | Meaning
+an: Why is 福 hung upside down? | Why is red important? | What is the 年夜饭? | How is the Spring Festival celebrated in Canada?
+pr: Create a Spring Festival poster with two greetings in characters and an explanation of four traditions or symbols.
+ex: Greeting || Say Happy New Year. || 新年快乐 || 新年快乐! xīnnián kuàilè || Another greeting?
+ex: Upside down || Why hang 福 upside down? || Sound pun || 倒 sounds like 到: good fortune arrives || Find another lucky pun.
+ex: Red envelope || What is a 红包? || Gift || A red envelope with money from elders || Why red?
+ex: Dumplings || Why eat dumplings? || Shape || They look like old silver ingots, symbolizing wealth || Where is this common?
+p: B || What is 春节? || Spring Festival.
+p: B || What does 新年快乐 mean? || Happy New Year.
+p: B || What is a 红包? || A red envelope with money.
+p: B || What does 福 mean? || Good fortune.
+p: B || What is 舞狮? || Lion dance.
+p: I || What is the 年夜饭? || The New Year's Eve reunion dinner.
+p: I || What are 春联? || Spring couplets on doorways.
+p: I || What does 恭喜发财 mean? || Wishing you prosperity.
+p: I || Which animal is 2026? || Horse.
+p: I || When does the Spring Festival end? || With the Lantern Festival on the 15th day.
+p: I || Why do families clean before the festival? || To sweep away bad luck.
+p: C || Why is 福 hung upside down? || 倒 sounds like 到, meaning good fortune arrives.
+p: C || Why does the date change each year? || It follows the lunar calendar.
+p: C || Name two Canadian cities with Chinatown celebrations. || Vancouver and Toronto.
+p: C || Present your poster. || Answers vary.
+mis: Thinking it's always on 1 January | Thinking it's only celebrated in China | Giving white envelopes
+et: Say two New Year greetings. | Why is red important?
+mc: B || 春节 is || Spring Festival | Mid-Autumn | Dragon Boat | spring break || A
+mc: B || 新年快乐 means || Happy New Year | Happy birthday | Good morning | Thank you || A
+mc: B || A 红包 is || a red envelope | a red bag of food | a lantern | a dragon || A
+mc: B || 福 means || good fortune | happiness only | spring | family || A
+mc: B || 年夜饭 is || the reunion dinner | breakfast | a snack | a parade || A
+mc: B || 舞狮 is || a lion dance | a dragon boat | fireworks | a lantern || A
+mc: I || 恭喜发财 means || wishing you prosperity | happy birthday | goodbye | sorry || A
+mc: I || 2026 is the Year of the || Horse | Dragon | Rat | Tiger || A
+mc: I || The festival ends with || the Lantern Festival | Mid-Autumn | Christmas | Dragon Boat || A
+mc: I || 春联 are || couplets on doorways | dumplings | envelopes | lanterns || A
+mc: C || 福 upside down means || good fortune arrives | bad luck | a mistake | nothing || A
+mc: C || The date changes because of || the lunar calendar | weather | government | school || A
+sa: B || Give two New Year greetings. || 新年快乐! 恭喜发财!
+sa: B || What is a 红包? || A red envelope with money.
+sa: I || Explain three traditions. || Reunion dinner, red envelopes, couplets.
+sa: I || Explain the upside-down 福. || 倒 sounds like 到: fortune arrives.
+sa: I || Why do northern families make dumplings? || They symbolize wealth.
+sa: I || When does the festival happen? || Late January to mid-February.
+sa: C || Explain why the date changes. || It follows the lunar calendar.
+sa: C || Present your poster. || Answers vary.
+
+=== CHI8.D1 1
+hook: Two more major Chinese festivals: under the full autumn moon, families share mooncakes; in early summer, teams race dragon boats to the beat of drums. Each has a famous legend behind it.
+sc: I can describe the Mid-Autumn and Dragon Boat festivals | I can retell the legend behind each | I can name their foods and activities in Mandarin
+v: 中秋节 Zhōngqiū Jié :: Mid-Autumn Festival
+v: 月饼 yuèbing :: mooncake
+v: 月亮 yuèliang :: the moon
+v: 嫦娥 Cháng'é :: the moon goddess in legend
+v: 端午节 Duānwǔ Jié :: Dragon Boat Festival
+v: 粽子 zòngzi :: sticky rice wrapped in leaves
+v: 龙舟 lóngzhōu :: dragon boat
+v: 团圆 tuányuán :: family reunion
+ts: 中秋节和端午节 || Reading || How are the Mid-Autumn and Dragon Boat festivals celebrated?
+tx: Background (written for this lesson from public sources): ¶ 中秋节 Mid-Autumn Festival: the 15th day of the 8th lunar month (September or early October), when the moon is full and bright. The round moon symbolizes 团圆, family togetherness. Families eat 月饼 mooncakes (round pastries often filled with lotus seed paste, red bean paste or salted egg yolk), admire the moon and carry lanterns. Legend: 嫦娥 Cháng'é drank an elixir of immortality and floated to the moon, where she lives with a jade rabbit. ¶ 端午节 Dragon Boat Festival: the 5th day of the 5th lunar month (usually June). Teams race long boats with dragon heads, paddling to drumbeats. People eat 粽子, sticky rice wrapped in bamboo leaves. Legend: the poet 屈原 Qū Yuán, a loyal official in ancient times, drowned himself in a river; people raced boats to search for him and threw rice into the water so fish wouldn't eat his body. ¶ In Canada: dragon boat festivals are held in many cities, including Calgary and Edmonton, with community teams. ¶ Activity: groups retell one legend in English with key Mandarin words, then make a comparison chart of the two festivals.
+src: Summary from public sources about the Mid-Autumn and Dragon Boat festivals.
+st: Learn about the Mid-Autumn Festival | Retell the Chang'e legend | Learn about the Dragon Boat Festival | Retell the Qu Yuan legend | Compare the two festivals
+org: Festival | Date | Food | Activity | Legend
+an: Why is the full moon important at Mid-Autumn? | Who is Chang'e? | Why do people throw rice into rivers in the Qu Yuan legend? | Where are dragon boat races held in Canada?
+pr: Make a comparison chart of the two festivals with dates, foods, activities and legends, and retell one legend using six Mandarin words.
+ex: Food || What food is eaten at Mid-Autumn? || Round pastry || 月饼 mooncakes || What's inside?
+ex: Legend || Who lives on the moon in legend? || Chang'e || 嫦娥 and a jade rabbit || How did she get there?
+ex: Dragon Boat food || What is 粽子? || Wrapped rice || Sticky rice wrapped in bamboo leaves || Why rice?
+ex: Meaning || What does the round moon symbolize? || 团圆 || Family togetherness || How do families celebrate it?
+p: B || What is 中秋节? || Mid-Autumn Festival.
+p: B || What is 月饼? || Mooncake.
+p: B || What is 端午节? || Dragon Boat Festival.
+p: B || What is 粽子? || Sticky rice wrapped in leaves.
+p: B || What is 龙舟? || Dragon boat.
+p: I || When is Mid-Autumn? || 15th day of the 8th lunar month.
+p: I || When is Dragon Boat? || 5th day of the 5th lunar month.
+p: I || Who is 嫦娥? || The moon goddess in legend.
+p: I || Who is remembered at Dragon Boat? || The poet Qu Yuan.
+p: I || What does 团圆 mean? || Family reunion.
+p: I || Name a mooncake filling. || Lotus seed paste.
+p: C || Why are boats raced at Dragon Boat? || To recall the search for Qu Yuan.
+p: C || How are both festivals about community? || They bring families and communities together.
+p: C || Name a Canadian city with dragon boat races. || Calgary.
+p: C || Retell your legend. || Answers vary.
+mis: Mixing up the two legends | Thinking dragon boats are only in China | Thinking mooncakes are eaten at Spring Festival
+et: Name the food of each festival. | Who is Qu Yuan?
+mc: B || 中秋节 is || Mid-Autumn Festival | Spring Festival | Dragon Boat | Lantern || A
+mc: B || 月饼 is || mooncake | dumpling | noodle | rice || A
+mc: B || 端午节 is || Dragon Boat Festival | Mid-Autumn | New Year | Tomb Sweeping || A
+mc: B || 粽子 is || wrapped sticky rice | a mooncake | a boat | a lantern || A
+mc: B || 龙舟 is || a dragon boat | a dragon dance | a lantern | a moon || A
+mc: B || 月亮 is || the moon | the sun | a month | a star || A
+mc: I || Mid-Autumn is on the || 15th of the 8th lunar month | 5th of the 5th | 1st of the 1st | 15th of the 1st || A
+mc: I || Chang'e lives on || the moon | a mountain | a river | the sun || A
+mc: I || Dragon Boat remembers || Qu Yuan | Chang'e | Confucius | an emperor || A
+mc: I || 团圆 means || family reunion | round cake | moon | festival || A
+mc: C || Rice was thrown in the river to || protect Qu Yuan's body from fish | feed ducks | celebrate | clean the river || A
+mc: C || The round moon symbolizes || togetherness | wealth | war | winter || A
+sa: B || Name the food of each festival. || 月饼; 粽子.
+sa: B || Name each festival in characters. || 中秋节, 端午节.
+sa: I || Retell the Chang'e legend briefly. || She drank an elixir and floated to the moon.
+sa: I || Retell the Qu Yuan legend briefly. || A poet drowned; people raced boats and threw rice to protect him.
+sa: I || What does the full moon symbolize? || Family togetherness.
+sa: I || Where are dragon boat races in Canada? || Calgary, Edmonton and other cities.
+sa: C || Explain how both festivals build community. || They bring families and communities together.
+sa: C || Share your comparison chart. || Answers vary.
+
+=== CHI8.D1 2
+hook: Every culture has celebrations of family, harvest, the new year and remembering the past. Comparing a Chinese festival with one you celebrate shows how people everywhere share similar hopes.
+sc: I can compare a Chinese festival with a celebration I know | I can use 都, 也 and 一样 to compare in Mandarin | I can present my comparison
+v: 都 dōu :: both, all
+v: 也 yě :: also
+v: 一样 yíyàng :: the same
+v: 不一样 bù yíyàng :: different
+v: 节日 jiérì :: festival, holiday
+v: 庆祝 qìngzhù :: to celebrate
+v: 家人 jiārén :: family members
+v: 传统 chuántǒng :: tradition
+ts: 比较节日 || Presentation || How does a Chinese festival compare with one I celebrate?
+tx: Comparison language (written for this lesson): ¶ 都 dōu (both/all), before the verb: 春节和圣诞节都是家人的节日。(The Spring Festival and Christmas are both family holidays.) ¶ 也 yě (also): 中秋节吃月饼, 感恩节也吃特别的菜。(At Mid-Autumn people eat mooncakes; at Thanksgiving people also eat special food.) ¶ 一样 / 不一样: 时间不一样。(The dates are different.) ¶ Possible pairs: Spring Festival and New Year's Day, Christmas or Nowruz; Mid-Autumn and Thanksgiving (both harvest and family); Dragon Boat and a summer festival; Lantern Festival and Diwali (both festivals of light); Qingming (tomb-sweeping, remembering ancestors) and Remembrance Day or Día de los Muertos. ¶ Task: choose a Chinese festival and one you know. Venn diagram: date, food, activities, symbols, meaning. Write and present (1–2 minutes) at least five Mandarin sentences using 都, 也, 一样 and 不一样, plus English explanation as needed. ¶ Respect: describe all traditions accurately and respectfully.
+src: Original activity written for this lesson.
+st: Choose two festivals | Make a Venn diagram | Learn 都, 也, 一样 | Write five Mandarin comparison sentences | Present to the class
+org: 中国节日 | 都 / 一样 | 我的节日
+an: What do the two festivals have in common? | What is most different? | Where does 都 go in a sentence? | Why do many cultures have similar festivals?
+pr: Present a 1–2 minute comparison of a Chinese festival and one you know, with a Venn diagram and five Mandarin sentences using 都, 也 and 一样.
+ex: Both || "Both are family holidays." || A和B都是… || 春节和圣诞节都是家人的节日。 || Another?
+ex: Also || "We also eat special food." || 也 + verb || 我们也吃特别的菜。 || Another?
+ex: Different || "The dates are different." || 不一样 || 时间不一样。 || "The food is different."
+ex: Same || "The meaning is the same." || 一样 || 意思一样。 || Is it true for your pair?
+p: B || What does 都 mean? || Both, all.
+p: B || What does 也 mean? || Also.
+p: B || What does 一样 mean? || The same.
+p: B || What is 节日? || Festival, holiday.
+p: B || What does 庆祝 mean? || To celebrate.
+p: I || Where does 都 go? || Before the verb.
+p: I || Say "The food is different." || 菜不一样。
+p: I || What does 家人 mean? || Family members.
+p: I || What is 传统? || Tradition.
+p: I || Which Chinese festival pairs with Thanksgiving? || Mid-Autumn Festival.
+p: I || Which Chinese festival is about remembering ancestors? || Qingming.
+p: C || Why do many cultures have harvest festivals? || People everywhere celebrate food and gratitude.
+p: C || Translate: Both festivals have lanterns. || 两个节日都有灯笼。
+p: C || Why describe traditions respectfully? || Traditions are meaningful to communities.
+p: C || Present your comparison. || Answers vary.
+mis: Putting 都 before the subject | Only listing differences | Describing traditions inaccurately
+et: Write one sentence with 都. | Name a festival pair.
+mc: B || 都 means || both, all | also | same | different || A
+mc: B || 也 means || also | both | not | very || A
+mc: B || 一样 means || the same | different | one | similar only || A
+mc: B || 节日 is || festival | weekday | birthday | season || A
+mc: B || 庆祝 means || to celebrate | to cook | to visit | to rest || A
+mc: B || 传统 is || tradition | culture | history | holiday || A
+mc: I || 都 goes || before the verb | at the end | before the subject | after the object || A
+mc: I || "The dates are different" is || 时间不一样。 | 时间一样不。 | 不时间一样。 | 时间都一样。 || A
+mc: I || Mid-Autumn pairs well with || Thanksgiving | Halloween | Canada Day | April Fool's || A
+mc: I || Qingming is about || remembering ancestors | boats | mooncakes | fireworks only || A
+mc: C || Many cultures have harvest festivals because || people celebrate food and gratitude | it's required | of school | by chance only || A
+mc: C || Comparisons should include || similarities and differences | only differences | only facts | only opinions || A
+sa: B || Name four comparison words. || 都, 也, 一样, 不一样.
+sa: B || What does 节日 mean? || Festival.
+sa: I || Write a sentence with 都. || Answers vary.
+sa: I || Write a sentence with 也. || Answers vary.
+sa: I || Write a sentence with 不一样. || Answers vary.
+sa: I || Suggest a festival pair. || Answers vary.
+sa: C || Explain why cultures share similar festivals. || Shared human values like family and harvest.
+sa: C || Present your comparison. || Answers vary.

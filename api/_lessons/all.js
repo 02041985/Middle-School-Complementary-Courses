@@ -105,5 +105,8 @@ module.exports = {
   "CHI7.C1": require("./CHI7.C1.json"),
   "CHI7.D1": require("./CHI7.D1.json"),
   "CHI8.A1": require("./CHI8.A1.json"),
+  "CHI8.B1": require("./CHI8.B1.json"),
+  "CHI8.C1": require("./CHI8.C1.json"),
+  "CHI8.D1": require("./CHI8.D1.json"),
   "CHI9.A1": require("./CHI9.A1.json"),
 };
