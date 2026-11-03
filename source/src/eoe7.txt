@@ -1,0 +1,637 @@
+=== EOE7.A1 1
+hook: A sunny morning in the Rockies can turn into sleet by lunch. Experienced hikers never head out without a few key items, because when something goes wrong outdoors, what's in your pack is all you have.
+sc: I can list the outdoor essentials and explain why each matters | I can pack a day pack for a school outing | I can adjust my pack for the season and activity
+v: essentials :: Items every outdoor traveller should carry, such as water, food, layers and first aid.
+v: day pack :: A small backpack for a one-day outing.
+v: navigation :: Finding your way, using a map, compass or GPS.
+v: emergency shelter :: A light item such as an emergency blanket or bivy that protects from weather.
+v: hydration :: Drinking enough water to keep the body working well.
+v: first aid kit :: Supplies for treating minor injuries.
+ts: Pack Smart || Field skills || What should I always bring outdoors, and why?
+tx: The outdoor essentials (a common list, written for this lesson): ¶ 1. Navigation: map, compass and a charged phone (phones can fail in cold or without signal). ¶ 2. Light: headlamp or flashlight with spare batteries. ¶ 3. Sun protection: sunglasses, sunscreen, hat. ¶ 4. First aid kit, including any personal medications. ¶ 5. Knife or multi-tool (for adult leaders on school trips; follow school rules). ¶ 6. Fire starter: matches or lighter in a waterproof bag (leaders carry, used only in emergencies or where allowed). ¶ 7. Emergency shelter: emergency blanket or bivy. ¶ 8. Extra food. ¶ 9. Extra water and a way to carry it. ¶ 10. Extra clothes: warm layer, rain jacket, toque and gloves, even in summer in the mountains. ¶ Also: whistle (three blasts = help), garbage bag, ID and an emergency contact. ¶ Activity: groups receive a pile of items, including some unnecessary ones (a hair dryer, a large speaker). Pack a day pack for a three-hour autumn walk in a nearby park, explain each choice, then weigh the pack.
+src: Original activity written for this lesson; the essentials list follows common outdoor-safety practice.
+st: Learn the outdoor essentials | Sort useful and unnecessary items | Pack a day pack for a scenario | Explain each choice | Adjust the pack for winter
+org: Essential | Item | Why it matters | Season changes
+an: Which essential surprised you? | What did you leave out and why? | How would your pack change for a winter outing? | Why carry extra clothes in summer?
+pr: Pack a day pack for a given outing, list each item with its purpose, and explain two changes for a different season.
+ex: Phone only || Why not rely only on a phone? || Failures || Batteries die in cold, and there may be no signal || What backup?
+ex: Whistle || How do you signal for help? || Whistle code || Three short blasts || Why a whistle and not shouting?
+ex: Summer layers || Why pack a toque in July in the mountains? || Weather || Mountain weather can turn cold quickly || What else?
+ex: Winter changes || Name two winter additions. || Cold || Insulated bottle with warm drink, extra mitts || Why?
+p: B || What are the outdoor essentials? || Items every outdoor traveller should carry.
+p: B || What is a day pack? || A small backpack for a day outing.
+p: B || What is navigation? || Finding your way.
+p: B || What is emergency shelter? || A light item that protects from weather.
+p: B || What is hydration? || Drinking enough water.
+p: I || How many essentials are on the common list? || 10.
+p: I || What does three whistle blasts mean? || Help.
+p: I || Name two navigation tools. || Map and compass.
+p: I || Why carry extra food? || In case the trip takes longer than planned.
+p: I || What should be in a first aid kit? || Supplies for minor injuries and personal medications.
+p: I || Why pack a garbage bag? || To pack out litter.
+p: C || Why can phones fail outdoors? || Cold drains batteries and signal may be missing.
+p: C || Why plan for the trip taking longer? || Delays, injuries or weather can extend it.
+p: C || How should a pack change for winter? || Add warm layers, insulated drinks and extra mitts.
+p: C || Explain your day pack. || Answers vary.
+mis: Relying only on a phone | Packing for perfect weather | Thinking essentials are only for long trips
+et: Name five essentials. | What does three whistle blasts mean?
+mc: B || Essentials are || items every traveller carries | optional luxuries | souvenirs | snacks only || A
+mc: B || A day pack is for || a day outing | a month | a move | school only || A
+mc: B || Navigation means || finding your way | cooking | sleeping | swimming || A
+mc: B || Emergency shelter protects from || weather | bears | homework | noise || A
+mc: B || Hydration means || drinking enough water | eating | sleeping | resting || A
+mc: B || A whistle is used to || signal for help | play music | scare birds | call pets || A
+mc: I || Three whistle blasts mean || help | hello | lunch | done || A
+mc: I || The common essentials list has || 10 items | 2 items | 50 items | 1 item || A
+mc: I || Phones can fail because of || cold and no signal | too much use of maps | sunlight | wind || A
+mc: I || A garbage bag lets you || pack out litter | build a fire | swim | sleep || A
+mc: C || Extra food matters because || trips can run long | it's heavy | it's tasty | rules || A
+mc: C || Winter packs add || warm layers and insulated drinks | a fan | sandals | ice cream || A
+sa: B || Define essentials. || Items every outdoor traveller should carry.
+sa: B || What is hydration? || Drinking enough water to keep the body working well.
+sa: I || List five essentials. || Navigation, light, first aid, extra food, extra clothes.
+sa: I || What is the whistle signal for help? || Three short blasts.
+sa: I || Why carry layers in summer? || Weather can change quickly, especially in the mountains.
+sa: I || Why not rely only on a phone? || Batteries and signal can fail.
+sa: C || Explain how you'd change your pack for winter. || Answers vary.
+sa: C || Explain your day pack choices. || Answers vary.
+
+=== EOE7.A1 2
+hook: In Alberta we can face −30 °C wind chills in January and +30 °C heat in July. Both can hurt you. Knowing the early signs of cold and heat injuries, and acting fast, keeps a fun day outside from becoming an emergency.
+sc: I can recognize signs of hypothermia, frostbite, heat exhaustion and heat stroke | I can explain how to prevent cold and heat injuries | I can describe basic first steps and when to get help
+v: hypothermia :: A dangerous drop in body core temperature.
+v: frostbite :: Freezing of skin and the tissue underneath.
+v: frostnip :: An early, mild cold injury where skin turns pale and numb.
+v: wind chill :: How cold it feels on exposed skin when wind is combined with temperature.
+v: heat exhaustion :: Overheating with heavy sweating, weakness, headache and nausea.
+v: heat stroke :: A medical emergency where the body overheats and can't cool itself.
+ts: Too Cold, Too Hot || Field skills || How do I prevent and respond to cold and heat injuries?
+tx: Cold and heat guide (written for this lesson; summarizes common first-aid guidance; school first-aid procedures always apply): ¶ Hypothermia: early signs: shivering, cold hands, clumsy movements, and the "umbles" (stumbles, mumbles, fumbles, grumbles). Prevent: layers, stay dry, eat and drink, keep moving. Respond: get to shelter, replace wet clothes, add layers, warm sweet drinks if alert; severe cases (shivering stops, confusion): call 911. ¶ Frostnip and frostbite: skin turns white or greyish, feels numb or hard (cheeks, nose, ears, fingers). Prevent: cover skin, check each other's faces. Respond: warm gently with body heat; do not rub; get medical help for frostbite. ¶ Wind chill: Environment and Climate Change Canada warns that at wind chills of about −28 and colder, exposed skin can freeze in 10–30 minutes. ¶ Heat exhaustion: heavy sweating, pale clammy skin, dizziness, headache, nausea. Respond: move to shade, rest, drink water, cool with damp cloths. ¶ Heat stroke: very high body temperature, confusion, may stop sweating, hot skin, fainting. This is an emergency: call 911 and cool the person right away. ¶ Activity: scenario cards: groups identify the injury, the response and how it could have been prevented.
+src: Summary written for this lesson; wind chill guidance from Environment and Climate Change Canada.
+st: Learn signs of cold injuries | Learn signs of heat injuries | Practise buddy face checks | Solve scenario cards | Make a prevention checklist
+org: Injury | Signs | Prevention | Response | Emergency?
+an: How are heat exhaustion and heat stroke different? | Why shouldn't you rub frostbitten skin? | What are the umbles? | How can a buddy system help?
+pr: Create a prevention and response card for one cold injury and one heat injury, including when to call 911.
+ex: Umbles || A friend is stumbling and mumbling in the cold. Concern? || Umbles || Possible hypothermia: get them to shelter and warm them || When is it an emergency?
+ex: White cheeks || A friend's cheeks look white and waxy. What next? || Frostnip or frostbite || Cover and warm gently with body heat; don't rub || How could it be prevented?
+ex: Confused in heat || A student is confused with hot, dry skin. Response? || Heat stroke || Call 911 and cool them right away || How is this different from heat exhaustion?
+ex: Wind chill || The wind chill is −30. Risk? || ECCC guidance || Exposed skin can freeze in 10–30 minutes || What should you do?
+p: B || What is hypothermia? || A dangerous drop in core temperature.
+p: B || What is frostbite? || Freezing of skin and tissue.
+p: B || What is wind chill? || How cold it feels with wind on skin.
+p: B || What is heat exhaustion? || Overheating with sweating, weakness and nausea.
+p: B || What is heat stroke? || A medical emergency from overheating.
+p: I || What are the umbles? || Stumbles, mumbles, fumbles, grumbles.
+p: I || Should you rub frostbitten skin? || No.
+p: I || How do you warm frostnip? || Gently with body heat.
+p: I || What is the first response to heat exhaustion? || Move to shade, rest and drink water.
+p: I || What do you do for heat stroke? || Call 911 and cool the person.
+p: I || How fast can skin freeze at −28 wind chill or colder? || In 10–30 minutes.
+p: C || Why is staying dry important in the cold? || Wet clothing loses heat quickly.
+p: C || Why is heat stroke more dangerous than heat exhaustion? || The body can no longer cool itself and organs can be damaged.
+p: C || How does a buddy system help prevent injuries? || Buddies notice signs you can't see in yourself.
+p: C || Make your prevention and response card. || Answers vary.
+mis: Rubbing frostbite to warm it | Thinking sweating always stops heat injury | Waiting too long to call 911
+et: Name the umbles. | What is the difference between heat exhaustion and heat stroke?
+mc: B || Hypothermia is || low core temperature | high temperature | a sunburn | a sprain || A
+mc: B || Frostbite is || frozen skin and tissue | a burn | a rash | a cut || A
+mc: B || Wind chill describes || how cold it feels with wind | rainfall | humidity | snow depth || A
+mc: B || Heat exhaustion includes || heavy sweating | shivering | frostbite | hiccups || A
+mc: B || Heat stroke is || an emergency | minor | normal | harmless || A
+mc: B || Frostnip makes skin || pale and numb | red and itchy | blue and warm | hot || A
+mc: I || The umbles are signs of || hypothermia | heat stroke | sunburn | allergies || A
+mc: I || Frostbitten skin should be || warmed gently | rubbed hard | ignored | iced || A
+mc: I || For heat stroke you should || call 911 and cool them | give a hot drink | keep walking | wait || A
+mc: I || At −28 wind chill skin can freeze in || 10–30 minutes | 10 hours | 10 days | never || A
+mc: C || Staying dry matters because || wet clothes lose heat | dry clothes are heavy | rules | colour || A
+mc: C || Buddies help because they || notice signs you can't | carry everything | stay inside | nothing || A
+sa: B || Define hypothermia. || A dangerous drop in body core temperature.
+sa: B || What is wind chill? || How cold it feels on exposed skin with wind.
+sa: I || Name four signs of hypothermia. || Shivering, stumbles, mumbles, fumbles.
+sa: I || How do you respond to frostnip? || Warm gently with body heat; don't rub.
+sa: I || Compare heat exhaustion and heat stroke. || Exhaustion: sweaty, weak; stroke: confused, hot skin, emergency.
+sa: I || When should you call 911? || Severe hypothermia, frostbite with damage, or heat stroke.
+sa: C || Explain how layering prevents injury. || It keeps you warm and dry and lets you adjust.
+sa: C || Make your prevention card. || Answers vary.
+
+=== EOE7.B1 0
+hook: Naturalists from Darwin to modern park wardens have one habit in common: they write everything down. A field journal turns a walk outside into real scientific observation.
+sc: I can set up and use a field journal | I can record detailed observations using words, sketches and data | I can separate observations from inferences
+v: field journal :: A notebook for recording observations outdoors.
+v: observation :: Information gathered with the senses.
+v: inference :: An explanation based on observations.
+v: sketch :: A quick drawing that records details.
+v: data :: Facts or measurements, such as temperature or counts.
+v: naturalist :: A person who studies nature through observation.
+ts: The Field Journal || Field skills || How do scientists record what they see outdoors?
+tx: Field journal setup (written for this lesson): ¶ Every entry starts with: date, time, location, weather (temperature, cloud cover, wind) and who you're with. ¶ Use all three: words (describe colours, sounds, smells, textures), pictures (labelled sketches with arrows, a scale like "about 5 cm") and numbers (counts, temperature, measurements). ¶ Observation vs inference: "Five holes in the dead tree, each about 3 cm wide" is an observation. "A woodpecker made these holes" is an inference. Write inferences with "I think... because..." ¶ Question prompts: "I notice... I wonder... It reminds me of..." ¶ Activity (30 minutes outside): 1. Sit-spot: sit silently for 10 minutes in one spot; record everything you sense. 2. Sketch one living thing and one non-living thing with labels and a scale. 3. Count something (birds, ants, dandelions in a square metre). 4. Write two inferences and two questions. ¶ Respect: observe without disturbing plants or animals.
+src: Original activity written for this lesson.
+st: Set up a journal entry header | Do a 10-minute sit-spot | Sketch living and non-living things | Count and measure | Write inferences and questions
+org: Header | Words | Sketch | Numbers | Questions
+an: What did you notice in the sit-spot that you would normally miss? | Which observation was most detailed? | What is one inference you made and your evidence? | What do you wonder about your spot?
+pr: Complete a full field journal entry with header, sit-spot notes, two labelled sketches, data and two "I wonder" questions.
+ex: Observation || Is "the leaves are yellow and brown" an observation? || Senses || Yes; it's seen directly || What is an inference about it?
+ex: Inference || Write an inference about chewed leaves. || I think... because || "I think insects ate the leaves because there are small round holes" || What evidence would confirm it?
+ex: Header || What goes in an entry header? || Context || Date, time, location, weather, companions || Why record weather?
+ex: Scale || Why add a scale to a sketch? || Size || So others know how big the object is || How?
+p: B || What is a field journal? || A notebook for outdoor observations.
+p: B || What is an observation? || Information gathered with the senses.
+p: B || What is an inference? || An explanation based on observations.
+p: B || What is data? || Facts or measurements.
+p: B || What is a naturalist? || Someone who studies nature by observing.
+p: I || What goes in an entry header? || Date, time, location, weather, companions.
+p: I || What are the three ways to record? || Words, pictures, numbers.
+p: I || How long is a sit-spot? || 10 minutes.
+p: I || How do you write an inference? || "I think... because..."
+p: I || Name the three question prompts. || I notice, I wonder, it reminds me of.
+p: I || Why add a scale? || To show size.
+p: C || Why separate observations from inferences? || Observations are facts; inferences may be wrong.
+p: C || Why record weather? || It affects what plants and animals do.
+p: C || Why sit silently? || Animals return and you notice more.
+p: C || Share your journal entry. || Answers vary.
+mis: Writing inferences as facts | Drawing without labels or scale | Disturbing wildlife to see it better
+et: Give one observation and one inference. | What goes in a header?
+mc: B || A field journal records || outdoor observations | homework | music | sports scores || A
+mc: B || An observation uses || the senses | guesses | rumours | nothing || A
+mc: B || An inference is || an explanation from observations | a fact | a sketch | a count || A
+mc: B || Data are || facts or measurements | opinions | songs | stories || A
+mc: B || A naturalist || studies nature | builds houses | sells food | writes music || A
+mc: B || "I wonder" is a || question prompt | fact | header | scale || A
+mc: I || A header includes || date and weather | your favourite colour | jokes | nothing || A
+mc: I || The three ways to record are || words, pictures, numbers | songs, dances, games | none | colours only || A
+mc: I || A sit-spot lasts || 10 minutes | 10 seconds | 10 hours | 10 days || A
+mc: I || Inferences start with || I think... because | It is | Always | Never || A
+mc: C || Separating observations and inferences matters because || inferences can be wrong | they're the same | facts are wrong | nothing || A
+mc: C || Sitting silently helps because || animals return | it's warm | it's fast | nothing || A
+sa: B || Define inference. || An explanation based on observations.
+sa: B || What is a field journal? || A notebook for recording observations outdoors.
+sa: I || List the header items. || Date, time, location, weather, companions.
+sa: I || What are the three ways to record? || Words, pictures, numbers.
+sa: I || Give an observation and an inference. || Answers vary.
+sa: I || Why add a scale to sketches? || To show size.
+sa: C || Explain why weather matters in a journal. || It affects living things' behaviour.
+sa: C || Share your journal entry. || Answers vary.
+
+=== EOE7.B1 1
+hook: A pond, a field or even a crack in the schoolyard pavement is an ecosystem: living things interacting with water, soil, air and sunlight. Every part depends on the others.
+sc: I can identify biotic and abiotic parts of an ecosystem | I can describe how living and non-living parts interact | I can record ecosystem parts at a local site
+v: ecosystem :: Living things interacting with each other and their non-living surroundings.
+v: biotic :: Living or once-living parts of an ecosystem, such as plants, animals and fungi.
+v: abiotic :: Non-living parts, such as water, soil, sunlight, air and temperature.
+v: habitat :: The place where an organism lives and gets what it needs.
+v: decomposer :: An organism such as a fungus or bacterium that breaks down dead matter.
+v: interaction :: A way two parts of an ecosystem affect each other.
+ts: Living and Non-living || Field skills || How do living and non-living things work together in an ecosystem?
+tx: Site survey (written for this lesson): ¶ 1. Hoop survey: groups place a hoop or a 1 m square on the ground in three spots (sunny grass, shady area, near water or a drain). ¶ 2. Biotic list: plants (grasses, dandelions, moss), animals (ants, beetles, worms, birds), fungi (mushrooms, lichens on rocks), signs of animals (tracks, droppings, chewed leaves). ¶ 3. Abiotic measurements: air and soil temperature, light (sunny, partial, shade), soil moisture (dry, damp, wet), soil type (sand, clay, loam), slope. ¶ 4. Interactions: draw arrows linking parts: sunlight → grass (energy); worms → soil (mixing); fungi → dead leaves (decomposition); shade → moss (cool, moist). ¶ 5. Compare the three spots: how do abiotic conditions change what lives there? ¶ Respect: return rocks and logs exactly where they were; observe small animals without harm.
+src: Original activity written for this lesson.
+st: Place survey squares in three spots | List biotic parts | Measure abiotic conditions | Draw interaction arrows | Compare the three spots
+org: Spot | Biotic | Abiotic | Interactions
+an: Which spot had the most living things? | How did shade and moisture change what lived there? | What decomposers did you find? | Which interaction surprised you?
+pr: Create an ecosystem diagram for one survey spot with at least six biotic and abiotic parts and four labelled interactions.
+ex: Classify || Is a dead log biotic or abiotic? || Once living || Biotic || Is a rock?
+ex: Interaction || How do worms affect soil? || Burrowing || They mix and aerate soil and add nutrients || How does soil affect worms?
+ex: Comparing spots || Why is there moss in shade but not sun? || Abiotic || Shade keeps soil cool and moist, which moss needs || What grows in sun?
+ex: Decomposer || What breaks down fallen leaves? || Decomposers || Fungi, bacteria and some insects || Why does it matter?
+p: B || What is an ecosystem? || Living things interacting with their surroundings.
+p: B || What does biotic mean? || Living or once-living.
+p: B || What does abiotic mean? || Non-living.
+p: B || What is a habitat? || Where an organism lives and gets what it needs.
+p: B || What is a decomposer? || An organism that breaks down dead matter.
+p: I || Is sunlight biotic or abiotic? || Abiotic.
+p: I || Is a mushroom biotic or abiotic? || Biotic.
+p: I || Is a fallen leaf biotic or abiotic? || Biotic.
+p: I || Name three abiotic measurements. || Temperature, light, soil moisture.
+p: I || What do you do with rocks you turn over? || Put them back exactly.
+p: I || How do worms help soil? || They mix and aerate it.
+p: C || How do abiotic conditions shape what lives in a spot? || Organisms live where conditions meet their needs.
+p: C || Why are decomposers important? || They recycle nutrients back into the soil.
+p: C || What happens if one part of an ecosystem changes? || Other parts are affected through interactions.
+p: C || Explain your ecosystem diagram. || Answers vary.
+mis: Thinking dead things are abiotic | Thinking ecosystems are only big wild places | Ignoring non-living parts
+et: Give two biotic and two abiotic parts. | Describe one interaction.
+mc: B || An ecosystem includes || living and non-living parts | only animals | only plants | only water || A
+mc: B || Biotic means || living or once-living | non-living | rocky | wet || A
+mc: B || Abiotic means || non-living | living | animal | fungal || A
+mc: B || A habitat is || where an organism lives | a meal | a predator | a rock only || A
+mc: B || A decomposer || breaks down dead matter | eats only live plants | is a rock | is sunlight || A
+mc: B || Sunlight is || abiotic | biotic | a decomposer | a habitat || A
+mc: I || A dead log is || biotic | abiotic | water | air || A
+mc: I || A mushroom is a || decomposer | rock | mineral | gas || A
+mc: I || Worms help soil by || mixing and aerating | freezing it | drying it | removing nutrients || A
+mc: I || Moss grows best in || shade and moisture | hot dry sun | concrete | snow only || A
+mc: C || Abiotic conditions shape || what lives there | nothing | only weather | only rocks || A
+mc: C || Decomposers matter because they || recycle nutrients | eat everything | pollute | freeze soil || A
+sa: B || Define ecosystem. || Living things interacting with each other and their non-living surroundings.
+sa: B || What is the difference between biotic and abiotic? || Biotic: living or once-living; abiotic: non-living.
+sa: I || List three biotic and three abiotic parts of your site. || Answers vary.
+sa: I || Describe an interaction. || Answers vary.
+sa: I || Why do different spots have different organisms? || Abiotic conditions differ.
+sa: I || What do decomposers do? || Break down dead matter and recycle nutrients.
+sa: C || Explain what happens when one part changes. || Other parts are affected.
+sa: C || Explain your ecosystem diagram. || Answers vary.
+
+=== EOE7.B1 2
+hook: Before scientists study an area, they map it. A good site map shows where things are, helps you return to the same spot, and reveals patterns you might miss on the ground.
+sc: I can draw a site map with a title, legend, compass rose and scale | I can measure distances by pacing | I can show habitats and features on my map
+v: site map :: A drawing of a study area seen from above.
+v: legend :: A key that explains symbols on a map.
+v: compass rose :: A symbol showing north, south, east and west.
+v: scale :: How distance on the map relates to distance on the ground.
+v: pacing :: Measuring distance by counting steps.
+v: bird's-eye view :: Seeing from directly above.
+ts: Mapping Our Site || Field skills || How do I make an accurate map of a study site?
+tx: Mapping steps (written for this lesson): ¶ 1. Pace length: walk 10 m on a measured line and count your steps (count every step, or every second step as one "pace"). Divide 10 by your count to get metres per step (e.g. 10 m ÷ 14 steps ≈ 0.7 m). ¶ 2. Choose the site: about 30 m × 30 m of the schoolyard or a nearby park. ¶ 3. Find north: use a compass or the sun (in the afternoon the sun is in the southwest). ¶ 4. Measure the edges by pacing; convert to metres. ¶ 5. Choose a scale that fits your paper: e.g. 1 cm = 2 m. ¶ 6. Draw from a bird's-eye view: buildings, paths, trees, garden beds, drains, slopes. ¶ 7. Legend: symbols for trees, shrubs, grass, water, pavement, survey squares from last lesson. ¶ 8. Add title, your name, date, compass rose and scale bar. ¶ Accuracy check: compare maps between groups; where do they disagree and why?
+src: Original activity written for this lesson.
+st: Measure your pace length | Find north | Pace the site edges | Choose a scale and draw from above | Add legend, compass rose, scale and title
+org: Feature | Distance paced | Distance in metres | Map length
+an: What is your pace length? | How did you find north? | Where did group maps disagree? | What patterns does the map show about habitats?
+pr: Draw a site map with title, legend, compass rose, scale and at least eight features, including your survey squares.
+ex: Pace length || 10 m in 14 steps. Pace length? || 10 ÷ 14 || About 0.7 m per step || How far is 40 steps?
+ex: Converting || 40 steps at 0.7 m per step? || Multiply || 28 m || How long on a map at 1 cm = 2 m?
+ex: Scale || 28 m at 1 cm = 2 m? || Divide || 14 cm || Does it fit on your paper?
+ex: Legend || Why use a legend? || Symbols || So readers know what each symbol means || Name three symbols.
+p: B || What is a site map? || A drawing of an area from above.
+p: B || What is a legend? || A key explaining symbols.
+p: B || What is a compass rose? || A symbol showing directions.
+p: B || What is scale? || How map distance relates to real distance.
+p: B || What is pacing? || Measuring distance by steps.
+p: I || How do you find your pace length? || Walk 10 m and divide by steps.
+p: I || 10 m in 12 steps: pace length? || About 0.83 m.
+p: I || 50 steps at 0.6 m: distance? || 30 m.
+p: I || 20 m at 1 cm = 2 m: map length? || 10 cm.
+p: I || Where is the afternoon sun? || In the southwest.
+p: I || What view is a map drawn from? || Bird's-eye view.
+p: C || Why do group maps sometimes disagree? || Different pace lengths, estimates or scales.
+p: C || How can a map reveal habitat patterns? || Seeing everything together shows where features cluster.
+p: C || Why choose a scale before drawing? || So the whole site fits on the paper.
+p: C || Present your site map. || Answers vary.
+mis: Drawing from the side instead of above | Forgetting the scale or legend | Using someone else's pace length
+et: Name four parts every map needs. | How do you find pace length?
+mc: B || A site map shows || an area from above | a portrait | a side view | a song || A
+mc: B || A legend explains || symbols | weather | music | homework || A
+mc: B || A compass rose shows || directions | temperature | scale | time || A
+mc: B || Scale shows || map vs real distance | colour | height only | weather || A
+mc: B || Pacing measures with || steps | rulers only | eyes | sound || A
+mc: B || Maps are drawn from || above | below | the side | inside || A
+mc: I || 10 m in 14 steps is about || 0.7 m per step | 1.4 m | 7 m | 0.07 m || A
+mc: I || 40 steps at 0.7 m is || 28 m | 40 m | 4 m | 70 m || A
+mc: I || 28 m at 1 cm = 2 m is || 14 cm | 28 cm | 56 cm | 2 cm || A
+mc: I || The afternoon sun is || southwest | north | due east | northeast || A
+mc: C || Group maps disagree because of || different paces and estimates | magic | weather | nothing || A
+mc: C || Choose a scale first so || the site fits the page | it's colourful | it's faster | nothing || A
+sa: B || Define legend. || A key that explains symbols on a map.
+sa: B || What is pacing? || Measuring distance by counting steps.
+sa: I || Calculate your pace length from 10 m in 13 steps. || About 0.77 m.
+sa: I || Convert 30 steps at 0.8 m to metres. || 24 m.
+sa: I || Draw 24 m at 1 cm = 2 m. || 12 cm.
+sa: I || List the parts every map needs. || Title, legend, compass rose, scale.
+sa: C || Explain why maps disagree. || Different paces, estimates and scales.
+sa: C || Present your site map. || Answers vary.
+
+=== EOE7.C1 0
+hook: Thousands of people visit Alberta's parks every year. If each person picked one flower or left one wrapper, the places we love would be ruined. Leave No Trace gives seven simple principles that protect the outdoors for everyone.
+sc: I can name and explain the seven Leave No Trace principles | I can apply the principles to real outdoor situations | I can explain why small actions add up
+v: Leave No Trace :: Seven principles for enjoying the outdoors while minimizing human impact.
+v: impact :: The effect people have on the environment.
+v: durable surface :: Ground that resists damage, such as rock, gravel, dry grass or established trails.
+v: pack it in, pack it out :: Carrying out all garbage and leftover food.
+v: wildlife habituation :: When animals lose their fear of people, often from being fed.
+v: cumulative impact :: Small effects adding up over many people and time.
+ts: Leave No Trace || Field skills || How can we enjoy the outdoors without harming it?
+tx: The seven principles (from the Leave No Trace Center for Outdoor Ethics, summarized for this lesson): ¶ 1. Plan ahead and prepare: know the rules, weather and route; go in small groups. ¶ 2. Travel and camp on durable surfaces: stay on trails; walk single file in the middle, even when muddy. ¶ 3. Dispose of waste properly: pack it in, pack it out, including orange peels and food scraps. ¶ 4. Leave what you find: take photos, not rocks, flowers or artifacts. ¶ 5. Minimize campfire impacts: use stoves; use existing fire rings where fires are allowed; follow fire bans. ¶ 6. Respect wildlife: watch from a distance; never feed animals. A fed animal becomes habituated and can become dangerous. ¶ 7. Be considerate of other visitors: keep noise down, yield on trails, keep pets controlled. ¶ Activity: "What's wrong with this picture?": groups examine a drawn campsite scene with 10 violations, match each to a principle and suggest a better choice. Then do a short Leave No Trace walk on a school trail.
+src: Summary of the seven principles from the Leave No Trace Center for Outdoor Ethics.
+st: Learn the seven principles | Match violations in a campsite scene | Suggest better choices | Practise on a trail walk | Discuss cumulative impact
+org: Principle | Example violation | Better choice
+an: Which principle is easiest to forget? | Why walk through mud instead of around it? | Why is an orange peel a problem? | How do small actions add up over thousands of visitors?
+pr: Create a poster or short video explaining all seven Leave No Trace principles with an Alberta example for each.
+ex: Muddy trail || Why walk through a muddy trail, not around it? || Durable surfaces || Walking around widens the trail and damages plants || What footwear helps?
+ex: Orange peel || Why pack out an orange peel? || Waste || It takes a long time to break down and attracts animals || What about apple cores?
+ex: Feeding wildlife || Why not feed a squirrel or bear? || Habituation || Animals lose fear of people and can become dangerous or need to be removed || What should you do instead?
+ex: Wildflowers || A beautiful wildflower is by the trail. What do you do? || Leave what you find || Photograph it and leave it || Why?
+p: B || What is Leave No Trace? || Seven principles for minimizing human impact outdoors.
+p: B || What is impact? || The effect people have on the environment.
+p: B || What is a durable surface? || Ground that resists damage.
+p: B || What does pack it in, pack it out mean? || Carry out all garbage.
+p: B || What is wildlife habituation? || Animals losing fear of people.
+p: I || How many Leave No Trace principles are there? || 7.
+p: I || What is principle 1? || Plan ahead and prepare.
+p: I || Should you walk around mud on a trail? || No, walk through it.
+p: I || What do you take instead of flowers? || Photos.
+p: I || What should you use instead of campfires when possible? || A stove.
+p: I || Name one way to be considerate of others. || Keep noise down or yield on trails.
+p: C || Why does cumulative impact matter? || Small actions by many people add up to big damage.
+p: C || Why is a fed animal dangerous? || It approaches people for food and may become aggressive.
+p: C || Why go in small groups? || Smaller groups cause less impact.
+p: C || Present your Leave No Trace poster. || Answers vary.
+mis: Thinking food scraps are fine to leave | Walking around mud | Thinking one picked flower doesn't matter
+et: Name all seven principles. | Why not feed wildlife?
+mc: B || Leave No Trace has || 7 principles | 3 principles | 10 rules | 1 rule || A
+mc: B || Impact is || our effect on the environment | a sport | a map | a tool || A
+mc: B || A durable surface is || rock or established trail | wet meadow | moss | flowers || A
+mc: B || Pack it in, pack it out means || carry out garbage | leave garbage | burn garbage | bury everything || A
+mc: B || Habituation is when animals || lose fear of people | migrate | hibernate | hide || A
+mc: B || Instead of picking flowers || take photos | press them | sell them | eat them || A
+mc: I || On a muddy trail || walk through the middle | walk around | make a new trail | turn back always || A
+mc: I || Orange peels should be || packed out | thrown in the bush | buried | burned || A
+mc: I || Use instead of fires when possible || a stove | a bonfire | fireworks | candles || A
+mc: I || Principle 1 is || plan ahead and prepare | respect wildlife | leave what you find | pack out || A
+mc: C || Cumulative impact means || small actions add up | one big action | nothing | weather || A
+mc: C || Fed animals can become || dangerous | healthier | shy | invisible || A
+sa: B || Define Leave No Trace. || Seven principles for enjoying the outdoors while minimizing impact.
+sa: B || What is a durable surface? || Ground that resists damage, like rock or established trails.
+sa: I || List the seven principles. || Plan ahead; durable surfaces; dispose of waste; leave what you find; minimize campfires; respect wildlife; be considerate.
+sa: I || Why walk through mud on a trail? || To avoid widening the trail.
+sa: I || Why pack out food scraps? || They attract animals and break down slowly.
+sa: I || Why not feed wildlife? || It causes habituation and danger.
+sa: C || Explain cumulative impact. || Small actions by many people add up.
+sa: C || Present your poster. || Answers vary.
+
+=== EOE7.C1 1
+hook: Think of a place outdoors that matters to you: a grandparent's farm, a favourite park bench, a lake from summer holidays. Feeling connected to a place is often what makes people want to protect it.
+sc: I can describe a place that is meaningful to me and why | I can use my senses and memories to write about a place | I can explain how connection to place leads to caring for it
+v: sense of place :: The feelings and meaning a person connects with a place.
+v: connection :: A relationship or bond with something.
+v: sensory detail :: Description based on sight, sound, smell, touch or taste.
+v: memory :: Something remembered from the past.
+v: reflection :: Thinking carefully about experiences and their meaning.
+v: stewardship :: Taking responsibility for caring for something.
+ts: My Special Place || Reflection || Why do places matter to us?
+tx: Reflection activities (written for this lesson): ¶ 1. Mind map (10 minutes): write the name of a meaningful outdoor place in the centre. Around it: what you see, hear, smell and feel there; who you go with; a memory; how you feel there. ¶ 2. Sensory writing (15 minutes): write a paragraph or poem that puts the reader in your place using at least four senses. Example opener: "The wind off the slough smells like mud and cut hay..." ¶ 3. Sit-spot return (15 minutes): go back to your schoolyard sit-spot from the field journal lesson. How has it changed? Does it feel different now that you know it? ¶ 4. Discussion: Researchers and outdoor educators often note that people who feel connected to nature are more likely to act to protect it. Why might that be? ¶ 5. Share (optional): read a few lines to a partner. ¶ Respect: some places and memories are private; share only what you're comfortable with.
+src: Original activity written for this lesson.
+st: Mind map a meaningful place | Write with four senses | Return to your sit-spot | Discuss connection and care | Share if comfortable
+org: Sense | Detail | Feeling
+an: What makes your place special? | Which sense was easiest to describe? | How has your sit-spot changed? | How does caring about a place change how you act there?
+pr: Write a sensory paragraph or poem about a meaningful place and two sentences on how your connection makes you want to care for it.
+ex: Sensory detail || Make "the lake was nice" sensory. || Use senses || "Cold water lapped at the rocks and loons called across the bay" || Add smell.
+ex: Connection to care || Why might someone who loves a lake pick up litter there? || Feelings || They feel responsible because it matters to them || Have you done this?
+ex: Sit-spot change || What might change at a sit-spot over a month? || Seasons || Leaf colour, temperature, birds present || What did you notice?
+ex: Privacy || Why share only what you're comfortable with? || Respect || Some places and memories are personal || How can a partner respond respectfully?
+p: B || What is sense of place? || Feelings and meaning connected to a place.
+p: B || What is a connection? || A bond with something.
+p: B || What is a sensory detail? || A description from the senses.
+p: B || What is reflection? || Thinking carefully about experiences.
+p: B || What is stewardship? || Taking responsibility for caring for something.
+p: I || How many senses should your writing use? || At least four.
+p: I || What goes in the mind map centre? || The name of your place.
+p: I || Name two things to add to the mind map. || What you hear and a memory.
+p: I || Where do you return for the sit-spot? || Your schoolyard sit-spot.
+p: I || Name the five senses. || Sight, hearing, smell, touch, taste.
+p: I || Do you have to share your writing? || No, only if comfortable.
+p: C || Why does connection to nature lead to caring for it? || People protect what they value.
+p: C || How can a familiar place feel different after observing it? || You notice details and changes you missed.
+p: C || Why do sensory details make writing powerful? || The reader can imagine being there.
+p: C || Share your sensory writing. || Answers vary.
+mis: Thinking a special place must be wilderness | Writing only what something looks like | Thinking reflection has right answers
+et: Name your place and one sensory detail. | Why does connection lead to care?
+mc: B || Sense of place is || meaning connected to a place | a map | a compass | a GPS || A
+mc: B || A sensory detail uses || the senses | a calculator | a map | a list || A
+mc: B || Reflection means || careful thinking about experiences | ignoring | copying | guessing || A
+mc: B || Stewardship is || caring for something | ignoring it | selling it | leaving it || A
+mc: B || A special place can be || anywhere meaningful | only wilderness | only parks | only abroad || A
+mc: B || A connection is || a bond | a fence | a rule | a test || A
+mc: I || Writing should use at least || four senses | one sense | zero senses | ten senses || A
+mc: I || The mind map centre is || your place | your name | the date | the weather || A
+mc: I || Sharing is || optional | required | forbidden | graded || A
+mc: I || Return to your || sit-spot | classroom | locker | bus || A
+mc: C || Connection leads to care because people || protect what they value | forget | ignore | leave || A
+mc: C || Sensory details help readers || imagine being there | get bored | skip | forget || A
+sa: B || Define sense of place. || The feelings and meaning a person connects with a place.
+sa: B || What is stewardship? || Taking responsibility for caring for something.
+sa: I || Describe your place using four senses. || Answers vary.
+sa: I || How did your sit-spot change? || Answers vary.
+sa: I || Why is sharing optional? || Places and memories can be personal.
+sa: I || Make a plain sentence sensory. || Answers vary.
+sa: C || Explain how connection leads to care. || People protect what they value.
+sa: C || Share your sensory writing. || Answers vary.
+
+=== EOE7.C1 2
+hook: Long before Alberta was a province, the land was home to many First Nations and later the Métis. Learning about the treaties and the original peoples of the land where your school stands is part of understanding where you live.
+sc: I can name the treaty area and Indigenous peoples connected to where I live | I can explain the purpose of a land acknowledgment | I can describe Indigenous relationships with the land respectfully
+v: treaty :: A formal agreement between nations; in Alberta, agreements between First Nations and the Crown.
+v: First Nations :: Indigenous peoples in Canada who are not Métis or Inuit.
+v: Métis :: A distinct Indigenous people with their own culture, language (Michif) and history.
+v: land acknowledgment :: A statement recognizing the Indigenous peoples and treaties connected to a place.
+v: reciprocity :: Giving back in a relationship; in many Indigenous teachings, caring for the land that cares for us.
+v: Elder :: A respected knowledge keeper in an Indigenous community.
+ts: The Land We Live On || Reflection || Whose land is this, and what does that mean for how we care for it?
+tx: Background (written for this lesson from public sources): ¶ Treaty areas in Alberta: Treaty 6 (signed 1876, central Alberta including Edmonton), Treaty 7 (1877, southern Alberta including Calgary), and Treaty 8 (1899, northern Alberta). Alberta is also part of the homeland of the Métis, including Métis Settlements unique to Alberta. ¶ Peoples include: Cree (Nêhiyawak), Dene, Blackfoot Confederacy (Siksika, Kainai, Piikani), Tsuut'ina, Stoney Nakoda, Saulteaux and others, as well as the Métis. ¶ Land acknowledgments: a statement at the start of an event recognizing the treaty and peoples of that place. A meaningful acknowledgment is specific and is followed by action and learning. ¶ Relationship with land: many Indigenous teachings describe land as a relative to be respected, with reciprocity: taking only what is needed and giving back. ¶ Activities: 1. Use a treaty map to find your school's treaty area. 2. Read your school's land acknowledgment (or a public one from your city); discuss each part. 3. If possible, listen to a local Elder or knowledge keeper (invited through your school's protocols). 4. Write: one action you can take that shows respect for the land.
+src: Summary from public records of the treaties; local teachings should come from invited community members following school protocols.
+st: Find your school's treaty area | Learn about the peoples of the land | Read and discuss a land acknowledgment | Listen to a local knowledge keeper if possible | Write a personal respect action
+org: Question | What I learned | Source
+an: Which treaty area is your school in? | What makes a land acknowledgment meaningful? | What does reciprocity mean in your own words? | What action will you take?
+pr: Write a personal reflection naming your treaty area and the peoples connected to it, explaining the purpose of a land acknowledgment and one respectful action.
+ex: Treaty area || Which treaty includes Edmonton? || Map || Treaty 6 || Which includes Calgary?
+ex: Treaty 7 || When was Treaty 7 signed? || Date || 1877 || Which peoples signed?
+ex: Meaningful acknowledgment || What makes an acknowledgment meaningful? || Beyond words || It's specific and followed by learning and action || Give an example action.
+ex: Reciprocity || Give an example of reciprocity with land. || Give back || Taking only what you need and helping restore a place || How does this connect to Leave No Trace?
+p: B || What is a treaty? || A formal agreement between nations.
+p: B || Who are the Métis? || A distinct Indigenous people with their own culture and language.
+p: B || What is a land acknowledgment? || A statement recognizing the peoples and treaties of a place.
+p: B || What is reciprocity? || Giving back in a relationship.
+p: B || What is an Elder? || A respected knowledge keeper.
+p: I || What treaty includes Edmonton? || Treaty 6.
+p: I || What treaty includes Calgary? || Treaty 7.
+p: I || What treaty covers northern Alberta? || Treaty 8.
+p: I || When was Treaty 6 signed? || 1876.
+p: I || Name the three Blackfoot Confederacy nations in Alberta. || Siksika, Kainai, Piikani.
+p: I || What language is associated with the Métis? || Michif.
+p: C || Why should acknowledgments be followed by action? || Words alone don't build relationships or show respect.
+p: C || How does reciprocity connect to caring for nature? || It means giving back to the land that supports us.
+p: C || Why invite knowledge keepers through school protocols? || To show respect and follow community practices.
+p: C || Write your reflection. || Answers vary.
+mis: Thinking treaties are only in the past | Thinking all Indigenous peoples are the same | Treating acknowledgments as just a script
+et: Name your treaty area. | What is reciprocity?
+mc: B || A treaty is || a formal agreement | a park | a map | a song || A
+mc: B || The Métis are || a distinct Indigenous people | a city | a river | a park || A
+mc: B || A land acknowledgment || recognizes peoples and treaties | sells land | names parks | is a law || A
+mc: B || Reciprocity means || giving back | taking all | ignoring | leaving || A
+mc: B || An Elder is || a knowledge keeper | a tree | a mountain | a map || A
+mc: B || Michif is a || Métis language | river | mountain | treaty || A
+mc: I || Edmonton is in || Treaty 6 | Treaty 7 | Treaty 8 | no treaty || A
+mc: I || Calgary is in || Treaty 7 | Treaty 6 | Treaty 8 | Treaty 1 || A
+mc: I || Northern Alberta is mostly || Treaty 8 | Treaty 7 | Treaty 2 | Treaty 4 || A
+mc: I || Treaty 7 was signed in || 1877 | 1977 | 1777 | 1912 || A
+mc: C || Acknowledgments should lead to || learning and action | nothing | silence | forgetting || A
+mc: C || Reciprocity with land means || taking only what you need and giving back | taking everything | ignoring | selling || A
+sa: B || Define treaty. || A formal agreement between nations.
+sa: B || What is a land acknowledgment? || A statement recognizing the Indigenous peoples and treaties of a place.
+sa: I || Name Alberta's three treaty areas. || Treaty 6, 7 and 8.
+sa: I || Name four Indigenous peoples in Alberta. || Cree, Blackfoot, Dene, Métis.
+sa: I || What does reciprocity mean? || Giving back in a relationship.
+sa: I || What makes an acknowledgment meaningful? || Being specific and followed by action.
+sa: C || Explain how reciprocity connects to caring for land. || Give back to land that supports us.
+sa: C || Write your reflection. || Answers vary.
+
+=== EOE7.D1 0
+hook: Before you can improve something, you need to know where it stands. Scientists and city planners start every project with an assessment. Today, your schoolyard is the study site.
+sc: I can assess the schoolyard using a checklist | I can collect data on litter, plants and habitat | I can identify a problem worth solving
+v: assessment :: Collecting information to understand the current state of something.
+v: biodiversity :: The variety of living things in an area.
+v: litter audit :: Collecting, sorting and counting litter to find patterns.
+v: pollinator :: An animal, such as a bee or butterfly, that moves pollen between flowers.
+v: impervious surface :: Ground that water can't soak through, such as pavement.
+v: baseline :: Data collected before a change, used for comparison.
+ts: Schoolyard Check-Up || Investigation || What is the state of our schoolyard environment?
+tx: Schoolyard assessment (written for this lesson): ¶ Zones: divide the schoolyard into zones (front entrance, field, playground, parking edge, garden). Each group takes one. ¶ 1. Litter audit (with gloves and grabbers): collect litter in your zone for 15 minutes; sort into plastic, paper, food waste, metal, other; count and weigh. Never pick up sharp objects or needles: tell an adult. ¶ 2. Plant survey: count types of plants (grass, trees, shrubs, flowers, weeds); note any flowering plants for pollinators. ¶ 3. Habitat check: are there places for birds and insects (trees, shrubs, logs, water)? Evidence of animals? ¶ 4. Surfaces: estimate the percentage that is pavement vs grass vs garden vs bare soil. ¶ 5. Problems: drainage puddles, erosion, worn paths, areas with no shade. ¶ Results: combine class data into a chart. This is your baseline. Vote on the biggest problem to solve (e.g. litter by the entrance, no pollinator plants, bare erosion patch).
+src: Original activity written for this lesson.
+st: Divide the schoolyard into zones | Conduct a safe litter audit | Survey plants and habitats | Estimate surface types | Combine data and identify a problem
+org: Zone | Litter count | Plant types | Habitat features | Problems
+an: Which zone had the most litter, and why? | Where are pollinator plants? | What percentage is pavement? | What problem should we solve first?
+pr: Present your zone's assessment data in a chart and recommend one problem for the class to solve, with evidence.
+ex: Litter pattern || Most litter near the entrance is food wrappers. Inference? || Location || People eat near the entrance and bins may be missing or full || How could you check?
+ex: Safety || You find a needle. What do you do? || Don't touch || Leave it and tell an adult right away || Why?
+ex: Biodiversity || The field is all one grass type. Biodiversity? || Variety || Low biodiversity || How could it increase?
+ex: Baseline || Why record a baseline? || Before data || To compare after the project and measure change || When do you measure again?
+p: B || What is an assessment? || Collecting information on the current state.
+p: B || What is biodiversity? || Variety of living things.
+p: B || What is a litter audit? || Collecting, sorting and counting litter.
+p: B || What is a pollinator? || An animal moving pollen between flowers.
+p: B || What is a baseline? || Data collected before a change.
+p: I || What should you never pick up? || Sharp objects or needles.
+p: I || Name four litter categories. || Plastic, paper, food waste, metal.
+p: I || How long do you collect litter? || 15 minutes.
+p: I || Name two pollinators. || Bees and butterflies.
+p: I || What is an impervious surface? || Ground water can't soak through.
+p: I || How does the class choose a problem? || Vote using evidence.
+p: C || Why does low biodiversity matter? || Fewer species means less habitat and a less resilient ecosystem.
+p: C || Why is pavement a problem for water? || Rain runs off instead of soaking in, causing puddles and runoff.
+p: C || Why base the project choice on data? || So you solve a real, measurable problem.
+p: C || Present your zone data. || Answers vary.
+mis: Picking up dangerous litter | Choosing a problem without evidence | Thinking schoolyards have no ecosystem
+et: What is a baseline? | What do you do if you find a needle?
+mc: B || An assessment collects || current information | money | litter only | opinions || A
+mc: B || Biodiversity is || variety of life | amount of litter | pavement | weather || A
+mc: B || A litter audit || sorts and counts litter | plants trees | builds paths | paints walls || A
+mc: B || A pollinator moves || pollen | rocks | water | litter || A
+mc: B || A baseline is || before data | after data | a guess | a map || A
+mc: B || Pavement is || impervious | absorbent | living | a pollinator || A
+mc: I || If you find a needle || tell an adult | pick it up | kick it | hide it || A
+mc: I || Litter collection lasts || 15 minutes | 15 seconds | 15 hours | all year || A
+mc: I || A field of one grass has || low biodiversity | high biodiversity | no plants | many pollinators || A
+mc: I || Pollinators include || bees | rocks | worms | snails only || A
+mc: C || Pavement causes || runoff | more soaking | flowers | shade || A
+mc: C || Choose problems using || data | guesses | coin flips | rumours || A
+sa: B || Define biodiversity. || The variety of living things in an area.
+sa: B || What is a baseline? || Data collected before a change, used for comparison.
+sa: I || Describe a safe litter audit. || Gloves, grabbers, sort and count, never touch sharps.
+sa: I || What did you find in your zone? || Answers vary.
+sa: I || Why is pavement a problem? || Water runs off instead of soaking in.
+sa: I || Name two pollinators. || Bees and butterflies.
+sa: C || Explain why projects need data. || To solve real, measurable problems.
+sa: C || Present your zone data and recommendation. || Answers vary.
+
+=== EOE7.D1 1
+hook: Good intentions aren't enough; projects need a plan. Who will do what, when, with which materials, and how will we know it worked? Today you plan a stewardship action for the schoolyard.
+sc: I can write a SMART goal for a stewardship action | I can plan tasks, materials, roles and a timeline | I can get permission and consider safety
+v: stewardship :: Taking responsibility for caring for the environment.
+v: action plan :: A detailed plan of tasks, roles, materials and timeline.
+v: SMART goal :: A goal that is specific, measurable, achievable, relevant and time-bound.
+v: native plant :: A plant that naturally grows in the region.
+v: timeline :: A schedule of when tasks will happen.
+v: permission :: Approval from people responsible, such as the principal or facilities staff.
+ts: Planning Our Action || Project || How do we plan a stewardship action that works?
+tx: Planning template (written for this lesson): ¶ Project ideas (from the baseline): a regular litter patrol and new bin signs at the entrance; planting a pollinator patch with native Alberta plants (e.g. wild bergamot, prairie crocus, blanket flower, fireweed, goldenrod); building and installing bird or bee houses; mulching a bare erosion patch; a "no-idling" or waste-reduction campaign. ¶ 1. SMART goal: e.g. "By June 5, plant a 4 m² pollinator patch with at least 5 native species near the south fence." ¶ 2. Tasks: list each step in order. ¶ 3. Roles: project manager, materials coordinator, communications (posters, announcements), safety officer, data recorder. ¶ 4. Materials and budget: what you need, where it comes from (donations, school budget, local garden centres). ¶ 5. Timeline: dates for each task. ¶ 6. Permission: write a short proposal to the principal and facilities staff. ¶ 7. Safety: tools, gloves, weather, supervision. ¶ 8. Success measures: how will you compare with the baseline?
+src: Original activity written for this lesson; native plant examples are common Alberta wildflowers.
+st: Choose a project from the baseline | Write a SMART goal | Assign roles and tasks | Plan materials, budget and timeline | Write a proposal and safety plan
+org: Task | Who | Materials | Date | Done?
+an: Is your goal SMART? Check each letter. | Which task depends on another being done first? | What permissions do you need? | How will you measure success?
+pr: Write a complete action plan and a one-paragraph proposal to the principal.
+ex: SMART check || Is "make the schoolyard better" SMART? || Check letters || No; it's not specific, measurable or time-bound || Rewrite it.
+ex: Native plants || Why choose native plants? || Adapted || They suit Alberta's climate and support local pollinators || Name two.
+ex: Dependencies || Which comes first: buying plants or getting permission? || Order || Permission first || Why?
+ex: Success measure || How do you measure a litter project's success? || Compare to baseline || Count litter in the same zone after and compare || How often?
+p: B || What is stewardship? || Taking responsibility for caring for the environment.
+p: B || What is an action plan? || A plan of tasks, roles, materials and timeline.
+p: B || What is a SMART goal? || Specific, measurable, achievable, relevant, time-bound.
+p: B || What is a native plant? || A plant that naturally grows in the region.
+p: B || What is a timeline? || A schedule for tasks.
+p: I || Name two native Alberta wildflowers. || Wild bergamot and prairie crocus.
+p: I || Name three project roles. || Project manager, safety officer, data recorder.
+p: I || Who must give permission? || The principal and facilities staff.
+p: I || What comes before buying materials? || Getting permission.
+p: I || How do you measure success? || Compare new data with the baseline.
+p: I || What does the T in SMART stand for? || Time-bound.
+p: C || Why are native plants better for pollinators? || Local pollinators evolved with them.
+p: C || Why assign roles? || Everyone knows their job and nothing is missed.
+p: C || Why include a safety plan? || To prevent injuries during the project.
+p: C || Share your action plan. || Answers vary.
+mis: Starting work without permission | Writing vague goals | Not planning how to measure success
+et: Write a SMART goal. | Name two roles.
+mc: B || Stewardship means || caring for the environment | ignoring it | selling it | paving it || A
+mc: B || An action plan includes || tasks, roles and timeline | only ideas | nothing | grades || A
+mc: B || SMART goals are || specific and measurable | vague | secret | huge || A
+mc: B || Native plants || grow naturally in the region | come from far away | are plastic | are weeds always || A
+mc: B || A timeline is || a schedule | a map | a budget | a poster || A
+mc: B || Permission comes from || the principal and facilities | anyone | nobody | the bus driver || A
+mc: I || A native Alberta flower is || prairie crocus | tulip from the Netherlands | orchid | cactus || A
+mc: I || Before buying plants || get permission | plant them | water them | sell them || A
+mc: I || Success is measured by || comparing with the baseline | guessing | feelings | the weather || A
+mc: I || The safety officer || plans for safe work | buys plants | makes posters | counts litter || A
+mc: C || Native plants help pollinators because || they evolved together | they're bigger | they're cheaper | they're plastic || A
+mc: C || Roles help because || nothing is missed | everyone does the same | nobody works | it's random || A
+sa: B || Define SMART goal. || Specific, measurable, achievable, relevant and time-bound.
+sa: B || What is a native plant? || A plant that naturally grows in the region.
+sa: I || Write a SMART goal for your project. || Answers vary.
+sa: I || List the parts of your action plan. || Goal, tasks, roles, materials, timeline, permission, safety, success measures.
+sa: I || Why get permission first? || The project must be approved before work starts.
+sa: I || How will you measure success? || Compare with the baseline.
+sa: C || Explain why native plants help pollinators. || They evolved together.
+sa: C || Share your action plan. || Answers vary.
+
+=== EOE7.D1 2
+hook: Action day. Gloves on, plan in hand. When the work is done, you'll measure the change, reflect on what you learned and share it, so others can do the same.
+sc: I can carry out my role in the stewardship action safely | I can collect after-data and compare it with the baseline | I can reflect on and communicate the results
+v: implementation :: Carrying out a plan.
+v: after-data :: Data collected after a change.
+v: comparison :: Looking at before and after data to measure change.
+v: reflection :: Thinking about what happened and what was learned.
+v: communication :: Sharing results with others.
+v: sustainability :: Keeping a project going over time.
+ts: Taking Action || Project || How do we carry out, measure and share our stewardship action?
+tx: Action day and follow-up (written for this lesson): ¶ 1. Safety briefing (5 minutes): gloves, tools, boundaries, weather, buddies, what to do with sharp litter. ¶ 2. Action (40 minutes): carry out your roles. The data recorder takes photos (before, during, after) and notes. ¶ 3. Clean-up: return tools; leave the area tidy. ¶ 4. After-data (next week): repeat the baseline measurement (litter count, plant species, etc.) in the same zone and the same way. ¶ 5. Compare: make a before-and-after chart. Did you meet your SMART goal? ¶ 6. Reflect: What went well? What was hard? What would you change? How did it feel to make a difference? ¶ 7. Communicate: share through a morning announcement, newsletter blurb, poster or short presentation to another class. ¶ 8. Sustain: who will water the plants or continue the litter patrol? Write a care plan and hand it to a group or club.
+src: Original activity written for this lesson.
+st: Hold a safety briefing | Carry out roles and record with photos | Collect after-data the same way | Compare with the baseline | Reflect, communicate and plan for sustainability
+org: Measure | Baseline | After | Change
+an: Did you meet your SMART goal? | What did the data show? | What was the biggest challenge on action day? | Who will keep the project going?
+pr: Present a before-and-after comparison with photos and data, a reflection, and a care plan for sustaining the project.
+ex: Fair comparison || Why measure after-data the same way? || Fairness || So any change is due to the project, not the method || What could make it unfair?
+ex: Percent change || Litter went from 80 to 20 pieces. Percent decrease? || (80 − 20) ÷ 80 × 100 || 75% decrease || Was the goal met?
+ex: Sustaining || Plants need watering in summer. Plan? || Care plan || A schedule for a club or summer volunteers || Who could help?
+ex: Communication || Why share results? || Inspire || It inspires others and builds support || How will you share?
+p: B || What is implementation? || Carrying out a plan.
+p: B || What is after-data? || Data collected after a change.
+p: B || What is a comparison? || Looking at before and after data.
+p: B || What is communication? || Sharing results.
+p: B || What is sustainability in a project? || Keeping it going over time.
+p: I || What comes first on action day? || A safety briefing.
+p: I || Who takes photos? || The data recorder.
+p: I || When do you collect after-data? || The next week.
+p: I || 50 to 10 pieces of litter: percent decrease? || 80%.
+p: I || Name two ways to communicate results. || Morning announcement and poster.
+p: I || What is a care plan? || A plan for who maintains the project.
+p: C || Why measure after-data the same way as the baseline? || To make a fair comparison.
+p: C || Why plan for sustainability? || Without care, the project may fail.
+p: C || How does sharing results help stewardship? || It inspires others to act.
+p: C || Present your results. || Answers vary.
+mis: Measuring differently before and after | Forgetting to plan maintenance | Not sharing results
+et: What is after-data? | Name one way to sustain your project.
+mc: B || Implementation is || carrying out a plan | planning only | ignoring | guessing || A
+mc: B || After-data is collected || after a change | before | never | during planning || A
+mc: B || A comparison looks at || before and after | only before | nothing | opinions || A
+mc: B || Communication means || sharing results | hiding results | deleting data | ignoring || A
+mc: B || Sustainability keeps a project || going over time | ending fast | secret | expensive || A
+mc: B || Action day starts with || a safety briefing | lunch | a test | nothing || A
+mc: I || Photos are taken by || the data recorder | nobody | the principal only | the bus driver || A
+mc: I || 80 to 20 pieces is a || 75% decrease | 25% decrease | 60% increase | no change || A
+mc: I || 50 to 10 pieces is a || 80% decrease | 40% decrease | 20% decrease | 50% increase || A
+mc: I || A care plan names || who maintains it | who to blame | nothing | prices || A
+mc: C || Same methods make comparisons || fair | unfair | longer | random || A
+mc: C || Sharing results || inspires others | wastes time | hides work | stops projects || A
+sa: B || Define implementation. || Carrying out a plan.
+sa: B || What is after-data? || Data collected after a change.
+sa: I || Why measure the same way? || For a fair comparison.
+sa: I || Calculate percent change from your data. || Answers vary.
+sa: I || Did you meet your SMART goal? || Answers vary.
+sa: I || Name two ways to share results. || Announcement, newsletter, poster, presentation.
+sa: C || Explain why projects need a care plan. || So they continue over time.
+sa: C || Present your results and reflection. || Answers vary.
