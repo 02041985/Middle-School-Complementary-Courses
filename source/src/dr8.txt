@@ -1,0 +1,637 @@
+=== DR8.A1 1
+hook: Before an actor says a word, the audience has already guessed their character from the way they walk into the room. A nervous teenager, a proud queen and a tired farmer each move completely differently.
+sc: I can create a character walk | I can use gesture and posture to show personality and status | I can sustain a physical character
+v: character walk :: A way of walking that shows who a character is.
+v: centre of gravity :: The point a character seems to lead with, such as the chest, head or knees.
+v: tempo :: The speed of a character's movement.
+v: status :: How important or powerful a character feels compared to others.
+v: physicality :: The way a character uses their body.
+v: sustain :: To keep a character going consistently.
+ts: Walk This Way || Rehearsal || How can the body show who a character is?
+tx: Activities (written for this lesson): ¶ 1. Leading centres (10 minutes): Walk around the room leading with different body parts. Nose (curious, nosy), chest (proud, confident), forehead (thinking, intelligent), belly (relaxed, jolly), knees (tired, clumsy), hips (cool, carefree). What character does each suggest? ¶ 2. Tempo (5 minutes): Walk at tempo 1 (very slow) to 10 (frantic). Combine a centre and a tempo: chest at 3 = a calm king; nose at 9 = a nosy reporter. ¶ 3. Status walks (10 minutes): Walk as high status (head up, slow, takes space, eye contact) and low status (head down, quick, small steps, avoids eye contact). ¶ 4. Character cards (20 minutes): Each student draws a card (e.g., elderly gardener, nervous new student, famous chef, superhero in disguise). Create a walk, a signature gesture and a posture. Enter, cross the stage, do one action, and exit. Classmates guess the character.
+src: Original activity written for this lesson; leading-centre work is a common actor-training exercise.
+st: Walk leading with different body parts | Combine a leading centre with a tempo | Practise high- and low-status walks | Create a character walk, gesture and posture | Perform and let classmates guess
+org: Character | Leading centre | Tempo | Status | Signature gesture
+an: Which leading centre created the strongest character? | How does tempo change a character? | What body signals show high and low status? | Did classmates guess your character? Why or why not?
+pr: Perform a character entrance, action and exit using a chosen leading centre, tempo, status and signature gesture, and explain your choices.
+ex: Leading centre || Leading with the chest suggests what? || Body part forward || Pride or confidence || What about the knees?
+ex: Combining || Create a walk for a sneaky spy. || Centre + tempo + status || Leading with the nose, tempo 4, low and quiet steps || What gesture would you add?
+ex: Status || How does a high-status character use space? || Size and stillness || Takes up lots of space, moves slowly and stays still || How does low status differ?
+ex: Sustaining || Your character slumps but you stand up straight halfway. Problem? || Consistency || You broke the character; sustain the posture throughout || How can you remember?
+p: B || What is a character walk? || A way of walking that shows who a character is.
+p: B || What is status? || How powerful a character feels compared to others.
+p: B || What is tempo? || The speed of movement.
+p: B || What is physicality? || How a character uses their body.
+p: B || What does sustain mean? || Keep a character consistent.
+p: I || What does leading with the nose suggest? || Curiosity or nosiness.
+p: I || What does leading with the forehead suggest? || Thinking or intelligence.
+p: I || Describe a high-status walk. || Head up, slow, takes space, eye contact.
+p: I || Describe a low-status walk. || Head down, quick small steps, avoids eye contact.
+p: I || What tempo might a frantic character have? || 9 or 10.
+p: I || Name the three parts of the character card task. || Enter, action, exit.
+p: C || Why does physicality matter even with good lines? || Audiences read bodies before words.
+p: C || How can status change during a scene? || Events can raise or lower a character's power.
+p: C || Why should a character's walk be consistent? || Inconsistency breaks the audience's belief.
+p: C || Explain the choices for your character. || Answers vary.
+mis: Thinking character is only in the voice | Thinking high status means loud and pushy | Dropping the physical character halfway through
+et: What does leading with the chest suggest? | Describe one high-status signal.
+mc: B || A character walk shows || who a character is | the set | the lights | the costume only || A
+mc: B || Status is about || power | volume | costume | height only || A
+mc: B || Tempo is || speed | volume | pitch | colour || A
+mc: B || Physicality is || use of the body | the script | the set | the lighting || A
+mc: B || To sustain a character means || keep it consistent | change it often | stop it | forget it || A
+mc: B || A centre of gravity is || the part a character leads with | the stage centre | a costume | a light || A
+mc: I || Leading with the chest suggests || pride | sleepiness | nosiness | fear || A
+mc: I || Leading with the knees suggests || tiredness | pride | intelligence | coolness || A
+mc: I || High-status characters often || move slowly and take space | rush and shrink | avoid eye contact | mumble || A
+mc: I || Low-status characters often || avoid eye contact | take lots of space | move slowly | stand tall || A
+mc: C || Physicality matters because audiences || read bodies before words | only listen | ignore bodies | read scripts || A
+mc: C || Status can change when || events raise or lower power | costumes change only | lights change | never || A
+sa: B || Define status. || How important or powerful a character feels compared to others.
+sa: B || What is a leading centre? || The body part a character seems to lead with.
+sa: I || Create a walk for a proud king. || Answers vary; e.g. chest lead, slow tempo, high status.
+sa: I || List three signals of low status. || Head down, small quick steps, avoiding eye contact.
+sa: I || What does tempo add to a character? || Energy and personality.
+sa: I || Did classmates guess your character? Why? || Answers vary.
+sa: C || Explain why physical consistency matters. || It keeps the audience believing.
+sa: C || Explain your character choices. || Answers vary.
+
+=== DR8.A1 2
+hook: Physical theatre companies like Frantic Assembly tell stories almost entirely with movement: bodies lift, fall, chase and freeze. No set, very few words, but audiences feel every moment.
+sc: I can create a short physical theatre piece | I can use levels, space and contact safely | I can communicate a story or idea through movement
+v: physical theatre :: Theatre that tells stories mainly through movement.
+v: motif :: A movement that is repeated with meaning.
+v: proxemics :: How the distance between performers shows relationships.
+v: counterbalance :: Two performers leaning on each other so both stay balanced.
+v: slow motion :: Moving much more slowly than normal for effect.
+v: consent :: Agreement before any physical contact.
+ts: Bodies Tell the Story || Rehearsal || How can a group tell a story through movement alone?
+tx: Activities (written for this lesson): ¶ Safety first: Any contact must be agreed (consent), practised slowly, and stopped if anyone is uncomfortable. No lifts in this lesson. ¶ 1. Proxemics (10 minutes): In pairs, show relationships only through distance: best friends, strangers, enemies, a parent and child. ¶ 2. Counterbalance (5 minutes): Pairs hold hands and lean back slowly, then shoulder to shoulder. Communicate and come up together. ¶ 3. Motif (5 minutes): Create a movement that means something, e.g., a hand reaching out = hope. Repeat it three ways: fast, slow, with a partner. ¶ 4. Create (25 minutes): Groups of four create a 90-second piece on one theme: friendship, the first day at a new school, a storm, or waiting for news. Requirements: one motif repeated at least twice, three levels, one slow-motion moment, changing proxemics, a clear beginning and end. Music without lyrics may play.
+src: Original activity written for this lesson; Frantic Assembly is a UK physical theatre company known for this approach.
+st: Agree safety and consent rules | Explore proxemics in pairs | Practise counterbalance safely | Create and vary a motif | Build a 90-second movement piece on a theme
+org: Moment | Movement | Levels | Proxemics | Meaning
+an: How did distance show relationships? | What does your motif mean, and how did it change? | Where did you use slow motion and why? | Could the audience understand your theme without words?
+pr: Perform a 90-second physical theatre piece with a repeated motif, three levels and a slow-motion moment, and explain the meaning of your motif.
+ex: Proxemics || Two enemies stand how far apart? || Distance shows relationship || Far apart, facing each other with tension || How would best friends stand?
+ex: Motif || How could a reaching hand change meaning when repeated? || Variation || First hopeful, then desperate, then finally grasped by a partner || What story does that tell?
+ex: Slow motion || Why use slow motion at the key moment? || Emphasis || It stretches time and makes the moment stand out || How do you keep it smooth?
+ex: Consent || Before a counterbalance, what do you do? || Agreement || Ask your partner, plan the move and agree a stop signal || Why is this essential?
+p: B || What is physical theatre? || Theatre telling stories mainly through movement.
+p: B || What is a motif? || A repeated movement with meaning.
+p: B || What is proxemics? || How distance between performers shows relationships.
+p: B || What is counterbalance? || Two performers leaning on each other to stay balanced.
+p: B || What is consent? || Agreement before physical contact.
+p: I || How long is the group piece? || 90 seconds.
+p: I || How many levels must you use? || Three.
+p: I || How many times must the motif repeat? || At least twice.
+p: I || Name a physical theatre company. || Frantic Assembly.
+p: I || What should you do if a partner is uncomfortable? || Stop immediately.
+p: I || How would strangers stand? || A polite distance, not facing each other closely.
+p: C || Why can movement communicate across languages? || Bodies and emotions are understood widely.
+p: C || How does varying a motif create a story? || Changes show how characters or situations develop.
+p: C || Why is safety and consent part of the art form? || Performers must trust each other to take creative risks.
+p: C || Explain the meaning of your motif. || Answers vary.
+mis: Thinking physical theatre is just dancing | Doing contact without agreement | Thinking movement pieces don't need structure
+et: What is proxemics? | Describe your motif and its meaning.
+mc: B || Physical theatre tells stories through || movement | only words | only music | puppets || A
+mc: B || A motif is || a repeated meaningful movement | a costume | a prop | a light || A
+mc: B || Proxemics is about || distance between performers | lighting | sound | costumes || A
+mc: B || Counterbalance means || leaning on each other for balance | jumping | lifting | running || A
+mc: B || Consent means || agreement before contact | surprise | ignoring | rushing || A
+mc: B || Slow motion is used for || emphasis | speed | silence | costume change || A
+mc: I || Enemies usually stand || far apart with tension | very close and relaxed | hugging | side by side happily || A
+mc: I || The piece lasts || 90 seconds | 9 minutes | 9 seconds | 90 minutes || A
+mc: I || You must use || three levels | one level | no levels | ten levels || A
+mc: I || Frantic Assembly is a || physical theatre company | music band | dance school | film studio || A
+mc: C || Movement communicates across languages because || bodies and emotions are widely understood | it's silent | it's short | it's easy || A
+mc: C || Varying a motif shows || development | nothing | confusion | the end only || A
+sa: B || Define proxemics. || How distance between performers shows relationships.
+sa: B || What is a motif? || A movement repeated with meaning.
+sa: I || Show the proxemics of best friends and strangers. || Close and relaxed; distant and polite.
+sa: I || List the requirements of your piece. || Motif twice, three levels, slow motion, changing proxemics, beginning and end.
+sa: I || Why use slow motion? || To emphasize a key moment.
+sa: I || What must happen before physical contact? || Consent and planning.
+sa: C || Explain how varying a motif can tell a story. || Changes show development.
+sa: C || Explain your motif's meaning. || Answers vary.
+
+=== DR8.B1 0
+hook: Read "I'm fine" five different ways and you'll get five different meanings: happy, angry, sad, sarcastic, scared. The words stay the same; pitch, pace and tone change everything.
+sc: I can vary pitch, pace and tone to change meaning | I can use pause for effect | I can interpret a line in more than one way
+v: pitch :: How high or low the voice is.
+v: pace :: How fast or slow you speak.
+v: tone :: The emotion or attitude in the voice.
+v: inflection :: The rise and fall of pitch within words and sentences.
+v: pause :: A planned silence for effect.
+v: interpretation :: An actor's choice about what a line means and how to say it.
+ts: Same Words, New Meaning || Rehearsal || How do pitch, pace, tone and pause change meaning?
+tx: Activities (written for this lesson): ¶ 1. Pitch ladder (5 minutes): Count from 1 to 10, rising in pitch on each number, then falling. Say "Really?" with rising inflection (a question) and falling inflection (disbelief). ¶ 2. One line, many tones (10 minutes): In pairs, say "I'm fine" as: cheerful, angry, sad, sarcastic, scared, bored. The partner guesses the tone. ¶ 3. Emphasis (5 minutes): Say "I didn't take your book," stressing a different word each time. How does meaning change? ("I didn't..." = someone else did; "...your book" = I took someone else's.) ¶ 4. The power of pause (10 minutes): "I have something to tell you... ... I'm moving away." Where does the pause go? How long? ¶ 5. Mini-dialogue (15 minutes): Perform a four-line dialogue twice with two completely different interpretations: A: "You're here." B: "I said I would be." A: "You always say that." B: "This time I mean it."
+src: Original activity written for this lesson.
+st: Practise a pitch ladder and inflection | Say one line in six tones | Shift emphasis in a sentence | Place pauses for effect | Perform a mini-dialogue two different ways
+org: Version | Pitch | Pace | Tone | Pauses | Meaning
+an: How did tone change "I'm fine"? | How did moving emphasis change meaning? | Where was the pause most powerful? | What were your two interpretations of the dialogue?
+pr: Perform the mini-dialogue in two contrasting interpretations and explain the vocal choices in each.
+ex: Inflection || Say "Really?" as a genuine question. || Rising pitch || Pitch rises at the end || How does falling pitch change it?
+ex: Emphasis || Stress "your" in "I didn't take your book." Meaning? || The stressed word matters || I took a book, but not yours || Stress "take."
+ex: Sarcasm || How does sarcasm sound in "Great job"? || Tone and pitch || Flat or exaggerated tone, often slower, with a falling pitch || What face goes with it?
+ex: Pause || Where is the strongest pause in "I have something to tell you... I'm moving away"? || Before the news || Right before "I'm moving away" || Why does that pause work?
+p: B || What is pitch? || How high or low the voice is.
+p: B || What is pace? || How fast or slow you speak.
+p: B || What is tone? || The emotion or attitude in the voice.
+p: B || What is a pause? || A planned silence.
+p: B || What is inflection? || The rise and fall of pitch.
+p: I || How does a question usually end? || With rising pitch.
+p: I || How might sadness sound? || Low pitch, slow pace.
+p: I || How might excitement sound? || Higher pitch, faster pace.
+p: I || What does stressing "I" in "I didn't take your book" suggest? || Someone else took it.
+p: I || What is interpretation? || An actor's choice about meaning and delivery.
+p: I || Where should a dramatic pause go? || Just before important news.
+p: C || Why can the same script be performed many ways? || Actors make different vocal and physical choices.
+p: C || How does a pause create suspense? || The audience waits and leans in.
+p: C || Why should vocal choices match the character's situation? || So the interpretation is believable.
+p: C || Explain your two interpretations of the dialogue. || Answers vary.
+mis: Thinking there is only one right way to say a line | Speaking every line at the same pace | Thinking pauses mean you forgot your line
+et: Say "I'm fine" two ways and name the tones. | Where would you add a pause?
+mc: B || Pitch is || how high or low | how fast | how loud | how long || A
+mc: B || Pace is || speed | pitch | tone | volume || A
+mc: B || Tone shows || emotion or attitude | speed only | loudness only | costume || A
+mc: B || A pause is || planned silence | a mistake | a costume | a light || A
+mc: B || Inflection is || the rise and fall of pitch | volume | speed | costume || A
+mc: B || Interpretation is || an actor's choice of meaning | the script | the set | the director's chair || A
+mc: I || A genuine question usually ends with || rising pitch | falling pitch | silence | a shout || A
+mc: I || Sadness often uses || low pitch and slow pace | high pitch and fast pace | shouting | whispering only || A
+mc: I || Stressing "your" means || a different book was taken | nobody took it | someone else took it | you lost it || A
+mc: I || The strongest pause comes || before the important news | after the bow | at the start always | never || A
+mc: C || The same script can be performed differently because || actors make different choices | scripts change | audiences change words | nothing || A
+mc: C || A pause creates suspense because || the audience waits | it's quiet | it ends the scene | it's a mistake || A
+sa: B || Define tone. || The emotion or attitude in the voice.
+sa: B || What is inflection? || The rise and fall of pitch.
+sa: I || How does emphasis change "I didn't take your book"? || The stressed word changes what is meant.
+sa: I || Describe how sarcasm sounds. || Flat or exaggerated tone, often slower.
+sa: I || Where would you place a dramatic pause? || Before important news.
+sa: I || How do pitch and pace show excitement? || Higher pitch and faster pace.
+sa: C || Explain why one line can have many meanings. || Pitch, pace, tone and pause change meaning.
+sa: C || Explain your two interpretations of the dialogue. || Answers vary.
+
+=== DR8.B1 1
+hook: In ancient Greek theatre, a chorus of performers spoke together, commenting on the action like one giant voice. Today, choral speech still gives poems and stories a powerful, unified sound.
+sc: I can speak in unison with a group | I can use solo, small-group and full-group voices for effect | I can perform a poem as choral speech
+v: choral speech :: A group speaking a text together.
+v: unison :: Everyone speaking at exactly the same time.
+v: chorus :: A group of performers who speak or sing together.
+v: solo :: One voice speaking alone.
+v: canon :: Voices starting the same line at different times, like a round.
+v: arrangement :: A plan for which voices speak which lines.
+ts: Many Voices, One Sound || Performance || How can a group voice bring a poem to life?
+tx: Activities (written for this lesson): ¶ 1. Unison warm-up (5 minutes): The group counts 1 to 10 together, matching speed and volume exactly. Then the leader conducts with hands: louder, softer, faster, slower. ¶ 2. Techniques (10 minutes): Try the line "The wind is rising, the wind is rising" as: full unison; solo then group; building (one voice, then two, then all); canon (groups start two beats apart); echo (group repeats the last word softly). ¶ 3. Arrange a poem (20 minutes): In groups of six, arrange a short public-domain poem, such as "The Wind" by Robert Louis Stevenson (1885) or "Windy Nights" by the same poet. Mark the text: S (solo), G (small group), A (all), plus where to get louder, softer, faster or pause. ¶ 4. Perform (10 minutes): Perform with one person conducting the start. Stand in a clear formation and look up from your scripts.
+src: Original activity written for this lesson; poems by Robert Louis Stevenson are in the public domain.
+st: Warm up speaking in unison | Try five choral techniques | Arrange a poem with solo, group and all parts | Mark dynamics and pauses | Perform as a group
+org: Line | Who speaks (S/G/A) | Technique | Dynamics
+an: What made unison speaking difficult? | Which technique created the most dramatic effect? | Why did you give certain lines to a solo voice? | How did the formation help your performance?
+pr: Perform a choral arrangement of a poem using at least three techniques and submit your marked-up script.
+ex: Unison || What makes unison clean? || Listening || Everyone starts together, matches speed and ends consonants together || How can a conductor help?
+ex: Building || What does building voices create? || Growing sound || A sense of growing power or rising emotion || Which line would suit it?
+ex: Solo || Why give a key line to a solo voice? || Contrast || A single voice after a group stands out and draws focus || Give an example.
+ex: Canon || What does canon sound like? || Overlap || Like a round or an echo rolling through the group || What image might it suggest?
+p: B || What is choral speech? || A group speaking a text together.
+p: B || What is unison? || Everyone speaking at exactly the same time.
+p: B || What is a chorus? || A group speaking or singing together.
+p: B || What is a solo? || One voice alone.
+p: B || What is canon? || Voices starting the same line at different times.
+p: I || What do S, G and A mean on the script? || Solo, small group, all.
+p: I || Where did the chorus come from? || Ancient Greek theatre.
+p: I || Who wrote "The Wind" (1885)? || Robert Louis Stevenson.
+p: I || What is the echo technique? || The group softly repeats the last word.
+p: I || What does building voices mean? || Adding voices one at a time.
+p: I || Why look up from scripts? || To connect with the audience and project.
+p: C || Why does choral speech suit poems about weather or nature? || Group voices can create sound effects and atmosphere.
+p: C || How does contrast between solo and group create meaning? || It highlights important lines and changes the mood.
+p: C || Why must the group listen while speaking? || To stay together in unison.
+p: C || Explain one arrangement choice in your poem. || Answers vary.
+mis: Thinking choral speech is just reading aloud together | Having everyone speak every line | Ignoring dynamics and pauses
+et: Name three choral speech techniques. | Why give a line to a solo voice?
+mc: B || Choral speech is || a group speaking together | one actor alone | singing only | silent || A
+mc: B || Unison means || exactly together | one after another | randomly | silently || A
+mc: B || A chorus is || a group speaking together | a solo | a costume | a prop || A
+mc: B || A solo is || one voice | all voices | no voice | a canon || A
+mc: B || Canon means || starting at different times | exactly together | silence | shouting || A
+mc: B || "A" on the script means || all | alone | again | applause || A
+mc: I || The chorus began in || ancient Greek theatre | Hollywood | TV | Japan || A
+mc: I || Building voices creates || growing power | silence | confusion | a solo || A
+mc: I || Echo means the group || repeats the last word softly | stops | shouts | sings || A
+mc: I || "The Wind" was written by || Robert Louis Stevenson | Shakespeare | Emily Carr | Marceau || A
+mc: C || Solo after group voices || draws focus | blends in | ends the poem | confuses || A
+mc: C || Unison requires || listening | shouting | different speeds | no conductor || A
+sa: B || Define choral speech. || A group speaking a text together.
+sa: B || What is canon in choral speech? || Voices starting the same line at different times.
+sa: I || Name five choral techniques. || Unison, solo, building, canon, echo.
+sa: I || What do S, G and A mean? || Solo, small group, all.
+sa: I || Why give an important line to a solo? || Contrast draws focus.
+sa: I || What makes unison clean? || Starting, matching speed and ending together.
+sa: C || Explain how contrast in voices creates meaning. || It highlights lines and changes mood.
+sa: C || Explain one arrangement choice in your poem. || Answers vary.
+
+=== DR8.B1 2
+hook: Readers theatre is drama without memorizing. Performers hold scripts and bring a story to life using only voice, face and small gestures. Some radio dramas and podcast plays work the same way: the voice has to do everything.
+sc: I can perform from a script using vocal expression | I can show character through voice alone | I can work with a group to keep the story clear and lively
+v: readers theatre :: Performing a script by reading aloud with expression, usually without sets or memorizing.
+v: script :: The written text of a play.
+v: cue :: The line or action that signals your turn.
+v: focus (onstage/offstage) :: Looking at the audience or at a point in the room to show who you are talking to.
+v: character voice :: A voice that shows a character's age, mood and personality.
+v: narration :: Lines that tell the story to the audience.
+ts: Read It Alive || Performance || How can voice alone bring a story to life?
+tx: Activities (written for this lesson): ¶ 1. Character voices (10 minutes): Read "Who's been eating my porridge?" as Father Bear, Mother Bear and Baby Bear. Then as a robot, a sports announcer and a tired grandparent. Vary pitch, pace and tone. ¶ 2. Readers theatre rules: hold scripts at chest height, never in front of your face; look up as much as possible; pick up cues quickly; use offstage focus (looking at a point above the audience) when talking to another character; stay in character while others speak. ¶ 3. Rehearse (25 minutes): Groups of five receive a short readers theatre script adapted from a public-domain fable (for example, "The Fox and the Crow" by Aesop). Assign roles including two narrators. Highlight your lines, mark pauses and emphasis, and decide each character's voice. ¶ 4. Perform (10 minutes): Perform for the class. The audience listens with eyes closed for one minute: is the story still clear?
+src: Original activity written for this lesson; Aesop's fables are in the public domain.
+st: Practise character voices | Learn readers theatre rules | Mark your script for pauses and emphasis | Rehearse with quick cues | Perform and test with eyes closed
+org: Character | Pitch | Pace | Tone | Signature sound
+an: How did you make each character's voice different? | Why must cues be picked up quickly? | Was the story clear with eyes closed? | What did narrators do to keep the story moving?
+pr: Perform a readers theatre script with a distinct character voice, quick cues and marked script, and explain your vocal choices.
+ex: Character voice || Create a voice for the crow. || Pitch, pace, tone || Higher pitch, vain and flattered tone, quick when excited || What about the fox?
+ex: Cues || What is your cue if you speak after the fox's "sing for me"? || The line before yours || The fox's line "sing for me" || Why listen for it?
+ex: Script holding || Why not hold the script in front of your face? || Audience connection || It blocks your face and voice || Where do you hold it?
+ex: Offstage focus || How do you talk to another character without turning? || Focus point || Look at a shared point above the audience || Why is this used?
+p: B || What is readers theatre? || Performing a script by reading aloud with expression.
+p: B || What is a script? || The written text of a play.
+p: B || What is a cue? || The signal for your turn.
+p: B || What is a character voice? || A voice showing a character's age, mood and personality.
+p: B || What is narration? || Lines that tell the story to the audience.
+p: I || Where should you hold your script? || At chest height.
+p: I || How many narrators are in the group? || Two.
+p: I || What is offstage focus? || Looking at a point above the audience to talk to another character.
+p: I || Which fable is used? || The Fox and the Crow.
+p: I || Why perform with the audience's eyes closed? || To test whether the voices alone tell the story.
+p: I || Name two things to mark on your script. || Pauses and emphasis.
+p: C || How is readers theatre like a radio drama? || Both rely on voice to tell the story.
+p: C || Why do quick cues keep a story lively? || Gaps slow the pace and lose the audience.
+p: C || Why stay in character while others speak? || The audience still sees you, and reactions add meaning.
+p: C || Explain the vocal choices for your character. || Answers vary.
+mis: Thinking readers theatre means reading in a flat voice | Hiding behind the script | Waiting too long to start your line
+et: Describe your character's voice. | Name two readers theatre rules.
+mc: B || Readers theatre uses || scripts read with expression | memorized lines only | puppets | silence || A
+mc: B || A script is || the written play | a costume | a set | a light || A
+mc: B || A cue signals || your turn | the end | intermission | a costume change || A
+mc: B || A character voice shows || age, mood, personality | the set | the lighting | costume || A
+mc: B || Narration tells || the story to the audience | the director's notes | prices | nothing || A
+mc: B || Scripts are held at || chest height | in front of the face | on the floor | behind the back || A
+mc: I || Offstage focus means looking || above the audience | at the floor | at the script only | at the ceiling lights || A
+mc: I || Gaps between lines || slow the pace | improve the story | are required | are cues || A
+mc: I || The fable used is || The Fox and the Crow | The Three Pigs | Cinderella | Hamlet || A
+mc: I || Eyes-closed listening tests || whether voices tell the story | the set | the costumes | the lights || A
+mc: C || Readers theatre is like || radio drama | silent film | mime | dance || A
+mc: C || Staying in character while others speak matters because || the audience still sees you | it's required | nobody watches | it's quiet || A
+sa: B || Define readers theatre. || Performing a script by reading aloud with expression.
+sa: B || What is a cue? || The line or action that signals your turn.
+sa: I || List three readers theatre rules. || Hold script at chest height, look up, pick up cues quickly.
+sa: I || Create a voice for the fox. || Answers vary.
+sa: I || What is offstage focus? || Looking at a point above the audience when speaking to another character.
+sa: I || Why test with eyes closed? || To check voices alone tell the story.
+sa: C || Compare readers theatre and radio drama. || Both depend on the voice.
+sa: C || Explain your vocal choices. || Answers vary.
+
+=== DR8.C1 0
+hook: Every great character wants something. Romeo wants Juliet. A villain wants power. Your character in a two-minute scene wants something too. Find what they want and what stands in their way, and you'll know how to play them.
+sc: I can identify a character's traits from a script | I can find a character's objective and obstacle | I can create a role profile for a character
+v: character :: A person or figure in a play.
+v: trait :: A quality that describes a character, such as brave or selfish.
+v: objective :: What a character wants in a scene.
+v: obstacle :: What stands in the way of the objective.
+v: motivation :: The reason a character wants something.
+v: role profile :: Notes describing a character's background, traits and goals.
+ts: What Do They Want? || Rehearsal || How do traits, objectives and obstacles shape a character?
+tx: Scene (written for this lesson): ¶ MAYA: (bursting in) You have to come with me. Now. ¶ JORDAN: I'm in the middle of something. ¶ MAYA: The tryout list is up. Your name's on it. ¶ JORDAN: (not looking up) I didn't sign up. ¶ MAYA: I signed you up. ¶ JORDAN: You did what? ¶ MAYA: You're the best player in our grade and you hide in here every lunch. ¶ JORDAN: Maybe I like it in here. ¶ MAYA: Nobody likes it in here. You're scared. ¶ JORDAN: (long pause) What if I'm not good enough? ¶ MAYA: Then at least you'll know. ¶ Task: In pairs, read the scene twice. For each character, find: three traits (with evidence from lines), the objective (what they want), the obstacle (what stops them), and the motivation (why). Write a role profile, including details the script doesn't say (age, favourite food, a secret) that fit the evidence.
+src: Original scene written for this lesson.
+st: Read the scene twice | Find three traits for each character with evidence | Identify each character's objective and obstacle | Find the motivation | Write a role profile
+org: Character | Traits and evidence | Objective | Obstacle | Motivation
+an: What does Maya want, and what stands in her way? | What is Jordan's real obstacle? | Which line reveals the most about Jordan? | How does knowing the objective change how you'd play a line?
+pr: Write a role profile for one character with traits, evidence, objective, obstacle, motivation and three invented background details.
+ex: Trait with evidence || Name a trait of Maya with evidence. || Find a line || Bold; she signed Jordan up without asking || Name another trait.
+ex: Objective || What is Maya's objective? || What does she want? || To get Jordan to go to tryouts || Use an active verb.
+ex: Obstacle || What is Jordan's obstacle? || What stops them? || Fear of not being good enough || Is it internal or external?
+ex: Inventing background || Invent a detail for Jordan that fits. || Must match evidence || Jordan was cut from a team last year, which explains the fear || Why must it fit the script?
+p: B || What is a character trait? || A quality describing a character.
+p: B || What is an objective? || What a character wants.
+p: B || What is an obstacle? || What stands in the way.
+p: B || What is motivation? || Why a character wants something.
+p: B || What is a role profile? || Notes on a character's background, traits and goals.
+p: I || What is Maya's objective? || To get Jordan to go to tryouts.
+p: I || What is Jordan's obstacle? || Fear of not being good enough.
+p: I || Name a trait of Jordan with evidence. || Shy; hides in the room every lunch.
+p: I || Which line reveals Jordan's real feeling? || "What if I'm not good enough?"
+p: I || What is an internal obstacle? || A feeling or belief inside the character.
+p: I || What is an external obstacle? || Something outside the character, like another person.
+p: C || Why should objectives use active verbs like "to convince"? || They give the actor something to play.
+p: C || Why might a character hide their real feelings? || To protect themselves or avoid looking weak.
+p: C || How does the pause before "What if I'm not good enough?" help? || It shows Jordan struggling to admit the truth.
+p: C || Write a role profile for one character. || Answers vary.
+mis: Thinking characters only have one trait | Making up background that contradicts the script | Thinking the objective is the same as the plot
+et: State one character's objective and obstacle. | Give a trait with evidence.
+mc: B || A trait is || a quality of a character | a costume | a prop | a light || A
+mc: B || An objective is || what a character wants | what they wear | where they stand | the title || A
+mc: B || An obstacle || stands in the way | helps the character | is a costume | is the ending || A
+mc: B || Motivation is || why a character wants something | the set | the script | the cue || A
+mc: B || A role profile describes || a character | the theatre | the lighting | the audience || A
+mc: B || Fear is an || internal obstacle | external obstacle | objective | trait only || A
+mc: I || Maya's objective is || to get Jordan to tryouts | to eat lunch | to leave | to sign up herself || A
+mc: I || Jordan's obstacle is || fear of not being good enough | Maya's height | the weather | the coach || A
+mc: I || Maya signing Jordan up shows she is || bold | shy | lazy | bored || A
+mc: I || "What if I'm not good enough?" reveals || Jordan's fear | Maya's plan | the coach's view | nothing || A
+mc: C || Objectives use active verbs because they || give actors something to play | are shorter | rhyme | are required || A
+mc: C || Invented background must || fit the script's evidence | contradict it | be random | be funny || A
+sa: B || Define objective. || What a character wants in a scene.
+sa: B || What is the difference between internal and external obstacles? || Internal are inside the character; external are outside.
+sa: I || State Maya's objective and obstacle. || To get Jordan to tryouts; Jordan's refusal and fear.
+sa: I || Give two traits of Jordan with evidence. || Answers vary.
+sa: I || What is Jordan's motivation for hiding? || Fear of failing.
+sa: I || Which line is the turning point? || "What if I'm not good enough?"
+sa: C || Explain how knowing the objective changes how you play a line. || You play each line to get what you want.
+sa: C || Write a role profile. || Answers vary.
+
+=== DR8.C1 1
+hook: Professional actors rarely nail a scene on the first try. They read it, block it, run it, get notes and run it again. Rehearsal isn't repeating; it's discovering something new each time.
+sc: I can follow a rehearsal process | I can use objectives to make each line active | I can respond to notes and improve a scene
+v: rehearsal :: Practising a scene to prepare for performance.
+v: read-through :: Reading the whole script aloud before acting it.
+v: run-through :: Performing a scene from start to finish without stopping.
+v: notes :: Feedback from a director or peer after a rehearsal.
+v: beat :: A small section of a scene where one objective or idea is played.
+v: tactic :: The action a character uses to get their objective, such as begging or teasing.
+ts: Rehearsal Room || Rehearsal || How does rehearsal turn a script into a performance?
+tx: Rehearsal process (written for this lesson), using the Maya and Jordan scene: ¶ 1. Read-through (5 minutes): Read the scene aloud, seated. ¶ 2. Beats (10 minutes): Divide the scene into beats. Mark a line wherever the tactic changes. Example: Beat 1, Maya commands ("You have to come with me"); Beat 2, Maya reveals the news; Beat 3, Maya confronts ("You're scared"); Beat 4, Jordan admits the truth. ¶ 3. Tactics (5 minutes): Give each beat an active tactic verb: to order, to tease, to challenge, to comfort, to avoid, to confess. ¶ 4. Run-through (5 minutes): Stand up and perform the whole scene. ¶ 5. Notes (10 minutes): Another pair watches and gives two notes using the language of objective and tactic: "Maya, try challenging instead of yelling in beat 3." ¶ 6. Second run (5 minutes): Apply the notes. What changed? ¶ 7. Memorization tip: learn the scene beat by beat, not line by line.
+src: Original activity written for this lesson.
+st: Do a read-through | Divide the scene into beats | Choose a tactic verb for each beat | Do a run-through and get notes | Apply notes in a second run
+org: Beat | Lines | Objective | Tactic
+an: Where did the tactics change in the scene? | Which note helped most? | What changed between your first and second run? | How did beats help you remember lines?
+pr: Mark your script with beats and tactic verbs, perform two run-throughs, and write what changed after notes.
+ex: Beats || Where does beat 3 start? || Tactic changes || At "You're the best player in our grade..." when Maya starts challenging || Where does the last beat start?
+ex: Tactic verbs || Choose a tactic for "Maybe I like it in here." || Active verb || To avoid or to deflect || What does it look like?
+ex: Giving notes || Improve the note "Be better." || Use objective and tactic || "Jordan, in beat 4, try confessing quietly instead of shouting" || Why is this more useful?
+ex: Memorizing || Why memorize by beats? || Meaning || Each beat has one idea, so the lines connect logically || How else can you memorize?
+p: B || What is rehearsal? || Practising to prepare for performance.
+p: B || What is a read-through? || Reading the script aloud before acting.
+p: B || What is a run-through? || Performing a scene start to finish without stopping.
+p: B || What are notes? || Feedback after a rehearsal.
+p: B || What is a beat? || A section where one objective or tactic is played.
+p: I || What is a tactic? || The action a character uses to get their objective.
+p: I || Name three tactic verbs. || To order, to tease, to comfort.
+p: I || How many beats are in the sample breakdown? || Four.
+p: I || What tactic does Maya use in beat 3? || To challenge or confront.
+p: I || What tactic does Jordan use at the end? || To confess.
+p: I || How should you memorize lines? || Beat by beat.
+p: C || Why are tactic verbs more useful than emotions? || Actors can play an action, but forcing an emotion looks fake.
+p: C || Why give notes using objectives and tactics? || They give specific, playable changes.
+p: C || Why does each rehearsal reveal something new? || Actors try new choices and discover the scene.
+p: C || Describe what changed after notes. || Answers vary.
+mis: Thinking rehearsal means repeating the same thing | Playing emotions instead of actions | Memorizing lines without understanding them
+et: Name the tactic in one of your beats. | What note helped you most?
+mc: B || Rehearsal is || practising for performance | the final show | a costume | a ticket || A
+mc: B || A read-through is || reading aloud seated | full performance | dress rehearsal | a bow || A
+mc: B || A run-through is || start to finish without stopping | reading only | one line | warm-up || A
+mc: B || Notes are || feedback | lines | props | lights || A
+mc: B || A beat is || a section with one objective or tactic | a drum | a light | a costume || A
+mc: B || A tactic is || an action to get an objective | a costume | a set | a prop || A
+mc: I || "To tease" is a || tactic | trait | prop | cue || A
+mc: I || Beats change when || the tactic changes | the lights change | the costume changes | nothing changes || A
+mc: I || A useful note is || "Try challenging instead of yelling" | "Be better" | "Good" | "Bad" || A
+mc: I || Memorize lines || beat by beat | randomly | backwards | never || A
+mc: C || Actions work better than emotions because || they can be played | they're louder | they're shorter | they're easier to write || A
+mc: C || Each rehearsal reveals something new because || actors try new choices | scripts change | audiences change | lights change || A
+sa: B || Define beat. || A small section of a scene where one objective or tactic is played.
+sa: B || What is a tactic? || The action a character uses to get their objective.
+sa: I || Mark the beats in the Maya and Jordan scene. || Answers vary; e.g. command, reveal, challenge, confess.
+sa: I || Give tactic verbs for two beats. || Answers vary.
+sa: I || Rewrite "Be better" as a useful note. || Answers vary.
+sa: I || Why memorize by beats? || Lines connect through meaning.
+sa: C || Explain why tactics are better than playing emotions. || Actions are playable; forced emotion looks fake.
+sa: C || Describe what changed between run-throughs. || Answers vary.
+
+=== DR8.C1 2
+hook: A phone rings in the audience. A prop falls. Your partner skips a line. The audience is watching to see if you'll break. Real actors stay in character no matter what, and that focus is a skill you can train.
+sc: I can stay in character when distracted | I can recover from mistakes without breaking | I can keep my objective going under pressure
+v: in character :: Thinking, moving and speaking as the character.
+v: break character :: Stepping out of the role, for example by laughing.
+v: corpsing :: Theatre slang for laughing on stage when you shouldn't.
+v: recovery :: Getting back on track after a mistake.
+v: concentration :: Keeping your attention on the scene.
+v: given circumstances :: The facts of the scene: who, where, when and what has just happened.
+ts: Stay in the Scene || Rehearsal || How do actors stay in character under pressure?
+tx: Activities (written for this lesson): ¶ 1. Focus game, Don't laugh (5 minutes): Partners face each other. One tries to make the other laugh without touching (faces, silly voices). The other stays neutral, breathing slowly and focusing on a spot on the partner's forehead. ¶ 2. Given circumstances (5 minutes): Before performing, each actor answers silently: Who am I? Where am I? What just happened before I entered? What do I want? ¶ 3. Distraction run (15 minutes): Perform your Maya and Jordan scene while the teacher adds distractions: a dropped book, a noise, a light flicker, an audience member coughing. Keep going. ¶ 4. Recovery drills (15 minutes): The teacher secretly tells one actor to skip a line or drop a prop. The partner must recover in character, for example by paraphrasing the missed information or using the dropped prop in the scene. ¶ 5. Debrief: What helped you stay focused?
+src: Original activity written for this lesson.
+st: Practise the don't-laugh focus game | Answer the given circumstances before entering | Perform with distractions | Practise recovering from a skipped line or dropped prop | Share focus strategies
+org: Distraction or mistake | What I did | Stayed in character?
+an: What made you want to break? | Which focus strategy helped most? | How did your partner recover from the skipped line? | How do given circumstances help concentration?
+pr: Perform your scene with surprise distractions, then write about one moment you stayed in character and the strategy that helped.
+ex: Skipped line || Your partner skips the line about the tryout list. What do you do? || Cover the information || Say it yourself in character: "You know your name's on the list, right?" || Why not stop?
+ex: Dropped prop || Your book falls. Recover. || Use it || Pick it up as your character would, perhaps annoyed || How does this help?
+ex: Corpsing || You feel a laugh coming. What helps? || Breath and focus || Breathe out slowly, focus on your objective and partner's eyes || Why does it help?
+ex: Given circumstances || What just happened before Maya enters? || Before the scene || She saw the tryout list with Jordan's name || How does that affect her entrance?
+p: B || What does "in character" mean? || Thinking, moving and speaking as the character.
+p: B || What does "break character" mean? || Stepping out of the role.
+p: B || What is corpsing? || Laughing on stage when you shouldn't.
+p: B || What is recovery? || Getting back on track after a mistake.
+p: B || What are given circumstances? || Who, where, when and what just happened.
+p: I || Name a focus strategy for the don't-laugh game. || Focus on a spot on the partner's forehead and breathe slowly.
+p: I || What four questions do you ask before entering? || Who am I, where am I, what just happened, what do I want.
+p: I || How can you cover a skipped line? || Say the information in character.
+p: I || What should you do with a dropped prop? || Use it in the scene as your character would.
+p: I || Name two distractions used. || A dropped book and a cough.
+p: I || Why keep going after a mistake? || The audience often doesn't notice.
+p: C || Why does focusing on your objective help you stay in character? || It keeps your mind on the scene, not the distraction.
+p: C || Why do audiences forgive mistakes but not broken characters? || Breaking reminds them it isn't real.
+p: C || How can recovery skills help outside drama? || In presentations and sports, staying calm after errors helps.
+p: C || Describe a moment you stayed in character. || Answers vary.
+mis: Thinking a mistake ruins a performance | Stopping to apologize to the audience | Laughing along with the audience
+et: Name one focus strategy. | How would you recover from a skipped line?
+mc: B || In character means || acting as the character | being yourself | leaving | laughing || A
+mc: B || Breaking character means || stepping out of the role | staying focused | a costume change | a bow || A
+mc: B || Corpsing is || laughing on stage wrongly | a costume | a prop | a set || A
+mc: B || Recovery is || getting back on track | stopping | leaving | apologizing || A
+mc: B || Given circumstances include || who, where, what happened | prices | lights only | the audience || A
+mc: B || If a prop falls you should || use it in character | stop the show | laugh | leave || A
+mc: I || To cover a skipped line || say the information in character | stop | apologize | ask the audience || A
+mc: I || A focus strategy is || breathing and focusing on your objective | looking at the audience | laughing | closing your eyes || A
+mc: I || Before entering ask || who am I and what do I want | what time is it | where's lunch | nothing || A
+mc: I || After a mistake the audience || often doesn't notice | always leaves | always laughs | stops watching || A
+mc: C || Focusing on your objective helps because || your mind stays in the scene | it's louder | it's faster | it's required || A
+mc: C || Audiences dislike broken characters because || it reminds them it isn't real | they're rude | they're bored | it's quiet || A
+sa: B || Define break character. || Stepping out of the role, for example by laughing.
+sa: B || What are given circumstances? || Who, where, when and what has just happened.
+sa: I || How do you recover from a skipped line? || Say the missing information in character.
+sa: I || Name two focus strategies. || Slow breathing and focusing on your objective.
+sa: I || What do you do with a dropped prop? || Use it in the scene as your character would.
+sa: I || What happened before Maya entered? || She saw the tryout list.
+sa: C || Explain how recovery skills help outside drama. || Staying calm after errors helps in presentations and sport.
+sa: C || Describe a moment you stayed in character and why. || Answers vary.
+
+=== DR8.D1 0
+hook: Blocking is the choreography of a play: where each actor stands, when they cross, when they sit. Directors write it in a kind of shorthand so everyone can repeat the same moves every night.
+sc: I can read and write stage directions | I can block a scene using stage areas | I can record blocking in a script using shorthand
+v: blocking :: The planned movements and positions of actors on stage.
+v: stage directions :: Instructions in a script about movement, actions and setting.
+v: cross :: To move from one stage area to another.
+v: open position :: Facing the audience or turned partly toward them.
+v: upstaging :: Standing upstage of another actor so they must turn away from the audience.
+v: blocking notation :: Shorthand for writing movements, such as X DSL (cross downstage left).
+ts: Plan the Moves || Rehearsal || How does blocking help tell the story?
+tx: Blocking guide (written for this lesson): ¶ Shorthand: X = cross; DSR, DSC, DSL, SR, CS, SL, USR, USC, USL = stage areas; ent = enter; ex = exit; sit, stand, kneel; → = toward. Example: "MAYA ent SR, X DSC" means Maya enters stage right and crosses downstage centre. ¶ Blocking rules: 1. Move for a reason (a character crosses because they want something). 2. Keep an open position. 3. Avoid standing directly in front of another actor. 4. Cross in front of others on the downstage side when possible. 5. Use stage areas for meaning: the powerful character can take centre; someone avoiding conversation can move far upstage. ¶ Task: Block your Maya and Jordan scene. Jordan starts sitting USL with a book. Write blocking for each beat in the margin of your script. Then run it twice so the moves become automatic.
+src: Original activity written for this lesson.
+st: Learn blocking shorthand | Learn five blocking rules | Plan movements for each beat | Write blocking in the script margins | Run the scene with blocking twice
+org: Beat | Line | Blocking (shorthand) | Reason for the move
+an: Why should every move have a reason? | How did blocking show the relationship between Maya and Jordan? | Where did you move for the confession beat and why? | What problems did you find when you ran the blocking?
+pr: Write full blocking in shorthand for your scene and perform it so the moves support each beat.
+ex: Reading notation || What does "JORDAN X DSL" mean? || X = cross || Jordan crosses downstage left || Write "Maya enters stage right."
+ex: Motivated move || Why might Jordan cross away from Maya in beat 3? || Character reason || To avoid the challenge and hide his fear || Where might he go?
+ex: Upstaging || Maya stands upstage of Jordan and talks to him. Problem? || Jordan must turn || Jordan turns his back to the audience; move Maya level or downstage || What is the fix?
+ex: Meaningful space || Where might Jordan be for the confession? || Vulnerability || Moving downstage centre, closer to the audience and to Maya || Why there?
+p: B || What is blocking? || Planned movements and positions of actors.
+p: B || What are stage directions? || Instructions in a script about movement and setting.
+p: B || What does "cross" mean? || Move from one stage area to another.
+p: B || What is an open position? || Facing the audience or partly toward them.
+p: B || What is upstaging? || Standing upstage so another actor must turn away from the audience.
+p: I || What does X mean in blocking notation? || Cross.
+p: I || Write "Jordan exits stage left" in shorthand. || JORDAN ex SL.
+p: I || Where does Jordan start? || Sitting upstage left with a book.
+p: I || Why should every move have a reason? || So movement tells the story.
+p: I || Which side should you cross on? || The downstage side of other actors.
+p: I || Why run the blocking twice? || So moves become automatic.
+p: C || How can blocking show a relationship? || Distance and positions show closeness or conflict.
+p: C || Why is upstaging a problem for the audience? || They can't see the other actor's face.
+p: C || How does blocking help other people like lighting crew? || They know where actors will be.
+p: C || Explain your blocking for one beat. || Answers vary.
+mis: Moving just to fill time | Turning your back to the audience | Forgetting to write blocking down
+et: Write one blocking note in shorthand. | Why should a move have a reason?
+mc: B || Blocking is || planned movement | a costume | a script | lighting only || A
+mc: B || Stage directions give || movement and setting instructions | ticket prices | the cast list | music || A
+mc: B || To cross is to || move to another area | sit down | exit only | bow || A
+mc: B || Open position means || facing the audience | back to the audience | lying down | offstage || A
+mc: B || Upstaging forces another actor to || turn away from the audience | face the audience | sit | exit || A
+mc: B || X in blocking notation means || cross | exit | kneel | stop || A
+mc: I || "MAYA ent SR" means Maya || enters stage right | exits stage right | sits stage right | stands centre || A
+mc: I || Every move should have || a reason | no reason | music | a light cue || A
+mc: I || Cross on the || downstage side | upstage side | back wall | ceiling || A
+mc: I || Jordan starts || sitting upstage left | standing downstage centre | offstage | lying down || A
+mc: C || Blocking shows relationships through || distance and position | costume | lighting only | sound || A
+mc: C || Lighting crews need blocking because they || know where actors will be | write scripts | sell tickets | act || A
+sa: B || Define blocking. || The planned movements and positions of actors on stage.
+sa: B || What is upstaging? || Standing upstage of another actor so they turn away from the audience.
+sa: I || Write "Maya crosses downstage centre" in shorthand. || MAYA X DSC.
+sa: I || List three blocking rules. || Move with reason, keep open position, don't stand in front of others.
+sa: I || Where would you place the confession and why? || Answers vary.
+sa: I || Why run blocking twice? || To make moves automatic.
+sa: C || Explain how blocking shows relationships. || Distance and positions show closeness or conflict.
+sa: C || Write blocking for one beat with reasons. || Answers vary.
+
+=== DR8.D1 1
+hook: A single prop can tell the audience everything: a crown says royalty, a stethoscope says doctor, a crumpled letter says bad news. Simple costumes and props, chosen carefully, make a scene believable without a big budget.
+sc: I can choose props and costume pieces that support character and story | I can create a props and costume list | I can handle props safely and consistently
+v: prop :: An object an actor uses on stage.
+v: hand prop :: A small prop carried by an actor, such as a phone or a book.
+v: set prop :: A larger item on the set, such as a chair or table.
+v: costume piece :: A single item of clothing that suggests a character, such as a hat or scarf.
+v: props table :: A table offstage where props are set out in order.
+v: preset :: Placing props and set pieces before the scene begins.
+ts: Small Things, Big Meaning || Design || How do props and costumes support a scene?
+tx: Design task (written for this lesson): ¶ 1. Analyze (10 minutes): Read your Maya and Jordan scene for prop and costume clues. Stage directions say Jordan has a book; where are they? A library? A classroom at lunch? What would each character wear? What might Maya carry (a phone with a photo of the list)? ¶ 2. Choose (10 minutes): Select no more than three props and two costume pieces per character. Each must tell the audience something: a team jacket Jordan never zips up; a worn library book; Maya's phone. ¶ 3. Lists (10 minutes): Make a props list (item, character, when used, preset or carried, source) and a costume list (character, item, why). ¶ 4. Props table (10 minutes): Set up a props table with labelled spaces. Practise collecting and returning props. ¶ 5. Run (10 minutes): Run the scene with props and costumes. Note any problems: noise, dropped items, things that pull focus.
+src: Original activity written for this lesson.
+st: Find prop and costume clues in the script | Choose a few meaningful props and costume pieces | Make props and costume lists | Set up a labelled props table | Run the scene with props and note problems
+org: Item | Character | Prop or costume | What it tells the audience | Preset or carried
+an: What does each prop tell the audience? | Why limit the number of props? | Which prop caused a problem in the run? | How did costume pieces help you feel in character?
+pr: Create a complete props list and costume list for your scene with a reason for every item, and run the scene using them.
+ex: Meaningful prop || Why might Jordan's team jacket be unzipped and held, not worn? || Symbol || It shows Jordan is part of the team but not fully committed || What could change at the end?
+ex: Hand vs set prop || Is the library table a hand prop or set prop? || Size and use || A set prop || Name a hand prop.
+ex: Props table || Why label spaces on the props table? || Organization || So props are always in the right place and missing ones are noticed || Who manages it?
+ex: Too many props || Jordan has a book, a pencil, a sandwich, a phone and earbuds. Problem? || Focus || Too many props distract and slow the scene || Which would you keep?
+p: B || What is a prop? || An object an actor uses on stage.
+p: B || What is a hand prop? || A small prop carried by an actor.
+p: B || What is a set prop? || A larger item on the set.
+p: B || What is a costume piece? || One clothing item that suggests a character.
+p: B || What is a props table? || A table offstage where props are set out.
+p: I || What does preset mean? || Placing items before the scene starts.
+p: I || How many props per character maximum? || Three.
+p: I || How many costume pieces per character? || Two.
+p: I || Name the columns on the props list. || Item, character, when used, preset or carried, source.
+p: I || What might Maya carry? || A phone with a photo of the list.
+p: I || Why practise returning props? || So they're ready for the next performance.
+p: C || How can one costume piece tell a whole story? || It hints at job, personality or feelings.
+p: C || Why do too many props hurt a scene? || They distract and slow the action.
+p: C || How could a prop change from the start to the end of a scene? || Jordan finally zips up the team jacket, showing commitment.
+p: C || Explain why you chose one prop. || Answers vary.
+mis: Thinking more props make a better scene | Choosing props that look good but mean nothing | Forgetting to return props to the table
+et: Name one prop and what it tells the audience. | What is a props table for?
+mc: B || A prop is || an object actors use | a light | a costume always | a script || A
+mc: B || A hand prop is || carried by an actor | a large set piece | a light | a curtain || A
+mc: B || A set prop is || larger, on the set | in your pocket | a costume | a cue || A
+mc: B || A costume piece || suggests a character | is a prop table | is a script | is a light || A
+mc: B || A props table holds || props in order | costumes | scripts | tickets || A
+mc: B || Preset means || placing items before the scene | after the scene | during the bow | never || A
+mc: I || A library table is a || set prop | hand prop | costume | cue || A
+mc: I || Each character has at most || three props | ten props | no props | one prop || A
+mc: I || Labelled props-table spaces help || notice missing props | hide props | sell props | paint props || A
+mc: I || Five props for one character can || distract | improve focus | help always | be required || A
+mc: C || One costume piece can show || job, personality or feelings | nothing | the price | the lighting || A
+mc: C || A prop changing during a scene can show || character development | a mistake | nothing | the ending only || A
+sa: B || Define prop. || An object an actor uses on stage.
+sa: B || What is preset? || Placing props and set pieces before the scene begins.
+sa: I || Name a hand prop and a set prop. || Book; table.
+sa: I || Why limit props? || Too many distract and slow the scene.
+sa: I || List the columns on a props list. || Item, character, when used, preset or carried, source.
+sa: I || What does Jordan's unzipped jacket suggest? || Partial commitment to the team.
+sa: C || Explain how one prop can tell a story. || It hints at character or changes to show development.
+sa: C || Write your props and costume lists. || Answers vary.
+
+=== DR8.D1 2
+hook: When the curtain rises, the most important person in the building might be someone the audience never sees: the stage manager. They call every cue, track every prop and keep rehearsals on schedule.
+sc: I can describe the role of the stage manager | I can run a rehearsal with a stage manager and prompt book | I can take part in a dress rehearsal and polish a scene
+v: stage manager (SM) :: The person who organizes rehearsals and runs the show backstage.
+v: prompt book :: The stage manager's master script with blocking, cues and notes.
+v: call :: The stage manager's instruction to start a cue, such as "Lights, go."
+v: dress rehearsal :: A final rehearsal with costumes, props and all technical elements.
+v: places :: The call for actors to go to their starting positions.
+v: line call :: When an actor asks the prompter for a forgotten line by saying "Line."
+ts: Running the Show || Performance || How does a stage manager help a scene come together?
+tx: Stage manager duties (written for this lesson): Before rehearsal: set up the space, preset props, check costumes. During rehearsal: follow the script, prompt lines, record blocking changes in the prompt book, time the scene. Before performance: call "Places, please," check everyone is ready. During performance: call cues ("Lights up, go"; "Music, go"), watch for problems. After: return props, write a rehearsal report. ¶ Task: In groups of three, one person is the stage manager and two are actors. ¶ 1. SM sets up a prompt book: a copy of the script with blocking, props and two cues marked (lights up at the start, lights down at the end). ¶ 2. Rehearsal (15 minutes): SM runs the scene, prompts any "Line" call, notes changes. ¶ 3. Dress rehearsal (10 minutes): Full run with costumes, props and cues. SM calls places and cues. ¶ 4. Performance (10 minutes): Perform for the class. ¶ 5. SM writes a short rehearsal report: time, problems, notes for next time.
+src: Original activity written for this lesson.
+st: Learn the stage manager's duties | Set up a prompt book | Run a rehearsal with prompting and notes | Hold a dress rehearsal with cues | Perform and write a rehearsal report
+org: Duty | Before | During | After
+an: What did the stage manager do that the audience never saw? | How did the prompt book help? | What problem came up in the dress rehearsal? | How did your group fix it before performing?
+pr: Run a dress rehearsal and performance with a stage manager, and submit the prompt book and rehearsal report.
+ex: Calling a cue || How does an SM call lights up? || Clear call || "Lights up... go." || Why say "go" separately?
+ex: Prompting || An actor says "Line." What does the SM do? || Quick and clear || Read the first few words of the line clearly || Why only a few words?
+ex: Prompt book || What goes in a prompt book? || Master copy || Script, blocking, props, cues and notes || Why one master copy?
+ex: Rehearsal report || Write one line for a report. || Facts and notes || "Run time 2:40. Phone prop missing at start; preset it before places." || Who reads the report?
+p: B || What does the stage manager do? || Organizes rehearsals and runs the show backstage.
+p: B || What is a prompt book? || The master script with blocking, cues and notes.
+p: B || What is a call? || The instruction to start a cue.
+p: B || What is a dress rehearsal? || A final rehearsal with costumes, props and tech.
+p: B || What does "places" mean? || Actors go to starting positions.
+p: I || What does an actor say if they forget a line in rehearsal? || "Line."
+p: I || Name two cues in your prompt book. || Lights up and lights down.
+p: I || What does the SM do after a performance? || Returns props and writes a report.
+p: I || How should the SM prompt a line? || Read the first few words clearly.
+p: I || What goes in a rehearsal report? || Run time, problems and notes.
+p: I || Why preset props before places? || So everything is ready at the start.
+p: C || Why is the stage manager important even though unseen? || They keep everything organized and on cue.
+p: C || Why use one master prompt book? || So everyone follows the same information.
+p: C || What skills does a stage manager need? || Organization, communication and calm under pressure.
+p: C || Describe a problem from your dress rehearsal and its fix. || Answers vary.
+mis: Thinking the stage manager is the director | Thinking dress rehearsals are optional | Shouting whole lines when prompting
+et: Name two stage manager duties. | What is a prompt book?
+mc: B || The stage manager || runs the show backstage | stars in the play | writes the script | sells tickets || A
+mc: B || A prompt book holds || blocking, cues and notes | costumes | tickets | food || A
+mc: B || A call starts || a cue | an argument | a bow | lunch || A
+mc: B || A dress rehearsal includes || costumes, props and tech | only reading | only warm-ups | the audience only || A
+mc: B || "Places" tells actors to || go to starting positions | leave | bow | change costume || A
+mc: B || Actors ask for help by saying || "Line" | "Help" | "Stop" | "Cut" || A
+mc: I || SMs prompt with || the first few words | the whole page | silence | a gesture only || A
+mc: I || A cue call ends with || "go" | "stop" | "wait" | "sorry" || A
+mc: I || A rehearsal report includes || run time and problems | ticket sales | costumes only | nothing || A
+mc: I || After the show the SM || returns props and reports | leaves first | bows | acts || A
+mc: C || Stage managers need || organization and calm | loud singing | acting only | no skills || A
+mc: C || One master prompt book ensures || everyone has the same information | more paper | confusion | secrecy || A
+sa: B || Define stage manager. || The person who organizes rehearsals and runs the show backstage.
+sa: B || What is a prompt book? || The master script with blocking, cues and notes.
+sa: I || List three stage manager duties. || Preset props, prompt lines, call cues.
+sa: I || How does an SM call a cue? || "Lights up... go."
+sa: I || What happens in a dress rehearsal? || A full run with costumes, props and tech.
+sa: I || Write a line for a rehearsal report. || Answers vary.
+sa: C || Explain why the stage manager is essential. || They keep everything organized and on cue.
+sa: C || Describe a dress rehearsal problem and fix. || Answers vary.
