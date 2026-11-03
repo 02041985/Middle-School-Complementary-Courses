@@ -1,0 +1,637 @@
+=== ART8.A1 1
+hook: You walk past buildings every day without noticing them, but architects planned every window, roof line and doorway. Alberta's buildings tell stories: grain elevators on the prairie, sandstone courthouses, glass towers in Calgary and Edmonton, and buildings designed to honour Indigenous ways of seeing the world.
+sc: I can describe the form and features of buildings | I can explain how architecture responds to place, climate and culture | I can analyze an Alberta building
+v: architecture :: The art and science of designing buildings.
+v: architect :: A person who designs buildings.
+v: facade :: The front or face of a building.
+v: form follows function :: The idea that a building's shape should come from its purpose.
+v: vernacular architecture :: Buildings made with local materials and traditions to suit local needs.
+v: landmark :: A building or structure that is easy to recognize and important to a place.
+ts: Reading Buildings || Studio || How does architecture reflect place and purpose?
+tx: Alberta buildings to study (summaries written for this lesson; show images from public sources): ¶ A. Prairie grain elevators: tall wooden towers built near railways from the early 1900s to store grain. Their height let gravity move grain into rail cars. Few remain, and some are now heritage sites. ¶ B. Alberta Legislature Building, Edmonton (completed 1913): Beaux-Arts style with a large dome, columns and sandstone, designed to look important and permanent. ¶ C. Canadian Museum of History, Gatineau (1989), designed by Douglas Cardinal, an Alberta-raised architect of Blackfoot and Métis heritage: flowing curved walls inspired by the land shaped by wind and water. Cardinal also designed St. Mary's Church in Red Deer (1968). ¶ D. A modern glass office tower in downtown Calgary. ¶ Task: For two buildings, sketch the facade, list materials, describe the form (tall, curved, symmetrical), and explain how the building suits its purpose, climate and community.
+src: Summaries written for this lesson; check images and details on public heritage and museum websites.
+st: Look at four Alberta buildings | Sketch the facade of two buildings | Record materials and form | Explain how each suits its purpose and place | Compare the two buildings
+org: Building | Purpose | Materials | Form | How it suits its place
+an: How does a grain elevator's form follow its function? | What does the Legislature's style communicate? | How do Douglas Cardinal's curves connect to the land? | Which building best fits its place? Why?
+pr: Write a short analysis comparing two Alberta buildings, with a sketch of each facade and labels for form and materials.
+ex: Form and function || Why are grain elevators tall? || How was grain moved? || Height let gravity pour grain into rail cars || What is another example of form following function?
+ex: Message || What does the Legislature's dome and columns suggest? || Style and symbolism || Power, permanence and importance || Why might government buildings want this?
+ex: Curves || Why are Douglas Cardinal's buildings curved? || Inspiration || Inspired by natural forms shaped by wind and water || How is this different from a glass tower?
+ex: Climate || How might buildings respond to Alberta winters? || Cold and snow || Steep roofs for snow, insulation, south-facing windows for sun || What about a desert climate?
+p: B || What is architecture? || The art and science of designing buildings.
+p: B || What is a facade? || The front of a building.
+p: B || What does "form follows function" mean? || A building's shape comes from its purpose.
+p: B || What is a landmark? || An easily recognized, important structure.
+p: B || What is an architect? || A person who designs buildings.
+p: I || When was the Alberta Legislature completed? || 1913.
+p: I || Who designed the Canadian Museum of History? || Douglas Cardinal.
+p: I || What were grain elevators used for? || Storing grain near railways.
+p: I || What style is the Alberta Legislature? || Beaux-Arts.
+p: I || Name a building by Douglas Cardinal in Alberta. || St. Mary's Church in Red Deer.
+p: I || What is vernacular architecture? || Buildings using local materials and traditions.
+p: C || How can architecture reflect a culture's values? || Its forms, materials and symbols show what the community thinks is important.
+p: C || Why might glass towers be criticized in cold climates? || Glass loses heat and uses a lot of energy.
+p: C || Why preserve old buildings like grain elevators? || They show history and identity.
+p: C || Analyze a building in your community. || Answers vary.
+mis: Thinking buildings are designed only to look nice | Thinking modern always means better | Thinking architecture isn't art
+et: Name one Alberta building and its purpose. | How does its form suit its function?
+mc: B || Architecture is || designing buildings | painting portraits | writing music | cooking || A
+mc: B || A facade is || the front of a building | the roof | the basement | the floor plan || A
+mc: B || "Form follows function" means || shape comes from purpose | colour comes first | decoration only | no purpose || A
+mc: B || A landmark is || an easily recognized structure | a hidden room | a tool | a map || A
+mc: B || An architect || designs buildings | builds roads only | paints houses | sells land || A
+mc: B || Grain elevators stored || grain | oil | water | cars || A
+mc: I || The Alberta Legislature was completed in || 1913 | 1867 | 1989 | 2005 || A
+mc: I || Douglas Cardinal is known for || curved buildings | glass towers | grain elevators | castles || A
+mc: I || The Legislature's dome suggests || importance and permanence | speed | farming | sport || A
+mc: I || Steep roofs help with || snow | heat | sand | noise || A
+mc: C || Architecture reflects culture through || forms, materials and symbols | prices only | colour only | nothing || A
+mc: C || Glass towers in cold climates can || lose heat | keep heat perfectly | block light | use no energy || A
+sa: B || Define architecture. || The art and science of designing buildings.
+sa: B || What does "form follows function" mean? || A building's shape comes from its purpose.
+sa: I || Explain why grain elevators are tall. || Height let gravity move grain into rail cars.
+sa: I || What inspired Douglas Cardinal's curves? || Land shaped by wind and water.
+sa: I || What does the Legislature's style communicate? || Importance and permanence.
+sa: I || Name two ways buildings respond to Alberta's climate. || Steep roofs and insulation.
+sa: C || Compare two Alberta buildings. || Answers vary.
+sa: C || Explain how architecture reflects culture. || Forms, materials and symbols show community values.
+
+=== ART8.A1 2
+hook: Some chairs are so uncomfortable that nobody sits in them, even though they look amazing. Some cheap water bottles leak the first week. Designers make choices, and a good critic can explain exactly which choices worked and which failed.
+sc: I can critique a designed object using criteria | I can balance form, function and aesthetics in a judgement | I can suggest a design improvement
+v: critique :: A careful judgement of strengths and weaknesses using evidence.
+v: aesthetic :: How something looks and how its appearance makes people feel.
+v: function :: What a design does and how well it works.
+v: ergonomics :: Designing objects to fit the human body comfortably.
+v: user :: The person who uses a design.
+v: redesign :: A changed version that improves a design.
+ts: Design Critique || Studio || How do I judge whether a design succeeds?
+tx: Design critique method (written for this lesson): ¶ 1. Describe: What is it? What is it made of? What are its parts? ¶ 2. Function: What job does it do? Test it if possible. Does it work well for the user? Is it comfortable (ergonomics)? Is it safe? ¶ 3. Aesthetics: What does it look like? Which elements of art (line, shape, colour, texture) are used? What mood or message does it give? ¶ 4. Judge: Does the form suit the function? Who is it designed for? Is it sustainable? ¶ 5. Improve: Sketch one redesign that fixes a weakness. ¶ Objects to critique (bring in or use photos): a school chair, a reusable water bottle, a backpack, a pair of scissors, a phone case, a famous chair design such as the Eames Lounge Chair (1956).
+src: Original activity written for this lesson.
+st: Choose a designed object | Describe its parts and materials | Test and judge its function | Analyze its aesthetics | Judge it and sketch a redesign
+org: Critique step | Notes | Evidence
+an: Does the object's form suit its function? | Is it more about function or looks? | Who was it designed for, and who might find it hard to use? | What is your redesign and why?
+pr: Write a design critique of one object and include an annotated redesign sketch that fixes one weakness.
+ex: Function || A backpack's straps dig into shoulders. Which criterion fails? || Comfort for the body || Ergonomics || How could it be redesigned?
+ex: Aesthetics || A bright, rounded water bottle gives what mood? || Colour and shape || Friendly, playful and modern || Who might it appeal to?
+ex: Balance || A beautiful chair is uncomfortable. Is it a good design? || Weigh form and function || Not for everyday seating; it fails its main function || Could it succeed as art?
+ex: Inclusive design || Who might struggle with standard scissors? || Users || Left-handed people || What redesign helps them?
+p: B || What is a critique? || A careful judgement using evidence.
+p: B || What is aesthetics? || How something looks and makes people feel.
+p: B || What is function? || What a design does and how well.
+p: B || What is ergonomics? || Designing to fit the human body comfortably.
+p: B || What is a redesign? || A changed, improved version.
+p: I || List the five critique steps. || Describe, function, aesthetics, judge, improve.
+p: I || When was the Eames Lounge Chair designed? || 1956.
+p: I || Who struggles with standard scissors? || Left-handed people.
+p: I || What criterion does an uncomfortable backpack fail? || Ergonomics.
+p: I || Why test an object if possible? || To judge function with real evidence.
+p: I || What is a user? || The person who uses a design.
+p: C || Why is good design a balance of form and function? || A design must work well and look appealing for people to use it.
+p: C || How can design be inclusive? || By working for people with different bodies and abilities.
+p: C || How does sustainability affect a design judgement? || Materials and lifespan affect the environment.
+p: C || Explain your redesign and why it is better. || Answers vary.
+mis: Thinking good design is only about looks | Thinking expensive means well designed | Forgetting who the user is
+et: Name one strength and one weakness of your object. | What is your redesign?
+mc: B || A critique uses || evidence | only feelings | prices | guesses || A
+mc: B || Aesthetics is about || how something looks | how much it weighs | its price | its age || A
+mc: B || Function means || what a design does | its colour | its brand | its shape only || A
+mc: B || Ergonomics is about || fitting the human body | colour | price | packaging || A
+mc: B || A redesign || improves a design | copies it | destroys it | prices it || A
+mc: B || A user is || the person who uses a design | the designer | the store | the factory || A
+mc: I || Straps that dig in fail || ergonomics | aesthetics | colour | price || A
+mc: I || Standard scissors are hard for || left-handed people | right-handed people | nobody | designers || A
+mc: I || The Eames Lounge Chair dates from || 1956 | 1913 | 2010 | 1800 || A
+mc: I || A bright rounded bottle feels || friendly and playful | serious | scary | old || A
+mc: C || Good design balances || form and function | price and size | colour and smell | none || A
+mc: C || Inclusive design works for || people with different bodies and abilities | only experts | only designers | nobody || A
+sa: B || Define ergonomics. || Designing objects to fit the human body comfortably.
+sa: B || What is aesthetics? || How something looks and how it makes people feel.
+sa: I || List the five critique steps. || Describe, function, aesthetics, judge, improve.
+sa: I || Why might a beautiful chair be a poor design? || It may fail its function of comfort.
+sa: I || Name a user who might struggle with a design. || Answers vary.
+sa: I || What does testing add to a critique? || Real evidence about function.
+sa: C || Write a design critique of one object. || Answers vary.
+sa: C || Explain your redesign. || Answers vary.
+
+=== ART8.B1 0
+hook: Stand in a long hallway and look down it. The walls, floor and ceiling lines all seem to rush toward one point in the distance. Renaissance artists figured out the rules for this around 600 years ago, and it changed art forever.
+sc: I can draw a horizon line and vanishing point | I can use orthogonal lines to draw forms in one-point perspective | I can draw a simple room or street in one-point perspective
+v: perspective :: A drawing method that shows depth and distance on a flat surface.
+v: horizon line :: A horizontal line that shows the viewer's eye level.
+v: vanishing point :: The point on the horizon line where parallel lines seem to meet.
+v: orthogonal lines :: Lines that go toward the vanishing point.
+v: one-point perspective :: Perspective with a single vanishing point, used when facing something straight on.
+v: eye level :: The height of the viewer's eyes, shown by the horizon line.
+ts: Into the Distance || Studio || How does one-point perspective create depth?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Study Leonardo da Vinci's The Last Supper (about 1495–1498); all the lines of the room lead to a point near Jesus's head. Discuss how this guides the eye. ¶ 2. Boxes (15 minutes): Draw a horizon line across the page and a vanishing point (VP) in the middle. Draw five rectangles: above, below and on the horizon line. From each corner, draw light orthogonal lines to the VP. Add a back edge parallel to the front to finish each 3-D box. Erase the extra lines. ¶ 3. Room or hallway (30 minutes): Draw a back wall rectangle around the VP. Connect its corners to the corners of the page. Add doors, windows, floor tiles and a table, making every depth line go to the VP and keeping verticals vertical and horizontals horizontal. ¶ Tip: use a ruler and draw guide lines lightly.
+src: Original activity written for this lesson; teachers show an image of The Last Supper from a public museum source.
+st: Find the vanishing point in a Renaissance painting | Draw a horizon line and vanishing point | Draw boxes above, below and on the horizon | Draw a room or hallway | Add details that follow the rules
+org: Rule | How I used it | Where in my drawing
+an: Where is the vanishing point in The Last Supper? | Why can you see the bottom of boxes above the horizon line? | Which detail was hardest to get right? | How does perspective make your drawing feel deep?
+pr: Complete a page of one-point perspective boxes and a detailed room or hallway drawing with at least five features.
+ex: Eye level || A box is above the horizon line. Which side can you see? || Look up at it || Its bottom || Which side for a box below?
+ex: Orthogonals || Which lines go to the vanishing point? || Lines going back into space || Depth (orthogonal) lines || What about vertical lines?
+ex: Room || Where does the back wall go? || Around the VP || A rectangle around the vanishing point || How do you draw the floor edges?
+ex: Common mistake || A doorway's top edge slants upward to nowhere. What is wrong? || Check the rule || Its depth line doesn't go to the VP; redraw it to the VP || How do you check?
+p: B || What is perspective? || A method showing depth on a flat surface.
+p: B || What is a horizon line? || A line showing the viewer's eye level.
+p: B || What is a vanishing point? || Where parallel lines seem to meet on the horizon.
+p: B || What are orthogonal lines? || Lines going toward the vanishing point.
+p: B || What is one-point perspective? || Perspective with one vanishing point.
+p: I || Which side of a box above the horizon is visible? || The bottom.
+p: I || Which side of a box below the horizon is visible? || The top.
+p: I || In one-point perspective, which lines stay vertical? || Vertical edges.
+p: I || Which painting uses one-point perspective to focus on Jesus? || The Last Supper.
+p: I || When was The Last Supper painted? || About 1495–1498.
+p: I || Why draw guide lines lightly? || So they can be erased.
+p: C || How does a vanishing point guide the viewer's eye? || All lines lead toward it, drawing attention there.
+p: C || Why do objects get smaller as they recede? || They are farther away, so they take up less of our view.
+p: C || Where might you use one-point perspective outside art? || Video-game levels, architecture plans, film sets.
+p: C || Explain how you drew one feature correctly. || Answers vary.
+mis: Thinking all lines go to the vanishing point | Placing the horizon line anywhere without thinking about eye level | Drawing depth lines that don't meet
+et: Draw a horizon line, vanishing point and one box. | Which lines go to the vanishing point?
+mc: B || Perspective shows || depth on a flat surface | colour | texture only | pattern || A
+mc: B || The horizon line shows || eye level | the ground only | the sky colour | the frame || A
+mc: B || The vanishing point is || where parallel lines seem to meet | the frame | the highlight | the title || A
+mc: B || Orthogonal lines go || toward the vanishing point | up and down | across the page | nowhere || A
+mc: B || One-point perspective has || one vanishing point | two | three | none || A
+mc: B || Guide lines should be drawn || lightly | very dark | in ink | never || A
+mc: I || A box above the horizon shows its || bottom | top | back | nothing || A
+mc: I || A box below the horizon shows its || top | bottom | inside | back only || A
+mc: I || Vertical edges in one-point perspective || stay vertical | go to the VP | curve | disappear || A
+mc: I || The Last Supper was painted by || Leonardo da Vinci | Emily Carr | Edvard Munch | Hokusai || A
+mc: C || The vanishing point guides the eye because || lines lead toward it | it is red | it is large | it is outlined || A
+mc: C || Objects look smaller when they are || farther away | closer | brighter | darker || A
+sa: B || Define vanishing point. || Where parallel lines seem to meet on the horizon line.
+sa: B || What is a horizon line? || A line showing the viewer's eye level.
+sa: I || Which side of a box above the horizon is visible? || The bottom.
+sa: I || Which lines go to the vanishing point? || Depth (orthogonal) lines.
+sa: I || Describe how to draw a room in one-point perspective. || Back wall around the VP; corners connected to page corners.
+sa: I || Where is the vanishing point in The Last Supper? || Near Jesus's head.
+sa: C || Explain how perspective guides the viewer's eye. || All lines lead to the vanishing point.
+sa: C || Describe one feature you drew correctly. || Answers vary.
+
+=== ART8.B1 1
+hook: Stand at a street corner and look at a building. You don't see its face straight on; you see two sides going away in two directions. That needs two vanishing points, and it's how architects and game designers draw corners.
+sc: I can draw forms in two-point perspective | I can place two vanishing points on the horizon line | I can draw a street corner or building from an angle
+v: two-point perspective :: Perspective with two vanishing points, used when looking at a corner.
+v: leading edge :: The vertical edge closest to the viewer, drawn first.
+v: VP1 and VP2 :: The left and right vanishing points.
+v: bird's-eye view :: Looking down from above; horizon line high on the page.
+v: worm's-eye view :: Looking up from below; horizon line low on the page.
+v: converge :: To come together at a point.
+ts: Corner View || Studio || How does two-point perspective show objects from an angle?
+tx: Studio steps (written for this lesson): ¶ 1. Setup: Draw a horizon line. Place VP1 near the left edge and VP2 near the right edge. Keep them far apart to avoid distortion. ¶ 2. Box (10 minutes): Draw a vertical line (the leading edge) between the VPs. Connect its top and bottom to both VPs. Draw two more verticals to mark the box's sides. Connect their tops to the opposite VPs to make the top surface. ¶ 3. Viewpoints (10 minutes): Draw the same box three times: horizon high (bird's-eye view), middle, and low (worm's-eye view). ¶ 4. Building corner (30 minutes): Draw a building from the corner: walls going to VP1 and VP2, windows and doors following the same lines, a sidewalk and a second smaller building behind. Keep all verticals vertical.
+src: Original activity written for this lesson.
+st: Place a horizon line and two vanishing points | Draw a box from a leading edge | Draw boxes from three viewpoints | Draw a building corner with details | Check all depth lines converge correctly
+org: Viewpoint | Where the horizon is | What you see | Feeling it creates
+an: How is two-point different from one-point perspective? | What changes when the horizon line moves? | Why keep VPs far apart? | Which viewpoint is most dramatic?
+pr: Complete three two-point boxes from different viewpoints and a detailed building-corner drawing.
+ex: Leading edge || What do you draw first in two-point perspective? || Closest edge || A vertical leading edge || Which lines connect to it?
+ex: Viewpoint || The horizon is at the bottom of the page. Which view? || Looking up || Worm's-eye view || What feeling does it create?
+ex: Windows || Which VP do the windows on the right wall go to? || Follow the wall || VP2 (the right vanishing point) || And windows on the left wall?
+ex: Distortion || VPs are close together and the box looks stretched. Fix? || Space them out || Move the VPs farther apart || Why does this help?
+p: B || What is two-point perspective? || Perspective with two vanishing points.
+p: B || What is the leading edge? || The vertical edge closest to the viewer.
+p: B || What is bird's-eye view? || Looking down from above.
+p: B || What is worm's-eye view? || Looking up from below.
+p: B || What does converge mean? || To come together at a point.
+p: I || When do you use two-point perspective? || When looking at a corner.
+p: I || Where is the horizon line in a bird's-eye view? || High on the page.
+p: I || What lines stay vertical? || Vertical edges.
+p: I || Where should VPs be placed? || Far apart, near the page edges.
+p: I || Windows on the left wall go to which VP? || VP1 (left).
+p: I || What feeling does a worm's-eye view create? || Things look tall and powerful.
+p: C || Why do game designers use two-point perspective? || To show buildings and rooms realistically from angles.
+p: C || How does moving the horizon line change the mood? || High feels distant and observing; low feels dramatic and imposing.
+p: C || When might you need three vanishing points? || When looking steeply up or down at tall buildings.
+p: C || Explain how you drew your building corner. || Answers vary.
+mis: Placing vanishing points off the horizon line | Letting vertical lines slant | Putting VPs too close together
+et: What is the leading edge? | Where do the right wall's lines go?
+mc: B || Two-point perspective has || two vanishing points | one | three | none || A
+mc: B || The leading edge is || closest to the viewer | farthest away | on the horizon | curved || A
+mc: B || Bird's-eye view looks || down from above | up from below | straight ahead | backward || A
+mc: B || Worm's-eye view looks || up from below | down from above | sideways | nowhere || A
+mc: B || Converge means || come together | split apart | stay parallel | disappear || A
+mc: B || Vanishing points sit on || the horizon line | the page corner | the leading edge | anywhere || A
+mc: I || A low horizon line gives || worm's-eye view | bird's-eye view | flat view | no view || A
+mc: I || Right-wall windows go to || VP2 | VP1 | no VP | the top of the page || A
+mc: I || A stretched box means the VPs are || too close | too far | perfect | missing || A
+mc: I || Two-point perspective is used for || corners | flat walls straight on | circles | colours || A
+mc: C || Worm's-eye view makes objects feel || tall and powerful | small | distant | flat || A
+mc: C || Three-point perspective is used for || looking steeply up or down | flat walls | corners only | colour || A
+sa: B || Define two-point perspective. || Perspective with two vanishing points, used for corners.
+sa: B || What is the leading edge? || The vertical edge closest to the viewer.
+sa: I || Where is the horizon in a worm's-eye view? || Low on the page.
+sa: I || How do you fix a distorted box? || Move the VPs farther apart.
+sa: I || Which VP do left-wall lines go to? || VP1.
+sa: I || Compare one-point and two-point perspective. || One-point faces straight on; two-point shows a corner.
+sa: C || Explain how the horizon position changes mood. || High feels distant; low feels dramatic.
+sa: C || Describe how you drew your building corner. || Answers vary.
+
+=== ART8.B1 2
+hook: A perspective drawing with only lines looks like a diagram. Add shadows, textures and details and it becomes a place you could walk into. Today you turn your perspective drawing into a finished artwork.
+sc: I can add consistent light and shadow to a perspective drawing | I can add texture and detail that follow perspective | I can create depth with overlapping and size changes
+v: light source :: Where the light comes from in a drawing.
+v: consistent shading :: Shading all surfaces as if lit by the same light source.
+v: overlapping :: Placing one object in front of another to show depth.
+v: foreground :: The part of a picture that seems closest.
+v: middle ground :: The area between the foreground and background.
+v: background :: The part of a picture that seems farthest away.
+ts: Bring It to Life || Studio || How do value and detail turn a perspective drawing into a place?
+tx: Studio steps (written for this lesson): ¶ 1. Choose your light source and mark it with an arrow in the corner. Every surface facing it is light, surfaces facing away are mid-tone, and surfaces facing opposite are dark. ¶ 2. Shade surfaces (15 minutes): Use three values on every box or building: light, middle and dark, according to your light source. ¶ 3. Cast shadows (10 minutes): Add shadows on the ground falling away from the light. ¶ 4. Texture in perspective (15 minutes): Add bricks, wood grain, tiles or windows. Their lines must follow the perspective lines and get smaller and closer together as they go back. ¶ 5. Depth details (10 minutes): Add objects in the foreground (larger, detailed), middle ground and background (smaller, lighter, less detailed). Overlap at least two objects. ¶ Example to study: M. C. Escher's prints, such as Relativity (1953), use perfect perspective and strong value contrast.
+src: Original activity written for this lesson.
+st: Choose and mark a light source | Shade every surface with three values | Add cast shadows | Add texture that follows perspective | Add foreground, middle ground and background details
+org: Surface | Faces the light? | Value used | Texture added
+an: Is your shading consistent with one light source? | How does texture in perspective add depth? | Which objects overlap? | Which area of your drawing looks most real?
+pr: Complete your perspective drawing with consistent three-value shading, cast shadows, texture and at least two overlapping objects.
+ex: Consistent light || Light comes from the left. Which wall of a building is darkest? || Faces away || The right-facing wall || Where do cast shadows fall?
+ex: Texture in perspective || Bricks on a wall going to VP2. How should brick lines look? || Follow the wall || They follow lines to VP2 and get smaller as they recede || Why?
+ex: Overlap || How does overlapping show depth? || Front object blocks back object || The object in front looks closer || Add an overlap to your drawing.
+ex: Background || Why draw distant objects lighter? || Air between viewer and object || Atmospheric perspective makes them look farther away || What else changes with distance?
+p: B || What is a light source? || Where the light comes from.
+p: B || What is overlapping? || Placing one object in front of another.
+p: B || What is the foreground? || The part that seems closest.
+p: B || What is the background? || The part that seems farthest away.
+p: B || What is consistent shading? || All surfaces shaded for the same light source.
+p: I || How many values should each box have? || Three: light, middle and dark.
+p: I || Which way do cast shadows fall? || Away from the light.
+p: I || How should texture change as it recedes? || It gets smaller and closer together.
+p: I || How should background objects look? || Smaller, lighter and less detailed.
+p: I || What is the middle ground? || The area between foreground and background.
+p: I || Which artist made Relativity? || M. C. Escher.
+p: C || Why does inconsistent shading look wrong? || Real objects are lit from one direction, so mixed shadows confuse the eye.
+p: C || Name four ways to show depth in one drawing. || Perspective, overlap, size change and atmospheric perspective.
+p: C || Why add texture last? || So it follows finished perspective lines and shading.
+p: C || Explain how you added depth to your drawing. || Answers vary.
+mis: Shading each surface randomly | Drawing texture flat instead of in perspective | Making background details as dark and sharp as the foreground
+et: Where is your light source? | Name two ways you showed depth.
+mc: B || A light source is || where light comes from | a shadow | a colour | a line || A
+mc: B || Overlapping shows || depth | colour | texture only | balance only || A
+mc: B || The foreground seems || closest | farthest | in the middle | invisible || A
+mc: B || The background seems || farthest | closest | brightest | largest || A
+mc: B || Consistent shading uses || one light source | many light sources | no light | random light || A
+mc: B || The middle ground is || between front and back | the closest part | the sky only | the frame || A
+mc: I || Cast shadows fall || away from the light | toward the light | upward | nowhere || A
+mc: I || Texture going back gets || smaller and closer together | bigger | darker only | the same || A
+mc: I || Background objects should be || lighter and less detailed | darker and sharper | larger | brighter || A
+mc: I || Each box uses || three values | one value | ten values | no values || A
+mc: C || Inconsistent shading looks wrong because || real light comes from one direction | it is too dark | it is coloured | it is texture || A
+mc: C || Depth methods include || overlap and size change | only colour | only outline | only pattern || A
+sa: B || Define overlapping. || Placing one object in front of another to show depth.
+sa: B || What is the foreground? || The part of a picture that seems closest.
+sa: I || Light comes from the left. Which wall is darkest? || The wall facing right, away from the light.
+sa: I || How should bricks look in perspective? || Following perspective lines, smaller as they recede.
+sa: I || Name three values used on each surface. || Light, middle, dark.
+sa: I || How should background objects be drawn? || Smaller, lighter, less detailed.
+sa: C || List four ways to show depth. || Perspective, overlap, size change, atmospheric perspective.
+sa: C || Explain how you added depth to your drawing. || Answers vary.
+
+=== ART8.C1 0
+hook: Why does your eye go straight to the one red umbrella in a crowd of grey ones? Designers control where you look using principles of design. Learn them and you can steer any viewer's eye.
+sc: I can identify the principles of design in artworks | I can use emphasis, rhythm and unity | I can explain how principles guide the viewer's eye
+v: principles of design :: Ways artists arrange the elements of art, such as balance, contrast, emphasis, rhythm, unity, movement and proportion.
+v: emphasis :: Making one area stand out as the focal point.
+v: focal point :: The area where the eye goes first.
+v: rhythm :: Repeating elements to create a sense of movement.
+v: unity :: The sense that all parts of an artwork belong together.
+v: contrast :: A strong difference, such as light and dark or big and small.
+ts: Steer the Eye || Studio || How do the principles of design control where we look?
+tx: Studio steps (written for this lesson): ¶ 1. Principle hunt (15 minutes): Look at four artworks or posters (for example, a Henri Matisse cut-out such as The Snail, 1953; a movie poster; a Bridget Riley op-art painting; a photo of a single red umbrella in a grey crowd). For each, find the focal point and name the principles that create it. ¶ 2. Mini-studies (25 minutes): Divide a page into four boxes. In each, use simple cut paper shapes to show one principle: emphasis (one shape different in colour or size), rhythm (repeated shapes with spacing that changes), unity (similar colours and shapes that belong together) and contrast (black and white, big and small). ¶ 3. Gallery walk: Classmates guess which principle each box shows.
+src: Original activity written for this lesson; teachers show images from public museum websites.
+st: Find focal points in four artworks | Name the principles used | Create four mini-studies in cut paper | Label each study | Do a gallery walk and guess principles
+org: Artwork or study | Focal point | Principles used | How the eye moves
+an: Where does your eye go first in each artwork? | Which principle creates the strongest focal point? | How does rhythm make an image feel like it moves? | How does unity make an artwork feel complete?
+pr: Complete four labelled mini-studies showing emphasis, rhythm, unity and contrast, with one sentence explaining each.
+ex: Emphasis || How does the red umbrella become the focal point? || Contrast of colour || It is the only bright colour among grey || Name another way to create emphasis.
+ex: Rhythm || Fence posts repeated along a road create what? || Repetition || Rhythm || How could the rhythm speed up?
+ex: Unity || A collage uses many images but all in blue tones. Principle? || Belonging together || Unity || What could break the unity?
+ex: Contrast || Name three kinds of contrast. || Differences || Light and dark, big and small, smooth and rough || Which does op art use?
+p: B || What are principles of design? || Ways artists arrange the elements of art.
+p: B || What is emphasis? || Making one area stand out.
+p: B || What is a focal point? || Where the eye goes first.
+p: B || What is rhythm? || Repetition creating movement.
+p: B || What is unity? || The sense that all parts belong together.
+p: I || Name three ways to create emphasis. || Contrast of colour, size and isolation.
+p: I || Which artist made The Snail? || Henri Matisse.
+p: I || What principle does a repeated pattern of shapes create? || Rhythm.
+p: I || Name two kinds of contrast. || Light and dark; big and small.
+p: I || How can colour create unity? || Using a limited, related colour scheme.
+p: I || Name four principles of design. || Balance, contrast, emphasis, rhythm.
+p: C || Why do advertisers care about focal points? || They want viewers to see the product or message first.
+p: C || How can too much contrast hurt unity? || The artwork can feel chaotic and disconnected.
+p: C || How does rhythm create movement in still art? || Repetition leads the eye from one part to the next.
+p: C || Explain the focal point in one of your studies. || Answers vary.
+mis: Confusing elements of art with principles of design | Thinking an artwork can have many equal focal points | Thinking unity means everything must look the same
+et: Name two principles of design. | Where is the focal point in your study?
+mc: B || Principles of design are || ways to arrange elements | types of paint | frames | tools || A
+mc: B || Emphasis makes one area || stand out | disappear | blend | repeat || A
+mc: B || A focal point is || where the eye goes first | the frame | the background | the signature || A
+mc: B || Rhythm comes from || repetition | a single shape | blank space | the title || A
+mc: B || Unity means parts || belong together | clash | disappear | repeat randomly || A
+mc: B || Contrast is || a strong difference | sameness | a frame | a colour wheel || A
+mc: I || One red umbrella in a grey crowd shows || emphasis | unity only | rhythm | pattern || A
+mc: I || Repeated fence posts create || rhythm | emphasis | unity only | perspective || A
+mc: I || The Snail was made by || Henri Matisse | Leonardo da Vinci | M. C. Escher | Emily Carr || A
+mc: I || A limited colour scheme creates || unity | chaos | emphasis only | depth || A
+mc: C || Advertisers use focal points to || make viewers notice the message | hide products | slow viewers | confuse || A
+mc: C || Too much contrast can hurt || unity | emphasis | rhythm | texture || A
+sa: B || Define emphasis. || Making one area stand out as the focal point.
+sa: B || What is rhythm? || Repeated elements creating movement.
+sa: I || Name three ways to create a focal point. || Contrast, size, isolation.
+sa: I || Explain how colour creates unity. || A related colour scheme makes parts belong together.
+sa: I || Name four principles of design. || Balance, contrast, emphasis, rhythm.
+sa: I || What creates the focal point in the umbrella photo? || The single bright colour.
+sa: C || Explain why advertisers care about focal points. || They want the message seen first.
+sa: C || Describe the principle shown in each of your studies. || Answers vary.
+
+=== ART8.C1 1
+hook: Before printing presses, every copy of a picture had to be drawn by hand. Relief printing changed that: carve a block once, ink it, and print it a hundred times. Albrecht Dürer, Japanese ukiyo-e artists and Inuit printmakers in Kinngait (Cape Dorset) all used versions of it.
+sc: I can design an image that works as a print | I can carve a relief block safely | I can ink and print an edition
+v: relief print :: A print made by carving away parts of a block so the raised areas print.
+v: printing block :: A surface such as linoleum or foam that is carved for printing.
+v: brayer :: A small roller used to spread ink.
+v: reverse image :: A print appears backwards compared with the block.
+v: edition :: A set of matching prints from the same block.
+v: registration :: Lining up the paper and block so each print is in the same place.
+ts: Make Your Mark || Studio || How does relief printing let artists make multiple images?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Study prints from Kinngait Studios in Nunavut (founded 1959), such as works by Kenojuak Ashevak, and Hokusai's woodblock prints. Notice bold shapes and strong contrast between inked and uninked areas. ¶ 2. Design (15 minutes): Draw a 10 cm × 15 cm design using bold shapes, emphasis and pattern. Remember that any text must be backwards on the block. Shade the parts that will print (stay raised). ¶ 3. Transfer and carve (two lessons for lino, one for foam): Transfer the design to the block. With lino cutters, always cut away from your body with your other hand behind the cutter, using a bench hook. Carve away the white areas. ¶ 4. Print: Roll ink thinly with the brayer until it looks like velvet. Ink the block, place paper, rub with a baren or spoon, and peel. ¶ 5. Edition: Make three matching prints. Sign each in pencil below the image: title, edition number (1/3, 2/3, 3/3) and your name.
+src: Original activity written for this lesson; teachers show images of Kinngait and ukiyo-e prints from public sources.
+st: Study relief prints | Design a bold image | Transfer and carve the block safely | Ink and print | Make, number and sign an edition of three
+org: Step | What I did | Problem | Solution
+an: Which parts of your block print and which don't? | Why must text be reversed? | What made a print clear or blotchy? | How do your three prints differ?
+pr: Produce an edition of three relief prints, numbered and signed, plus a short note on one problem and how you solved it.
+ex: What prints || Which parts of a relief block print? || Raised or carved? || The raised, uncarved parts || What happens to carved areas?
+ex: Reverse || You carve "ART" normally. How will the print read? || Mirror image || Backwards: "TRA" with reversed letters || How do you fix it?
+ex: Inking || Your print is blotchy. Cause? || Ink thickness || Too much ink; roll it thinner until it looks velvety || What if it's patchy and pale?
+ex: Edition numbering || What does "2/3" mean? || Print number / total || The second print in an edition of three || Where is it written?
+p: B || What is a relief print? || A print where raised areas of a carved block print.
+p: B || What is a brayer? || A roller used to spread ink.
+p: B || What is an edition? || A set of matching prints from one block.
+p: B || What is registration? || Lining up paper and block in the same place each time.
+p: B || What is a reverse image? || A print appearing backwards compared with the block.
+p: I || How should you hold a lino cutter safely? || Cut away from your body with your other hand behind the cutter.
+p: I || What does "1/3" on a print mean? || The first print of an edition of three.
+p: I || Which studio in Nunavut is famous for prints? || Kinngait Studios.
+p: I || When was Kinngait Studios founded? || 1959.
+p: I || What should well-rolled ink look like? || Like velvet.
+p: I || What is a bench hook? || A board that holds the block steady while carving.
+p: C || Why do printmakers use bold shapes? || Fine details are hard to carve and may not print clearly.
+p: C || Why might prints in an edition differ slightly? || Small differences in inking and pressure.
+p: C || How did printmaking change who could own art? || Multiple copies made art more affordable and widespread.
+p: C || Describe one problem in your printing and your fix. || Answers vary.
+mis: Thinking carved areas print | Forgetting to reverse text | Thinking more ink makes a better print
+et: Which parts of a relief block print? | What does an edition number mean?
+mc: B || In relief printing, what prints? || raised areas | carved areas | the paper | nothing || A
+mc: B || A brayer || rolls ink | carves | cuts paper | signs prints || A
+mc: B || An edition is || matching prints from one block | one painting | a frame | a sketch || A
+mc: B || A print is || reversed from the block | the same as the block | upside down only | coloured || A
+mc: B || Registration means || lining up the print | signing | carving | inking || A
+mc: B || Lino cutters should cut || away from the body | toward the hand | toward the body | quickly || A
+mc: I || "2/3" means || second of three | two thirds done | two copies | third of two || A
+mc: I || Blotchy prints usually mean || too much ink | too little ink | wrong paper | wrong colour || A
+mc: I || Kinngait Studios is in || Nunavut | Alberta | Japan | France || A
+mc: I || Text on a block must be || reversed | normal | upside down | coloured || A
+mc: C || Bold shapes suit printing because || fine details are hard to carve and print | they are faster to sign | they cost less | they are bigger || A
+mc: C || Printmaking made art || more affordable | rarer | more expensive | private || A
+sa: B || Define relief print. || A print made from the raised areas of a carved block.
+sa: B || What is an edition? || A set of matching prints from the same block.
+sa: I || Describe safe carving. || Cut away from your body, other hand behind the cutter, use a bench hook.
+sa: I || Why must text be reversed? || The print is a mirror image of the block.
+sa: I || What does well-rolled ink look like? || Velvety.
+sa: I || How do you number an edition of three? || 1/3, 2/3, 3/3.
+sa: C || Explain why prints in an edition may differ. || Small changes in ink and pressure.
+sa: C || Describe a printing problem and your solution. || Answers vary.
+
+=== ART8.C1 2
+hook: Walk around a sculpture and it changes with every step. Unlike a drawing, a 3-D form has to work from every side, stand up by itself and hold together. Today you build in three dimensions.
+sc: I can construct a 3-D form from card or paper | I can use joining techniques so my form stands | I can apply design principles in three dimensions
+v: sculpture :: A three-dimensional artwork.
+v: 3-D form :: A shape with height, width and depth.
+v: in the round :: A sculpture meant to be seen from all sides.
+v: relief sculpture :: A sculpture that projects from a flat background.
+v: tab :: A small flap used to join paper or card pieces.
+v: armature :: An inner framework that supports a sculpture.
+ts: Build in 3-D || Studio || How do artists design forms that work from every side?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Study 3-D works such as Louise Bourgeois's giant spider sculpture Maman (1999), which stands outside the National Gallery of Canada in Ottawa, and examples of paper engineering or origami architecture. Walk around a classroom object and sketch it from four sides. ¶ 2. Paper techniques (15 minutes): Practise scoring and folding, curling, slotting, tabbing and pleating to make shapes stand. ¶ 3. Design (10 minutes): Plan an abstract sculpture about 20 cm tall using at least three techniques and two design principles (for example rhythm through repeated curls and emphasis through one large form). ¶ 4. Build (two lessons): Construct the form in card. Use tabs or slots rather than lots of tape. Turn it often to check every side. ¶ 5. Display and critique: View all sculptures from four sides.
+src: Original activity written for this lesson; teachers show images of Maman from public sources.
+st: Sketch an object from four sides | Practise five paper techniques | Plan a sculpture using design principles | Build it in card | Check and critique it from every side
+org: Technique | How I used it | Design principle it supports
+an: How does your sculpture look from each side? | Which joining method was strongest? | Which design principles did you use? | How is working in 3-D different from drawing?
+pr: Complete a card sculpture about 20 cm tall using three techniques and two design principles, and sketch it from two sides.
+ex: In the round || Should a sculpture in the round have a "back"? || Seen from all sides || No; every side should be considered || How do you check?
+ex: Joining || Tape or tabs: which looks neater? || Visible joins || Tabs or slots; they hide joins and stay strong || When is tape OK?
+ex: Stability || Your sculpture tips over. Fix? || Base and weight || Widen the base or add weight low down || What is an armature for?
+ex: Principles in 3-D || How can rhythm work in a sculpture? || Repetition || Repeat curls or folds around the form || How could you add emphasis?
+p: B || What is sculpture? || A three-dimensional artwork.
+p: B || What is a 3-D form? || A shape with height, width and depth.
+p: B || What does "in the round" mean? || Meant to be seen from all sides.
+p: B || What is a relief sculpture? || A sculpture projecting from a flat background.
+p: B || What is a tab? || A small flap for joining pieces.
+p: I || Name three paper techniques. || Scoring, curling and slotting.
+p: I || Who made the spider sculpture Maman? || Louise Bourgeois.
+p: I || Where is a version of Maman in Canada? || Outside the National Gallery of Canada in Ottawa.
+p: I || How tall should your sculpture be? || About 20 cm.
+p: I || How do you stop a sculpture tipping? || Widen the base or add weight low down.
+p: I || What is an armature? || An inner supporting framework.
+p: C || Why turn a sculpture often while building? || To check it works from every side.
+p: C || How is designing in 3-D different from 2-D? || It must stand, hold together and work from all angles.
+p: C || Why use tabs instead of tape? || They're neater and often stronger.
+p: C || Explain the design principles in your sculpture. || Answers vary.
+mis: Thinking sculpture has a front and back like a drawing | Using lots of tape instead of planned joins | Ignoring stability until the end
+et: Name two paper techniques you used. | How does your sculpture look from the back?
+mc: B || A sculpture is || three-dimensional | flat | only drawn | a print || A
+mc: B || In the round means || seen from all sides | flat on a wall | circular only | small || A
+mc: B || A relief sculpture || projects from a flat background | stands alone | is a print | is a drawing || A
+mc: B || A tab is || a flap for joining | a tool | a paint | a stand || A
+mc: B || An armature is || an inner support | a paint | a frame | a print || A
+mc: B || Scoring helps paper || fold neatly | tear | colour | print || A
+mc: I || Maman was made by || Louise Bourgeois | Emily Carr | Matisse | Escher || A
+mc: I || A tipping sculpture needs || a wider base | more height | thinner card | no base || A
+mc: I || Neater joins come from || tabs and slots | lots of tape | glue everywhere | staples only || A
+mc: I || Your sculpture should be about || 20 cm | 2 cm | 2 m | 200 cm || A
+mc: C || Turning the sculpture often checks || all sides | colour | price | weight only || A
+mc: C || 3-D design must also || stand and hold together | be flat | be printed | be framed || A
+sa: B || Define sculpture in the round. || A sculpture meant to be seen from all sides.
+sa: B || What is an armature? || An inner framework that supports a sculpture.
+sa: I || Name three paper techniques. || Scoring, curling, slotting.
+sa: I || How can you stop a sculpture tipping? || Widen the base or add weight low.
+sa: I || Who made Maman? || Louise Bourgeois.
+sa: I || Why use tabs instead of tape? || Neater and stronger joins.
+sa: C || Explain how 3-D design differs from 2-D. || It must stand and work from every side.
+sa: C || Describe the design principles in your sculpture. || Answers vary.
+
+=== ART8.D1 0
+hook: A poster for a school dance, a logo for a sports team, a sign that says "wet floor": each one is art with a job to do. Before designers draw anything, they ask two questions: what is this for, and who is it for?
+sc: I can identify the purpose and audience of a design | I can analyze how designs communicate messages | I can write a design brief for my own project
+v: graphic design :: Art that communicates a message using images and text.
+v: purpose :: What a design is meant to do: inform, persuade, entertain or identify.
+v: audience :: The people a design is meant for.
+v: message :: The main idea a design communicates.
+v: design brief :: A short plan describing a design's purpose, audience, message and requirements.
+v: typography :: The style and arrangement of letters.
+ts: Design With a Job || Studio || How do purpose and audience shape a design?
+tx: Studio steps (written for this lesson): ¶ 1. Analyze (20 minutes): Look at five designs: a children's cereal box, a public health poster about handwashing, a band poster, a bank logo and a road sign. For each, identify the purpose (inform, persuade, entertain, identify), the audience, the message, and the choices that fit them (colour, typography, images, layout). ¶ 2. Compare: How does the cereal box differ from the bank logo? Why? ¶ 3. Brief (20 minutes): Choose a real need at school: a poster for a club, a logo for a team or event, or a sign for a school space. Write a design brief: purpose, audience, message, required text, size, colours (school colours or free) and deadline.
+src: Original activity written for this lesson.
+st: Analyze five designs | Identify purpose, audience and message | Compare design choices | Choose a school design need | Write a design brief
+org: Design | Purpose | Audience | Message | Choices that fit
+an: How does audience change design choices? | Which design communicates its message fastest? | What typography suits a children's product? A bank? | What is your design's purpose and audience?
+pr: Write a complete design brief for a school design project.
+ex: Purpose || What is the purpose of a "wet floor" sign? || Inform or warn || To inform and warn people about a hazard || Why yellow?
+ex: Audience || Why does a cereal box use cartoon characters? || Who buys or asks for it? || The audience is children || Who else is the audience?
+ex: Typography || What typography suits a bank logo? || Message of trust || Clean, solid, simple letters || What would a playful font suggest?
+ex: Brief || Write a purpose and audience for a chess club poster. || Who and why || Persuade Grade 7–9 students to join the chess club || What message would you use?
+p: B || What is graphic design? || Art communicating a message with images and text.
+p: B || What is purpose? || What a design is meant to do.
+p: B || What is an audience? || The people a design is for.
+p: B || What is typography? || The style and arrangement of letters.
+p: B || What is a design brief? || A plan describing purpose, audience, message and requirements.
+p: I || Name the four common purposes. || Inform, persuade, entertain, identify.
+p: I || What is the purpose of a logo? || To identify.
+p: I || What is the purpose of a handwashing poster? || To inform and persuade.
+p: I || Why are warning signs often yellow and black? || High contrast is noticed quickly.
+p: I || What should a design brief include? || Purpose, audience, message, text, size, colours and deadline.
+p: I || What audience does a band poster target? || People who might come to the concert.
+p: C || How can the same message be designed differently for two audiences? || Change colours, images, words and typography to suit each.
+p: C || Why should designers know their audience before drawing? || Choices that appeal to one group may not work for another.
+p: C || Why are road signs simple? || Drivers must understand them in seconds.
+p: C || Explain the purpose and audience of your project. || Answers vary.
+mis: Thinking good design is only about being pretty | Designing for yourself instead of the audience | Thinking typography doesn't matter
+et: Name the purpose and audience of one design. | What is the purpose of your project?
+mc: B || Graphic design communicates || messages with images and text | only feelings | only music | nothing || A
+mc: B || A logo's main purpose is to || identify | entertain | warn | teach || A
+mc: B || Audience means || the people a design is for | the designer | the printer | the price || A
+mc: B || Typography is || the style of letters | the colour wheel | a picture | a frame || A
+mc: B || A design brief describes || purpose, audience and requirements | the final grade | the price only | the printer || A
+mc: B || A message is || the main idea | a font | a colour | a frame || A
+mc: I || A wet-floor sign aims to || inform and warn | entertain | sell | identify a brand || A
+mc: I || Cartoon characters on cereal target || children | bankers | drivers | doctors || A
+mc: I || A bank logo usually uses || solid, simple letters | bubbly cartoon letters | messy handwriting | no letters || A
+mc: I || Yellow and black signs work because of || high contrast | low contrast | price | size || A
+mc: C || Designers learn the audience first because || choices appeal differently to groups | it's quicker | it's required | it's fun || A
+mc: C || Road signs are simple because || drivers have seconds to read | ink is expensive | it looks modern | nobody reads || A
+sa: B || Define graphic design. || Art that communicates a message using images and text.
+sa: B || Name the four purposes of design. || Inform, persuade, entertain, identify.
+sa: I || Explain why a cereal box uses cartoons. || Its audience is children.
+sa: I || What typography suits a bank? || Clean, solid, simple letters.
+sa: I || List five parts of a design brief. || Purpose, audience, message, text, size.
+sa: I || Why are warning signs high contrast? || So they are noticed quickly.
+sa: C || Explain how audience changes design choices. || Colours, images and fonts are chosen to appeal to them.
+sa: C || Write a design brief for your project. || Answers vary.
+
+=== ART8.D1 1
+hook: Famous logos look effortless, but designers often sketch dozens of versions before the simple one that works. The first idea is rarely the best, and the best ideas come from playing with many.
+sc: I can generate many thumbnail ideas for a design | I can refine a design using feedback | I can create a clear final layout with image and text
+v: thumbnail :: A small, quick sketch of a design idea.
+v: layout :: The arrangement of images and text on a page.
+v: logo :: A symbol or design that identifies a group, product or event.
+v: hierarchy :: Making the most important information biggest or boldest so it is read first.
+v: negative space :: Empty space around and between parts of a design.
+v: legibility :: How easily text can be read.
+ts: From Thumbnails to Final || Studio || How do designers develop an idea into a clear final design?
+tx: Studio steps (written for this lesson): ¶ 1. Thumbnails (20 minutes): Using your design brief, draw at least eight thumbnails, each about 5 cm wide. Vary the image, the placement of text, and the balance. Try at least one that uses negative space cleverly (the FedEx logo hides an arrow between the E and the x). ¶ 2. Feedback (10 minutes): Show your thumbnails to two classmates. Ask: Which communicates the message fastest? Can you read the text from 3 metres away? ¶ 3. Refine (15 minutes): Choose one or combine two. Draw it larger. Check hierarchy: the most important words should be biggest. Check legibility: simple fonts, strong contrast between text and background. ¶ 4. Final (two lessons): Create the final design at full size in markers, paint, collage or a free design app. Limit yourself to three colours.
+src: Original activity written for this lesson.
+st: Draw eight varied thumbnails | Get feedback from two classmates | Refine the strongest idea | Check hierarchy and legibility | Create the final design in three colours
+org: Thumbnail | Idea | Feedback | Keep or change?
+an: Which thumbnail did your classmates prefer and why? | How did you use hierarchy? | Is your text legible from 3 metres? | How did limiting colours help?
+pr: Complete eight thumbnails and a final design that follows your brief, uses clear hierarchy and three colours.
+ex: Hierarchy || A club poster has the club name, date and room. Which is biggest? || Most important first || The club name (or the event) || What is second?
+ex: Negative space || Where is the hidden image in the FedEx logo? || Look between letters || An arrow between the E and the x || How could you use negative space?
+ex: Legibility || Yellow text on a white background. Problem? || Contrast || Low contrast makes it hard to read || What colour would work?
+ex: Combining ideas || Two thumbnails each have one strong part. What can you do? || Merge || Combine the strongest image with the strongest layout || Why is this allowed?
+p: B || What is a thumbnail? || A small quick sketch of an idea.
+p: B || What is layout? || The arrangement of images and text.
+p: B || What is a logo? || A design that identifies a group, product or event.
+p: B || What is hierarchy? || Making the most important information stand out first.
+p: B || What is negative space? || Empty space around and between parts.
+p: I || How many thumbnails should you draw? || At least eight.
+p: I || How many colours should your final design use? || Three.
+p: I || How far away should text be readable? || About 3 metres.
+p: I || What hidden image is in the FedEx logo? || An arrow.
+p: I || What is legibility? || How easily text can be read.
+p: I || Name a text-and-background pair with good contrast. || Black on yellow.
+p: C || Why limit a design to three colours? || It creates unity and is cheaper to print.
+p: C || Why are simple logos more memorable? || They are recognized quickly and work at any size.
+p: C || Why get feedback before the final? || Others notice problems you can't see.
+p: C || Explain the hierarchy in your design. || Answers vary.
+mis: Thinking the first idea is good enough | Using fancy fonts that are hard to read | Filling every space instead of using negative space
+et: What is hierarchy? | Which feedback changed your design?
+mc: B || A thumbnail is || small and quick | large and final | a photo | a print || A
+mc: B || Layout is || the arrangement of images and text | the paper size | the price | the printer || A
+mc: B || Hierarchy shows || what to read first | the colour | the price | the frame || A
+mc: B || Negative space is || empty space | the main image | the text | dark colours || A
+mc: B || Legibility is || how easily text reads | how big the poster is | the colour | the price || A
+mc: B || A logo || identifies a group or product | is a long text | is a photo always | is a sign only || A
+mc: I || The FedEx logo hides || an arrow | a star | a face | a tree || A
+mc: I || Yellow text on white has || low contrast | high contrast | perfect legibility | no colour || A
+mc: I || The final design uses || three colours | ten colours | no colours | one font only || A
+mc: I || Draw at least || eight thumbnails | one thumbnail | two thumbnails | no thumbnails || A
+mc: C || Simple logos are memorable because they || are recognized quickly | have many details | are colourful | are long || A
+mc: C || Limiting colours creates || unity | chaos | depth | emphasis only || A
+sa: B || Define hierarchy. || Making the most important information biggest or boldest.
+sa: B || What is negative space? || Empty space around and between parts of a design.
+sa: I || Which text should be biggest on a club poster? || The club or event name.
+sa: I || Name a high-contrast text colour pair. || Black on yellow.
+sa: I || Why get feedback on thumbnails? || To find which communicates best.
+sa: I || How many colours and thumbnails are required? || Three colours; at least eight thumbnails.
+sa: C || Explain why simple logos work. || They're quick to recognize and work at any size.
+sa: C || Describe how you refined your design. || Answers vary.
+
+=== ART8.D1 2
+hook: Professional designers rarely just hand over a design. They pitch it: here's the brief, here's how we solved it, here's why it works. A clear explanation can be the difference between a design that's used and one that's forgotten.
+sc: I can present my design and explain how it meets the brief | I can use design vocabulary in my explanation | I can give and respond to feedback on designs
+v: presentation :: Showing and explaining your work to an audience.
+v: rationale :: The reasons behind design choices.
+v: client :: The person or group a design is made for.
+v: mock-up :: A model showing how a design will look in real use.
+v: revision :: A change made after feedback.
+v: portfolio piece :: A finished work chosen to show your skills.
+ts: Design Pitch || Studio || How do I explain my design choices convincingly?
+tx: Presentation plan (written for this lesson): ¶ Each student presents for two minutes: ¶ 1. The brief: purpose, audience, message. ¶ 2. The process: show two thumbnails and explain why you chose or combined them. ¶ 3. The final design: point out your hierarchy, colours, typography and use of space, using design vocabulary. ¶ 4. A mock-up: show the design in use, such as a poster taped in a hallway, a logo on a T-shirt template or a sign on a door. ¶ 5. One revision you would make with more time. ¶ Audience feedback card: "Purpose is clear (yes/no)", "Most important text is easy to read (yes/no)", "One strength", "One suggestion." ¶ If the design is for a real school club or event, offer it to the client.
+src: Original activity written for this lesson.
+st: Plan a two-minute presentation | Prepare a mock-up of your design in use | Present your brief, process and final design | Give feedback to classmates | Write a short revision plan
+org: Part of presentation | What I will show | Design words I will use
+an: Did the audience understand your purpose? | Which design words helped you explain? | What feedback surprised you? | What revision would you make?
+pr: Present your design with a mock-up, then write a short revision plan based on audience feedback.
+ex: Rationale || Explain why you chose blue for a calm study-space sign. || Colour and mood || "Cool blue creates a calm feeling for a quiet space" || Explain another choice.
+ex: Mock-up || How could you show a logo in use? || Real context || Place it on a T-shirt or water-bottle template || Why use a mock-up?
+ex: Vocabulary || Rewrite "I made the words big." || Use design terms || "I used hierarchy so the event name is read first" || Add a term about space.
+ex: Revision || Feedback: the date is hard to read. Revision? || Legibility || Increase size and contrast of the date || How would you check it worked?
+p: B || What is a rationale? || The reasons behind design choices.
+p: B || What is a client? || The person or group a design is made for.
+p: B || What is a mock-up? || A model showing a design in real use.
+p: B || What is a revision? || A change after feedback.
+p: B || What is a portfolio piece? || A finished work chosen to show skills.
+p: I || How long is each presentation? || Two minutes.
+p: I || Name the five parts of the presentation. || Brief, process, final design, mock-up, revision.
+p: I || What two yes/no questions are on the feedback card? || Purpose is clear; most important text is easy to read.
+p: I || Give an example of a mock-up. || A poster taped in a hallway.
+p: I || Why show thumbnails in the presentation? || To show the process.
+p: I || Name three design words to use. || Hierarchy, contrast, negative space.
+p: C || Why do clients want a rationale? || To trust that choices were made on purpose.
+p: C || How can a mock-up reveal problems? || Seeing the design in real use shows size or legibility issues.
+p: C || Why offer the design to a real client? || It gives it a real purpose and audience.
+p: C || Write a revision plan from your feedback. || Answers vary.
+mis: Thinking the design should speak for itself | Taking feedback as personal criticism | Presenting without design vocabulary
+et: Give one rationale for your design. | What revision would you make?
+mc: B || A rationale gives || reasons for choices | the price | the date | a font || A
+mc: B || A client is || who the design is for | the designer | the printer | the teacher only || A
+mc: B || A mock-up shows || the design in use | the thumbnails | the brief | the price || A
+mc: B || A revision is || a change after feedback | the first idea | the client | a font || A
+mc: B || A portfolio piece shows || your skills | your grades | your teacher | the price || A
+mc: B || Each presentation lasts || two minutes | twenty minutes | two seconds | an hour || A
+mc: I || "I used hierarchy so the name is read first" uses || design vocabulary | no vocabulary | a mock-up | a revision || A
+mc: I || A logo on a T-shirt template is a || mock-up | thumbnail | brief | rationale || A
+mc: I || A hard-to-read date needs || more size and contrast | less contrast | smaller text | removal || A
+mc: I || The feedback card asks if || the purpose is clear | the price is low | the paper is thick | the font is fancy || A
+mc: C || Clients want a rationale to || trust the choices | slow things | lower cost | avoid design || A
+mc: C || Mock-ups reveal || real-use problems | nothing | the price | the client || A
+sa: B || Define rationale. || The reasons behind design choices.
+sa: B || What is a mock-up? || A model showing how a design will look in real use.
+sa: I || List the five parts of your presentation. || Brief, process, final design, mock-up, revision.
+sa: I || Rewrite "I made the words big" using design vocabulary. || "I used hierarchy so the key text is read first."
+sa: I || Give one rationale for a colour choice. || Answers vary.
+sa: I || What questions are on the feedback card? || Purpose clear; key text readable; strength; suggestion.
+sa: C || Write a revision plan based on feedback. || Answers vary.
+sa: C || Explain why designers present their work. || To show how it meets the brief and win approval.

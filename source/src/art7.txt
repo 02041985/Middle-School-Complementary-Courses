@@ -1,0 +1,637 @@
+=== ART7.A1 1
+hook: Artists all over the world paint and carve the land, animals and seasons, but they don't all see nature the same way. A Japanese woodblock wave, an Inuit print of an owl and a Canadian forest painting each tell you something about the culture that made them.
+sc: I can compare how artists from different cultures show nature | I can use evidence from artworks in my comparison | I can explain how culture shapes art
+v: culture :: The shared beliefs, customs and ways of life of a group of people.
+v: compare :: To explain how things are alike and different.
+v: style :: The particular way an artist or culture makes art.
+v: subject :: What an artwork shows, such as a landscape or an animal.
+v: symbol :: An image that stands for an idea.
+v: Venn diagram :: Two overlapping circles used to show similarities and differences.
+ts: Nature Across Cultures || Studio || How do different cultures show nature in art?
+tx: Artworks to compare (show images from public museum websites): ¶ A. Katsushika Hokusai, The Great Wave off Kanagawa (Japan, about 1831): a woodblock print with a huge curling wave, small boats and Mount Fuji in the distance; flat areas of blue, strong outlines, claw-like foam. ¶ B. Kenojuak Ashevak, The Enchanted Owl (Canada, Inuit, 1960): a stonecut print of an owl with feathers spreading outward in bold red and black shapes. ¶ C. Emily Carr, a forest painting from the 1930s (Canada): towering trees and swirling green brushstrokes that seem to move. ¶ Task: In pairs, choose two artworks. For each, note the subject, how nature is shown (realistic, stylized, patterned), colours, lines and what the work suggests about how the artist's culture sees nature. Complete a Venn diagram, then write a comparison paragraph using evidence.
+src: Original activity written for this lesson; teachers show images from public gallery and museum websites.
+st: Look closely at each artwork for one minute | Record subject, style, colour and line for two artworks | Fill in a Venn diagram | Discuss what each suggests about its culture | Write a comparison paragraph with evidence
+org: Artwork | Subject | Style | Colours and lines | What it suggests about the culture
+an: How is nature shown differently in your two artworks? | What do they have in common? | How might culture have shaped each artist's choices? | Which artwork do you connect with most and why?
+pr: Write a paragraph comparing how two artworks show nature, using at least two pieces of visual evidence for each.
+ex: Describing style || Is The Great Wave realistic or stylized? || Look at the foam and outlines || Stylized; the foam looks like claws and shapes are outlined || What makes it dramatic?
+ex: Similarities || What do The Enchanted Owl and The Great Wave share? || Both are prints | Both use bold shapes || Both are prints with bold, flat shapes and strong outlines || How are their colours different?
+ex: Using evidence || Improve "Emily Carr's forest feels alive." || Add visual evidence || "The swirling brushstrokes make the trees seem to move, so the forest feels alive" || Add another piece of evidence.
+ex: Culture || What might the owl print suggest about Inuit culture? || Animals in art || The importance of animals and their spirit in Inuit life and stories || Why be careful when interpreting another culture?
+p: B || What is culture? || Shared beliefs, customs and ways of life of a group.
+p: B || What does compare mean? || To explain how things are alike and different.
+p: B || What is style? || The particular way an artist or culture makes art.
+p: B || What is the subject of The Great Wave? || A large wave with boats and Mount Fuji.
+p: B || What is a Venn diagram? || Overlapping circles showing similarities and differences.
+p: I || Which artist made The Enchanted Owl? || Kenojuak Ashevak.
+p: I || What kind of artwork is The Great Wave? || A woodblock print.
+p: I || Name one similarity between two of the artworks. || Answers vary; e.g. both use bold shapes.
+p: I || How does Emily Carr show movement? || Swirling brushstrokes.
+p: I || What colours dominate The Enchanted Owl? || Red and black.
+p: I || What is a symbol? || An image that stands for an idea.
+p: C || Why should we be careful interpreting art from a culture that isn't ours? || We may misunderstand meanings; learning from the culture's own voices helps.
+p: C || How can art teach us about how a culture sees nature? || Choices of subject, style and symbols show what the culture values.
+p: C || Why use evidence in a comparison? || It shows your ideas come from the artwork, not just opinion.
+p: C || Write a topic sentence comparing two artworks. || Answers vary.
+mis: Thinking realistic art is always better than stylized art | Thinking all art from one culture looks the same | Making claims about a culture without evidence
+et: Name one difference between two artworks. | What does one artwork suggest about its culture?
+mc: B || Culture is || shared beliefs and customs | a type of paint | a frame | a museum || A
+mc: B || To compare is to || show likenesses and differences | copy | paint | erase || A
+mc: B || Style is || the way an artist makes art | the price | the frame | the title only || A
+mc: B || A Venn diagram uses || overlapping circles | squares only | a timeline | a map || A
+mc: B || The Great Wave is from || Japan | Canada | France | Mexico || A
+mc: B || A symbol || stands for an idea | is a frame | is a colour only | is a tool || A
+mc: I || The Enchanted Owl was made by || Kenojuak Ashevak | Emily Carr | Hokusai | Alex Janvier || A
+mc: I || Emily Carr shows movement with || swirling brushstrokes | straight lines only | photographs | sculpture || A
+mc: I || The Great Wave is a || woodblock print | oil painting | sculpture | photograph || A
+mc: I || The Enchanted Owl uses mainly || red and black | pastel pink | green and gold | grey only || A
+mc: C || Evidence in a comparison shows || ideas come from the artwork | the price | your favourite colour | nothing || A
+mc: C || Interpreting another culture's art needs || care and learning | guessing | ignoring context | judging quickly || A
+sa: B || Define culture. || The shared beliefs, customs and ways of life of a group.
+sa: B || What is style in art? || The particular way an artist or culture makes art.
+sa: I || Name one similarity and one difference between two artworks. || Answers vary.
+sa: I || How does Emily Carr show that the forest is alive? || Swirling brushstrokes make the trees seem to move.
+sa: I || What is The Great Wave's subject? || A huge wave, boats and Mount Fuji.
+sa: I || Who made The Enchanted Owl? || Kenojuak Ashevak.
+sa: C || Explain how culture can shape art. || Values and traditions affect subjects, style and symbols.
+sa: C || Write a comparison paragraph with evidence. || Answers vary.
+
+=== ART7.A1 2
+hook: Alberta is full of artists: painters of prairie skies, Indigenous artists whose work speaks of land and memory, and sculptors whose public art you might walk past every day. Today you respond to an Alberta artist's work as a thoughtful critic.
+sc: I can respond to an Alberta artist's work using the four critique steps | I can connect an artwork to its time and place | I can share a personal response supported by evidence
+v: Alberta artist :: An artist who lives or worked in Alberta.
+v: context :: The time, place and situation in which an artwork was made.
+v: personal response :: Your own reaction to an artwork, supported by reasons.
+v: medium :: The material used to make an artwork, such as acrylic paint or bronze.
+v: public art :: Artwork placed in public spaces for everyone to see.
+v: landscape :: An artwork showing natural scenery.
+ts: Alberta Art Response || Studio || How do I respond thoughtfully to an artwork from my province?
+tx: Alberta artists to choose from (summaries written for this lesson; show images from gallery websites): ¶ Alex Janvier (Denesuline and Saulteaux, born 1935, Cold Lake First Nations): known for flowing, colourful curving lines and symbols. His huge ceiling mural Morning Star (1993) is in the Canadian Museum of History. His work reflects the land, Dene culture and residential school experiences. ¶ Illingworth Kerr (1905–1989): painted bold, colourful prairie and foothills landscapes and taught at the Alberta College of Art in Calgary. ¶ Marion Nicoll (1909–1985): a Calgary artist and one of the first in Alberta to make abstract art, using bold shapes and colours. ¶ Task: Choose one artwork. Complete the four critique steps (describe, analyze, interpret, judge). Then add context: When and where was it made? How might the artist's life and place shape the work? End with a personal response: one connection to your own life.
+src: Summaries written for this lesson; teachers show images from public gallery websites such as the Art Gallery of Alberta.
+st: Choose an Alberta artwork | Complete the four critique steps | Research the context | Write a personal response with evidence | Share your response with a group
+org: Critique step | My response | Evidence from the artwork
+an: What stood out to you first in the artwork? | How does context help you understand it? | What feeling or idea does it express? | What connection did you make to your own life?
+pr: Write a one-page critique of an Alberta artwork including all four steps, its context and a personal response.
+ex: Context || Why does knowing Alex Janvier's background matter? || His life and culture | His experiences || It helps explain the symbols and themes of land and Dene culture in his work || What else is useful context?
+ex: Medium || What medium is a large outdoor sculpture often made from? || Durable materials || Bronze, steel or stone || Why must public art be durable?
+ex: Abstract || Marion Nicoll's work has no recognizable objects. How do you interpret it? || Focus on colour, shape and mood || Interpret the feeling created by bold shapes and colours || Can abstract art have meaning?
+ex: Personal response || Improve "I like it because it's nice." || Connect and give evidence || "The bright curving lines remind me of rivers near my home, and they make me feel calm" || Write your own.
+p: B || What is context? || The time, place and situation in which an artwork was made.
+p: B || What is a medium? || The material used to make an artwork.
+p: B || What is public art? || Art placed in public spaces.
+p: B || What is a landscape? || An artwork showing natural scenery.
+p: B || Name the four critique steps. || Describe, analyze, interpret, judge.
+p: I || Which First Nation is Alex Janvier from? || Cold Lake First Nations.
+p: I || What is Alex Janvier known for? || Flowing, colourful curving lines and symbols.
+p: I || What did Illingworth Kerr paint? || Prairie and foothills landscapes.
+p: I || What was Marion Nicoll known for? || Early abstract art in Alberta.
+p: I || What is a personal response? || Your own reaction supported by reasons.
+p: I || Where is Alex Janvier's mural Morning Star? || The Canadian Museum of History.
+p: C || How can context change an interpretation? || Knowing the artist's life and time can reveal meanings you'd otherwise miss.
+p: C || Why is abstract art harder to interpret? || It has no recognizable objects, so you rely on colour, line and mood.
+p: C || Why is it valuable to study artists from your own province? || It connects art to places and history you know.
+p: C || Write a personal response to an Alberta artwork. || Answers vary.
+mis: Thinking abstract art has no meaning | Thinking context doesn't matter | Thinking a personal response needs no evidence
+et: Give one piece of context about your artwork. | Write one sentence of personal response with evidence.
+mc: B || Context is || when, where and why art was made | the frame | the price | the title || A
+mc: B || A medium is || the material used | the artist | the gallery | the subject || A
+mc: B || Public art is || placed in public spaces | hidden at home | only digital | always paintings || A
+mc: B || A landscape shows || natural scenery | a person's face | a bowl of fruit | text || A
+mc: B || The critique steps include || describe, analyze, interpret, judge | buy, sell, frame, hang | draw, paint, cut, glue | none || A
+mc: B || A personal response needs || reasons | no reasons | only a grade | a price || A
+mc: I || Alex Janvier is from || Cold Lake First Nations | Japan | Quebec | England || A
+mc: I || Marion Nicoll was an early || abstract artist | sculptor of bronze horses | photographer | architect || A
+mc: I || Illingworth Kerr painted || prairie and foothills landscapes | city skyscrapers | portraits only | comics || A
+mc: I || Morning Star is a || ceiling mural | sculpture | photograph | print || A
+mc: C || Context helps by || revealing meanings | changing the colours | lowering the price | ending critique || A
+mc: C || Abstract art is interpreted through || colour, line and mood | recognizable objects | the frame | the title only || A
+sa: B || Define context. || The time, place and situation in which an artwork was made.
+sa: B || Name the four critique steps. || Describe, analyze, interpret, judge.
+sa: I || What is Alex Janvier known for? || Flowing colourful lines and symbols connected to land and Dene culture.
+sa: I || How can you interpret abstract art? || Through colour, shape, line and the mood they create.
+sa: I || Give one piece of context for your chosen artwork. || Answers vary.
+sa: I || What medium did your chosen artist use? || Answers vary.
+sa: C || Write a personal response with evidence. || Answers vary.
+sa: C || Explain how context changes your understanding of an artwork. || Answers vary.
+
+=== ART7.B1 0
+hook: Most people draw what they think a leaf looks like: a simple oval with a line down the middle. Artists draw what they actually see: the bumpy edge, the curling tip, the vein that splits in three. Contour drawing trains your eye to slow down and really look.
+sc: I can draw from observation instead of memory | I can use contour and blind contour lines | I can show the edges and details of natural forms
+v: observation :: Looking carefully at a real object while drawing it.
+v: contour line :: A line that follows the edges and important inner lines of a form.
+v: blind contour :: Drawing an object's contour without looking at the paper.
+v: modified contour :: Contour drawing where you glance at the paper only occasionally.
+v: natural form :: An object from nature, such as a shell, pine cone, leaf or feather.
+v: line quality :: How a line looks: thick or thin, light or dark, smooth or broken.
+ts: Seeing Edges || Studio || How does drawing from observation change what I see?
+tx: Studio steps (written for this lesson): ¶ 1. Warm-up, blind contour (3 × 2 minutes): Place a natural form (shell, pine cone, leaf, feather, seed pod) in front of you. Put your pencil on the paper and look only at the object. Move your eyes slowly along its edge and let the pencil follow at the same speed. Don't look down. The drawing will look strange; that's the point. ¶ 2. Modified contour (10 minutes): Draw the same object, glancing at the paper only to place your pencil. Include inner contours: veins, ridges, overlapping scales. ¶ 3. Line quality (10 minutes): Redraw one section larger. Use thick, dark lines for edges in shadow or closest to you and thin, light lines for edges in light or farther away. ¶ 4. Reflect: Compare your three drawings. What did you notice that you wouldn't have drawn from memory?
+src: Original activity written for this lesson.
+st: Choose a natural form | Do three blind contour warm-ups | Draw a modified contour with inner details | Vary line quality on an enlarged section | Compare drawings and reflect
+org: Drawing | Time | What I noticed | Line quality used
+an: Why do blind contour drawings look strange? | What detail did you notice for the first time? | How did varying line quality change your drawing? | Which drawing do you like best and why?
+pr: Complete a page of three contour studies of one natural form and label one example each of a thick line, a thin line and an inner contour.
+ex: Memory vs observation || Why does a leaf drawn from memory look generic? || It shows the idea, not the real leaf || It misses the real shape, edge and details || What details does a real leaf have?
+ex: Blind contour purpose || What does blind contour train? || Eye-hand coordination || It trains your eye to look closely and your hand to follow || Why not care how it looks?
+ex: Inner contour || Name an inner contour on a pine cone. || Lines inside the outline || The edges of each overlapping scale || Name one on a shell.
+ex: Line quality || Where should a line be thickest? || Shadow and closeness || On edges in shadow or closest to you || Where should lines be thin?
+p: B || What is observation drawing? || Drawing a real object while looking at it carefully.
+p: B || What is a contour line? || A line following the edges and important inner lines of a form.
+p: B || What is blind contour? || Drawing without looking at the paper.
+p: B || What is a natural form? || An object from nature.
+p: B || What is line quality? || How a line looks: thick, thin, light or dark.
+p: I || How is modified contour different from blind contour? || You glance at the paper occasionally.
+p: I || How fast should the pencil move in blind contour? || At the same speed as your eyes.
+p: I || Name three natural forms you could draw. || Shell, pine cone and feather.
+p: I || Name an inner contour on a leaf. || Its veins.
+p: I || Where should lines be thin and light? || On edges in light or farther away.
+p: I || Why draw a section larger? || To see and show more detail.
+p: C || Why do artists practise blind contour if the results look strange? || It trains careful looking, which improves all drawing.
+p: C || How can line quality suggest depth? || Thick, dark lines seem closer; thin, light lines seem farther away.
+p: C || Why is observation drawing a useful skill outside art? || Scientists, designers and doctors all need to observe closely.
+p: C || Describe something you noticed while drawing that you'd never noticed before. || Answers vary.
+mis: Thinking good drawing means drawing from memory | Thinking blind contour drawings should look realistic | Thinking all lines in a drawing should be the same
+et: What is a contour line? | Name one thing you noticed through observation.
+mc: B || Observation drawing means || drawing while looking at a real object | drawing from memory | tracing | copying a photo || A
+mc: B || A contour line follows || edges and inner lines | colours | shadows only | text || A
+mc: B || In blind contour you || don't look at the paper | look only at the paper | close both eyes | use a ruler || A
+mc: B || A pine cone is a || natural form | geometric form | tool | colour || A
+mc: B || Line quality describes || how a line looks | how long you draw | the paper size | the price || A
+mc: B || Modified contour lets you || glance at the paper sometimes | never look at the object | trace | use colour only || A
+mc: I || In blind contour the pencil moves || at the same speed as your eyes | as fast as possible | randomly | not at all || A
+mc: I || An inner contour on a leaf is || a vein | the stem only | the colour | the shadow || A
+mc: I || Thick, dark lines suggest || closeness or shadow | distance | light | nothing || A
+mc: I || Blind contour drawings usually look || strange | perfect | photographic | traced || A
+mc: C || Blind contour trains || careful looking | speed | colour mixing | tracing || A
+mc: C || Observation skills help || scientists and designers too | only artists | nobody | only photographers || A
+sa: B || Define contour line. || A line that follows the edges and important inner lines of a form.
+sa: B || What is blind contour drawing? || Drawing without looking at the paper.
+sa: I || How is modified contour different? || You glance at the paper occasionally.
+sa: I || Where should lines be thick and dark? || On edges in shadow or closest to you.
+sa: I || Name two natural forms and an inner contour on each. || Answers vary.
+sa: I || What did you notice through observation? || Answers vary.
+sa: C || Explain why artists practise blind contour. || It trains the eye to look closely.
+sa: C || Explain how line quality shows depth. || Thick, dark lines look close; thin, light lines look far.
+
+=== ART7.B1 1
+hook: Close your eyes and run your fingers over tree bark, a feather and a smooth stone. Each feels completely different. Artists can't let you touch a drawing, so they use marks to make you feel the texture with your eyes.
+sc: I can create a range of marks to show texture | I can match marks to real textures in natural forms | I can use texture to make a drawing more realistic
+v: texture :: How a surface feels or looks like it would feel.
+v: actual texture :: Texture you can really touch.
+v: implied texture :: Texture that is drawn or painted to look real.
+v: mark-making :: Using different lines, dots and strokes to create effects.
+v: stippling :: Using many small dots to create texture or shading.
+v: cross-hatching :: Using crossing sets of lines to create texture or shading.
+ts: Texture Library || Studio || How can marks make a drawing look rough, smooth or soft?
+tx: Studio steps (written for this lesson): ¶ 1. Texture library (15 minutes): Divide a page into 12 boxes. Fill each with a different kind of mark: dots (stippling), short dashes, long parallel lines (hatching), crossing lines (cross-hatching), scribbles, circles, wavy lines, zigzags, smudges with a finger, eraser lines through graphite, dense dark marks, very light marks. Label each with a texture it could show (bark, fur, water, sand). ¶ 2. Texture hunt (10 minutes): Examine three natural forms closely (a feather, bark, a rock, a pine cone). For each, choose the marks from your library that match. ¶ 3. Texture drawing (25 minutes): Draw a contour of one natural form, then fill it with implied texture using your chosen marks. Make dark areas with denser marks and light areas with fewer.
+src: Original activity written for this lesson.
+st: Make a 12-box texture library | Label each box with a texture it could show | Match marks to three real natural forms | Draw a contour of one form | Fill it with implied texture
+org: Natural form | Real texture | Marks I chose | Why they match
+an: Which mark was best for a rough surface? A smooth one? | How did dense and sparse marks change the look? | Which texture was hardest to draw? | How does texture make a drawing more realistic?
+pr: Complete a texture library and a finished texture drawing of a natural form, labelling three different marks you used.
+ex: Matching marks || Which mark best shows tree bark? || Rough, ridged || Long, broken vertical lines with dark gaps || What about fur?
+ex: Stippling || How do you make a stippled area darker? || More dots || Place dots closer together || How do you make it lighter?
+ex: Actual vs implied || Is the texture in a pencil drawing of bark actual or implied? || Can you touch the bark? || Implied || Give an example of actual texture in art.
+ex: Smooth texture || How can you show a smooth stone? || Few hard lines || Soft, even shading, smudged gently, with a light highlight || Why avoid lots of lines?
+p: B || What is texture? || How a surface feels or looks like it would feel.
+p: B || What is implied texture? || Texture drawn to look real.
+p: B || What is actual texture? || Texture you can touch.
+p: B || What is stippling? || Using small dots to create texture or shading.
+p: B || What is cross-hatching? || Crossing sets of lines to create texture or shading.
+p: I || How many boxes are in the texture library? || 12.
+p: I || How do you make stippling darker? || Put dots closer together.
+p: I || Which mark suits fur? || Short, curved, overlapping strokes.
+p: I || Which mark suits water? || Wavy lines.
+p: I || What is mark-making? || Using different lines, dots and strokes for effects.
+p: I || Give an example of actual texture in art. || Thick paint, collage or clay.
+p: C || Why should marks follow the direction of the surface? || It makes the form look three-dimensional and real.
+p: C || How can texture create contrast in a drawing? || Rough textures next to smooth ones make each stand out.
+p: C || Why do artists build a texture library? || So they have a range of marks ready to choose from.
+p: C || Explain how you chose marks for your drawing. || Answers vary.
+mis: Thinking texture can only be shown in colour | Thinking more marks always look better | Thinking texture is only for rough objects
+et: Name two marks and the textures they show. | How do you make a texture look darker?
+mc: B || Texture is || how a surface feels or looks | a colour | a shape | a frame || A
+mc: B || Implied texture is || drawn to look real | real to touch | invisible | only in sculpture || A
+mc: B || Stippling uses || dots | long lines | colour only | eraser only || A
+mc: B || Cross-hatching uses || crossing lines | dots only | smudges only | paint || A
+mc: B || Mark-making means || using lines, dots and strokes | erasing | framing | measuring || A
+mc: B || Actual texture can be || touched | only seen | only imagined | only drawn || A
+mc: I || To darken stippling || put dots closer together | spread dots out | erase | use colour || A
+mc: I || Wavy lines suit || water | bark | rock | glass || A
+mc: I || A smooth stone needs || soft, even shading | rough scribbles | zigzags | thick dots || A
+mc: I || A pencil drawing of bark shows || implied texture | actual texture | no texture | colour || A
+mc: C || Marks following the surface direction || make form look 3-D | flatten it | hide it | colour it || A
+mc: C || Rough next to smooth creates || contrast | balance only | nothing | blur || A
+sa: B || Define implied texture. || Texture drawn or painted to look real.
+sa: B || What is stippling? || Using small dots to create texture or shading.
+sa: I || Name a mark for bark and one for fur. || Broken vertical lines; short curved strokes.
+sa: I || How do you show a smooth surface? || Soft even shading with few lines.
+sa: I || What is the difference between actual and implied texture? || Actual can be touched; implied is drawn.
+sa: I || How do you make a stippled area lighter? || Spread the dots out.
+sa: C || Explain how texture makes a drawing more realistic. || It shows how surfaces would feel.
+sa: C || Explain how you chose marks for your drawing. || Answers vary.
+
+=== ART7.B1 2
+hook: Draw a circle and it's flat. Add shading from light to dark, and suddenly it's a ball you could pick up. Value, the lightness and darkness of a surface, is the trick artists use to make flat paper look three-dimensional.
+sc: I can create a value scale | I can identify highlight, mid-tone, core shadow and cast shadow | I can use value to show form in a drawing
+v: value :: How light or dark something is.
+v: value scale :: A row of boxes showing a range from white to black.
+v: highlight :: The lightest area, where light hits most directly.
+v: core shadow :: The darkest part of the shadow on the object itself.
+v: cast shadow :: The shadow an object throws onto the surface behind or below it.
+v: form :: A three-dimensional shape with height, width and depth.
+ts: Light and Shadow || Studio || How does value turn shapes into forms?
+tx: Studio steps (written for this lesson): ¶ 1. Value scale (10 minutes): Draw a row of seven boxes. Leave the first white. Shade each box a little darker until the last is as dark as your pencil can go. Use a 2B or 4B pencil and build up layers rather than pressing hard at once. ¶ 2. Sphere study (15 minutes): Shine a lamp on a white ball from one side. Draw a circle. Find and shade: the highlight (lightest, nearest the light), the mid-tones, the core shadow (darkest band on the ball, away from the light), reflected light (a slightly lighter edge inside the shadow) and the cast shadow on the table. ¶ 3. Natural form (25 minutes): Light a natural form (shell, gourd, egg, pine cone) from one side. Draw its contour, then shade it with at least five values from your scale. ¶ Tip: squint at the object. Squinting hides details and shows the big light and dark shapes.
+src: Original activity written for this lesson.
+st: Create a seven-step value scale | Light and draw a sphere | Shade the five parts of light and shadow | Light and draw a natural form | Shade it with at least five values
+org: Part of light | Where it is | Value number (1–7)
+an: Where is the highlight on your sphere and why? | How is the core shadow different from the cast shadow? | Did squinting help you see values? | How did value change your natural-form drawing?
+pr: Complete a value scale, a shaded sphere with the five parts labelled and a shaded natural-form drawing using at least five values.
+ex: Highlight || Light comes from the top left. Where is the highlight? || Closest to the light || On the top-left area of the form || Where is the core shadow?
+ex: Cast shadow || Which way does the cast shadow fall? || Opposite the light || Away from the light, on the surface || Is it darker near or far from the object?
+ex: Building value || Why build layers instead of pressing hard? || Pressing makes shiny dents || Layers give smooth, even tones and can be darker || Which pencil makes darker values?
+ex: Squinting || Why squint at the object? || Details blur || It shows the big light and dark shapes clearly || Try it now.
+p: B || What is value? || How light or dark something is.
+p: B || What is a value scale? || A range of boxes from white to black.
+p: B || What is a highlight? || The lightest area, where light hits.
+p: B || What is a cast shadow? || The shadow an object throws onto a surface.
+p: B || What is form? || A 3-D shape with height, width and depth.
+p: I || How many boxes are in the value scale? || Seven.
+p: I || What is the core shadow? || The darkest part of the shadow on the object.
+p: I || What is reflected light? || A slightly lighter edge inside the shadow.
+p: I || Which pencil makes darker values: 2H or 4B? || 4B.
+p: I || Light comes from the right. Which side has the cast shadow? || The left.
+p: I || How many values should your natural-form drawing use? || At least five.
+p: C || Why does value make shapes look 3-D? || It shows how light falls across a curved surface.
+p: C || Why is a single light source easier to draw? || It creates clear, consistent shadows.
+p: C || How does squinting help artists? || It simplifies details into big areas of light and dark.
+p: C || Explain how you used value in your drawing. || Answers vary.
+mis: Thinking shadows are always black | Thinking the cast shadow is the same as the core shadow | Pressing hard instead of building layers
+et: Name the parts of light and shadow. | Where is the highlight in your drawing?
+mc: B || Value means || lightness or darkness | colour only | size | texture || A
+mc: B || A highlight is || the lightest area | the darkest area | the cast shadow | the outline || A
+mc: B || A cast shadow falls || onto the surface | on the highlight | nowhere | inside the object || A
+mc: B || Form is || 3-D | flat | a colour | a line || A
+mc: B || A value scale goes from || white to black | red to blue | small to big | thin to thick || A
+mc: B || The core shadow is || the darkest part on the object | the lightest area | the table | the background || A
+mc: I || A 4B pencil makes || darker values | lighter values | colour | no marks || A
+mc: I || Light from the top left puts the highlight || top left | bottom right | everywhere | nowhere || A
+mc: I || Reflected light is || a lighter edge inside the shadow | the highlight | the cast shadow | the background || A
+mc: I || The value scale has || seven boxes | two boxes | twenty boxes | one box || A
+mc: C || Value makes shapes look 3-D by || showing how light falls | adding colour | outlining | flattening || A
+mc: C || Squinting helps by || simplifying light and dark shapes | adding detail | changing colour | sharpening lines || A
+sa: B || Define value. || How light or dark something is.
+sa: B || What is a cast shadow? || The shadow an object throws onto a surface.
+sa: I || Name the five parts of light on a sphere. || Highlight, mid-tone, core shadow, reflected light, cast shadow.
+sa: I || Light comes from the right. Where is the cast shadow? || On the left.
+sa: I || Why build layers of graphite? || For smooth, even, darker tones.
+sa: I || Which is darker, 2H or 4B? || 4B.
+sa: C || Explain how value creates form. || It shows light falling across a curved surface.
+sa: C || Describe how you shaded your natural form. || Answers vary.
+
+=== ART7.C1 0
+hook: Painters often keep a limited palette of only a few tubes of paint, yet they create hundreds of colours. The secret is knowing how colours mix. Today you'll mix a whole colour wheel from just three.
+sc: I can name primary, secondary and tertiary colours | I can mix colours accurately using a colour wheel | I can make tints and shades
+v: primary colours :: Red, yellow and blue; they can't be mixed from other colours.
+v: secondary colours :: Orange, green and violet; made by mixing two primaries.
+v: tertiary colours :: Colours made by mixing a primary with a neighbouring secondary, such as red-orange.
+v: colour wheel :: A circle showing how colours relate to each other.
+v: tint :: A colour mixed with white.
+v: shade :: A colour mixed with black.
+ts: Mix the Wheel || Studio || How can three colours make a whole colour wheel?
+tx: Studio steps (written for this lesson): ¶ 1. Draw a 12-section colour wheel. ¶ 2. Paint the primaries in sections 1, 5 and 9: red, yellow, blue. ¶ 3. Mix and paint the secondaries halfway between: red + yellow = orange; yellow + blue = green; blue + red = violet. ¶ 4. Mix the six tertiaries: red-orange, yellow-orange, yellow-green, blue-green, blue-violet, red-violet. Tip: when mixing with yellow, add the darker colour to the yellow a tiny bit at a time. ¶ 5. Tints and shades strip: choose one colour. Paint it pure in the middle box, add a little white for each box to the right (tints) and a little black for each box to the left (shades). ¶ 6. Clean your brush between colours, and keep a paper towel handy.
+src: Original activity written for this lesson.
+st: Draw a 12-section wheel | Paint the three primaries | Mix and paint the secondaries | Mix and paint the six tertiaries | Paint a tints-and-shades strip
+org: Colour | Type (primary, secondary, tertiary) | Mixed from | Tricky or easy?
+an: Which colour was hardest to mix? Why? | Why add dark colours to light colours slowly? | How do tints and shades change the mood of a colour? | Where do you see tints and shades in nature?
+pr: Complete a 12-part colour wheel with every colour labelled, and a tints-and-shades strip of one colour.
+ex: Secondary mixing || Which primaries make green? || Yellow + blue || Green || Which make violet?
+ex: Tertiary naming || A mix of blue and green is called? || Primary named first || Blue-green || Name the mix of red and violet.
+ex: Mixing order || Why add blue to yellow, not yellow to blue? || Dark colours are stronger || A little blue changes yellow a lot; the reverse wastes paint || What other colours are strong?
+ex: Tint or shade || Pink is red plus what? || Lighter || White; pink is a tint of red || What is a shade of blue?
+p: B || Name the three primary colours. || Red, yellow and blue.
+p: B || Name the three secondary colours. || Orange, green and violet.
+p: B || What is a tertiary colour? || A primary mixed with a neighbouring secondary.
+p: B || What is a tint? || A colour mixed with white.
+p: B || What is a shade? || A colour mixed with black.
+p: I || What do red and yellow make? || Orange.
+p: I || What do blue and red make? || Violet.
+p: I || Name the six tertiary colours. || Red-orange, yellow-orange, yellow-green, blue-green, blue-violet, red-violet.
+p: I || How many sections are on the wheel? || 12.
+p: I || Is navy a tint or shade of blue? || A shade.
+p: I || Why clean the brush between colours? || To keep colours pure.
+p: C || Why can't primary colours be mixed from others? || They are the starting colours that all others come from.
+p: C || Why do painters use a limited palette? || Mixing creates harmony and saves paint.
+p: C || How could a shade change a painting's mood? || Darker colours can feel serious, mysterious or sad.
+p: C || Explain how you mixed your hardest colour. || Answers vary.
+mis: Thinking tertiary colours are made from two secondaries | Thinking black always makes the best shade | Adding light colours to dark ones and wasting paint
+et: Name the primaries and secondaries. | What is the difference between a tint and a shade?
+mc: B || The primary colours are || red, yellow, blue | orange, green, violet | black, white, grey | red, green, blue || A
+mc: B || The secondary colours are || orange, green, violet | red, yellow, blue | pink, brown, grey | black and white || A
+mc: B || A tint is a colour plus || white | black | grey | water only || A
+mc: B || A shade is a colour plus || black | white | yellow | water || A
+mc: B || A colour wheel shows || how colours relate | prices | brush sizes | paper types || A
+mc: B || Blue-green is a || tertiary colour | primary colour | secondary colour | neutral || A
+mc: I || Yellow and blue make || green | orange | violet | brown || A
+mc: I || Red and yellow make || orange | green | violet | pink || A
+mc: I || Pink is a || tint of red | shade of red | primary | secondary || A
+mc: I || To mix green, add || blue to yellow a little at a time | yellow to blue all at once | black | white || A
+mc: C || Painters use a limited palette for || harmony | confusion | brighter prices | more paint || A
+mc: C || Dark shades can make a painting feel || serious or mysterious | always happy | louder | smaller || A
+sa: B || Name the primary colours. || Red, yellow and blue.
+sa: B || Define tint and shade. || Tint: colour plus white; shade: colour plus black.
+sa: I || Which primaries make violet? || Blue and red.
+sa: I || Name two tertiary colours. || Red-orange and blue-green.
+sa: I || Why add a dark colour to a light one slowly? || A small amount of dark changes the light colour a lot.
+sa: I || How many colours are on a 12-part wheel? || 12.
+sa: C || Explain how three colours make a whole wheel. || Mixing primaries makes secondaries, and mixing those makes tertiaries.
+sa: C || Describe your tints-and-shades strip. || Answers vary.
+
+=== ART7.C1 1
+hook: Why do fast-food logos use so much red and yellow, while banks and hospitals use blue? Colours carry temperatures and feelings. Warm colours seem to jump forward; cool colours seem to step back and calm us down.
+sc: I can sort colours into warm and cool | I can use complementary colours to create contrast | I can use colour temperature to show mood and depth
+v: warm colours :: Reds, oranges and yellows; they feel energetic and seem to come forward.
+v: cool colours :: Blues, greens and violets; they feel calm and seem to move back.
+v: complementary colours :: Colours opposite each other on the colour wheel, such as blue and orange.
+v: contrast :: A strong difference between parts of an artwork.
+v: mood :: The feeling an artwork creates.
+v: atmospheric perspective :: Making distant things cooler, lighter and less detailed to show depth.
+ts: Hot and Cold || Studio || How do warm and cool colours change the feeling and depth of an artwork?
+tx: Studio steps (written for this lesson): ¶ 1. Sort it: Sort 20 paint-chip colours into warm and cool. Some are tricky (a cool red, a warm green). Discuss why. ¶ 2. Complementary pairs: Find the three main pairs on your colour wheel: red and green, blue and orange, yellow and violet. Paint a small shape in one colour on a background of its complement. What happens at the edge? ¶ 3. Two moods: Draw the same simple landscape twice (hills, a tree, a sky). Paint one using only warm colours and one using only cool colours. ¶ 4. Depth: Paint a third version where the near hills are warm and strong and the far hills are cool, pale and less detailed. Compare the three.
+src: Original activity written for this lesson.
+st: Sort colours into warm and cool | Paint complementary pairs side by side | Paint a warm and a cool version of a landscape | Paint a third version using warm near and cool far | Compare mood and depth in all three
+org: Version | Colours used | Mood created | Sense of depth
+an: How do the warm and cool landscapes feel different? | What happens where complementary colours meet? | Which version has the most depth? Why? | Where have you seen warm and cool colours used on purpose?
+pr: Complete three versions of your landscape and write a sentence under each describing its mood and depth.
+ex: Sorting || Is turquoise warm or cool? || Blue and green family || Cool || Is a red-orange warm or cool?
+ex: Complements || What is the complement of orange? || Opposite on the wheel || Blue || Why might a sports team use these two together?
+ex: Mood || A painting of a winter night uses blues and violets. Mood? || Cool colours || Calm, quiet or cold || How would warm colours change it?
+ex: Depth || Why paint far hills pale blue? || Air between you and the hills || Distant objects look cooler and lighter (atmospheric perspective) || What happens to detail in the distance?
+p: B || Name three warm colours. || Red, orange and yellow.
+p: B || Name three cool colours. || Blue, green and violet.
+p: B || What are complementary colours? || Colours opposite on the colour wheel.
+p: B || What is contrast? || A strong difference between parts of an artwork.
+p: B || What is mood? || The feeling an artwork creates.
+p: I || What is the complement of red? || Green.
+p: I || What is the complement of yellow? || Violet.
+p: I || Do warm colours seem to come forward or go back? || Come forward.
+p: I || What is atmospheric perspective? || Making distant things cooler, lighter and less detailed.
+p: I || What mood might warm colours create? || Energetic, happy or angry.
+p: I || What happens where complementary colours meet? || They look brighter and vibrate.
+p: C || Why do many fast-food logos use red and yellow? || Warm colours feel energetic and grab attention.
+p: C || Why do hospitals often use blue and green? || Cool colours feel calm and clean.
+p: C || Can a colour be both warm and cool? || Yes; a red can lean cool if it has blue in it.
+p: C || Explain which of your three landscapes worked best and why. || Answers vary.
+mis: Thinking colour temperature means actual heat | Thinking complementary means colours that look nice together | Thinking all reds are equally warm
+et: Name one complementary pair. | How do cool colours help show distance?
+mc: B || Warm colours include || red, orange, yellow | blue, green, violet | black, white | grey || A
+mc: B || Cool colours include || blue, green, violet | red, orange, yellow | gold | brown || A
+mc: B || Complementary colours are || opposite on the wheel | next to each other | the same | black and white || A
+mc: B || Contrast is || a strong difference | sameness | a frame | a brush || A
+mc: B || Mood is || the feeling of an artwork | its size | its price | its frame || A
+mc: B || The complement of blue is || orange | green | violet | red || A
+mc: I || Warm colours seem to || come forward | move back | disappear | turn grey || A
+mc: I || Distant hills are painted || cool and pale | warm and bright | black | detailed || A
+mc: I || A blue and violet night scene feels || calm or cold | hot and angry | loud | sunny || A
+mc: I || Complementary colours side by side || look brighter | look duller | disappear | blend away || A
+mc: C || Fast-food logos use warm colours to || grab attention | calm people | show distance | look cold || A
+mc: C || A red with blue in it is || a cool red | always warm | not a red | a secondary || A
+sa: B || Define complementary colours. || Colours opposite each other on the colour wheel.
+sa: B || Name three warm and three cool colours. || Red, orange, yellow; blue, green, violet.
+sa: I || What is the complement of yellow? || Violet.
+sa: I || Explain atmospheric perspective. || Distant things look cooler, lighter and less detailed.
+sa: I || What mood do cool colours often create? || Calm or cold.
+sa: I || What happens where complements meet? || They look brighter.
+sa: C || Explain why hospitals often use cool colours. || Cool colours feel calm and clean.
+sa: C || Compare the mood of your warm and cool landscapes. || Answers vary.
+
+=== ART7.C1 2
+hook: Look at a page of a great comic or a famous photo. Your eye moves exactly where the artist wants it to. That isn't luck; it's composition: the way shapes, colours and spaces are arranged.
+sc: I can create symmetrical and asymmetrical balance | I can use pattern and repetition | I can plan a balanced composition using thumbnails
+v: composition :: The arrangement of the parts of an artwork.
+v: balance :: How visual weight is spread so an artwork feels stable.
+v: symmetrical balance :: Both sides of an artwork are the same or very similar.
+v: asymmetrical balance :: Different things on each side that still feel equal in weight.
+v: radial balance :: Parts arranged around a centre, like a flower or a wheel.
+v: pattern :: A repeated design of shapes, lines or colours.
+ts: Arrange It || Studio || How does arrangement make an artwork feel balanced and interesting?
+tx: Studio steps (written for this lesson): ¶ 1. Balance sorting: Look at six images (a butterfly, a mandala, a photo of a lone tree off-centre, a cathedral front, a sunflower, a landscape with one big rock on the left and three small rocks on the right). Sort them into symmetrical, asymmetrical and radial balance. ¶ 2. Paper experiment: Using cut paper shapes (one big, three small, in two colours), arrange them on a background three ways: symmetrical, asymmetrical and radial. Photograph each. ¶ 3. Thumbnails: Draw four small thumbnails for a final artwork based on a natural theme (leaves, shells, insects, flowers). Try each type of balance and include a repeating pattern. ¶ 4. Final composition: Choose your best thumbnail and create it in coloured pencil or paint, using colours from your colour wheel and at least one pattern.
+src: Original activity written for this lesson.
+st: Sort images by type of balance | Arrange paper shapes three ways | Draw four composition thumbnails | Choose the strongest thumbnail | Create a final balanced composition with a pattern
+org: Thumbnail | Type of balance | Pattern used | Strength
+an: Which type of balance feels most calm? Most dynamic? | How can several small shapes balance one big shape? | Where does your eye travel in your final composition? | How did pattern add interest?
+pr: Create a final composition with a clear type of balance and at least one pattern, and label the balance type and pattern on the back.
+ex: Identifying balance || A butterfly's wings show which balance? || Both sides match || Symmetrical || Name another symmetrical natural form.
+ex: Asymmetrical || How can three small rocks balance one big rock? || Visual weight || Their combined weight equals the big rock's || What else adds weight?
+ex: Radial || Which natural forms show radial balance? || Arranged around a centre || Sunflowers, starfish and snowflakes || How would you use radial balance?
+ex: Pattern || Create a pattern from a leaf. || Repeat shape, colour or line || Repeat the leaf shape in a row, alternating green and orange || How is pattern different from rhythm?
+p: B || What is composition? || The arrangement of the parts of an artwork.
+p: B || What is balance? || How visual weight is spread so an artwork feels stable.
+p: B || What is symmetrical balance? || Both sides are the same or very similar.
+p: B || What is radial balance? || Parts arranged around a centre.
+p: B || What is pattern? || A repeated design.
+p: I || What is asymmetrical balance? || Different things on each side that feel equal in weight.
+p: I || Name a natural form with radial balance. || A sunflower.
+p: I || What adds visual weight? || Size, dark or bright colour and detail.
+p: I || How many thumbnails should you draw? || Four.
+p: I || Which balance often feels calm and formal? || Symmetrical.
+p: I || Which balance often feels more dynamic? || Asymmetrical.
+p: C || Why might an artist choose asymmetrical balance? || It feels more natural, interesting and lively.
+p: C || How does a bright colour add visual weight? || It attracts the eye, so it feels heavier.
+p: C || Why plan with thumbnails before a final work? || To compare arrangements quickly.
+p: C || Explain the balance in your final composition. || Answers vary.
+mis: Thinking balance means everything must be symmetrical | Thinking pattern means copying exactly the same thing forever | Starting a final work without planning
+et: Name the three types of balance. | Which type did you use and why?
+mc: B || Composition is || the arrangement of parts | the frame | the price | the paint brand || A
+mc: B || Symmetrical balance means || both sides are similar | sides are different | parts circle a centre | no balance || A
+mc: B || Radial balance arranges parts || around a centre | in a row | on one side | randomly || A
+mc: B || A pattern is || a repeated design | a single shape | a frame | a colour wheel || A
+mc: B || Balance is about || visual weight | actual weight | price | size of paper || A
+mc: B || A butterfly shows || symmetrical balance | radial balance | no balance | asymmetrical balance || A
+mc: I || A sunflower shows || radial balance | asymmetrical balance | no balance | symmetrical only || A
+mc: I || Visual weight increases with || size and bright colour | blank space | light lines | small size || A
+mc: I || Several small shapes balancing one big shape is || asymmetrical balance | symmetrical balance | radial balance | pattern || A
+mc: I || You should draw || four thumbnails | one thumbnail | no thumbnails | ten finals || A
+mc: C || Asymmetrical balance often feels || dynamic and natural | formal and still | broken | random || A
+mc: C || Thumbnails help by || comparing arrangements quickly | finishing the work | adding colour | framing || A
+sa: B || Define composition. || The arrangement of the parts of an artwork.
+sa: B || Name the three types of balance. || Symmetrical, asymmetrical and radial.
+sa: I || Name a natural form with radial balance. || A sunflower or starfish.
+sa: I || How can small shapes balance a big shape? || Their combined visual weight equals it.
+sa: I || What adds visual weight? || Size, bright or dark colour and detail.
+sa: I || Create a pattern from a natural form. || Answers vary.
+sa: C || Explain why an artist might choose asymmetrical balance. || It feels natural and lively.
+sa: C || Describe the balance and pattern in your final composition. || Answers vary.
+
+=== ART7.D1 0
+hook: Edvard Munch's The Scream doesn't show anything scary happening, yet people around the world feel its panic. The swirling orange sky and wavy lines do the work. Colour and line can carry feelings without a single word.
+sc: I can describe how colour and line create mood | I can choose colours and lines to express a feeling | I can explain the mood in my own work
+v: mood :: The feeling an artwork creates.
+v: expressive line :: A line that shows feeling through its direction, weight and movement.
+v: emotion :: A strong feeling, such as joy, fear or calm.
+v: intensity :: How bright or dull a colour is.
+v: abstract :: Art that uses shapes, colours and lines instead of realistic images.
+v: expressionism :: An art movement that shows emotions rather than realistic appearances.
+ts: Feelings in Line and Colour || Studio || How can colour and line show a feeling?
+tx: Studio steps (written for this lesson): ¶ 1. Look: View Edvard Munch, The Scream (Norway, 1893) and Wassily Kandinsky, an abstract work such as Composition VII (1913). Discuss: what feelings do the colours and lines create? ¶ 2. Line feelings (10 minutes): Divide a page into six boxes labelled calm, angry, joyful, nervous, sad and excited. Fill each with lines only (no pictures) that express the feeling. Compare with a partner: can they guess the feeling? ¶ 3. Colour feelings (10 minutes): Repeat with colour only: patches of paint or pastel for each feeling. Use intensity (bright or dull) and value (light or dark). ¶ 4. Small abstract (20 minutes): Choose one feeling. Create a small abstract artwork using both line and colour to express it. Give it a title.
+src: Original activity written for this lesson; teachers show images from public museum websites.
+st: Discuss mood in two expressive artworks | Fill six boxes with expressive lines | Fill six boxes with expressive colours | Create a small abstract artwork showing one feeling | Title it and explain your choices
+org: Feeling | Lines I used | Colours I used | Could a partner guess it?
+an: Which lines did people use for anger? For calm? | Did people use similar colours for the same feeling? | Which feeling was hardest to show? | How does your abstract work express its feeling?
+pr: Create a small abstract artwork expressing one feeling, and write three sentences explaining how its lines and colours create the mood.
+ex: Calm lines || What lines feel calm? || Direction and movement || Long, smooth horizontal lines || What lines feel angry?
+ex: Intensity || How do bright and dull colours differ in mood? || Intensity || Bright colours feel energetic; dull colours feel quiet or sad || Which suits "nervous"?
+ex: The Scream || What creates the panic in The Scream? || Look at line and colour || Swirling wavy lines and a burning orange sky || How does the figure's shape add to it?
+ex: Explaining choices || Improve "My art is happy." || Name colour and line || "Bright yellows and bouncing curved lines make it feel joyful" || Explain another feeling.
+p: B || What is mood? || The feeling an artwork creates.
+p: B || What is an expressive line? || A line that shows feeling.
+p: B || What is intensity? || How bright or dull a colour is.
+p: B || What is abstract art? || Art using shapes, colours and lines instead of realistic images.
+p: B || Who painted The Scream? || Edvard Munch.
+p: I || What lines suggest anger? || Sharp, jagged zigzag lines.
+p: I || What lines suggest calm? || Long, smooth horizontal lines.
+p: I || What colours often suggest sadness? || Dull blues and greys.
+p: I || What is expressionism? || Art that shows emotions rather than realistic appearance.
+p: I || When was The Scream painted? || 1893.
+p: I || Which artist made abstract works like Composition VII? || Wassily Kandinsky.
+p: C || Can a colour mean different things to different people? || Yes; culture and experience affect colour meanings.
+p: C || Why might abstract art express feelings better than realistic art? || It focuses directly on colour and line without distracting details.
+p: C || How could you show two mixed feelings in one artwork? || Combine contrasting lines and colours in different areas.
+p: C || Explain how your artwork expresses its feeling. || Answers vary.
+mis: Thinking abstract art is random scribbling | Thinking colours mean exactly the same to everyone | Thinking only faces can show emotion
+et: Name a line and a colour that show one feeling. | What feeling does your artwork express?
+mc: B || Mood is || the feeling of an artwork | the frame | the price | the size || A
+mc: B || Expressive lines show || feelings | measurements | maps | text || A
+mc: B || Intensity means || brightness or dullness | size | weight | price || A
+mc: B || Abstract art uses || shapes, colours and lines | only photos | realistic people only | text || A
+mc: B || The Scream was painted by || Edvard Munch | Emily Carr | Hokusai | Kandinsky || A
+mc: B || Expressionism shows || emotions | exact copies | maps | diagrams || A
+mc: I || Jagged zigzag lines suggest || anger or tension | calm | sleep | sadness only || A
+mc: I || Long horizontal lines suggest || calm | anger | panic | excitement || A
+mc: I || Dull blues and greys often suggest || sadness | joy | anger | excitement || A
+mc: I || The Scream's sky is || swirling orange | plain white | black | green || A
+mc: C || Colour meanings can differ because of || culture and experience | paint brands | paper size | nothing || A
+mc: C || Abstract art can express feeling directly because it || focuses on colour and line | has no colour | copies photos | uses words || A
+sa: B || Define expressive line. || A line that shows feeling through its direction, weight and movement.
+sa: B || What is intensity? || How bright or dull a colour is.
+sa: I || Describe lines that show anger and calm. || Jagged zigzags; long smooth horizontals.
+sa: I || What creates the mood in The Scream? || Swirling lines and a burning orange sky.
+sa: I || Name colours you used for one feeling. || Answers vary.
+sa: I || What is abstract art? || Art using shapes, colours and lines instead of realistic images.
+sa: C || Explain how your abstract work expresses a feeling. || Answers vary.
+sa: C || Explain why colours can mean different things to different people. || Culture and experience shape meaning.
+
+=== ART7.D1 1
+hook: A dove for peace, a red heart for love, a broken chain for freedom: symbols pack big ideas into small images. Your life has symbols too: a pet, a sport, a family tradition, a place you love. Today you invent your own visual language.
+sc: I can explain what a symbol is and how artists use them | I can develop personal symbols that represent me | I can use a sketchbook to explore and refine ideas
+v: symbol :: An image that stands for an idea, person or feeling.
+v: personal symbol :: An image that represents something important in your own life.
+v: sketchbook :: A book where artists explore ideas, practise and plan.
+v: simplify :: To reduce an image to its most important shapes.
+v: motif :: An image or shape that is repeated in an artwork.
+v: iconography :: The set of symbols used by an artist or culture.
+ts: My Symbols || Studio || How can simple images represent who I am?
+tx: Studio steps (written for this lesson): ¶ 1. Look: Discuss common symbols (dove, heart, lightning bolt, tree) and symbols in art, such as the circles and lines Alex Janvier uses, or the animals in Haida formline art, where each animal has meaning. Note: some cultural symbols are sacred or belong to specific Nations; we respect them and don't copy them. ¶ 2. Brainstorm (10 minutes): In your sketchbook, list ten things that matter to you: people, places, activities, values, memories. ¶ 3. Sketch (15 minutes): For four of them, draw three versions each: realistic, simplified and a bold symbol made of just a few lines and shapes. ¶ 4. Refine (10 minutes): Choose your two strongest symbols. Redraw them cleanly. Could someone remember them after a glance? ¶ 5. Motif test: Repeat one symbol as a pattern or border to see how it works as a motif.
+src: Original activity written for this lesson.
+st: Discuss symbols in everyday life and art | Brainstorm ten important things in your life | Sketch realistic, simplified and symbol versions | Refine your two strongest symbols | Test one symbol as a repeated motif
+org: Idea | Realistic sketch | Simplified sketch | Symbol
+an: What makes a symbol easy to recognize? | How did simplifying change your images? | Which of your symbols best represents you? | Why should we not copy sacred or cultural symbols?
+pr: Complete a sketchbook spread with ten ideas, three-stage sketches for four of them and two refined personal symbols with a sentence explaining each.
+ex: Simplifying || Simplify a drawing of a soccer ball. || Keep only key shapes || A circle with a few pentagon shapes || Simplify a guitar.
+ex: Meaning || Why might someone choose a tree as a symbol for family? || Roots, branches || It suggests roots (history) and branches (family members) || What else could a tree symbolize?
+ex: Respect || Can you copy a Haida crest design for your symbol? || Ownership | Respect || No; crests belong to families and Nations; create your own symbol instead || Why does this matter?
+ex: Motif || How does repeating your symbol change it? || Pattern || It becomes a motif, adding rhythm and unity || Where could you use a motif?
+p: B || What is a symbol? || An image that stands for an idea.
+p: B || What is a personal symbol? || An image representing something important in your life.
+p: B || What is a sketchbook? || A book for exploring ideas, practising and planning.
+p: B || What does simplify mean? || Reduce an image to its most important shapes.
+p: B || What is a motif? || A repeated image or shape.
+p: I || Name two common symbols and their meanings. || Dove for peace; heart for love.
+p: I || How many ideas should you brainstorm? || Ten.
+p: I || What are the three versions of each sketch? || Realistic, simplified and symbol.
+p: I || What makes a symbol memorable? || It is simple and bold.
+p: I || What is iconography? || The set of symbols used by an artist or culture.
+p: I || Why shouldn't you copy sacred cultural symbols? || They belong to specific peoples and carry special meaning.
+p: C || Why do logos often use simple symbols? || Simple images are recognized quickly.
+p: C || How can one symbol mean different things to different people? || People connect it to different experiences.
+p: C || How does a sketchbook help artists? || It's a place to try, fail and develop ideas without pressure.
+p: C || Explain your strongest personal symbol. || Answers vary.
+mis: Thinking symbols must be complicated | Thinking it is fine to copy any cultural symbol | Thinking sketchbooks should only hold finished work
+et: Draw one personal symbol. | What does it represent?
+mc: B || A symbol || stands for an idea | is a frame | is a colour wheel | is a price || A
+mc: B || A sketchbook is for || exploring ideas | final framing only | selling | homework only || A
+mc: B || To simplify is to || keep the key shapes | add detail | erase all | copy || A
+mc: B || A motif is || a repeated image | a single dot | a frame | a medium || A
+mc: B || A dove often symbolizes || peace | anger | money | speed || A
+mc: B || A personal symbol represents || something important to you | a brand | a country only | nothing || A
+mc: I || Each idea gets sketches that are || realistic, simplified and symbolic | all the same | coloured only | traced || A
+mc: I || Memorable symbols are || simple and bold | detailed and tiny | faint | complex || A
+mc: I || Haida crest designs should be || respected, not copied | copied freely | sold | changed || A
+mc: I || Iconography is || a set of symbols | a paint | a tool | a frame || A
+mc: C || Logos use simple symbols because they are || recognized quickly | cheaper | colourful | longer || A
+mc: C || Sketchbooks help because they allow || trying and failing | only perfect work | framing | selling || A
+sa: B || Define symbol. || An image that stands for an idea, person or feeling.
+sa: B || What is a motif? || A repeated image or shape.
+sa: I || Simplify an object into a symbol. || Answers vary.
+sa: I || Why should sacred cultural symbols not be copied? || They belong to specific peoples and carry special meaning.
+sa: I || What makes a symbol memorable? || Simplicity and bold shapes.
+sa: I || Name a common symbol and its meaning. || Answers vary.
+sa: C || Explain one of your personal symbols. || Answers vary.
+sa: C || Explain how sketchbooks help artists develop ideas. || They are a place to explore without pressure.
+
+=== ART7.D1 2
+hook: This is the art where you decide everything: the idea, the feeling, the colours, the symbols. It isn't about copying or perfection. It's about saying something that's yours, then explaining how you did it.
+sc: I can plan an original expressive artwork | I can combine colour, line and personal symbols to express an idea | I can reflect on my artwork and process
+v: original :: Created from your own ideas, not copied.
+v: expressive artwork :: An artwork that communicates a feeling or idea.
+v: plan :: Thumbnails and notes that prepare for a final work.
+v: medium :: The material used, such as paint, pastel or collage.
+v: reflection :: Thinking about and explaining your work and process.
+v: artist statement :: A short text explaining an artwork's ideas and choices.
+ts: Express Yourself || Studio || How can I combine everything I've learned to express an idea?
+tx: Project brief (written for this lesson): ¶ Create an original artwork, about 30 cm by 40 cm, that expresses a feeling or personal idea. It must include: at least one of your personal symbols; colours chosen for mood (warm, cool, complementary, tints or shades); expressive lines; a planned composition with a clear type of balance. ¶ Stage 1, Plan (one lesson): Choose your idea and feeling. Draw three thumbnails with notes on colours and balance. Get feedback from a partner using glow and grow. ¶ Stage 2, Create (two lessons): Choose your medium (paint, oil pastel, coloured pencil or mixed media). Work from your best thumbnail. ¶ Stage 3, Reflect (half a lesson): Write a short artist statement: what the work expresses, how colour, line and symbol show it, and what you learned.
+src: Original activity written for this lesson.
+st: Choose an idea and feeling | Draw three planned thumbnails | Get partner feedback | Create the final artwork | Write an artist statement
+org: Choice | What I chose | Why it shows my idea
+an: What feeling or idea does your artwork express? | Which choice of colour or line is strongest? | How did partner feedback change your plan? | What would you do differently next time?
+pr: Complete your expressive artwork and a 100-word artist statement explaining your idea, colours, lines and symbols.
+ex: Linking choices || Your idea is "home feels safe." Choose colours. || Mood | Temperature || Warm, soft tints such as peach and gold || What lines fit?
+ex: Using feedback || A partner says your symbol is hard to see. What do you do? || Consider emphasis || Make it larger, add contrast or place it where the eye goes first || Why not ignore it?
+ex: Artist statement || Improve "I drew stuff I like." || Idea, choices, meaning || "My painting expresses calm at the lake; cool blues and long horizontal lines create stillness" || Add a sentence about your symbol.
+ex: Medium choice || Which medium is best for bold, bright colour fast? || Oil pastel or paint || Oil pastel gives bold colour quickly || When might coloured pencil be better?
+p: B || What does original mean? || Created from your own ideas.
+p: B || What is an expressive artwork? || One that communicates a feeling or idea.
+p: B || What is a medium? || The material used.
+p: B || What is reflection? || Thinking about and explaining your work.
+p: B || What is an artist statement? || A short text explaining an artwork's ideas and choices.
+p: I || What four things must the artwork include? || A personal symbol, mood colours, expressive lines and planned balance.
+p: I || How many thumbnails should you draw? || Three.
+p: I || What size is the artwork? || About 30 cm by 40 cm.
+p: I || What feedback method do partners use? || Glow and grow.
+p: I || How long is the artist statement? || About 100 words.
+p: I || Name two media you could use. || Paint and oil pastel.
+p: C || Why plan before the final artwork? || To make choices on purpose and avoid wasting materials.
+p: C || How does an artist statement help viewers? || It explains ideas they might not see.
+p: C || Why might a final artwork change from the plan? || New ideas and problems appear while working.
+p: C || Write your artist statement. || Answers vary.
+mis: Thinking original art must be completely new and unlike anything | Thinking planning limits creativity | Thinking an artist statement just describes the picture
+et: What does your artwork express? | Name one choice and why you made it.
+mc: B || Original art is || from your own ideas | copied | traced | bought || A
+mc: B || An artist statement explains || ideas and choices | the price | the frame | the gallery || A
+mc: B || A medium is || the material used | the idea | the feeling | the frame || A
+mc: B || Reflection means || thinking about your work | copying | painting | framing || A
+mc: B || The artwork must include || a personal symbol | a famous logo | a photo | text only || A
+mc: B || Partners give feedback using || glow and grow | grades | prices | silence || A
+mc: I || "Home feels safe" fits || warm soft tints | harsh jagged black lines | neon greens only | grey only || A
+mc: I || A symbol hard to see needs || more emphasis | to be removed | less contrast | smaller size || A
+mc: I || The artist statement is about || 100 words | 1,000 words | 10 words | one word || A
+mc: I || Oil pastel is good for || bold colour fast | fine detail only | sculpture | printing || A
+mc: C || Planning helps by || making choices on purpose | wasting time | stopping creativity | adding cost || A
+mc: C || Final works may change from plans because || new ideas appear | plans are wrong always | teachers say so | it's required || A
+sa: B || Define artist statement. || A short text explaining an artwork's ideas and choices.
+sa: B || What does original mean? || Created from your own ideas.
+sa: I || List the four required parts of the artwork. || Personal symbol, mood colours, expressive lines, planned balance.
+sa: I || Choose colours for a calm idea. || Cool blues and greens.
+sa: I || How did feedback change your plan? || Answers vary.
+sa: I || Which medium did you choose and why? || Answers vary.
+sa: C || Write your artist statement. || Answers vary.
+sa: C || Reflect on what you would do differently next time. || Answers vary.
