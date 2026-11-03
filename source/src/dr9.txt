@@ -1,0 +1,637 @@
+=== DR9.A1 1
+hook: In a room full of moving bodies, how does an audience know where to look? Choreographers and directors control focus the same way painters do: through contrast. One still figure among moving ones, one high body among low ones, and every eye goes there.
+sc: I can direct the audience's focus in a movement piece | I can use contrast in speed, level and direction | I can explain how focus supports the theme
+v: focus :: Where the audience's attention is directed.
+v: contrast :: A strong difference, such as fast and slow or high and low.
+v: unison :: Performers moving the same way at the same time.
+v: canon :: Performers doing the same movement one after another.
+v: stillness :: Not moving, often used to draw focus.
+v: spatial pattern :: The paths and shapes performers make across the space.
+ts: Where Do We Look? || Rehearsal || How do contrast and focus make an ensemble piece clear?
+tx: Activities (written for this lesson): ¶ 1. Find the focus (10 minutes): Half the class moves around the space; one person is told secretly to create focus without leaving the group. Observers guess who it is and how they did it (stopping, changing level, moving slowly, facing a different way). ¶ 2. Contrast pairs (10 minutes): Groups of five try: all fast + one slow; all low + one high; all facing upstage + one facing the audience; unison + one breaking away. ¶ 3. Unison and canon (5 minutes): Learn an eight-count movement phrase. Perform it in unison, then in canon (each person starts two counts later). ¶ 4. Apply (20 minutes): Revisit your ensemble movement piece on your theme (from the last lesson). Add at least two moments of deliberate focus using contrast, one unison section and one canon section. Decide why each moment of focus matters to your theme.
+src: Original activity written for this lesson.
+st: Identify how a hidden performer creates focus | Explore contrast pairs | Perform a phrase in unison and canon | Add focus moments to your piece | Explain how focus supports your theme
+org: Moment | Type of contrast | Who has focus | Why it matters to the theme
+an: What made the hidden performer easy to spot? | Which contrast created the strongest focus? | How did canon feel different from unison? | How do your focus moments support your theme?
+pr: Revise your ensemble piece to include two focus moments, one unison and one canon section, and explain each in writing.
+ex: Stillness || How does stillness create focus in a moving crowd? || Contrast || The one still body stands out against movement || When is movement the focus instead?
+ex: Level || Everyone kneels and one stands. Effect? || Contrast in level || The standing person becomes the focus and may seem powerful or alone || What would it mean for your theme?
+ex: Canon || What does canon look like? || One after another || A ripple or wave of the same movement || What feeling might it create?
+ex: Theme link || Theme: isolation. Which contrast fits? || Separation || One performer facing away or moving slowly while the group moves together || Why does it fit?
+p: B || What is focus? || Where the audience's attention goes.
+p: B || What is contrast? || A strong difference.
+p: B || What is unison? || Moving the same way at the same time.
+p: B || What is canon? || The same movement done one after another.
+p: B || What is stillness? || Not moving.
+p: I || Name four ways to create focus. || Stillness, level change, speed change, facing a different way.
+p: I || How many counts is the movement phrase? || Eight.
+p: I || In canon, how many counts apart does each person start? || Two.
+p: I || What contrast suits a theme of isolation? || One person separate from the group.
+p: I || What is a spatial pattern? || Paths and shapes made across the space.
+p: I || How many focus moments must you add? || At least two.
+p: C || Why does focus need to change during a piece? || To guide the audience through the story.
+p: C || What happens if everything is different at once? || There's no clear focus and the audience is confused.
+p: C || How can unison show unity in a theme? || Moving together suggests connection or community.
+p: C || Explain one focus moment in your piece. || Answers vary.
+mis: Thinking more movement always means more focus | Having many focus points at the same time | Using unison all the time
+et: Name two ways to create focus. | What does canon look like?
+mc: B || Focus is || where attention goes | a costume | a light only | a script || A
+mc: B || Contrast is || a strong difference | sameness | a costume | silence || A
+mc: B || Unison means || moving together at the same time | one after another | randomly | not moving || A
+mc: B || Canon means || one after another | all together | not moving | randomly || A
+mc: B || Stillness among movement || draws focus | hides you | confuses | is a mistake || A
+mc: B || A spatial pattern is || a path across the space | a costume | a sound | a script || A
+mc: I || One standing among kneeling performers is || a focus point | unison | canon | a block || A
+mc: I || The phrase has || eight counts | two counts | twenty counts | one count || A
+mc: I || Canon starts each person || two counts later | together | randomly | at the end || A
+mc: I || A theme of isolation suits || one separate performer | full unison | everyone hidden | silence || A
+mc: C || Too many contrasts at once cause || confusion | focus | unity | calm || A
+mc: C || Unison can suggest || unity | isolation | chaos | nothing || A
+sa: B || Define canon. || Performers doing the same movement one after another.
+sa: B || What is contrast? || A strong difference, such as fast and slow.
+sa: I || Name four ways to create focus. || Stillness, level, speed, direction.
+sa: I || How does stillness draw focus? || It contrasts with movement around it.
+sa: I || What feeling might canon create? || A ripple or wave.
+sa: I || Suggest a contrast for a theme of hope. || Answers vary.
+sa: C || Explain why focus must change during a piece. || To guide the audience through the story.
+sa: C || Explain one focus moment in your piece. || Answers vary.
+
+=== DR9.A1 2
+hook: Choreographers rarely finish a piece in one try. They watch, cut, adjust timing and try again. The difference between a good movement piece and a great one is usually refinement.
+sc: I can give specific feedback on movement pieces | I can use feedback to refine timing, transitions and clarity | I can perform a polished ensemble piece
+v: refine :: To make small improvements that polish a piece.
+v: transition :: How performers move from one section to the next.
+v: timing :: When movements happen in relation to counts, music or each other.
+v: clarity :: How clearly the audience understands the piece.
+v: feedback protocol :: A set structure for giving and receiving feedback.
+v: run :: Performing the whole piece from start to finish.
+ts: Polish the Piece || Performance || How does feedback help an ensemble refine its work?
+tx: Feedback protocol (written for this lesson): ¶ 1. Perform: Each group runs its piece once for another group. ¶ 2. Warm feedback (1 minute): Observers say what was clear and powerful: "The canon section looked like a wave of fear." ¶ 3. Cool feedback (1 minute): Observers say what was unclear, using questions: "What was happening in the middle section?" "Were the performers meant to be in unison at the end?" ¶ 4. Performers listen without defending. ¶ 5. Refine (20 minutes): Choose three changes. Common refinements: clean up unison so counts match; smooth transitions so there's no "dead" moment; hold stillness longer; make the beginning and ending shapes clearer; cut anything that doesn't support the theme. ¶ 6. Final performance with a clear start (performers in a starting shape, stillness) and a clear ending (a final shape held for three counts).
+src: Original activity written for this lesson; warm and cool feedback is a common protocol.
+st: Perform for another group | Receive warm and cool feedback | Choose three refinements | Rehearse the changes | Give a final polished performance
+org: Feedback | Change we made | Did it improve clarity?
+an: What warm feedback did you receive? | Which cool feedback question was most useful? | What three refinements did you make? | How did the final performance compare with the first?
+pr: Perform your refined ensemble piece and write a reflection on three changes you made and why.
+ex: Warm feedback || Write a specific warm comment. || Name a moment and its effect || "The moment everyone froze and one person kept moving made us feel her loneliness" || Write another.
+ex: Cool question || Turn "The middle was confusing" into a question. || Questions invite thought || "What story were you telling in the middle section?" || Why use questions?
+ex: Clean unison || Your unison looks messy. How do you fix it? || Counts || Rehearse slowly with counts out loud until everyone matches || What else helps?
+ex: Clear ending || Why hold the final shape for three counts? || Audience understanding || It tells the audience the piece has ended || What about the beginning?
+p: B || What does refine mean? || To make small improvements.
+p: B || What is a transition? || Moving from one section to the next.
+p: B || What is timing? || When movements happen relative to counts or others.
+p: B || What is clarity? || How clearly the audience understands.
+p: B || What is a run? || Performing the whole piece start to finish.
+p: I || What are the two kinds of feedback in the protocol? || Warm and cool.
+p: I || How should cool feedback be phrased? || As questions.
+p: I || What should performers do while receiving feedback? || Listen without defending.
+p: I || How many refinements do you choose? || Three.
+p: I || How long is the final shape held? || Three counts.
+p: I || Name two common refinements. || Clean unison and smooth transitions.
+p: C || Why phrase cool feedback as questions? || It invites reflection instead of feeling like an attack.
+p: C || Why cut movement that doesn't support the theme? || It distracts from the main idea.
+p: C || Why are beginnings and endings important? || They frame the piece for the audience.
+p: C || Reflect on your three refinements. || Answers vary.
+mis: Thinking feedback means the piece was bad | Defending choices instead of listening | Making too many changes at once
+et: Give one warm comment and one cool question. | Name one refinement you made.
+mc: B || To refine is to || make small improvements | start over | stop | add everything || A
+mc: B || A transition is || moving between sections | the start | the bow | a costume || A
+mc: B || Timing is || when movements happen | the costume | the set | the theme || A
+mc: B || Clarity means || clear understanding | loud music | many moves | bright lights || A
+mc: B || A run is || the whole piece without stopping | one move | a warm-up | a costume || A
+mc: B || Warm feedback shares || what worked | what failed | prices | nothing || A
+mc: I || Cool feedback is phrased as || questions | insults | praise only | silence || A
+mc: I || While receiving feedback performers || listen without defending | argue | leave | explain everything || A
+mc: I || Messy unison is fixed by || rehearsing slowly with counts | adding more moves | going faster | ignoring it || A
+mc: I || The final shape is held for || three counts | thirty counts | no counts | one second only || A
+mc: C || Questions in feedback || invite reflection | attack | confuse | end discussion || A
+mc: C || Movement not supporting the theme should be || cut | doubled | kept always | sped up || A
+sa: B || Define refine. || To make small improvements that polish a piece.
+sa: B || What is a transition? || How performers move from one section to the next.
+sa: I || Describe the warm and cool feedback protocol. || Warm shares strengths; cool asks questions about unclear parts.
+sa: I || How do you clean up unison? || Rehearse slowly with counts aloud.
+sa: I || Why hold a final shape? || To show the piece has ended.
+sa: I || Name three common refinements. || Clean unison, smooth transitions, clear start and end.
+sa: C || Explain why cool feedback is phrased as questions. || It invites reflection rather than defensiveness.
+sa: C || Reflect on three refinements you made. || Answers vary.
+
+=== DR9.B1 0
+hook: When someone says "No, really, I'm happy for you" through clenched teeth, the words say one thing and the meaning says another. That hidden meaning is subtext, and finding it is how actors make monologues come alive.
+sc: I can identify subtext in a monologue | I can find the character's intention for each section | I can mark a script to show subtext and intention
+v: monologue :: A long speech by one character.
+v: subtext :: The meaning beneath the words; what the character really thinks or feels.
+v: intention :: What the character is trying to do to the listener with their words.
+v: text analysis :: Studying a script closely to understand character and meaning.
+v: given circumstances :: The facts of the situation: who, where, when and what just happened.
+v: unit :: A section of a monologue with one intention.
+ts: Under the Words || Rehearsal || How do actors find the meaning beneath the words?
+tx: Monologue (written for this lesson): ¶ SAM (age 15, speaking to an older sister who is leaving for university): ¶ "So you're actually going. Great. That's great. No, I mean it. You'll have your own room, your own friends, no little brother borrowing your chargers. You won't miss the pancakes on Saturdays, I bet. They probably have better pancakes there. Anyway, I made you something. It's stupid. It's just a playlist. All the songs from the car rides to Grandma's. You don't have to listen to it. You'll probably be too busy. Just... call sometimes, okay? Not every day. That'd be weird. Just sometimes." ¶ Task: 1. Given circumstances: Who is Sam talking to? Where? What just happened? 2. Divide the monologue into units where the intention changes. 3. For each line, write the subtext in brackets: "Great. That's great." [I don't want you to go.] 4. Give each unit an intention verb: to pretend, to tease, to hide, to give, to ask.
+src: Original monologue written for this lesson.
+st: Read the monologue twice | Identify the given circumstances | Divide it into units | Write the subtext for each line | Give each unit an intention verb
+org: Line | Subtext | Unit | Intention verb
+an: What does Sam really feel? | Which line comes closest to saying the truth? | Where does Sam's intention change? | How would knowing the subtext change your delivery?
+pr: Submit a marked script of the monologue showing units, subtext for every line and an intention verb for each unit.
+ex: Subtext || What is the subtext of "No, I mean it"? || Words vs feeling || [I don't really mean it; I'm sad you're leaving] || How would you say it?
+ex: Units || Where does the second unit start? || Intention changes || At "Anyway, I made you something" when Sam shifts from pretending to giving || What is the intention?
+ex: Intention verb || What is Sam's intention in "They probably have better pancakes there"? || What is he doing to her? || To tease or to guilt her slightly || How does that change the tone?
+ex: The truth line || Which line is closest to the truth? || Honest moment || "Just... call sometimes, okay?" || Why does Sam pull back right after?
+p: B || What is a monologue? || A long speech by one character.
+p: B || What is subtext? || The meaning beneath the words.
+p: B || What is intention? || What a character tries to do to the listener.
+p: B || What is a unit? || A section with one intention.
+p: B || What is text analysis? || Studying a script closely.
+p: I || Who is Sam talking to? || His older sister.
+p: I || What is the situation? || She is leaving for university.
+p: I || What gift does Sam give? || A playlist of songs from car rides.
+p: I || Give an intention verb for the first unit. || To pretend.
+p: I || What is the subtext of "It's stupid"? || [I'm afraid you won't care about it.]
+p: I || Which line is closest to the truth? || "Just... call sometimes, okay?"
+p: C || Why do people hide their real feelings in words? || To protect themselves or avoid looking vulnerable.
+p: C || Why must actors know the subtext? || It shapes tone, pauses and body language.
+p: C || Why does Sam add "Not every day. That'd be weird."? || To hide how much he cares.
+p: C || Write the subtext for three lines. || Answers vary.
+mis: Thinking characters always say what they mean | Playing the words instead of the intention | Treating a monologue as one long unchanging speech
+et: Write the subtext for one line. | Name one intention verb.
+mc: B || A monologue is || a long speech by one character | a conversation | a song | a mime || A
+mc: B || Subtext is || meaning beneath the words | the title | the set | the costume || A
+mc: B || Intention is || what a character tries to do | the costume | the script | the stage || A
+mc: B || A unit is || a section with one intention | a costume | a light | the whole play || A
+mc: B || Text analysis means || studying a script closely | memorizing quickly | skipping lines | improvising || A
+mc: B || Given circumstances are || the facts of the situation | the costumes | the props | the bows || A
+mc: I || Sam is talking to his || sister | coach | teacher | grandma || A
+mc: I || Sam's gift is || a playlist | a car | pancakes | a charger || A
+mc: I || "Great. That's great." hides || sadness | joy | anger only | boredom || A
+mc: I || The closest line to the truth is || "Just... call sometimes, okay?" | "That's great" | "It's stupid" | "Anyway" || A
+mc: C || People hide feelings to || protect themselves | be honest | be loud | be funny only || A
+mc: C || Knowing subtext shapes || tone, pauses and body language | costumes | lights | the set || A
+sa: B || Define subtext. || The meaning beneath the words.
+sa: B || What is a unit in a monologue? || A section with one intention.
+sa: I || Describe Sam's given circumstances. || His sister is leaving for university.
+sa: I || Write the subtext for "You'll probably be too busy." || Answers vary; e.g. [I'm afraid you'll forget me].
+sa: I || Where does Sam's intention change? || At "Anyway, I made you something."
+sa: I || Give intention verbs for two units. || Answers vary.
+sa: C || Explain why actors must find subtext. || It shapes how lines are delivered.
+sa: C || Submit your marked script. || Answers vary.
+
+=== DR9.B1 1
+hook: Two actors can say the same monologue word for word, and one will move you to tears while the other bores you. Often the difference is not the words but the timing: where they speed up, slow down and stop.
+sc: I can vary pace to match a character's thoughts | I can use pauses for meaning | I can use emphasis to highlight key words
+v: pace :: How fast or slow a character speaks.
+v: pause :: A planned silence.
+v: emphasis :: Stressing a word to show its importance.
+v: rhythm :: The pattern of speech, including speed, pauses and stress.
+v: thought change :: A moment where a new thought begins, often marked by a pause or shift in pace.
+v: beat (pause) :: A short pause, often written as "(beat)" in scripts.
+ts: Timing Is Meaning || Rehearsal || How do pace, pause and emphasis shape a monologue?
+tx: Activities (written for this lesson), using Sam's monologue: ¶ 1. Pace experiment (10 minutes): Say the first unit very fast, then very slow. Which suits "pretending to be fine"? Many actors speed up when a character is covering feelings and slow down when the truth comes out. ¶ 2. Pause map (10 minutes): Mark pauses with /, longer pauses with //. Where does Sam need a breath to find courage? Where does he stop himself? Example: "Just... // call sometimes, okay? / Not every day." ¶ 3. Emphasis (10 minutes): Underline one key word per sentence. Try different words: "You won't miss the pancakes" versus "You won't miss the pancakes" versus "You won't miss the pancakes." ¶ 4. Combine (15 minutes): In pairs, rehearse the monologue using your pace, pause and emphasis choices. The partner plays the silent sister, reacting honestly. Then swap.
+src: Original activity written for this lesson.
+st: Experiment with fast and slow pace | Mark short and long pauses | Choose emphasis words | Combine choices and rehearse with a silent partner | Swap roles and compare
+org: Section | Pace | Pauses | Emphasized words | Reason
+an: Where did you speed up and why? | Which pause was most powerful? | How did changing emphasis change meaning? | How did your partner's silent reactions affect you?
+pr: Perform the monologue using planned pace, pause and emphasis, and submit your marked script with reasons.
+ex: Pace for covering || Why might Sam speak quickly at first? || Covering feelings || Fast speech can show he's trying to rush past his sadness || Where does he slow down?
+ex: Pause for courage || Where might Sam pause before saying something hard? || Before the truth || Before "call sometimes" || How long?
+ex: Emphasis || Stress "you" in "You won't miss the pancakes." Meaning? || Who is stressed || Suggests "you won't, but I will" || What if "pancakes" is stressed?
+ex: Thought change || Where is a thought change? || New idea || At "Anyway" when Sam changes the subject || How do you show it?
+p: B || What is pace? || How fast or slow a character speaks.
+p: B || What is a pause? || A planned silence.
+p: B || What is emphasis? || Stressing a word to show importance.
+p: B || What is rhythm in speech? || The pattern of speed, pauses and stress.
+p: B || What is a thought change? || A moment a new thought begins.
+p: I || What do / and // mean in your script? || A short pause and a longer pause.
+p: I || When might a character speed up? || When covering feelings or excited.
+p: I || When might a character slow down? || When the truth comes out.
+p: I || What does "(beat)" mean in a script? || A short pause.
+p: I || How many emphasis words per sentence? || One key word.
+p: I || What does the silent partner do? || Plays the sister and reacts honestly.
+p: C || Why can a pause say more than words? || It shows the character struggling or deciding.
+p: C || How does emphasis change meaning? || It points to what matters most to the character.
+p: C || Why rehearse with a silent partner? || Reacting to a real person makes delivery truthful.
+p: C || Explain one of your pace choices. || Answers vary.
+mis: Thinking pauses mean forgetting lines | Speaking at one speed throughout | Stressing too many words
+et: Where is your longest pause? | Which word did you emphasize and why?
+mc: B || Pace is || speed of speech | volume | pitch | costume || A
+mc: B || A pause is || planned silence | a mistake | a costume | a cue || A
+mc: B || Emphasis means || stressing a word | whispering | skipping | singing || A
+mc: B || Rhythm in speech is || the pattern of speed, pause and stress | the music | the set | the lights || A
+mc: B || A thought change is || a new thought beginning | a costume change | a light cue | an exit || A
+mc: B || "(beat)" means || a short pause | a drum | a fight | an exit || A
+mc: I || Covering feelings can be shown by || speeding up | slowing down | silence | shouting only || A
+mc: I || The truth often comes || more slowly | faster | silently | never || A
+mc: I || // marks || a longer pause | a short pause | emphasis | a cue || A
+mc: I || "Anyway" marks || a thought change | the ending | a costume change | nothing || A
+mc: C || A pause can show || a character struggling | nothing | a mistake | the end || A
+mc: C || A silent partner helps by || making delivery truthful | adding lines | blocking | lighting || A
+sa: B || Define emphasis. || Stressing a word to show its importance.
+sa: B || What is a thought change? || A moment where a new thought begins.
+sa: I || Mark the pauses in "Just... call sometimes, okay?" || Answers vary.
+sa: I || Explain how emphasis changes "You won't miss the pancakes." || The stressed word changes meaning.
+sa: I || When might Sam speed up? || When pretending to be fine.
+sa: I || Where is a thought change? || At "Anyway."
+sa: C || Explain why a pause can say more than words. || It shows struggle or decision.
+sa: C || Submit your marked script with reasons. || Answers vary.
+
+=== DR9.B1 2
+hook: Standing alone on stage with no scene partner to lean on is one of the bravest things an actor does. A monologue performance puts everything together: subtext, intention, voice, timing and focus.
+sc: I can perform a monologue from memory | I can use focus to show who I'm speaking to | I can reflect on my performance using feedback
+v: memorize :: To learn lines so you can say them without the script.
+v: imaginary listener :: The person the character speaks to, placed in the space by the actor.
+v: slate :: A short introduction before an audition or performance: your name and the piece.
+v: neutral start :: Standing still and calm before beginning.
+v: physical choice :: A movement or gesture that supports the character.
+v: self-assessment :: Judging your own performance against criteria.
+ts: Solo Performance || Performance || How do I bring a monologue to life on my own?
+tx: Performance guide (written for this lesson): ¶ Choose: Sam's monologue, or an approved monologue from a play (your teacher has a list of age-appropriate public-domain and published pieces, under 2 minutes). ¶ Memorize: learn it unit by unit; record yourself and listen; write the first letter of each word and recite from those. ¶ Imaginary listener: Place your listener just above the audience's heads or slightly to one side, never directly in the front row. Keep them in the same place. ¶ Structure: slate ("My name is ___, and I'll be performing ___"), neutral start, take a breath into character, perform, hold the final moment, return to neutral and say "Thank you." ¶ Criteria (self and peer): voice (projection, clarity), subtext and intention, pace and pause, focus and physicality, commitment. ¶ After performing, write a self-assessment, then compare with peer feedback.
+src: Original activity written for this lesson.
+st: Choose and memorize a monologue | Place your imaginary listener | Practise the slate and neutral start | Perform for the class | Self-assess and compare with peer feedback
+org: Criterion | My score (1–4) | Peer score | Evidence
+an: Where did you place your listener and why? | Which unit did you perform best? | What happened when you felt nervous? | How did peer feedback compare with your self-assessment?
+pr: Perform your monologue with a slate and complete a self-assessment against the five criteria.
+ex: Memorizing || How does the first-letter method work? || Prompts || Write the first letter of each word; reading them triggers the full line || Try it on one sentence.
+ex: Listener placement || Why not look at someone in the front row? || Comfort and focus || It makes them uncomfortable and breaks your focus || Where should you look?
+ex: Slate || Write your slate. || Name and piece || "My name is Leila, and I'll be performing Sam's monologue." || Why keep it simple?
+ex: Nerves || Your hands shake. What helps? || Breath and objective || Slow diaphragm breaths and focus on what your character wants || Why focus on the objective?
+p: B || What does memorize mean? || To learn lines without the script.
+p: B || What is an imaginary listener? || The person the character speaks to, placed by the actor.
+p: B || What is a slate? || A short introduction with your name and piece.
+p: B || What is a neutral start? || Standing still and calm before beginning.
+p: B || What is self-assessment? || Judging your own performance.
+p: I || Where should the imaginary listener be? || Just above the audience's heads or to one side.
+p: I || Name two memorization methods. || Unit by unit and the first-letter method.
+p: I || How long should the monologue be? || Under 2 minutes.
+p: I || What do you say at the end? || "Thank you."
+p: I || Name the five criteria. || Voice, subtext and intention, pace and pause, focus and physicality, commitment.
+p: I || Why keep the listener in one place? || So the audience believes the listener is there.
+p: C || Why memorize by units rather than line by line? || Meaning links the lines and makes them easier to remember.
+p: C || How does focusing on the objective reduce nerves? || It moves attention from yourself to the character's goal.
+p: C || Why compare self-assessment with peer feedback? || Others see things you can't, and it shows your accuracy.
+p: C || Write your self-assessment. || Answers vary.
+mis: Thinking memorizing is enough without understanding | Looking at the floor or at friends while performing | Rushing to get it over with
+et: Where will you place your listener? | Name one memorization strategy.
+mc: B || To memorize is to || learn lines without the script | read aloud | improvise | write || A
+mc: B || An imaginary listener is || placed by the actor | a real person always | the director | the stage manager || A
+mc: B || A slate gives || your name and piece | a costume | a light cue | a prop || A
+mc: B || A neutral start is || still and calm | dancing | talking | running || A
+mc: B || Self-assessment means || judging your own performance | grading others | memorizing | warming up || A
+mc: B || The monologue should be || under 2 minutes | 20 minutes | 10 seconds | an hour || A
+mc: I || Place your listener || above the audience's heads | in the front row | behind you | on the floor || A
+mc: I || The first-letter method helps || memorization | projection | blocking | lighting || A
+mc: I || End your performance by || returning to neutral and saying "Thank you" | running off | bowing silently | apologizing || A
+mc: I || Keeping the listener in one place || makes them believable | confuses | is optional | ends the scene || A
+mc: C || Focusing on the objective reduces nerves because || attention moves to the character | it's quieter | it's faster | nobody watches || A
+mc: C || Comparing self and peer assessment shows || what others see | nothing | your grade | the script || A
+sa: B || Define slate. || A short introduction before performing: your name and the piece.
+sa: B || What is an imaginary listener? || The person the character speaks to, placed in the space by the actor.
+sa: I || Name two memorization strategies. || Unit by unit; first-letter method.
+sa: I || Where should you place your listener? || Just above the audience or to one side.
+sa: I || List the five performance criteria. || Voice, subtext, pace and pause, focus and physicality, commitment.
+sa: I || What helps with nerves? || Slow breathing and focusing on the objective.
+sa: C || Explain why memorizing by units works. || Meaning links the lines together.
+sa: C || Write your self-assessment. || Answers vary.
+
+=== DR9.C1 0
+hook: Many of the most exciting plays are created by groups, not single writers. In playbuilding, an ensemble starts with an idea, improvises scenes, then shapes the best moments into an original play.
+sc: I can brainstorm ideas for an original play | I can structure a play with exposition, rising action, climax and resolution | I can develop a scene outline with my group
+v: playbuilding :: Creating an original play as a group, often through improvisation.
+v: dramatic structure :: The shape of a story: exposition, rising action, climax, falling action, resolution.
+v: exposition :: The beginning, introducing characters and setting.
+v: conflict :: The main problem that drives the story.
+v: climax :: The turning point or moment of highest tension.
+v: scene outline :: A plan listing each scene and what happens.
+ts: Build a Play || Rehearsal || How does a group turn an idea into a structured play?
+tx: Playbuilding process (written for this lesson): ¶ 1. Starting point (10 minutes): Each group picks a stimulus: a photo (an empty swing), an object (a lost key), a headline ("Student finds wallet with $1,000"), a theme (belonging) or a question ("What would you risk for a friend?"). ¶ 2. Brainstorm (10 minutes): Web the stimulus: characters, places, problems, secrets. ¶ 3. Improvise (15 minutes): Quickly improvise three 1-minute scenes from the web. Keep what works. ¶ 4. Structure (15 minutes): Shape the best ideas into a 5-scene outline on a dramatic structure arc: Scene 1, exposition (who, where, normal life); Scene 2, inciting incident (the problem appears); Scene 3, rising action (it gets worse); Scene 4, climax (the turning point); Scene 5, resolution (what changes). Give each scene a title, characters and a one-sentence summary. Total play length: 5–7 minutes.
+src: Original activity written for this lesson.
+st: Choose a stimulus | Brainstorm characters, places and problems | Improvise three quick scenes | Choose the strongest ideas | Write a five-scene outline on a structure arc
+org: Scene | Part of structure | Characters | What happens
+an: What idea did your stimulus spark? | Which improvisation was strongest and why? | What is your play's central conflict? | Where is your climax?
+pr: Submit a five-scene outline with a title, character list, central conflict and one-sentence summary per scene.
+ex: Stimulus to idea || Stimulus: a lost key. Brainstorm a conflict. || Who lost it? What does it open? || A student finds a key to the school's locked roof and must decide whether to use it || What characters appear?
+ex: Inciting incident || What is an inciting incident? || The event that starts the problem || The moment the student finds the key || Why does it come early?
+ex: Climax || Where is the climax in the key play? || Highest tension || On the roof, when a friend nearly falls and they must call for help || What happens after?
+ex: Resolution || What changes in the resolution? || Outcome || The student admits to taking the key and learns about trust || Is it happy or sad?
+p: B || What is playbuilding? || Creating an original play as a group.
+p: B || What is dramatic structure? || The shape of a story from beginning to end.
+p: B || What is exposition? || The beginning, introducing characters and setting.
+p: B || What is the climax? || The turning point or highest tension.
+p: B || What is a scene outline? || A plan of each scene and what happens.
+p: I || Name the five parts of dramatic structure. || Exposition, rising action, climax, falling action, resolution.
+p: I || What is an inciting incident? || The event that starts the main problem.
+p: I || How many scenes are in your outline? || Five.
+p: I || How long is the play? || 5 to 7 minutes.
+p: I || Name three possible stimuli. || A photo, an object, a headline.
+p: I || What happens in rising action? || The problem gets worse.
+p: C || Why improvise before writing an outline? || Improvisation discovers characters and ideas quickly.
+p: C || Why must a play have a central conflict? || Conflict creates tension and drives the story.
+p: C || How does a stimulus help a group start? || It gives everyone a shared idea to build on.
+p: C || Describe your play's central conflict. || Answers vary.
+mis: Thinking a play just needs funny moments | Putting the climax at the very start | Writing every line before improvising
+et: What is your play's central conflict? | Where is your climax?
+mc: B || Playbuilding creates || an original group play | a copy of a film | a costume | a set || A
+mc: B || Exposition introduces || characters and setting | the climax | the ending | the bows || A
+mc: B || The climax is || the turning point | the first scene | the title | the set || A
+mc: B || A scene outline lists || scenes and events | costumes | prices | lights || A
+mc: B || Conflict is || the main problem | the costume | the title | the bow || A
+mc: B || A stimulus is || a starting idea | a costume | a light | a prop table || A
+mc: I || Dramatic structure has || five parts | two parts | ten parts | one part || A
+mc: I || The inciting incident || starts the problem | ends the play | is the bow | is a costume || A
+mc: I || Rising action means the problem || gets worse | disappears | is solved | is forgotten || A
+mc: I || Your play lasts || 5–7 minutes | 50 minutes | 30 seconds | 2 hours || A
+mc: C || Improvising first helps || discover ideas quickly | waste time | avoid conflict | write lines || A
+mc: C || A play needs conflict because it || creates tension | is required by law | is funny | is short || A
+sa: B || Define playbuilding. || Creating an original play as a group, often through improvisation.
+sa: B || What is the inciting incident? || The event that starts the main problem.
+sa: I || List the five parts of dramatic structure. || Exposition, rising action, climax, falling action, resolution.
+sa: I || Brainstorm a conflict from the stimulus "an empty swing." || Answers vary.
+sa: I || Where is your climax? || Answers vary.
+sa: I || Why improvise before outlining? || To discover ideas and characters quickly.
+sa: C || Explain why a play needs a central conflict. || It creates tension and drives the story.
+sa: C || Submit your five-scene outline. || Answers vary.
+
+=== DR9.C1 1
+hook: A director is the person who sees the whole picture. They don't act; they watch, ask questions and help actors make choices that serve the story. Today some of you step into the director's chair.
+sc: I can give clear, respectful direction to actors | I can use questions to help actors find choices | I can shape a scene for the audience
+v: director :: The person who guides actors and shapes the overall production.
+v: vision :: The director's overall idea of how the play should look and feel.
+v: note :: Specific feedback from the director.
+v: actor-friendly language :: Direction given as playable actions, not vague results.
+v: stage picture :: How the scene looks to the audience at any moment.
+v: run, stop, fix :: A rehearsal method: run a section, stop, fix one thing, run again.
+ts: The Director's Chair || Rehearsal || How do directors help actors bring a scene to life?
+tx: Directing guide (written for this lesson): ¶ 1. Vision: Before rehearsing, the director writes one sentence: "This scene should feel ___ because ___." ¶ 2. Actor-friendly direction: Give actions, not results. Instead of "Be sadder," say "Try avoiding her eyes until the last line" or "What does your character want from him right now?" ¶ 3. Ask questions: "What just happened before you came in?" "What would happen if you didn't sit down?" ¶ 4. Stage picture: Step back and look. Can the audience see every face? Is the important moment downstage and in focus? ¶ 5. Run, stop, fix: Run a short section, stop, give one note, run it again. Don't give ten notes at once. ¶ Task: In your playbuilding group, each member directs one scene of the outline for 10 minutes while the others act. Rotate. Directors record notes they gave and what changed.
+src: Original activity written for this lesson.
+st: Write a one-sentence vision for your scene | Run a short section | Give one actor-friendly note | Run it again and look at the stage picture | Record notes and changes
+org: Note I gave | Actor-friendly? | What changed
+an: What was your vision for the scene? | Which note created the biggest improvement? | How did asking questions help actors? | What was hard about directing your peers?
+pr: Direct one scene of your group's play, then submit your vision sentence, three notes you gave and what changed after each.
+ex: Result vs action || Improve "Be angrier." || Give an action || "Try blocking his path to the door while you speak" || Why is this playable?
+ex: Question || An actor's entrance feels flat. What might you ask? || Given circumstances || "What just happened before you walked in?" || How might the answer change the entrance?
+ex: Stage picture || Two actors stand in a straight line, one hiding the other. Fix? || Visibility || Angle them and place them at different depths || What else improves the picture?
+ex: One note at a time || Why not give ten notes at once? || Focus || Actors can't remember them all; one note lets them improve clearly || What do you do next?
+p: B || What is a director? || The person who guides actors and shapes the production.
+p: B || What is a vision? || The director's overall idea of the play's look and feel.
+p: B || What is a note? || Specific feedback from the director.
+p: B || What is actor-friendly language? || Direction as playable actions.
+p: B || What is a stage picture? || How the scene looks to the audience.
+p: I || What is the run, stop, fix method? || Run a section, stop, fix one thing, run again.
+p: I || Rewrite "Be happier" as an action. || "Try greeting everyone by name with a big gesture."
+p: I || How many notes should you give at a time? || One.
+p: I || What should a vision sentence include? || How the scene should feel and why.
+p: I || Name a good question to ask an actor. || "What does your character want right now?"
+p: I || How long does each person direct? || 10 minutes.
+p: C || Why is directing peers challenging? || You must give feedback respectfully to friends.
+p: C || Why are questions often better than instructions? || Actors discover choices themselves and own them.
+p: C || How does a director serve the audience? || By making the story clear and focused.
+p: C || Describe your best note and its effect. || Answers vary.
+mis: Thinking directors just tell people where to stand | Giving vague result notes like "be better" | Giving many notes at once
+et: Rewrite a result note as an action. | What was your vision sentence?
+mc: B || A director || guides actors and shapes the production | acts the lead | sells tickets | sews costumes || A
+mc: B || A vision is || the overall idea | a costume | a light | a prop || A
+mc: B || A note is || specific feedback | a song | a ticket | a costume || A
+mc: B || Actor-friendly direction gives || actions | results only | insults | silence || A
+mc: B || The stage picture is || how the scene looks | the script | the poster | the ticket || A
+mc: B || Run, stop, fix means || run, stop, fix one thing, repeat | run once and finish | stop forever | fix everything at once || A
+mc: I || "Be angrier" is || a result note | an action | a question | a cue || A
+mc: I || "Try blocking his path" is || an action | a result | a costume | a light || A
+mc: I || Give notes || one at a time | ten at once | never | only at the end || A
+mc: I || A good question is || "What does your character want?" | "Why are you bad?" | "Can you leave?" | "Who cares?" || A
+mc: C || Questions help actors because they || discover and own choices | get confused | stop | feel judged || A
+mc: C || Directors serve the audience by || making the story clear | hiding actors | adding props | shortening plays || A
+sa: B || Define director. || The person who guides actors and shapes the production.
+sa: B || What is actor-friendly language? || Direction given as playable actions.
+sa: I || Rewrite "Be sadder" as an action note. || Answers vary.
+sa: I || Describe the run, stop, fix method. || Run a section, stop, give one note, run again.
+sa: I || Write a vision sentence for your scene. || Answers vary.
+sa: I || Name a question that helps an actor. || Answers vary.
+sa: C || Explain why questions work well in directing. || Actors discover and own their choices.
+sa: C || Describe three notes you gave and what changed. || Answers vary.
+
+=== DR9.C1 2
+hook: The first time a group runs its original play from start to finish, things usually fall apart: scenes run long, transitions are messy, the ending doesn't land. That's normal. Revision is where the play gets good.
+sc: I can rehearse a full group play | I can revise the play based on feedback | I can perform an original play with polish
+v: revision :: Changing a play to improve it.
+v: running time :: How long a performance lasts.
+v: transition :: How the play moves from one scene to the next.
+v: script :: The written text of the play, including dialogue and stage directions.
+v: dress rehearsal :: A final full rehearsal with all elements.
+v: ensemble :: The group working together as one.
+ts: Revise and Perform || Performance || How does revision turn a rough play into a strong performance?
+tx: Process (written for this lesson): ¶ 1. Script it (one lesson): Write down the dialogue that worked in improvisation, plus key stage directions. Keep it short; use your scene outline. ¶ 2. First full run (10 minutes): Time it. Note the running time. ¶ 3. Feedback (10 minutes): Another group watches and answers: Was the conflict clear? Where did it drag? Was the climax powerful? Did the ending feel complete? ¶ 4. Revision (20 minutes): Make at least three revisions. Common fixes: cut repeated lines; sharpen the climax; speed up transitions (use a freeze, music or a narrator line); make the ending clearer (a final image or line). ¶ 5. Dress rehearsal and performance: Perform for the class or another grade. ¶ 6. Reflection: What did your group change, and why did it make the play better?
+src: Original activity written for this lesson.
+st: Write a script from your outline and improvisations | Do a timed full run | Get feedback from another group | Make at least three revisions | Dress rehearse and perform
+org: Problem | Revision | Result
+an: What was your first running time? | Which feedback was most useful? | What three revisions did you make? | How did the final performance compare with the first run?
+pr: Perform your revised group play and write a reflection describing three revisions and how each improved the play.
+ex: Dragging scene || Scene 3 runs 3 minutes but the play is meant to be 6. Fix? || Cut || Cut repeated lines and keep only what moves the story || How do you decide what to cut?
+ex: Transitions || Long silent gaps between scenes. Fix? || Smooth changes || Use a freeze, a narrator line or music while actors move || Which fits your play?
+ex: Climax || Feedback says the climax wasn't clear. Fix? || Emphasis || Slow it down, move it downstage centre and add a pause || What else could help?
+ex: Ending || The ending just stops. Fix? || Closure || Add a final image or line that shows what has changed || Write a closing line.
+p: B || What is revision? || Changing a play to improve it.
+p: B || What is running time? || How long the performance lasts.
+p: B || What is a transition? || Moving from one scene to the next.
+p: B || What is a script? || The written text of the play.
+p: B || What is a dress rehearsal? || A final full rehearsal with all elements.
+p: I || How many revisions must you make? || At least three.
+p: I || Name four feedback questions. || Clear conflict, where it dragged, climax powerful, ending complete.
+p: I || Name two ways to smooth transitions. || A freeze and a narrator line.
+p: I || How can you make a climax clearer? || Slow it down and move it downstage centre.
+p: I || What should the ending show? || What has changed.
+p: I || Why time the first run? || To check it fits the target length.
+p: C || Why is the first full run usually rough? || Scenes haven't been connected or tested together yet.
+p: C || Why cut lines even if they're funny? || If they don't move the story, they slow the play.
+p: C || How does an ensemble support each other in performance? || Listening, covering mistakes and keeping energy up.
+p: C || Reflect on your three revisions. || Answers vary.
+mis: Thinking the first draft is the final play | Keeping every line because someone likes it | Ignoring transitions
+et: Name one revision you made. | What was your running time?
+mc: B || Revision means || improving the play | starting over | stopping | adding everything || A
+mc: B || Running time is || how long the show lasts | the director | the script | a costume || A
+mc: B || A transition || connects scenes | ends the play | is a costume | is a prop || A
+mc: B || A script contains || dialogue and stage directions | costumes | tickets | lights || A
+mc: B || A dress rehearsal is || a final full rehearsal | the first read | a warm-up | a costume fitting only || A
+mc: B || An ensemble is || a group working as one | a solo | a costume | a set || A
+mc: I || At least how many revisions? || three | one | ten | none || A
+mc: I || A long scene should be || cut to essentials | made longer | ignored | doubled || A
+mc: I || A smooth transition can use || a freeze or narrator line | a long silence | the audience | nothing || A
+mc: I || An ending should show || what changed | the cast list | nothing | the costumes || A
+mc: C || First runs are rough because || scenes haven't been connected | actors are bad | scripts are wrong | lights fail || A
+mc: C || Funny lines that don't move the story || slow the play | are essential | must stay | help the climax || A
+sa: B || Define revision. || Changing a play to improve it.
+sa: B || What is running time? || How long the performance lasts.
+sa: I || Name three common revisions. || Cut repeated lines, smooth transitions, sharpen the climax.
+sa: I || How can you fix a weak ending? || Add a final image or line showing change.
+sa: I || How can you smooth transitions? || Freeze, narrator line or music.
+sa: I || What was your first running time? || Answers vary.
+sa: C || Explain why first runs are usually rough. || Scenes haven't been connected yet.
+sa: C || Reflect on three revisions and their effect. || Answers vary.
+
+=== DR9.D1 0
+hook: Before an actor speaks, the lights have already told the audience how to feel: a cold blue wash for a lonely night, a warm amber glow for home, a sudden blackout for shock. Lighting and sound designers are storytellers too.
+sc: I can explain how lighting and sound create mood | I can plan lighting and sound cues for a scene | I can write a cue sheet
+v: lighting cue :: A planned change in lighting at a specific moment.
+v: sound cue :: A planned sound effect or music at a specific moment.
+v: cue sheet :: A list of all cues in order with their triggers.
+v: blackout :: All stage lights turned off suddenly.
+v: fade :: A gradual change in light or sound.
+v: wash :: Light that covers a large area of the stage evenly.
+ts: Light and Sound Design || Design || How do lighting and sound tell the story?
+tx: Design basics (written for this lesson): ¶ Lighting: Colour (warm amber = comfort, morning, home; cool blue = night, sadness, cold; red = danger or anger; green = eerie). Intensity (bright = energy, dim = quiet or mystery). Direction (front light shows faces; backlight creates silhouettes; side light creates drama). Timing (snap = sudden, fade = gradual). ¶ Sound: Effects (doorbell, rain, traffic), music (sets mood), silence (creates tension), volume and fades. ¶ Cue sheet format: Cue number | Type (LX or SFX) | Trigger (line or action) | Description | Timing. Example: LX 1 | Lights | Pre-show to start | Slow fade up to warm wash | 5 s. SFX 1 | Sound | After "Where is everyone?" | Distant thunder | 3 s fade in. ¶ Task: Design 4–6 lighting and sound cues for your group play. Write a cue sheet and explain the mood each creates. If the school has stage lights, test them; if not, use desk lamps, phone flashlights with coloured cellophane and a speaker.
+src: Original activity written for this lesson.
+st: Learn how colour, intensity, direction and timing affect mood | Learn sound effects, music and silence | Plan 4–6 cues for your play | Write a cue sheet | Test cues with available equipment
+org: Cue | Type | Trigger | Description | Mood created
+an: What mood does each of your cues create? | Why did you choose a fade or a snap for a key moment? | Where did you use silence? | How did the cues change your play when tested?
+pr: Write a cue sheet with 4–6 lighting and sound cues for your play, and explain the mood purpose of each.
+ex: Colour || What colour wash suits a lonely night scene? || Mood || Cool blue, dim || What suits a warm family breakfast?
+ex: Snap vs fade || The climax ends with a shock. Snap or fade? || Sudden || A snap blackout || When would a slow fade be better?
+ex: Silence || Why cut all sound before an important line? || Contrast || Silence makes the audience lean in and builds tension || Where could you use it?
+ex: Cue trigger || Write a trigger for a doorbell sound. || Line or action || After the line "I wonder who that could be" || Why must triggers be precise?
+p: B || What is a lighting cue? || A planned lighting change at a specific moment.
+p: B || What is a sound cue? || A planned sound or music at a specific moment.
+p: B || What is a cue sheet? || A list of cues in order with triggers.
+p: B || What is a blackout? || All lights off suddenly.
+p: B || What is a fade? || A gradual change in light or sound.
+p: I || What mood does warm amber create? || Comfort or home.
+p: I || What mood does cool blue create? || Night, sadness or cold.
+p: I || What does backlight create? || Silhouettes.
+p: I || What do LX and SFX mean on a cue sheet? || Lighting and sound effects.
+p: I || How many cues should you design? || 4 to 6.
+p: I || Name the five columns of a cue sheet. || Cue number, type, trigger, description, timing.
+p: C || Why is silence a sound design choice? || It creates tension and focus.
+p: C || How can lighting guide the audience's focus? || Brighter areas draw the eye.
+p: C || Why must cue triggers be exact? || So the operator acts at the right moment every time.
+p: C || Explain the mood of one of your cues. || Answers vary.
+mis: Thinking lighting just lets the audience see | Using sound effects constantly | Forgetting to write triggers
+et: Describe one cue and its mood. | What is a cue sheet?
+mc: B || A lighting cue is || a planned light change | a line | a costume | a prop || A
+mc: B || A sound cue is || a planned sound | a light | a costume | a set || A
+mc: B || A cue sheet lists || cues and triggers | actors | tickets | costumes || A
+mc: B || A blackout is || all lights off | full bright | a costume | a sound || A
+mc: B || A fade is || gradual | sudden | silent always | a costume || A
+mc: B || A wash covers || a large area evenly | one spot | the audience | nothing || A
+mc: I || Warm amber suggests || comfort | danger | night | eeriness || A
+mc: I || Cool blue suggests || night or sadness | morning sun | anger | celebration || A
+mc: I || Backlight creates || silhouettes | bright faces | colour | sound || A
+mc: I || A sudden shock suits || a snap blackout | a slow fade | no change | a wash || A
+mc: C || Silence can || build tension | ruin scenes | end plays | confuse always || A
+mc: C || Precise triggers ensure || cues happen at the right moment | more sound | brighter lights | longer plays || A
+sa: B || Define lighting cue. || A planned change in lighting at a specific moment.
+sa: B || What is a cue sheet? || A list of all cues in order with their triggers.
+sa: I || What moods do warm and cool lighting create? || Warm: comfort; cool: night, sadness or cold.
+sa: I || When would you use a snap blackout? || For a sudden shock or ending.
+sa: I || Write one cue from your cue sheet. || Answers vary.
+sa: I || Why use silence? || To build tension and focus.
+sa: C || Explain how lighting guides focus. || Brighter areas draw the eye.
+sa: C || Explain the mood purpose of two of your cues. || Answers vary.
+
+=== DR9.D1 1
+hook: A single chair under a spotlight can be a throne, a hospital waiting room or a lonely bus stop. Set designers ask: what is the least we need to tell the audience where we are, and how it feels?
+sc: I can analyze how a set communicates time, place and mood | I can design a simple set for a scene | I can draw a ground plan and a set sketch
+v: set design :: Planning the physical environment of a play.
+v: ground plan :: A bird's-eye view drawing of the stage showing where set pieces go.
+v: minimalist set :: A set that uses only a few key pieces.
+v: realistic set :: A set that looks like a real place in detail.
+v: symbolic set piece :: An object that stands for a bigger idea or place.
+v: sightlines :: What the audience can see from their seats.
+ts: Design the Space || Design || How does a set tell the audience where they are and how to feel?
+tx: Set design task (written for this lesson): ¶ 1. Compare (10 minutes): Look at photos of a realistic set (a detailed kitchen) and a minimalist set (a single door frame on an empty stage). What does each communicate? What does each cost in time and money? ¶ 2. Analyze your play (10 minutes): For each scene, list where and when it happens and the mood. ¶ 3. Design (20 minutes): Create a set for your group play using only items available at school (chairs, tables, boxes, fabric, a ladder, cardboard). Requirements: suits every scene or changes quickly; leaves room to move; keeps clear sightlines; includes at least one symbolic set piece (for example, a single empty chair for a missing person). ¶ 4. Draw: a ground plan (from above, with the audience at the bottom, stage areas marked and furniture as labelled shapes) and a front-view sketch with colour notes. ¶ 5. Explain: one paragraph on how your set supports the play's mood and theme.
+src: Original activity written for this lesson.
+st: Compare realistic and minimalist sets | List the time, place and mood of each scene | Design a set from available items | Draw a ground plan and a front sketch | Explain how the set supports the play
+org: Scene | Place and time | Mood | Set pieces needed
+an: What can a minimalist set do that a realistic one can't? | What is your symbolic set piece and what does it mean? | How did you keep sightlines clear? | How does your set change between scenes?
+pr: Submit a ground plan, a front-view set sketch and a paragraph explaining how your set supports the mood and theme.
+ex: Minimalist meaning || What could a single door frame represent? || Symbol || Leaving, a new beginning or a barrier || What else could it be?
+ex: Ground plan || How is a ground plan drawn? || Bird's-eye view || From above, audience at the bottom, furniture as labelled shapes || Why from above?
+ex: Sightlines || A tall bookcase stands downstage centre. Problem? || What the audience sees || It blocks the audience's view of actors || Where should it go?
+ex: Quick changes || How can one set serve five scenes? || Flexibility || Rearrange boxes and chairs during transitions, or use a fabric to change mood || Who moves them?
+p: B || What is set design? || Planning the physical environment of a play.
+p: B || What is a ground plan? || A bird's-eye view drawing of the stage.
+p: B || What is a minimalist set? || A set using only a few key pieces.
+p: B || What is a symbolic set piece? || An object standing for a bigger idea.
+p: B || What are sightlines? || What the audience can see from their seats.
+p: I || Where is the audience on a ground plan? || At the bottom.
+p: I || What could an empty chair symbolize? || A missing person.
+p: I || Name three school items for a set. || Chairs, boxes and fabric.
+p: I || Where should tall set pieces go? || Upstage, so they don't block views.
+p: I || What two drawings do you submit? || A ground plan and a front-view sketch.
+p: I || What is a realistic set? || A set that looks like a real place in detail.
+p: C || Why do many school productions use minimalist sets? || They're cheaper, flexible and let the audience imagine.
+p: C || How can colour in a set create mood? || Colours carry feelings, like dark tones for tension.
+p: C || Why must a set leave room to move? || Actors need space for blocking safely.
+p: C || Explain your symbolic set piece. || Answers vary.
+mis: Thinking a good set must be realistic | Blocking sightlines with tall pieces | Designing a set that can't change between scenes
+et: What is a ground plan? | Name your symbolic set piece and its meaning.
+mc: B || Set design plans || the physical environment | the music | the script | the costumes only || A
+mc: B || A ground plan is drawn || from above | from the side | from below | in 3-D only || A
+mc: B || A minimalist set uses || few key pieces | everything possible | no stage | only lights || A
+mc: B || A symbolic set piece || stands for an idea | is random | is a costume | is a light || A
+mc: B || Sightlines are || what the audience can see | lighting angles | scripts | tickets || A
+mc: B || A realistic set || looks like a real place | is empty | is symbolic only | is invisible || A
+mc: I || On a ground plan the audience is at || the bottom | the top | the left | nowhere || A
+mc: I || Tall pieces belong || upstage | downstage centre | in the aisle | on the audience || A
+mc: I || An empty chair could symbolize || a missing person | a party | a crowd | food || A
+mc: I || You submit || a ground plan and a sketch | a costume | a script | a ticket || A
+mc: C || Minimalist sets let the audience || imagine | sleep | leave | see less || A
+mc: C || Sets must leave room to || move safely | store props | hide actors | seat the audience || A
+sa: B || Define ground plan. || A bird's-eye view drawing of the stage showing set pieces.
+sa: B || What is a minimalist set? || A set using only a few key pieces.
+sa: I || What could a door frame symbolize? || Leaving, a new beginning or a barrier.
+sa: I || Why place tall pieces upstage? || To keep sightlines clear.
+sa: I || How can one set serve several scenes? || Rearranging pieces or using fabric during transitions.
+sa: I || List the time, place and mood of one scene. || Answers vary.
+sa: C || Explain why school productions often use minimalist sets. || They're cheaper, flexible and spark imagination.
+sa: C || Explain how your set supports the play. || Answers vary.
+
+=== DR9.D1 2
+hook: Theatre critics can help a show sell out or close early. A good review doesn't just say "loved it" or "hated it." It describes what happened, analyzes how it worked, and gives a reasoned judgement that helps readers decide.
+sc: I can describe a performance accurately | I can analyze acting, directing and design using drama vocabulary | I can write a balanced theatre review with evidence
+v: review :: A written evaluation of a performance.
+v: critic :: A person who writes reviews.
+v: evaluate :: To judge quality with reasons.
+v: balanced :: Including both strengths and areas for improvement.
+v: evidence :: Specific moments from the performance that support a judgement.
+v: production elements :: Acting, directing, set, lighting, sound, costumes and props.
+ts: Write Like a Critic || Design || How do I write a fair, convincing theatre review?
+tx: Review structure (written for this lesson): ¶ 1. Introduction: title of the play, who performed it, when and where, and a one-sentence overall judgement. ¶ 2. Summary: a short description of the story without giving away the ending. ¶ 3. Acting: one or two performers; use specific moments and drama vocabulary (projection, physicality, subtext, focus, commitment). ¶ 4. Directing and design: comment on blocking, transitions, lighting, sound, set and costumes. ¶ 5. Conclusion: overall evaluation and who would enjoy it. ¶ Evidence example (written for this lesson): Weak: "The acting was good." Strong: "When Jordan finally whispered 'What if I'm not good enough?' after a long pause, the room went silent; the slow pace made the confession feel real." ¶ Task: Watch a classmate group's play (or a recorded school production) and write a 300-word review. Be respectful: criticize choices, not people.
+src: Original activity written for this lesson.
+st: Watch a performance and take notes | Plan a review using the five-part structure | Write evidence-based paragraphs | Use drama vocabulary | Proofread and share respectfully
+org: Element | What I noticed | Evidence | Judgement
+an: What was the strongest element of the performance? | Which moment is your best evidence? | What drama vocabulary did you use? | How did you keep your review balanced and respectful?
+pr: Write a 300-word balanced theatre review with an introduction, summary, acting, directing and design, and conclusion.
+ex: Evidence || Improve "The lighting was cool." || Specific moment and effect || "The cold blue wash during the final scene made the empty stage feel lonely" || Write one about sound.
+ex: Balanced || Write a balanced sentence about transitions. || Strength + improvement || "Most transitions were smooth, though a long pause before Scene 4 slowed the energy" || Why include both?
+ex: Respectful || Improve "Sara was terrible." || Criticize choices, not people || "Sara's lines were sometimes hard to hear; stronger projection would help" || Why does this matter?
+ex: No spoilers || Why avoid revealing the ending in a summary? || Readers || So readers can still enjoy the show || What can you reveal?
+p: B || What is a review? || A written evaluation of a performance.
+p: B || What is a critic? || A person who writes reviews.
+p: B || What does evaluate mean? || To judge quality with reasons.
+p: B || What does balanced mean? || Including strengths and areas to improve.
+p: B || What are production elements? || Acting, directing, set, lighting, sound, costumes and props.
+p: I || How long should your review be? || 300 words.
+p: I || What are the five parts of a review? || Introduction, summary, acting, directing and design, conclusion.
+p: I || What should the introduction include? || Title, performers, when, where and an overall judgement.
+p: I || Name three drama vocabulary words to use. || Projection, subtext, blocking.
+p: I || What should you avoid in the summary? || Giving away the ending.
+p: I || What does the conclusion say? || Overall evaluation and who would enjoy it.
+p: C || Why do reviews need specific evidence? || It makes judgements convincing and fair.
+p: C || Why criticize choices, not people? || It's respectful and more useful to performers.
+p: C || How can reviews help theatre companies? || They give feedback and attract audiences.
+p: C || Write one evidence-based sentence from your review. || Answers vary.
+mis: Thinking a review is only an opinion | Retelling the whole plot | Being harsh about people instead of choices
+et: Write one sentence of evidence. | What is your overall judgement?
+mc: B || A review is || a written evaluation | a script | a ticket | a costume || A
+mc: B || A critic || writes reviews | directs plays | sells tickets | builds sets || A
+mc: B || To evaluate is to || judge with reasons | summarize only | copy | perform || A
+mc: B || Balanced reviews include || strengths and improvements | only praise | only criticism | nothing || A
+mc: B || Production elements include || lighting and costumes | tickets | parking | snacks || A
+mc: B || Evidence is || specific moments | opinions | guesses | prices || A
+mc: I || The review should be about || 300 words | 3 words | 3,000 words | 30 pages || A
+mc: I || The summary should avoid || spoiling the ending | the title | the setting | characters || A
+mc: I || "The acting was good" is || weak evidence | strong evidence | a summary | a conclusion || A
+mc: I || Criticize || choices, not people | people | nothing | the audience || A
+mc: C || Specific evidence makes judgements || convincing | longer only | weaker | confusing || A
+mc: C || Reviews help theatre companies by || giving feedback and attracting audiences | closing shows always | writing scripts | building sets || A
+sa: B || Define review. || A written evaluation of a performance.
+sa: B || What does balanced mean in a review? || Including both strengths and areas to improve.
+sa: I || List the five parts of a review. || Introduction, summary, acting, directing and design, conclusion.
+sa: I || Improve "The lighting was cool." || Answers vary; must name a moment and effect.
+sa: I || Rewrite a harsh comment respectfully. || Answers vary.
+sa: I || Name three drama terms for your review. || Answers vary.
+sa: C || Explain why reviews need evidence. || To make judgements fair and convincing.
+sa: C || Write your 300-word review. || Answers vary.
