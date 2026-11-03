@@ -1,0 +1,637 @@
+=== DR7.A1 1
+hook: Turn off the sound on a movie and you can still tell who is angry, who is scared and who is in love. Bodies and faces talk all the time. Actors learn to control that silent language on purpose.
+sc: I can show emotions with facial expression | I can use gesture to communicate meaning without words | I can read and respond to others' gestures
+v: gesture :: A movement of the body, hands or head that communicates meaning.
+v: facial expression :: The way the face shows feelings.
+v: body language :: How posture and movement show thoughts and feelings.
+v: exaggeration :: Making a movement bigger so the audience can see it clearly.
+v: freeze :: Stopping completely still on cue.
+v: neutral :: A relaxed, balanced starting position with a calm face.
+ts: Silent Signals || Rehearsal || How can the body and face communicate without words?
+tx: Activities (written for this lesson): ¶ 1. Emotion faces (5 minutes): In a circle, the leader calls an emotion: joy, fear, disgust, surprise, anger, sadness. Everyone shows it on the face only, then freezes. Look around: how do different people show the same feeling? ¶ 2. Scale it up (5 minutes): Show "happy" at level 1 (barely), 5 (clearly) and 10 (huge). Discuss which level a theatre audience at the back of the room could read. ¶ 3. Gesture dictionary (10 minutes): In small groups, find gestures for: come here, go away, I don't know, I'm thinking, stop, I'm cold, I'm tired, I won. Perform them for another group to guess. ¶ 4. Silent conversation (15 minutes): In pairs, have a 30-second conversation using only face and gesture. Situations: returning a borrowed item that broke; asking someone to dance; finding out you won a prize. The audience explains what happened. ¶ Side-coaching: "Exaggerate so the back row can see." "Hold your freeze."
+src: Original activity written for this lesson.
+st: Show six emotions with facial expression | Scale an emotion from 1 to 10 | Build a gesture dictionary | Perform a silent conversation | Discuss what the audience understood
+org: Situation | Gestures used | Facial expressions | Did the audience understand?
+an: Which emotion was hardest to show with only the face? | Why must stage gestures be bigger than everyday ones? | Which gesture was understood most quickly? | What made the silent conversations clear?
+pr: Perform a 30-second silent conversation with a partner and write two sentences explaining how gesture and facial expression told the story.
+ex: Exaggeration || Why is a level-1 smile hard to see on stage? || Distance from audience || The audience at the back can't see small expressions || What level works on stage?
+ex: Gesture meaning || Show "I don't know." || Shoulders and hands || Shrug shoulders with palms up and raised eyebrows || Do all cultures use this gesture?
+ex: Reading the scene || Partner A holds out an imaginary broken toy with a guilty face. What is happening? || Read the clues || A is apologizing for breaking something || How might B respond?
+ex: Freeze || Why must a freeze be completely still? || Focus || Movement distracts the audience and breaks the picture || How do you hold a freeze?
+p: B || What is a gesture? || A movement that communicates meaning.
+p: B || What is facial expression? || The way the face shows feelings.
+p: B || What is body language? || How posture and movement show feelings.
+p: B || What is exaggeration? || Making movement bigger so the audience sees it.
+p: B || What is a freeze? || Stopping completely still on cue.
+p: I || Name six emotions practised. || Joy, fear, disgust, surprise, anger, sadness.
+p: I || What level of expression works for a theatre audience? || Usually around 7 to 10.
+p: I || Show "come here" with a gesture. || Wave the hand toward yourself.
+p: I || Why might a gesture mean different things in different cultures? || Gestures are learned and vary by culture.
+p: I || How long is the silent conversation? || 30 seconds.
+p: I || What is neutral? || A relaxed balanced starting position.
+p: C || Why do actors practise facial expression in a mirror? || To see how emotions look from outside.
+p: C || How can body language contradict words? || Someone says "I'm fine" while slumped and looking away.
+p: C || Why is silent communication a basic acting skill? || Much of what an audience understands comes from bodies and faces.
+p: C || Explain how you told your silent story. || Answers vary.
+mis: Thinking acting is mostly about lines | Thinking small realistic expressions always read on stage | Thinking gestures mean the same everywhere
+et: Name one gesture and its meaning. | Why must stage gestures be exaggerated?
+mc: B || A gesture is || a movement with meaning | a line of dialogue | a costume | a prop || A
+mc: B || Facial expression shows || feelings | lighting | costume | the set || A
+mc: B || Body language includes || posture and movement | only words | the script | the stage || A
+mc: B || Exaggeration makes movements || bigger | smaller | silent | slower only || A
+mc: B || A freeze is || completely still | slow motion | dancing | talking || A
+mc: B || Neutral is || relaxed and balanced | angry | frozen in a pose | lying down || A
+mc: I || On stage, expressions should be about || level 7 to 10 | level 1 | level 0 | hidden || A
+mc: I || A shrug with palms up means || "I don't know" | "go away" | "I won" | "stop" || A
+mc: I || A wave toward yourself means || "come here" | "go away" | "stop" | "goodbye" || A
+mc: I || Gestures can differ by || culture | height | costume | lighting || A
+mc: C || Body language can contradict words when someone || says "fine" while slumped | smiles and says "great" | nods yes | waves hello || A
+mc: C || Silent communication matters because || audiences read bodies and faces | words are banned | it's easier | sets are silent || A
+sa: B || Define gesture. || A movement of the body, hands or head that communicates meaning.
+sa: B || What is exaggeration in drama? || Making movement bigger so the audience can see it.
+sa: I || Name four gestures and their meanings. || Answers vary.
+sa: I || Why must stage expressions be bigger? || So the back row can see them.
+sa: I || Why might gestures differ between cultures? || They are learned and vary.
+sa: I || What made your silent conversation clear? || Answers vary.
+sa: C || Explain how body language can contradict words. || Posture and face show the real feeling.
+sa: C || Describe how gesture and facial expression told your story. || Answers vary.
+
+=== DR7.A1 2
+hook: The French mime artist Marcel Marceau performed for over 60 years without saying a word on stage. His character Bip, with a white face and a striped shirt, could climb invisible stairs, walk against the wind and catch butterflies. Mime makes the invisible visible.
+sc: I can create believable imaginary objects through mime | I can plan a mime sequence with a beginning, middle and end | I can perform a mime that an audience understands
+v: mime :: Acting without words, using the body to show actions, objects and feelings.
+v: imaginary object :: An object that isn't there but is shown through mime.
+v: weight :: Showing how heavy an object is through the body.
+v: sequence :: A series of actions in a set order.
+v: point of focus :: Where the performer looks, which tells the audience where things are.
+v: click :: A small sharp stop that shows a mime hand touching a surface.
+ts: Making the Invisible Visible || Rehearsal || How can mime show objects, actions and stories without words?
+tx: Activities (written for this lesson): ¶ 1. Mime technique (15 minutes): ¶ The wall: Place flat hands on an invisible wall. Keep them at the same spot as you move your body. Add the "click" when hands arrive. ¶ Weight: Pick up an imaginary feather, then a heavy suitcase. Bend the knees, strain the face and change your walk. ¶ Shape and size: Pass an imaginary ball around the circle. It must stay the same size; then the leader changes it into something else. ¶ 2. Plan (10 minutes): In groups of three, plan a 60-second mime with a beginning (where are we, who are we), a middle (a problem) and an end (how it's solved or what changes). Ideas: a picnic interrupted by rain; a lost puppy in a busy street; moving into a new home. Use at least three imaginary objects. ¶ 3. Rehearse and perform (20 minutes): Rehearse, then perform. The audience retells the story afterward. Did they see the same objects you imagined?
+src: Original activity written for this lesson; Marcel Marceau facts are widely documented.
+st: Practise the wall, weight and shape techniques | Plan a 60-second mime with a beginning, middle and end | Include at least three imaginary objects | Rehearse with consistent object sizes | Perform and hear the audience retell it
+org: Part of mime | Action | Imaginary objects | How we show it
+an: Which imaginary object was most believable? Why? | How did you show weight? | Did the audience retell your story correctly? | What would make your mime clearer?
+pr: Perform a 60-second group mime with three imaginary objects and a clear beginning, middle and end.
+ex: Consistency || Why must an imaginary ball stay the same size? || Believability || If the size changes, the audience stops believing it || How do you check?
+ex: Weight || Show the difference between lifting a feather and a suitcase. || Body effort || Feather: light fingers, easy; suitcase: bent knees, strain, slow || What does your face do?
+ex: Point of focus || How does looking up at an imaginary bird help? || Where the eye goes || The audience looks where you look and imagines the bird || Where would you look for a mouse?
+ex: Structure || Plan a picnic mime in three parts. || Beginning, middle, end || Unpack food; rain starts; run under a tree and share the umbrella || What is the problem?
+p: B || What is mime? || Acting without words.
+p: B || What is an imaginary object? || An object shown through mime that isn't really there.
+p: B || What is a sequence? || A series of actions in order.
+p: B || What is point of focus? || Where the performer looks.
+p: B || Who was Marcel Marceau? || A famous French mime artist.
+p: I || What was Marceau's famous character called? || Bip.
+p: I || How long is your group mime? || 60 seconds.
+p: I || How many imaginary objects must you use? || At least three.
+p: I || What is the "click" in mime? || A sharp stop showing a hand touching a surface.
+p: I || What are the three parts of a mime story? || Beginning, middle and end.
+p: I || How do you show something heavy? || Bend the knees, strain and move slowly.
+p: C || Why do mime artists keep objects consistent? || So the audience believes the objects are real.
+p: C || How does mime help actors in spoken plays? || It improves physical detail and believability.
+p: C || Why does a mime story need a problem? || Conflict makes it interesting to watch.
+p: C || Explain how you made one object believable. || Answers vary.
+mis: Thinking mime means random silent movement | Letting imaginary objects change size or disappear | Forgetting a story structure
+et: Name one mime technique. | What was the problem in your mime?
+mc: B || Mime is acting || without words | with only words | with puppets | with masks only || A
+mc: B || An imaginary object is || shown through mime | a real prop | a costume | a set || A
+mc: B || Point of focus is || where the performer looks | the lights | the script | the costume || A
+mc: B || A sequence is || actions in order | random moves | a costume | a light || A
+mc: B || Marcel Marceau was || a mime artist | a playwright | a singer | a painter || A
+mc: B || The click shows || a hand touching a surface | a sound effect | a line | a light cue || A
+mc: I || Marceau's character was || Bip | Pierrot | Charlie | Mr. Bean || A
+mc: I || A heavy object is shown by || bent knees and strain | light fingers | skipping | smiling only || A
+mc: I || Your mime must last about || 60 seconds | 10 minutes | 5 seconds | an hour || A
+mc: I || The middle of a mime story has || a problem | the title | the bow | nothing || A
+mc: C || Consistent object sizes make mime || believable | boring | faster | louder || A
+mc: C || Mime helps spoken acting by || improving physical detail | removing lines | adding costumes | replacing sets || A
+sa: B || Define mime. || Acting without words, using the body to show actions, objects and feelings.
+sa: B || Who was Marcel Marceau? || A famous French mime artist.
+sa: I || Explain the wall technique. || Keep flat hands fixed on an invisible wall while the body moves.
+sa: I || How do you show weight in mime? || Through the knees, face, speed and effort.
+sa: I || Describe the structure of your mime. || Answers vary.
+sa: I || How does point of focus help the audience? || They look where you look.
+sa: C || Explain why imaginary objects must stay consistent. || So the audience believes in them.
+sa: C || Explain how you made one object believable. || Answers vary.
+
+=== DR7.B1 0
+hook: Try shouting from your throat and you'll be hoarse in minutes. Opera singers fill huge halls without microphones night after night. Their secret starts below the ribs: breathing from the diaphragm.
+sc: I can breathe from the diaphragm | I can support my voice with breath | I can warm up my body and voice safely
+v: diaphragm :: A dome-shaped muscle under the lungs that controls breathing.
+v: breath support :: Using steady breath from the diaphragm to power the voice.
+v: vocal warm-up :: Exercises that prepare the voice to speak or sing safely.
+v: posture :: The way you hold your body.
+v: resonance :: The richness and fullness of the voice.
+v: vocal strain :: Damage or tiredness caused by forcing the voice.
+ts: Breath Is the Engine || Rehearsal || How does breathing power the voice?
+tx: Warm-up and breath routine (written for this lesson): ¶ 1. Posture (2 minutes): Stand with feet hip-width apart, knees soft, shoulders relaxed, head balanced like a string pulls from the crown. ¶ 2. Find the diaphragm (3 minutes): Hands on your lower ribs and belly. Breathe in through the nose: your belly and ribs should expand, not your shoulders. Breathe out slowly on "sss." ¶ 3. Breath control (5 minutes): Breathe in for 4 counts, hold for 4, out on "sss" for 8. Increase to 12 and 16. ¶ 4. Body warm-up (3 minutes): Shoulder rolls, neck rolls (gently, side to side only), jaw massage, yawning stretch. ¶ 5. Voice warm-up (5 minutes): Lip trills (brrr) sliding up and down; humming on "mmm" and feeling the buzz in the face; sirens on "ng" from low to high. ¶ 6. Test (10 minutes): Say "Hello, my name is ___ and I'm here!" first with a shallow chest breath, then with a diaphragm breath. Compare the sound.
+src: Original activity written for this lesson; routine based on common voice-training exercises.
+st: Set up good posture | Find your diaphragm breath | Practise breath control counts | Warm up body and voice | Compare speaking with shallow and diaphragm breath
+org: Exercise | What it does | How it felt
+an: Where should you feel your breath expand? | How long could you hiss out? | What was different about the diaphragm breath line? | Why warm up before performing?
+pr: Lead a partner through a three-minute warm-up of your own design, then explain what each exercise does.
+ex: Chest vs belly || Your shoulders rise when you breathe in. What's wrong? || Shallow breathing || You're breathing into the chest; let the belly and lower ribs expand instead || How can you check?
+ex: Breath control || Why hiss out slowly on "sss"? || Steady airflow || It trains you to control and support the breath || What count can you reach?
+ex: Strain || Your throat hurts after shouting a line. Why? || Forcing from the throat || Vocal strain from pushing without breath support || What should you do instead?
+ex: Resonance || Why hum in a warm-up? || Feel vibration || It wakes up resonance in the face and helps the voice carry || Where do you feel it?
+p: B || What is the diaphragm? || A dome-shaped muscle under the lungs that controls breathing.
+p: B || What is breath support? || Using steady diaphragm breath to power the voice.
+p: B || What is a vocal warm-up? || Exercises preparing the voice.
+p: B || What is posture? || How you hold your body.
+p: B || What is vocal strain? || Damage or tiredness from forcing the voice.
+p: I || Where should you feel expansion when breathing in? || Belly and lower ribs.
+p: I || What should your shoulders do when you breathe in? || Stay relaxed and still.
+p: I || What is the breath control pattern? || In for 4, hold 4, out for 8 and more.
+p: I || Name two voice warm-ups. || Lip trills and humming.
+p: I || What is resonance? || The richness and fullness of the voice.
+p: I || Which neck stretch is safe? || Gentle side-to-side rolls.
+p: C || Why do singers and actors breathe from the diaphragm? || It gives power and control without strain.
+p: C || How can poor posture affect the voice? || It squeezes the lungs and tightens the throat.
+p: C || Why should warm-ups be gentle? || Cold muscles can be injured.
+p: C || Explain your warm-up and what each part does. || Answers vary.
+mis: Thinking louder means pushing from the throat | Raising the shoulders to breathe deeply | Skipping warm-ups before performing
+et: Where should you feel your breath? | Name one warm-up exercise.
+mc: B || The diaphragm is || a breathing muscle | a stage | a prop | a costume || A
+mc: B || Breath support powers || the voice | the lights | the set | the script || A
+mc: B || A vocal warm-up || prepares the voice | damages it | is optional always | is a costume || A
+mc: B || Good posture has || relaxed shoulders | hunched back | locked knees | tense neck || A
+mc: B || Vocal strain comes from || forcing the voice | warming up | breathing well | resting || A
+mc: B || Resonance is || richness of the voice | volume only | speed | silence || A
+mc: I || Diaphragm breathing expands || belly and lower ribs | shoulders | neck | head || A
+mc: I || Lip trills are a || voice warm-up | prop | costume | stage area || A
+mc: I || Breathing out on "sss" trains || breath control | articulation only | facial expression | gesture || A
+mc: I || Humming helps you feel || resonance | the stage | costume | lights || A
+mc: C || Diaphragm breathing gives || power without strain | strain | less volume | no control || A
+mc: C || Poor posture can || squeeze the lungs | improve breathing | add resonance | nothing || A
+sa: B || Define diaphragm. || A dome-shaped muscle under the lungs that controls breathing.
+sa: B || What is vocal strain? || Damage or tiredness caused by forcing the voice.
+sa: I || Describe diaphragm breathing. || Belly and lower ribs expand; shoulders stay relaxed.
+sa: I || Name three warm-up exercises. || Lip trills, humming, sirens.
+sa: I || Why hum during warm-ups? || To feel and wake up resonance.
+sa: I || What was different about the diaphragm-breath line? || Answers vary.
+sa: C || Explain why actors breathe from the diaphragm. || For power and control without strain.
+sa: C || Explain the warm-up you designed. || Answers vary.
+
+=== DR7.B1 1
+hook: In theatres without microphones, actors still need the person in the very last row to hear every word. That isn't yelling; it's projection: sending your voice across the space with breath and energy.
+sc: I can project my voice without shouting | I can adjust volume for different spaces and moments | I can keep my voice healthy while projecting
+v: projection :: Making your voice carry clearly across a space without shouting.
+v: volume :: How loud or soft a sound is.
+v: placement :: Where you feel the voice resonating, such as the face or chest.
+v: target :: The point you aim your voice toward, such as the back wall.
+v: audibility :: How easily the audience can hear you.
+v: dynamics :: Changes in volume for effect.
+ts: Reach the Back Row || Rehearsal || How do actors make their voices carry without shouting?
+tx: Activities (written for this lesson): ¶ 1. Warm-up (5 minutes): Diaphragm breathing, lip trills and humming from last lesson. ¶ 2. Throw the ball (5 minutes): Hold an imaginary ball. As you say "Hey!", throw it to a partner 2 metres away, then 5 metres, then across the room. Notice how breath and energy increase, not throat tension. ¶ 3. Target practice (10 minutes): Stand at the front of the room. Say a line to the first row, the middle and then the back wall: "The train leaves at seven, and I'm not waiting for anyone." A listener at the back raises a hand when every word is clear. ¶ 4. Projection is not shouting (5 minutes): Say the line as a shout, then as a projected line. Discuss the difference in sound and in how the throat feels. ¶ 5. Whisper projection (10 minutes): Stage whispers must still be heard. Practise: "Shh, they're coming. Hide behind the curtain." ¶ 6. Dynamics (10 minutes): Perform a short scene where volume changes on purpose: a secret, an argument, a surprise.
+src: Original activity written for this lesson.
+st: Warm up breath and voice | Throw an imaginary ball with your voice | Aim a line at three targets | Compare shouting and projection | Practise stage whispers and dynamics
+org: Distance or moment | Volume | Breath and energy | Heard clearly?
+an: How did your breath change as the distance grew? | What is the difference between shouting and projecting? | How can a whisper still be heard? | Why change volume in a scene?
+pr: Perform a short line three ways (normal, projected, stage whisper) so the back row hears every word, and explain how you used breath.
+ex: Shout vs project || How does a shout differ from projection? || Throat vs breath || Shouting strains the throat and sounds harsh; projection uses breath and sounds full || How does each feel?
+ex: Target || Where should you aim your voice in a theatre? || The farthest listener || The back wall or back row || Why not the front row?
+ex: Stage whisper || How is a stage whisper heard? || Breath and articulation || Strong breath support and very clear consonants || What volume is it really?
+ex: Dynamics || Why lower the volume for a secret? || Meaning || It draws the audience in and fits the moment || What moment needs more volume?
+p: B || What is projection? || Making the voice carry without shouting.
+p: B || What is volume? || How loud or soft a sound is.
+p: B || What is audibility? || How easily the audience can hear you.
+p: B || What is a target? || The point you aim your voice toward.
+p: B || What are dynamics? || Changes in volume for effect.
+p: I || Where should you aim your voice? || The back of the room.
+p: I || What powers projection? || Breath support from the diaphragm.
+p: I || What does shouting do to the throat? || Strains it.
+p: I || What makes a stage whisper audible? || Breath support and clear consonants.
+p: I || Name a moment that needs lower volume. || A secret.
+p: I || What signal shows the back-row listener heard clearly? || Raising a hand.
+p: C || Why does projection sound better than shouting? || It is full and controlled rather than harsh.
+p: C || How should projection change in a small room versus a gym? || Adjust breath and energy to the space.
+p: C || Why do actors use dynamics? || To match the mood and keep the audience engaged.
+p: C || Explain how you used breath in your three versions. || Answers vary.
+mis: Thinking projection means shouting | Aiming the voice at the floor or front row | Using the same volume for every moment
+et: What is the difference between projecting and shouting? | Where do you aim your voice?
+mc: B || Projection means || carrying the voice without shouting | shouting | whispering only | using a microphone || A
+mc: B || Volume is || loudness | speed | pitch | tone || A
+mc: B || Audibility is || how easily you're heard | how you look | the costume | the lights || A
+mc: B || Dynamics are || volume changes | costume changes | set changes | light changes || A
+mc: B || Projection is powered by || breath | throat tension | yelling | microphones || A
+mc: B || Aim your voice at || the back of the room | the floor | your shoes | the ceiling || A
+mc: I || Shouting can || strain the throat | protect the voice | improve resonance | relax the throat || A
+mc: I || A stage whisper needs || breath and clear consonants | no breath | mumbling | silence || A
+mc: I || A secret in a scene usually uses || lower volume | maximum volume | singing | silence only || A
+mc: I || The ball-throw exercise shows || more breath for more distance | more throat tension | less energy | silence || A
+mc: C || Projection sounds better than shouting because it is || full and controlled | harsh | quieter always | faster || A
+mc: C || In a gym compared with a classroom you need || more breath and energy | less | the same | none || A
+sa: B || Define projection. || Making your voice carry clearly across a space without shouting.
+sa: B || What are dynamics? || Changes in volume for effect.
+sa: I || Explain the difference between shouting and projecting. || Shouting strains the throat; projection uses breath support.
+sa: I || How do you make a stage whisper heard? || Strong breath support and clear consonants.
+sa: I || Where do you aim your voice? || The back of the room.
+sa: I || Name a moment that needs more volume. || Answers vary; e.g. an argument.
+sa: C || Explain why actors use dynamics. || To match the mood and keep the audience engaged.
+sa: C || Explain how you used breath in your three versions. || Answers vary.
+
+=== DR7.B1 2
+hook: "Red leather, yellow leather." Say it five times fast. Actors drill tongue twisters because even a loud voice is useless if the words are mushy. Articulation turns sound into clear words.
+sc: I can use my lips, tongue and teeth to articulate clearly | I can control the pace of my speech | I can deliver a line clearly to an audience
+v: articulation :: Using the lips, tongue, teeth and jaw to form clear sounds.
+v: enunciation :: Pronouncing each word clearly and fully.
+v: consonants :: Speech sounds made by blocking air, such as t, d, p and k.
+v: vowels :: Open speech sounds such as a, e, i, o, u.
+v: pace :: How fast or slow you speak.
+v: tongue twister :: A phrase that is hard to say quickly and clearly.
+ts: Crisp and Clear || Rehearsal || How do articulation and pace make speech clear on stage?
+tx: Activities (written for this lesson): ¶ 1. Mouth warm-up (5 minutes): Massage the jaw; stretch the lips into a wide smile and then a tight "oo"; trace your teeth with your tongue; chew a huge imaginary piece of gum. ¶ 2. Consonant drills (5 minutes): "Puh-tuh-kuh" repeated faster; "Bah-dah-gah"; "The tip of the tongue, the teeth and the lips." ¶ 3. Tongue twisters (10 minutes): Say each slowly and precisely, then speed up only as long as every sound stays clear: "Red leather, yellow leather"; "Unique New York"; "She sells seashells by the seashore"; "A proper copper coffee pot." ¶ 4. Pace (10 minutes): Read this line at three speeds: "I told you not to open the box, but you never listen to anyone, do you?" Which speed is clearest? Which shows anger? ¶ 5. Line delivery (15 minutes): Each student chooses a line from a list and delivers it with clear articulation, projection and a chosen pace. A partner at the back gives feedback on any word they missed.
+src: Original activity written for this lesson; tongue twisters are traditional.
+st: Warm up the mouth and jaw | Drill consonants | Practise tongue twisters slowly then faster | Try a line at three speeds | Deliver a line with clear articulation and feedback
+org: Line or twister | Clear at slow? | Clear at fast? | Sounds I need to work on
+an: Which consonants were hardest for you? | Why start tongue twisters slowly? | How did pace change the meaning of the line? | Which words did your partner miss?
+pr: Deliver a short line with clear articulation, projection and a chosen pace, and record one sound you need to practise.
+ex: Consonants || Why are endings like "t" and "d" often lost? || Lazy final sounds || Speakers drop them, so words blur together || Say "I want it" clearly.
+ex: Slow to fast || Why say twisters slowly first? || Accuracy before speed || So the mouth learns the correct shapes || When do you speed up?
+ex: Pace and meaning || How does fast pace change "I told you not to open the box"? || Speed shows emotion || It sounds angry or panicked || How would slow pace sound?
+ex: Feedback || Your partner missed "copper." What do you work on? || Which sounds blur? || The "p" sounds; exaggerate the lips || How can you practise?
+p: B || What is articulation? || Using lips, tongue, teeth and jaw to form clear sounds.
+p: B || What is enunciation? || Pronouncing each word clearly.
+p: B || What are consonants? || Sounds made by blocking air, such as t and p.
+p: B || What is pace? || How fast or slow you speak.
+p: B || What is a tongue twister? || A phrase hard to say quickly and clearly.
+p: I || Name two tongue twisters. || "Red leather, yellow leather" and "Unique New York."
+p: I || What is the consonant drill? || "Puh-tuh-kuh" repeated faster.
+p: I || Which sounds are often dropped at the ends of words? || Final consonants like t and d.
+p: I || When should you speed up a tongue twister? || Only while every sound stays clear.
+p: I || What pace might show anger? || Fast.
+p: I || What pace might show sadness? || Slow.
+p: C || Why do nervous actors often speak too fast? || Nerves speed up breathing and speech.
+p: C || Why is articulation more important than volume? || Loud mumbling still can't be understood.
+p: C || How can pause help clarity? || It gives the audience time to process words.
+p: C || Explain which sound you need to practise and how. || Answers vary.
+mis: Thinking speed shows skill in tongue twisters | Dropping word endings | Thinking clear speech sounds fake
+et: Say one tongue twister clearly. | How does pace change meaning?
+mc: B || Articulation uses || lips, tongue, teeth and jaw | only volume | costume | lights || A
+mc: B || Enunciation means || pronouncing clearly | shouting | whispering | singing || A
+mc: B || Consonants include || t, d, p, k | a, e, i | o and u only | none || A
+mc: B || Pace is || speed of speech | volume | pitch | costume || A
+mc: B || A tongue twister is || hard to say quickly | a song | a costume | a prop || A
+mc: B || Vowels are || open sounds | blocked sounds | gestures | props || A
+mc: I || Tongue twisters should start || slowly | as fast as possible | silently | shouted || A
+mc: I || Often-dropped sounds are || final consonants | vowels | first letters only | none || A
+mc: I || Fast pace can show || anger or panic | calm | sleep | boredom || A
+mc: I || "Puh-tuh-kuh" drills || consonants | vowels | posture | breathing only || A
+mc: C || Nervous actors often speak || too fast | too slowly | too clearly | silently || A
+mc: C || Articulation matters more than volume because || loud mumbling can't be understood | volume is bad | quiet is better | nobody listens || A
+sa: B || Define articulation. || Using the lips, tongue, teeth and jaw to form clear sounds.
+sa: B || What is pace? || How fast or slow you speak.
+sa: I || Name three tongue twisters. || Red leather yellow leather, Unique New York, She sells seashells.
+sa: I || Why start tongue twisters slowly? || So the mouth learns accurate shapes.
+sa: I || How does pace change meaning? || Fast shows urgency or anger; slow shows calm or sadness.
+sa: I || Which sounds are often dropped? || Final consonants.
+sa: C || Explain why articulation matters more than volume. || Loud unclear speech still can't be understood.
+sa: C || Describe the sound you need to practise and how. || Answers vary.
+
+=== DR7.C1 0
+hook: Improvisers on stage have no script, no plan and no idea what their partner will say next, yet the best scenes look rehearsed. Their secret is two words: "Yes, and." Accept what your partner offers, then add something new.
+sc: I can accept offers from my scene partners | I can build on offers with "yes, and" | I can listen and respond in the moment
+v: improvisation :: Acting without a script, making it up in the moment.
+v: offer :: Anything a performer says or does that gives information in a scene.
+v: "yes, and" :: Accepting an offer and adding new information.
+v: blocking (in improv) :: Rejecting or ignoring an offer, which stops a scene.
+v: commitment :: Fully believing in and performing your choices.
+v: listening :: Paying close attention so you can respond honestly.
+ts: Yes, And! || Rehearsal || How does accepting offers build a scene?
+tx: Activities (written for this lesson): ¶ 1. "Yes, but" vs "Yes, and" (10 minutes): In pairs, plan a class party. Round 1: every sentence starts with "Yes, but..." Round 2: every sentence starts with "Yes, and..." Which plan went further? Which felt better? ¶ 2. Gift giving (5 minutes): Partner A hands B an imaginary gift. B opens it and names it ("A pet snake!"). A accepts and adds ("I named him Gerald, and he loves jazz"). ¶ 3. One-word story (10 minutes): In a circle, tell a story one word at a time. Keep it moving; accept every word. ¶ 4. Offer spotting (15 minutes): Pairs improvise a 1-minute scene from a starting line such as "Doctor, my elbow is glowing." The audience calls "Offer!" each time new information appears, and "Block!" if an offer is rejected. ¶ Rule: in improv there are no wrong answers, only offers. Keep it safe and school-appropriate.
+src: Original activity written for this lesson; "yes, and" is a widely used improvisation principle.
+st: Compare "yes, but" and "yes, and" | Accept and build on gifts | Tell a one-word group story | Improvise scenes from a starting line | Spot offers and blocks
+org: Scene | Offers made | Accepted? | Added information
+an: How did "yes, and" change the party plan? | What happens when an offer is blocked? | Why is listening the most important improv skill? | Which offer in a scene made it most interesting?
+pr: Improvise a one-minute scene with a partner, accepting every offer, then list three offers from the scene and how they were built on.
+ex: Accept and add || Partner says "Watch out, the floor is lava!" Respond. || Accept + add || "Quick, jump on the couch, I'll grab the fire extinguisher!" || What would a block sound like?
+ex: Block || Partner: "This is our spaceship." You: "No, it's a bus." Effect? || Rejects the offer || The scene stops and the partner is confused || Rewrite it as "yes, and."
+ex: Listening || Why can't you plan your line while your partner talks? || Offers change everything || You miss their offer and respond to the wrong thing || How do you stay present?
+ex: Commitment || Your partner names your gift a pet snake. You think it's silly. What do you do? || Commit || Fully react as if it's real and add to it || Why does commitment matter?
+p: B || What is improvisation? || Acting without a script, made up in the moment.
+p: B || What is an offer? || Anything said or done that gives information in a scene.
+p: B || What does "yes, and" mean? || Accept an offer and add something new.
+p: B || What is blocking in improv? || Rejecting or ignoring an offer.
+p: B || What is commitment? || Fully believing in and performing your choices.
+p: I || What happens when you "yes, but"? || Ideas get stopped or limited.
+p: I || Give an example of an offer. || "Doctor, my elbow is glowing."
+p: I || Respond with "yes, and" to "Let's build a treehouse." || "Yes, and it'll have a zip line to the school!"
+p: I || What is the one-word story? || A story told one word at a time in a circle.
+p: I || Why are there no wrong answers in improv? || Everything is an offer to build on.
+p: I || What must improv scenes always be? || Safe and school-appropriate.
+p: C || Why is listening more important than being funny? || Good scenes come from responding to partners.
+p: C || How can "yes, and" help outside drama? || It builds ideas in teamwork and brainstorming.
+p: C || Why do improvisers commit to silly offers? || Commitment makes scenes believable and fun.
+p: C || List three offers from your scene and how they were built on. || Answers vary.
+mis: Thinking improv is about telling jokes | Planning lines instead of listening | Thinking "yes, and" means agreeing with everything in real life
+et: Give a "yes, and" response to an offer. | What happens when an offer is blocked?
+mc: B || Improvisation means || acting without a script | memorizing lines | reading aloud | singing || A
+mc: B || An offer || gives information in a scene | ends the scene | is a costume | is a light || A
+mc: B || "Yes, and" means || accept and add | reject | ignore | repeat || A
+mc: B || Blocking in improv || rejects an offer | builds a scene | is a costume | is a prop || A
+mc: B || Commitment means || fully believing your choices | laughing | stopping | planning || A
+mc: B || The most important improv skill is || listening | shouting | dancing | memorizing || A
+mc: I || "No, it's a bus" after "This is our spaceship" is || a block | an offer accepted | "yes, and" | commitment || A
+mc: I || "Yes, but" usually || stops ideas | builds ideas | adds energy | ends nothing || A
+mc: I || "Doctor, my elbow is glowing" is || an offer | a block | a freeze | a tableau || A
+mc: I || In improv there are || no wrong answers | many wrong answers | scripts | rules against offers || A
+mc: C || Planning your line while your partner talks makes you || miss their offer | funnier | better | faster || A
+mc: C || "Yes, and" helps outside drama in || teamwork and brainstorming | nothing | only sports | only tests || A
+sa: B || Define offer. || Anything a performer says or does that gives information in a scene.
+sa: B || What is "yes, and"? || Accepting an offer and adding new information.
+sa: I || Give a "yes, and" response to "The floor is lava!" || Answers vary.
+sa: I || What happens when an offer is blocked? || The scene stops or stalls.
+sa: I || Compare "yes, but" and "yes, and." || Yes, but stops ideas; yes, and builds them.
+sa: I || Why is commitment important? || It makes scenes believable.
+sa: C || Explain why listening matters more than being funny. || Good scenes come from responding to partners.
+sa: C || List three offers from your scene and how you built on them. || Answers vary.
+
+=== DR7.C1 1
+hook: A news photo captures one frozen moment, yet tells a whole story. A tableau does the same thing on stage: a living picture made of still bodies that shows who, where and what is happening.
+sc: I can create a clear tableau with my group | I can use levels, facial expression and focus in a tableau | I can link tableaux to tell a story
+v: tableau :: A frozen picture created by performers' bodies.
+v: levels :: High, middle and low positions in a scene.
+v: focus :: Where the audience's attention is directed.
+v: transition :: Moving smoothly from one tableau to the next.
+v: thought-tracking :: When a performer in a tableau speaks their character's thoughts aloud.
+v: composition :: The arrangement of bodies in the stage picture.
+ts: Living Pictures || Rehearsal || How can frozen pictures tell a story?
+tx: Activities (written for this lesson): ¶ 1. Tableau rules (5 minutes): Freeze completely; use different levels (high, middle, low); show emotion on every face; face the audience (open body position); everyone's eyes or bodies should direct focus to the most important moment. ¶ 2. Quick tableaux (10 minutes): Groups of four get 30 seconds to make: a birthday party; the moment a goal is scored; a family photo gone wrong; discovering treasure. ¶ 3. Three-part story (20 minutes): Create three tableaux for a story: beginning, problem, ending. Ideas: a school field trip, a camping trip, a lost pet. Plan smooth transitions: on a count of eight, move slowly into the next picture. ¶ 4. Thought-tracking (10 minutes): When the teacher taps a performer's shoulder, they say one sentence their character is thinking.
+src: Original activity written for this lesson.
+st: Learn the tableau rules | Create quick tableaux in 30 seconds | Plan a three-part tableau story | Rehearse eight-count transitions | Add thought-tracking
+org: Tableau | Who and where | Levels used | Focus point | Thought line
+an: Which tableau told its story most clearly? Why? | How did levels make the pictures interesting? | Where did the focus go in your middle tableau? | What did thought-tracking reveal?
+pr: Perform a three-tableau story with smooth transitions and thought-tracking, then explain how you directed focus.
+ex: Levels || Why shouldn't everyone stand at the same height? || Visual interest || Different levels make the picture clearer and more interesting || Give an example of a low level.
+ex: Focus || How do you show the goal in a soccer tableau is most important? || Direct eyes and bodies || Everyone looks or points toward the scorer || What else creates focus?
+ex: Open position || Why face the audience? || Visibility || So faces and emotions can be seen || How can you face the audience and still look at a partner?
+ex: Thought-tracking || In a "lost pet" tableau, what might the owner think? || Inner thoughts || "What if I never see her again?" || What might a stranger think?
+p: B || What is a tableau? || A frozen picture made by performers' bodies.
+p: B || What are levels? || High, middle and low positions.
+p: B || What is focus? || Where the audience's attention goes.
+p: B || What is a transition? || Moving from one tableau to the next.
+p: B || What is thought-tracking? || Speaking a character's thoughts aloud in a tableau.
+p: I || Name the tableau rules. || Freeze, levels, emotion, face audience, direct focus.
+p: I || How long do quick tableaux take to build? || 30 seconds.
+p: I || What count do you use for transitions? || Eight.
+p: I || What are the three parts of the tableau story? || Beginning, problem and ending.
+p: I || How does thought-tracking start? || The teacher taps a performer's shoulder.
+p: I || What is an open body position? || Facing the audience.
+p: C || Why can a still picture tell a story? || Positions, faces and relationships show who, where and what.
+p: C || How can levels show power? || Higher characters can seem more powerful.
+p: C || Why do transitions matter? || Smooth movement keeps the story flowing and focused.
+p: C || Explain how you directed focus in your tableau. || Answers vary.
+mis: Thinking a tableau is just standing still | Everyone at the same level facing different ways | Moving or giggling during the freeze
+et: Name two tableau rules. | How did you show focus?
+mc: B || A tableau is || a frozen picture | a song | a script | a costume || A
+mc: B || Levels are || high, middle and low | loud and soft | fast and slow | light and dark || A
+mc: B || Focus is || where attention goes | the costume | the script | the lights only || A
+mc: B || A transition || moves between tableaux | ends the show | is a costume | is a prop || A
+mc: B || Thought-tracking speaks || a character's thoughts | the narrator's lines | the director's notes | nothing || A
+mc: B || In a tableau performers || freeze completely | move constantly | talk | leave || A
+mc: I || Transitions use a count of || eight | two | twenty | one hundred || A
+mc: I || The three-tableau story has || beginning, problem, ending | three songs | three costumes | three lights || A
+mc: I || Everyone looking at one person creates || focus | chaos | levels only | sound || A
+mc: I || Facing the audience is || an open position | a closed position | a block | a transition || A
+mc: C || Higher levels can show || power | weakness | sleep | sadness only || A
+mc: C || Still pictures tell stories through || positions, faces and relationships | words only | lighting only | music only || A
+sa: B || Define tableau. || A frozen picture created by performers' bodies.
+sa: B || What is thought-tracking? || A performer speaking their character's thoughts aloud in a tableau.
+sa: I || List four tableau rules. || Freeze, levels, emotion, face the audience.
+sa: I || How do you create focus in a tableau? || Direct eyes and bodies toward the key moment.
+sa: I || How can levels show power? || Higher characters seem more powerful.
+sa: I || Describe your three-tableau story. || Answers vary.
+sa: C || Explain how still pictures can tell a story. || Bodies, faces and relationships show who, where and what.
+sa: C || Explain how you directed focus. || Answers vary.
+
+=== DR7.C1 2
+hook: Even made-up scenes need a shape. A scene that just wanders feels pointless; one with a clear start, a problem and a change feels like a story. Today you combine "yes, and" with story structure.
+sc: I can establish who, what and where early in a scene | I can build a scene to a problem and resolution | I can improvise a scene with a beginning, middle and end
+v: who, what, where :: The characters, activity and setting of a scene.
+v: platform :: The beginning of a scene that sets up the normal situation.
+v: conflict :: A problem or struggle in a scene.
+v: resolution :: How the problem is solved or how the scene ends.
+v: endowment :: Giving another character qualities through what you say.
+v: scene structure :: Beginning, middle and end.
+ts: Shape the Scene || Rehearsal || How do improvisers create scenes with a clear shape?
+tx: Activities (written for this lesson): ¶ 1. Who, what, where (10 minutes): In pairs, start a scene and make the who, what and where clear within the first three lines without saying "We are..." Example: "Grandpa, your fishing line is tangled again." (who: grandchild and grandpa; what: fishing; where: lake or river.) ¶ 2. Endowment (5 minutes): Give your partner a quality with your words: "Coach, you've never lost a game." The partner accepts and plays it. ¶ 3. Structure (10 minutes): Learn the scene shape: platform (normal) → something changes (conflict) → it gets bigger → resolution. ¶ 4. Scenes (20 minutes): In pairs or threes, improvise 2-minute scenes from audience suggestions (a location and an object). The audience watches for: was the who, what, where clear? Was there a problem? Did it end? ¶ 5. Endings: Practise ending with a final line and a freeze, called out with "Scene!"
+src: Original activity written for this lesson.
+st: Establish who, what and where in three lines | Practise endowment | Learn the platform-conflict-resolution shape | Improvise two-minute scenes from suggestions | End with a final line and freeze
+org: Scene | Who, what, where | Conflict | Resolution
+an: How quickly did your audience know the who, what and where? | What was the conflict? | How did the problem get bigger? | Which ending felt most satisfying?
+pr: Improvise a two-minute scene with a clear platform, conflict and resolution, then write a short summary of its structure.
+ex: Establishing || Show where without saying it: a library. || Use activity and dialogue || Whisper "Shh, find the book on dinosaurs in aisle three" || Show a kitchen.
+ex: Endowment || How can you endow a partner as nervous? || Say it || "Why are your hands shaking? It's just a speech." || How does the partner respond?
+ex: Conflict || Platform: two friends fishing. Add a conflict. || Something changes || They catch something huge that pulls one into the water || How could it escalate?
+ex: Resolution || End the fishing scene. || Solve or change || They both pull it in, and it's a lost wallet full of money; they decide to return it || What is the final line?
+p: B || What does who, what, where mean? || The characters, activity and setting.
+p: B || What is a platform? || The beginning that sets up the normal situation.
+p: B || What is conflict? || A problem in a scene.
+p: B || What is resolution? || How the scene ends or the problem is solved.
+p: B || What is endowment? || Giving another character qualities through what you say.
+p: I || How quickly should who, what, where be clear? || Within the first three lines.
+p: I || Name the four steps of scene structure. || Platform, change, it gets bigger, resolution.
+p: I || How long are the scenes? || Two minutes.
+p: I || How does a scene end? || A final line and a freeze, then "Scene!"
+p: I || Show "where" for a bus without saying it. || "Hold on, the driver's taking the corner fast."
+p: I || What does the audience suggest? || A location and an object.
+p: C || Why does a scene need conflict? || Without a problem, nothing interesting happens.
+p: C || Why establish the platform before the conflict? || The audience needs to know what's normal to see the change.
+p: C || How does endowment help your partner? || It gives them information to play.
+p: C || Summarize the structure of your scene. || Answers vary.
+mis: Starting with the conflict before setting up the scene | Saying "We are at the park" instead of showing it | Never ending the scene
+et: Name the who, what and where of your scene. | What was the conflict?
+mc: B || Who, what, where means || characters, activity, setting | title, author, date | lights, sound, set | none || A
+mc: B || A platform is || the normal situation | the conflict | the ending | a costume || A
+mc: B || Conflict is || a problem | the ending | a costume | a light || A
+mc: B || Resolution is || how the scene ends | the first line | the title | a prop || A
+mc: B || Endowment gives a partner || qualities through words | a costume | a prop | a light || A
+mc: B || Scenes end with || a final line and freeze | silence forever | walking away | a song only || A
+mc: I || Who, what, where should be clear within || three lines | three minutes | ten lines | the end || A
+mc: I || "Coach, you've never lost a game" is || endowment | blocking | conflict | resolution || A
+mc: I || Scenes last about || two minutes | twenty minutes | ten seconds | an hour || A
+mc: I || Whispering "Shh, aisle three" shows a || library | beach | gym | farm || A
+mc: C || A scene needs conflict because || nothing interesting happens otherwise | rules say so | it's shorter | it's funny || A
+mc: C || The platform comes first so the audience || knows what's normal | is confused | leaves | claps || A
+sa: B || Define platform. || The beginning of a scene that sets up the normal situation.
+sa: B || What is endowment? || Giving another character qualities through what you say.
+sa: I || Show a kitchen without saying it. || Answers vary.
+sa: I || List the four steps of scene structure. || Platform, change, escalation, resolution.
+sa: I || Add a conflict to "two friends fishing." || Answers vary.
+sa: I || How do you end an improvised scene? || A final line, freeze and "Scene!"
+sa: C || Explain why a scene needs conflict. || Without a problem nothing interesting happens.
+sa: C || Summarize the structure of your scene. || Answers vary.
+
+=== DR7.D1 0
+hook: In story theatre, the actors are the scenery, the sound effects and the narrators all at once. A group of performers can become a forest, a storm and a talking fox in seconds. It started in the 1970s and is still used to bring folk tales to life.
+sc: I can adapt a story into a story theatre script | I can share narration among performers | I can use bodies and voices to create setting and effects
+v: story theatre :: A style where actors narrate a story and act it out, often playing objects and settings too.
+v: narrator :: A person who tells the story to the audience.
+v: adaptation :: Changing a story from one form, such as a book, into another, such as a play.
+v: folk tale :: A traditional story passed down through generations.
+v: shared narration :: Several performers taking turns telling the story.
+v: soundscape :: Sound effects made with voices and bodies to create a setting.
+ts: Stories Come Alive || Rehearsal || How can a group adapt and perform a story using story theatre?
+tx: Activities (written for this lesson): ¶ 1. Watch and discuss: The teacher models story theatre with three volunteers: "Once upon a time (narrator), a tall tree (one actor becomes the tree) stood beside a river (two actors ripple their arms)." ¶ 2. Choose a story (5 minutes): Groups of five choose a short folk tale or fable, for example Aesop's "The Lion and the Mouse," "The Tortoise and the Hare," or a traditional story the group knows and has permission to tell. ¶ 3. Adapt (15 minutes): Break the story into 5–7 key moments. For each, write one or two narration lines and decide who plays which character, object or setting. Share narration so everyone speaks. Characters can narrate their own actions: "The hare yawned. 'I have plenty of time.'" ¶ 4. Soundscape (10 minutes): Add vocal and body sound effects: wind, footsteps, birds, a crowd. ¶ 5. Rehearse (15 minutes): Run the piece twice.
+src: Original activity written for this lesson; story theatre was popularized by Paul Sills in the late 1960s and 1970s.
+st: Watch a story theatre model | Choose a short folk tale | Break it into 5–7 key moments | Write shared narration and assign roles | Add a soundscape and rehearse
+org: Moment | Narration line | Who narrates | Characters and objects | Sound effects
+an: Which moment was hardest to adapt? Why? | How did shared narration keep everyone involved? | Which object or setting did actors create best? | How did the soundscape change the mood?
+pr: Write a story theatre script of 5–7 moments with shared narration, roles and sound effects for your group.
+ex: Adaptation || How do you shorten a long story? || Key moments || Keep only the essential events that move the story || How many moments?
+ex: Self-narration || Turn "The tortoise kept walking slowly" into self-narration. || Character speaks || Tortoise: "I kept walking slowly. Step. By. Step." || Why is this fun to watch?
+ex: Actors as setting || How can two actors become a door? || Bodies || They face each other with arms joined and swing open || How could three become a car?
+ex: Soundscape || Create a storm soundscape. || Voices and bodies || Rubbing hands for rain, stamping for thunder, whooshing for wind || How do you build it up?
+p: B || What is story theatre? || Actors narrate and act out a story, often playing objects too.
+p: B || What is a narrator? || A person who tells the story.
+p: B || What is adaptation? || Changing a story from one form into another.
+p: B || What is a folk tale? || A traditional story passed down.
+p: B || What is a soundscape? || Sound effects made with voices and bodies.
+p: I || How many key moments should your adaptation have? || 5 to 7.
+p: I || Who popularized story theatre? || Paul Sills.
+p: I || What is shared narration? || Several performers taking turns narrating.
+p: I || Name a fable you could adapt. || The Tortoise and the Hare.
+p: I || How can a character narrate? || By describing their own actions in third or first person.
+p: I || How many performers per group? || Five.
+p: C || Why does story theatre suit folk tales? || They are simple, told aloud and have clear events.
+p: C || Why should you ask permission to tell some traditional stories? || Some stories belong to specific communities.
+p: C || How does a soundscape add to a story? || It creates setting and mood without a set.
+p: C || Describe how your group adapted its story. || Answers vary.
+mis: Thinking story theatre needs sets and costumes | Having one narrator do all the talking | Including every detail of the original story
+et: What is story theatre? | Name one object your group created with bodies.
+mc: B || Story theatre performers || narrate and act | only sing | only dance | use puppets only || A
+mc: B || A narrator || tells the story | builds the set | sells tickets | sews costumes || A
+mc: B || Adaptation means || changing a story's form | copying | inventing a new story | a costume || A
+mc: B || A folk tale is || a traditional story | a news article | a textbook | a recipe || A
+mc: B || A soundscape uses || voices and bodies | recorded music only | silence | lights || A
+mc: B || Shared narration means || several people narrate | one narrator | no narrator | the audience narrates || A
+mc: I || Story theatre was popularized by || Paul Sills | Marcel Marceau | Picasso | Shakespeare || A
+mc: I || Your adaptation has || 5 to 7 moments | 50 moments | 1 moment | no moments || A
+mc: I || Stamping feet can create || thunder | birdsong | rain | wind || A
+mc: I || Two actors with joined arms can be || a door | a river | a cloud | a tree only || A
+mc: C || Some traditional stories need permission because || they belong to communities | they are long | they are boring | they are new || A
+mc: C || A soundscape adds || setting and mood | costumes | lighting | scripts || A
+sa: B || Define story theatre. || A style where actors narrate and act out a story, often playing objects and settings.
+sa: B || What is adaptation? || Changing a story into another form.
+sa: I || How do you choose key moments? || Keep the essential events.
+sa: I || Give an example of self-narration. || Answers vary.
+sa: I || Create a soundscape for a forest. || Answers vary.
+sa: I || Why use shared narration? || So everyone is involved.
+sa: C || Explain why story theatre suits folk tales. || They're simple, oral and event-driven.
+sa: C || Describe your group's adaptation. || Answers vary.
+
+=== DR7.D1 1
+hook: Directors talk in a special code: "Cross downstage left." "Move upstage centre." Without it, rehearsals would be chaos. Learning the stage map lets everyone move to the right spot every time.
+sc: I can name the nine stage areas | I can move to stage areas on command | I can use stage areas to make my story theatre piece clear
+v: stage areas :: The nine sections of the stage used to describe positions.
+v: upstage :: The back of the stage, away from the audience.
+v: downstage :: The front of the stage, closest to the audience.
+v: stage left :: The actor's left when facing the audience.
+v: stage right :: The actor's right when facing the audience.
+v: centre stage :: The middle of the stage.
+ts: Mapping the Stage || Rehearsal || How do stage areas help performers and directors?
+tx: The stage map (written for this lesson): The stage is divided into nine areas, named from the actor's point of view facing the audience: ¶ Back row: upstage right (USR), upstage centre (USC), upstage left (USL). ¶ Middle row: stage right (SR), centre stage (CS), stage left (SL). ¶ Front row: downstage right (DSR), downstage centre (DSC), downstage left (DSL). ¶ Why "upstage"? Old theatres had raked stages that sloped up toward the back, so actors literally walked up. ¶ Activities: 1. Tape a nine-square grid on the floor. 2. Stage area game (10 minutes): the leader calls an area; everyone moves there. Speed up. 3. Strong areas (5 minutes): Discuss which areas feel most powerful (often downstage centre) and why. 4. Apply (25 minutes): Re-block your story theatre piece: decide where each moment happens and why. Write the stage areas into your script.
+src: Original activity written for this lesson.
+st: Learn the nine stage areas | Play the stage area game | Discuss which areas feel strongest | Re-block your story theatre piece using stage areas | Write stage areas into your script
+org: Moment | Stage area | Why this area
+an: Why are stage left and right named from the actor's view? | Which area feels most powerful? Why? | How did using stage areas change your piece? | Where did you place your most important moment?
+pr: Add stage areas to every moment of your story theatre script and explain where you placed the most important moment and why.
+ex: Left and right || The audience sees an actor move to their right. Which stage direction is that? || Actor faces the audience || Stage left || Why use the actor's view?
+ex: Upstage || Why is the back called upstage? || History || Old stages sloped up toward the back || What is the front called?
+ex: Strong area || Where should the climax happen? || Closest and centred || Often downstage centre || When might upstage centre be strong?
+ex: Abbreviation || What does DSL mean? || Downstage + stage left || Downstage left || Write the abbreviation for upstage right.
+p: B || How many stage areas are there? || Nine.
+p: B || What is upstage? || The back of the stage.
+p: B || What is downstage? || The front of the stage.
+p: B || Whose view are stage left and right named from? || The actor's, facing the audience.
+p: B || What is centre stage? || The middle of the stage.
+p: I || What does USR stand for? || Upstage right.
+p: I || What does DSC stand for? || Downstage centre.
+p: I || Why is the back called upstage? || Old raked stages sloped up toward the back.
+p: I || Which area is often the strongest? || Downstage centre.
+p: I || The audience's left is which stage side? || Stage right.
+p: I || Name the middle row of areas. || Stage right, centre stage, stage left.
+p: C || Why do directors need a shared stage language? || So everyone moves to the same place quickly.
+p: C || Why might a lonely moment be placed far upstage? || Distance can make a character look small and isolated.
+p: C || How do stage areas help the audience? || They guide where to look and make the story clear.
+p: C || Explain where you placed your key moment. || Answers vary.
+mis: Naming stage left from the audience's view | Thinking upstage means higher off the ground today | Placing everything centre stage
+et: Name all nine stage areas. | Where is stage left?
+mc: B || The stage has || nine areas | four areas | two areas | twenty areas || A
+mc: B || Upstage is || the back | the front | the left | the right || A
+mc: B || Downstage is || the front | the back | the wings | the ceiling || A
+mc: B || Stage left is the || actor's left facing the audience | audience's left | back | front || A
+mc: B || Centre stage is || the middle | the back | the front | off stage || A
+mc: B || DSC means || downstage centre | down stage curtain | direct stage cue | none || A
+mc: I || The audience's left is || stage right | stage left | upstage | downstage || A
+mc: I || Upstage got its name from || sloped stages | the ceiling | the lights | the curtain || A
+mc: I || Often the strongest area is || downstage centre | upstage left | off stage | the wings || A
+mc: I || USR means || upstage right | under stage right | up side right | none || A
+mc: C || A shared stage language helps || everyone move quickly to the same place | confuse actors | sell tickets | write scripts || A
+mc: C || Placing a character far upstage can make them seem || isolated | powerful always | louder | closer || A
+sa: B || Define downstage. || The front of the stage, closest to the audience.
+sa: B || Whose view names stage left and right? || The actor's, facing the audience.
+sa: I || Name all nine stage areas. || USR, USC, USL, SR, CS, SL, DSR, DSC, DSL.
+sa: I || Why is the back called upstage? || Old stages sloped upward toward the back.
+sa: I || Which area is often strongest and why? || Downstage centre; it's closest and centred.
+sa: I || The audience sees an actor move to the audience's right. Stage direction? || Stage left.
+sa: C || Explain why directors use stage areas. || A shared language gets everyone to the right place.
+sa: C || Explain where you placed your key moment and why. || Answers vary.
+
+=== DR7.D1 2
+hook: A performance isn't complete without an audience. And good audiences do their part: they listen, respond, respect the performers and give feedback that helps. Today you perform and you practise being a great audience.
+sc: I can perform my story theatre piece with focus and commitment | I can show good audience etiquette | I can give specific, helpful feedback on performances
+v: audience etiquette :: Respectful behaviour while watching a performance.
+v: feedback :: Comments that help performers improve.
+v: performance :: Presenting work to an audience.
+v: stage presence :: Confidence and energy that holds the audience's attention.
+v: curtain call :: Performers bowing at the end.
+v: glow and grow :: One strength and one area to improve.
+ts: Showtime || Performance || How do performers and audiences both make a performance succeed?
+tx: Audience etiquette (written for this lesson): Phones away; stay seated and quiet; watch the performers; laugh and react honestly but don't talk; applaud at the end; never call out or mock. ¶ Performer checklist: Hold your neutral position before starting; project and articulate; stay in character even if something goes wrong; hold the final freeze; take a group bow together. ¶ Feedback (written for this lesson): After each piece, two audience members give a glow (a specific strength) and a grow (one specific suggestion), linked to the skills studied: voice, gesture, tableau, stage areas, narration. Strong: "Glow: the river made from four bodies rippling looked amazing. Grow: the narrator at stage left was hard to hear; try projecting to the back wall." Weak: "It was good." "It was boring." ¶ Self-reflection: After performing, each group answers: What went well? What went wrong and how did we handle it? What would we change?
+src: Original activity written for this lesson.
+st: Review audience etiquette and the performer checklist | Perform your story theatre piece | Watch other groups with good etiquette | Give glow and grow feedback | Reflect as a group
+org: Group | Glow | Grow | Skill it relates to
+an: What made your group's performance strong? | How did you handle any mistakes? | Which feedback was most useful? | Why does audience behaviour affect performers?
+pr: Perform your piece, give glow and grow feedback to two groups, and write a group reflection on what went well and what you'd change.
+ex: Etiquette || A classmate whispers during a scene. What's the problem? || Respect and focus || It distracts performers and other viewers || What should they do instead?
+ex: Staying in character || Someone forgets a line. What do you do? || Keep going || Stay in character, improvise or let a narrator cover || Why not stop and laugh?
+ex: Specific glow || Improve "Your acting was good." || Name a skill and moment || "Your hare's lazy walk and yawn showed his character clearly" || Write another glow.
+ex: Helpful grow || Improve "It was too quiet." || Suggest a fix || "The narrator was hard to hear at the back; try aiming your voice at the back wall" || Why suggest a fix?
+p: B || What is audience etiquette? || Respectful behaviour while watching.
+p: B || What is feedback? || Comments that help improve.
+p: B || What is stage presence? || Confidence and energy that hold attention.
+p: B || What is a curtain call? || Performers bowing at the end.
+p: B || What is glow and grow? || One strength and one improvement.
+p: I || Name three audience etiquette rules. || Phones away, stay quiet, applaud at the end.
+p: I || What should you do if you forget a line? || Stay in character and keep going.
+p: I || Name two items on the performer checklist. || Project and hold the final freeze.
+p: I || What makes feedback specific? || It names a skill and a moment.
+p: I || What should a grow include? || A suggestion for how to improve.
+p: I || How should your group end? || Hold the freeze and bow together.
+p: C || Why does audience behaviour affect performers? || Respectful attention helps them focus and feel supported.
+p: C || Why link feedback to skills studied? || It makes feedback useful and measurable.
+p: C || Why is staying in character important when mistakes happen? || The audience often doesn't notice if you keep going.
+p: C || Write your group's reflection. || Answers vary.
+mis: Thinking the audience has no role | Stopping the show when a mistake happens | Giving feedback that is only praise or only criticism
+et: Give one glow and one grow to a group. | Name two audience etiquette rules.
+mc: B || Audience etiquette is || respectful behaviour | talking during scenes | leaving early | using phones || A
+mc: B || Feedback helps || performers improve | end the show | confuse actors | sell tickets || A
+mc: B || Stage presence is || confidence and energy | a costume | a light | a prop || A
+mc: B || A curtain call is || a bow at the end | the first scene | a costume change | a light cue || A
+mc: B || Glow and grow gives || a strength and an improvement | two complaints | a grade | a price || A
+mc: B || During a performance phones should be || away | out and recording | ringing | lit up || A
+mc: I || If you forget a line || stay in character | stop and laugh | leave the stage | apologize to the audience || A
+mc: I || A specific glow names || a skill and moment | nothing | the price | the costume only || A
+mc: I || A good grow includes || a suggestion | an insult | a laugh | silence || A
+mc: I || Whispering during a scene || distracts performers | helps them | is fine | is required || A
+mc: C || Audiences affect performers because || attention helps them focus | they write the script | they pay | nothing || A
+mc: C || Staying in character during a mistake means || the audience may not notice | everyone laughs | the show stops | nothing || A
+sa: B || Define audience etiquette. || Respectful behaviour while watching a performance.
+sa: B || What is stage presence? || Confidence and energy that hold the audience's attention.
+sa: I || Name three audience etiquette rules. || Phones away, stay quiet, applaud at the end.
+sa: I || What should you do if something goes wrong in performance? || Stay in character and keep going.
+sa: I || Write a specific glow. || Answers vary.
+sa: I || Write a helpful grow. || Answers vary.
+sa: C || Explain why audience behaviour matters. || It helps performers focus and feel supported.
+sa: C || Write your group's reflection. || Answers vary.
