@@ -1,0 +1,637 @@
+=== MU9.A1 1
+hook: In Havana, Accra and Rio, music is built on interlocking rhythm patterns that everyone in the group knows by heart. Learn one pattern and you can join in; learn three and you can feel how a whole drum circle fits together.
+sc: I can perform a rhythm pattern from a world music tradition | I can keep my part steady while others play different patterns | I can describe where a rhythm comes from and how it is used
+v: clave :: A key rhythm pattern in Cuban music, also the name of the two sticks that play it.
+v: bell pattern :: A repeating timeline played on a bell that guides West African drumming.
+v: timeline :: A repeating pattern the whole group follows.
+v: ostinato :: A short pattern repeated over and over.
+v: call and response :: A leader plays or sings a phrase and the group answers.
+v: tala :: A repeating rhythmic cycle in Indian classical music.
+ts: Rhythms of the World || Performance || How do different traditions organize rhythm?
+tx: Rhythm stations (written for this lesson; patterns shown on a counting grid, x = play, . = rest): ¶ 1. Cuba, son clave 3-2 (two bars of 4/4 in eighths): bar 1: x . . x . . x . (1, the "and" of 2, 4); bar 2: . . x . x . . . (2, 3). Play on claves or clap while the group steps the beat. Clave is the guide pattern in son and salsa. ¶ 2. West Africa, the 12/8 bell pattern (Ewe tradition, Ghana and Togo): x . x . x x . x . x . x over 12 pulses. Play on a cowbell or agogo while others play a low drum on pulses 1, 4, 7 and 10. ¶ 3. Brazil, samba: the low surdo drum accents beat 2 of each 2/4 bar; shakers play steady sixteenths. ¶ 4. India, Teentaal: a 16-beat cycle grouped 4+4+4+4. Clap on beats 1, 5 and 13, and wave the hand (khali, the "empty" section) on beat 9. ¶ Rotate through stations, then perform two patterns layered together. Respect tip: these rhythms belong to living traditions; name the culture and the instrument each time you perform.
+src: Original activity written for this lesson; patterns are widely taught in music education.
+st: Step the beat and learn son clave | Play the West African bell pattern | Layer samba surdo and shakers | Clap the Teentaal cycle | Perform two patterns layered together
+org: Tradition | Pattern | Instrument | Metre or cycle | Role in the music
+an: Which pattern was hardest to keep steady, and why? | How does the bell pattern guide the other drummers? | Why does a group need a timeline? | What did layering patterns sound like?
+pr: Perform one world rhythm pattern steadily while a partner plays a different one, and explain where your pattern comes from.
+ex: Son clave || Which positions are played in bar 1 of 3-2 son clave? || Count eighths: 1 & 2 & 3 & 4 & || 1, the "and" of 2, and 4 || What is played in bar 2?
+ex: Bell pattern || How many pulses are in the 12/8 bell pattern? || Count the grid || 12, played x . x . x x . x . x . x || How many strokes are played?
+ex: Teentaal || How many beats are in Teentaal and how are they grouped? || Count the cycle || 16 beats, grouped 4+4+4+4 || Where is the wave?
+ex: Timeline || Why does West African drumming use a bell pattern? || Guide || It is the timeline everyone listens to so parts fit together || Which Cuban pattern does a similar job?
+p: B || What is clave? || A key Cuban rhythm pattern and the sticks that play it.
+p: B || What is a timeline? || A repeating pattern the whole group follows.
+p: B || What is an ostinato? || A short repeated pattern.
+p: B || What is call and response? || A leader plays a phrase and the group answers.
+p: B || What is a tala? || A repeating rhythm cycle in Indian classical music.
+p: I || Which country is son clave from? || Cuba.
+p: I || How many pulses are in the West African bell pattern? || 12.
+p: I || How many strokes does the bell pattern play? || 7.
+p: I || On which beat does the samba surdo accent? || Beat 2.
+p: I || How many beats are in Teentaal? || 16.
+p: I || What does the wave in Teentaal show? || The khali, or empty section, on beat 9.
+p: C || Why is a timeline important in group drumming? || It keeps every part aligned.
+p: C || Why should you name the culture when performing these rhythms? || To respect and credit the living tradition.
+p: C || How is a tala cycle different from a bar of 4/4? || It is a longer cycle with grouped sections and claps and waves.
+p: C || Explain how two layered patterns fit together. || Answers vary.
+mis: Thinking world rhythms are random or improvised only | Speeding up when patterns are layered | Treating rhythms as having no cultural origin
+et: Clap son clave 3-2. | Name the tradition of the 12/8 bell pattern.
+mc: B || Clave comes from || Cuba | Japan | Norway | Egypt || A
+mc: B || A timeline is || a pattern the group follows | a chord | a song title | a rest || A
+mc: B || An ostinato || repeats | ends a song | is silent | is a key || A
+mc: B || Call and response has || a leader and an answer | no leader | only silence | one note || A
+mc: B || A tala is || an Indian rhythm cycle | a drum brand | a scale | a dance || A
+mc: B || The bell pattern is from || West Africa | Canada | Russia | Chile || A
+mc: I || The bell pattern uses || 12 pulses | 4 pulses | 8 pulses | 16 pulses || A
+mc: I || Teentaal has || 16 beats | 12 beats | 7 beats | 3 beats || A
+mc: I || The samba surdo accents || beat 2 | beat 1 only | no beats | every off-beat || A
+mc: I || Bar 1 of 3-2 son clave plays || 1, & of 2, 4 | 1, 2, 3, 4 | 2 and 3 | only 1 || A
+mc: C || A timeline keeps parts || aligned | louder | random | separate || A
+mc: C || Naming the tradition shows || respect | speed | volume | nothing || A
+sa: B || Define timeline. || A repeating pattern the whole group follows.
+sa: B || What is a tala? || A repeating rhythmic cycle in Indian classical music.
+sa: I || Write the 3-2 son clave. || Bar 1: 1, & of 2, 4; bar 2: 2, 3.
+sa: I || Write the 12/8 bell pattern. || x . x . x x . x . x . x.
+sa: I || Describe the samba surdo part. || A low drum accenting beat 2.
+sa: I || How is Teentaal grouped? || 16 beats in four groups of 4.
+sa: C || Explain why traditions use timelines. || So all parts fit together.
+sa: C || Perform and explain your pattern. || Answers vary.
+
+=== MU9.A1 2
+hook: Tap your left hand twice while your right hand taps three times in the same space. That tug between two patterns is a polyrhythm, and it powers music from West African drumming to modern jazz and electronic music.
+sc: I can explain what a polyrhythm is | I can perform a 3-against-2 polyrhythm | I can create a short polyrhythmic piece in a group
+v: polyrhythm :: Two or more different rhythms played at the same time, each dividing the same span differently.
+v: 3 against 2 :: Three even notes in one part against two even notes in another, over the same time span.
+v: hemiola :: A shift between groupings of 2 and 3 within a metre.
+v: cross-rhythm :: A rhythm that cuts across the main beat.
+v: layer :: One part in a stack of rhythms.
+v: grid :: A row of equal pulses used to line up rhythms.
+ts: Two Rhythms at Once || Composition || How do polyrhythms work, and how can I create one?
+tx: Building 3 against 2 (written for this lesson): ¶ 1. Make a grid of 6 equal pulses: 1 2 3 4 5 6. ¶ 2. Part A (the "3"): play on 1, 3 and 5. ¶ 3. Part B (the "2"): play on 1 and 4. ¶ 4. Together: both hands on 1, right on 3, left on 4, right on 5. A popular memory phrase is "hot cup of tea": "hot" (both), "cup" (right), "of" (left), "tea" (right). ¶ 5. Practise slowly: one hand at a time, then together on a desk, then on drums or body percussion. ¶ 6. Hear it: 3 against 2 is common in West African and Afro-Cuban music; 6/8 bars that switch to feel like 3/4 create hemiola. ¶ 7. Create (20 minutes): In groups of four, build a 12-pulse grid. Layer a 2-part, 3-part, 4-part and 6-part pattern (12 ÷ 2, 3, 4, 6). Add one accent pattern of your own. Perform for 8 cycles with a clear start and ending.
+src: Original activity written for this lesson.
+st: Build a 6-pulse grid | Play the 3 part and the 2 part separately | Combine them with "hot cup of tea" | Listen for 3 against 2 in music | Create a layered 12-pulse polyrhythm in groups
+org: Layer | Pulses played | Instrument | Accent
+an: Why does 3 against 2 fit in a grid of 6? | Which hand was harder to keep steady? | How did the 12-pulse piece sound with all layers? | Where have you heard polyrhythm before?
+pr: Create and perform a 12-pulse polyrhythm with at least three layers, and notate it on a grid.
+ex: The grid || Why use a grid of 6 for 3 against 2? || Lowest common multiple of 2 and 3 || 6 divides evenly by both 2 and 3 || What grid suits 4 against 3?
+ex: Placing 3 || In a 6-pulse grid, where does the 3 part play? || Every 2 pulses || 1, 3, 5 || Where does the 2 part play?
+ex: 4 against 3 || Build 4 against 3. || Grid of 12 || 4 part on 1, 4, 7, 10; 3 part on 1, 5, 9 || Where do they line up?
+ex: Hemiola || In 6/8, what is a hemiola? || Regroup || Pulses felt as 3 groups of 2 instead of 2 groups of 3 || Where is it common?
+p: B || What is a polyrhythm? || Two or more rhythms played at once that divide time differently.
+p: B || What does 3 against 2 mean? || Three even notes against two in the same span.
+p: B || What is a cross-rhythm? || A rhythm cutting across the main beat.
+p: B || What is a layer? || One part in a stack of rhythms.
+p: B || What is a grid? || A row of equal pulses for lining up rhythms.
+p: I || How many pulses do you need for 3 against 2? || 6.
+p: I || Where does the 3 part play in a 6 grid? || 1, 3, 5.
+p: I || Where does the 2 part play in a 6 grid? || 1, 4.
+p: I || What phrase helps remember 3 against 2? || Hot cup of tea.
+p: I || How many pulses for 4 against 3? || 12.
+p: I || What is a hemiola? || A shift between groupings of 2 and 3.
+p: C || Why does a 12-pulse grid allow many layers? || 12 divides by 2, 3, 4 and 6.
+p: C || Why practise one hand at a time first? || To secure each part before combining.
+p: C || How does polyrhythm create energy in music? || The tug between patterns creates tension and drive.
+p: C || Notate your group's polyrhythm. || Answers vary.
+mis: Thinking polyrhythm means playing out of time | Rushing the 3 part to match the 2 | Thinking the parts never line up
+et: Tap 3 against 2. | Where do the parts line up in a 6 grid?
+mc: B || A polyrhythm is || rhythms at once dividing time differently | one rhythm | silence | a chord || A
+mc: B || 3 against 2 has || three against two notes | three chords | two drums only | no beat || A
+mc: B || A grid is || equal pulses | a chord | a scale | a melody || A
+mc: B || A layer is || one part in a stack | the whole song | a rest | a key || A
+mc: B || A cross-rhythm || cuts across the beat | follows the beat exactly | is silent | is a melody || A
+mc: B || "Hot cup of tea" helps with || 3 against 2 | scales | tuning | dynamics || A
+mc: I || 3 against 2 needs a grid of || 6 | 5 | 4 | 8 || A
+mc: I || The 3 part plays on || 1, 3, 5 | 1, 4 | 2, 4, 6 | 1 only || A
+mc: I || The 2 part plays on || 1, 4 | 1, 3, 5 | 2, 5 | 3, 6 || A
+mc: I || 4 against 3 needs || 12 pulses | 7 pulses | 6 pulses | 9 pulses || A
+mc: C || A 12 grid suits many layers because || 12 divides by 2, 3, 4, 6 | 12 is large | it's easy | it's odd || A
+mc: C || Polyrhythm creates || tension and drive | silence | slower music | one part || A
+sa: B || Define polyrhythm. || Two or more rhythms at once that divide the same span differently.
+sa: B || What is a hemiola? || A shift between groupings of 2 and 3.
+sa: I || Write 3 against 2 on a 6-pulse grid. || 3: 1, 3, 5; 2: 1, 4.
+sa: I || Write 4 against 3 on a 12-pulse grid. || 4: 1, 4, 7, 10; 3: 1, 5, 9.
+sa: I || Where do the parts line up in 3 against 2? || On pulse 1.
+sa: I || Why practise hands separately? || To secure each part first.
+sa: C || Explain why 12 pulses allow many layers. || 12 divides by 2, 3, 4 and 6.
+sa: C || Notate and perform your polyrhythm. || Answers vary.
+
+=== MU9.B1 0
+hook: Play a melody in a major key and it sounds bright; change just a few notes to minor and the same tune can sound sad, mysterious or tense. The difference comes down to one small step.
+sc: I can build a natural minor scale | I can compare the sound of major and minor | I can find the relative minor of a major key
+v: minor scale :: A scale with a darker sound; natural minor follows W H W W H W W.
+v: major scale :: A scale with a bright sound following W W H W W W H.
+v: relative minor :: The minor key that shares the same notes as a major key, starting on its 6th note.
+v: minor third :: An interval of three half steps, which gives minor chords their sound.
+v: major third :: An interval of four half steps, which gives major chords their sound.
+v: key :: The scale and tonic a piece is based on.
+ts: Bright and Dark || Listening || What makes music sound major or minor?
+tx: Guide (written for this lesson): ¶ Major pattern: W W H W W W H (C major: C D E F G A B C). ¶ Natural minor pattern: W H W W H W W (A minor: A B C D E F G A, all white keys). ¶ Relative keys: A minor uses the same notes as C major but starts on A, the 6th note of C. E minor is the relative minor of G major (one sharp, F♯). ¶ Parallel keys: C major and C minor share a tonic. C natural minor is C D E♭ F G A♭ B♭ C: the 3rd, 6th and 7th notes are lowered. ¶ Chords: C major = C E G (major third C–E, four half steps); C minor = C E♭ G (minor third C–E♭, three half steps). ¶ Activities: 1. Play C major then A minor; describe each. 2. Play "Twinkle, Twinkle" in C major, then with E♭, A♭ and B♭ (C minor). 3. Blind listening: classmates play six chords; label each major or minor. 4. Discuss: is minor always sad? (Many dance and pop songs are in minor keys.)
+src: Original activity written for this lesson; scale patterns follow standard music theory.
+st: Compare C major and A minor | Learn the natural minor pattern | Find relative minors | Play a tune in major then minor | Identify major and minor chords by ear
+org: Key | Notes | Pattern | Mood
+an: How did Twinkle sound in minor? | Why do A minor and C major share notes? | Which interval changes a chord from major to minor? | Is minor always sad?
+pr: Play a short tune in a major key and its parallel minor, and explain the notes you changed and how the mood changed.
+ex: Relative minor || What is the relative minor of C major? || 6th note of C || A minor || What is the relative minor of G?
+ex: Natural minor || Build A natural minor. || W H W W H W W from A || A B C D E F G A || What major key shares these notes?
+ex: Parallel minor || Change C major to C minor. Which notes change? || Lower 3, 6, 7 || E, A and B become E♭, A♭ and B♭ || How does it sound?
+ex: Chord thirds || Why does C E♭ G sound minor? || Count half steps C to E♭ || A minor third of 3 half steps || How many in C to E?
+p: B || What is a minor scale? || A darker-sounding scale; natural minor is W H W W H W W.
+p: B || What is a relative minor? || The minor key sharing a major key's notes.
+p: B || What is a minor third? || Three half steps.
+p: B || What is a major third? || Four half steps.
+p: B || What is a key? || The scale and tonic a piece is based on.
+p: I || What is the relative minor of C major? || A minor.
+p: I || What is the relative minor of G major? || E minor.
+p: I || Write A natural minor. || A B C D E F G A.
+p: I || Which notes are lowered in C minor? || E, A and B (to E♭, A♭, B♭).
+p: I || What are the notes of a C minor chord? || C E♭ G.
+p: I || On which note of a major scale does its relative minor start? || The 6th.
+p: C || Why do relative keys sound different with the same notes? || They have different tonics, so the pattern of steps from home changes.
+p: C || Is minor always sad? Explain. || No; it can sound mysterious, intense or energetic depending on tempo and style.
+p: C || How does one note change a chord from major to minor? || Lowering the third by a half step.
+p: C || Explain your major and minor performance. || Answers vary.
+mis: Thinking minor always means sad | Confusing relative and parallel minor | Thinking minor uses only black keys
+et: Name the relative minor of C major. | What changes a major chord to minor?
+mc: B || Natural minor pattern is || W H W W H W W | W W H W W W H | H H W W | W W W W || A
+mc: B || A minor third has || 3 half steps | 4 half steps | 2 half steps | 7 half steps || A
+mc: B || A major third has || 4 half steps | 3 half steps | 5 half steps | 1 half step || A
+mc: B || A key is || a scale and tonic | a rhythm | a volume | an instrument || A
+mc: B || A relative minor shares || the same notes | the same tonic | no notes | the same title || A
+mc: B || Minor usually sounds || darker | brighter always | silent | faster || A
+mc: I || The relative minor of C is || A minor | E minor | D minor | C minor || A
+mc: I || The relative minor of G is || E minor | A minor | G minor | B minor || A
+mc: I || A C minor chord is || C E♭ G | C E G | C F A | C D E || A
+mc: I || The relative minor starts on the major scale's || 6th note | 2nd note | 4th note | 7th note || A
+mc: C || Major becomes minor by lowering the || third | root | fifth | octave || A
+mc: C || Minor music can feel || mysterious or energetic | only sad | only happy | nothing || A
+sa: B || Define relative minor. || The minor key sharing a major key's notes, starting on its 6th note.
+sa: B || State the natural minor pattern. || W H W W H W W.
+sa: I || Write A natural minor. || A B C D E F G A.
+sa: I || Write the C minor scale. || C D E♭ F G A♭ B♭ C.
+sa: I || Compare C major and C minor chords. || C E G versus C E♭ G.
+sa: I || Name the relative minor of G major. || E minor.
+sa: C || Explain why minor isn't always sad. || Tempo, rhythm and style shape the mood too.
+sa: C || Explain your major and minor performance. || Answers vary.
+
+=== MU9.B1 1
+hook: A huge number of pop songs use the same four chords in the same order. Learn I–V–vi–IV and the 12-bar blues and you can play along with decades of music.
+sc: I can use Roman numerals for major and minor chords in a key | I can play I–V–vi–IV and the 12-bar blues | I can play a progression in time with a group
+v: progression :: A series of chords in order.
+v: Roman numerals :: Upper case (I) for major chords, lower case (vi) for minor chords.
+v: I–V–vi–IV :: A very common pop progression; in C it is C–G–Am–F.
+v: 12-bar blues :: A 12-bar progression using I, IV and V.
+v: diatonic chords :: Chords built only from notes of the key.
+v: turnaround :: Chords at the end of a progression that lead back to the start.
+ts: The Progressions Everyone Knows || Performance || Why do some chord progressions appear in so many songs?
+tx: Chords in C major (written for this lesson): I C, ii Dm, iii Em, IV F, V G, vi Am, vii° Bdim. Upper case = major; lower case = minor; ° = diminished. ¶ Progression 1, I–V–vi–IV: | C | G | Am | F |. Songs that use it include "Let It Be" by the Beatles (1970) and "Don't Stop Believin'" by Journey (1981). ¶ Progression 2, the 12-bar blues: | I | I | I | I | IV | IV | I | I | V | IV | I | I |; in C: C C C C F F C C G F C C. Bars 11–12 form the turnaround; many players use V in bar 12 to lead back to the start. ¶ Progression 3, I–vi–IV–V: | C | Am | F | G |, a 1950s doo-wop favourite. ¶ Activities: 1. Build each chord of C major (root, skip, skip). 2. Play I–V–vi–IV on keyboards or ukuleles (C G Am F), 4 beats per chord. 3. Play the 12-bar blues while classmates clap a shuffle rhythm. 4. Rotate: vi–IV–I–V uses the same chords from a different start. How does it feel?
+src: Original activity written for this lesson; song examples are cited for their chord progressions only.
+st: Build every chord in C major | Learn Roman numerals for major and minor | Play I–V–vi–IV | Play the 12-bar blues | Compare rotations of the same progression
+org: Progression | Chords in C | Bars | Feeling
+an: Why is vi written in lower case? | How did the 12-bar blues feel compared with I–V–vi–IV? | What changed when you started on vi? | Why do so many songs share progressions?
+pr: Play I–V–vi–IV and the 12-bar blues in C in time, and write both progressions with Roman numerals and chord names.
+ex: Roman numerals || Name ii, iii and vi in C. || Lower case = minor || Dm, Em, Am || Which chords are major?
+ex: Pop progression || Write I–V–vi–IV in G major. || G major chords || G D Em C || Name a song using it.
+ex: Blues || Which bars of the 12-bar blues use IV? || Count bars || Bars 5, 6 and 10 || Which use V?
+ex: Rotation || What is vi–IV–I–V in C? || Same chords, new start || Am F C G || Does it feel major or minor?
+p: B || What is a progression? || A series of chords in order.
+p: B || What does an upper-case numeral show? || A major chord.
+p: B || What does a lower-case numeral show? || A minor chord.
+p: B || What is the 12-bar blues? || A 12-bar progression using I, IV and V.
+p: B || What is a turnaround? || Chords at the end leading back to the start.
+p: I || Write I–V–vi–IV in C. || C G Am F.
+p: I || What chord is vi in C? || A minor.
+p: I || What chord is ii in C? || D minor.
+p: I || Write the 12-bar blues in C. || C C C C F F C C G F C C.
+p: I || Write I–V–vi–IV in G. || G D Em C.
+p: I || Name a song using I–V–vi–IV. || Let It Be (1970) or Don't Stop Believin' (1981).
+p: C || Why do so many songs share progressions? || They sound strong and familiar, and melody, rhythm and lyrics make each song different.
+p: C || How does starting on vi change the feel? || It sounds more minor and moody.
+p: C || Why are I, IV and V central to the blues? || They are the primary chords and give strong movement.
+p: C || Write your own four-chord progression with numerals. || Answers vary.
+mis: Thinking all chords in a major key are major | Thinking sharing a progression is copying a song | Losing count of bars in the blues
+et: Write I–V–vi–IV in C. | Which chord is vi in C major?
+mc: B || A progression is || chords in order | one chord | a rhythm | a rest || A
+mc: B || Upper-case numerals show || major chords | minor chords | rests | keys || A
+mc: B || Lower-case numerals show || minor chords | major chords | tempo | volume || A
+mc: B || The 12-bar blues uses || I, IV and V | ii only | vi only | no chords || A
+mc: B || A turnaround leads || back to the start | to silence | to a new song | nowhere || A
+mc: B || Diatonic chords use || notes of the key | random notes | black keys only | no notes || A
+mc: I || I–V–vi–IV in C is || C G Am F | C F G C | Am F C G | C Dm Em F || A
+mc: I || vi in C major is || A minor | A major | E minor | D minor || A
+mc: I || ii in C major is || D minor | D major | E minor | F major || A
+mc: I || IV appears in the blues in bars || 5, 6 and 10 | 1 and 2 | 11 and 12 | 9 only || A
+mc: C || Songs sharing progressions differ by || melody, rhythm and lyrics | nothing | title only | key only || A
+mc: C || Starting on vi sounds || more minor | brighter | silent | faster || A
+sa: B || Define progression. || A series of chords in order.
+sa: B || What do upper- and lower-case numerals mean? || Major and minor chords.
+sa: I || List the chords of C major with numerals. || I C, ii Dm, iii Em, IV F, V G, vi Am, vii° Bdim.
+sa: I || Write the 12-bar blues in C. || C C C C F F C C G F C C.
+sa: I || Write I–V–vi–IV in G. || G D Em C.
+sa: I || What is a turnaround? || Chords at the end that lead back to the start.
+sa: C || Explain why many songs share progressions. || They sound strong; melody, rhythm and lyrics make songs unique.
+sa: C || Write and play your own progression. || Answers vary.
+
+=== MU9.B1 2
+hook: When you know the progressions, you start hearing them everywhere: in the grocery store, on the radio, in game soundtracks. Analyzing a song's chords is like reading the blueprint of a building.
+sc: I can figure out the chords of a song by ear and from chord charts | I can label progressions with Roman numerals | I can explain how a progression supports a song's mood
+v: analysis :: Studying music to understand how it works.
+v: chord chart :: A chart showing which chord to play in each bar.
+v: bass line :: The lowest part, which often plays chord roots.
+v: transpose :: To move music into a different key.
+v: capo :: A clamp on a guitar or ukulele neck that raises the pitch of all strings.
+v: loop-based song :: A song that repeats one short progression throughout.
+ts: Chord Detectives || Listening || How can I analyze the chords in songs I know?
+tx: Analysis method (written for this lesson): ¶ 1. Find the key: hum the note that sounds like "home"; that is usually the tonic. ¶ 2. Follow the bass: the lowest notes often play chord roots. Hum them and match to a keyboard. ¶ 3. Count bars: how many beats until the chord changes? ¶ 4. Label with numerals: if the key is G, then G = I, C = IV, D = V, Em = vi. ¶ 5. Look for patterns: does the verse use a different progression from the chorus? Is it a loop? ¶ Practice set (teacher plays short excerpts or students bring school-appropriate songs): Song A: G | D | Em | C. Song B: Am | F | C | G. Song C: E | E | E | E | A | A | E | E | B | A | E | B. ¶ Transposing: Song A in C is C | G | Am | F. Same numerals, new key. ¶ Task: In pairs, choose one school-appropriate song, find its chord chart (from a music book or a reputable chord site), label with numerals and compare verse and chorus.
+src: Original activity written for this lesson.
+st: Find the key by ear | Follow the bass to find roots | Label chords with Roman numerals | Compare verse and chorus progressions | Transpose a progression
+org: Section | Chords | Numerals | Key | Mood
+an: How did you find the tonic? | Which practice song was a 12-bar blues? | Did the verse and chorus use different progressions? | How does the progression support the mood of the song?
+pr: Analyze one song's chords: key, progression for verse and chorus with numerals, and how the chords support the mood.
+ex: Labelling || Key of G. Label G D Em C. || I IV V vi in G || I–V–vi–IV || What song type often uses it?
+ex: Minor start || Key of C. Label Am F C G. || Am is vi || vi–IV–I–V || How does it feel?
+ex: Blues || Label song C in E. || E = I, A = IV, B = V || 12-bar blues with a V turnaround || Which bar is the turnaround?
+ex: Transposing || Move I–V–vi–IV from G to D. || D major chords || D A Bm G || Why transpose?
+p: B || What is analysis? || Studying music to understand how it works.
+p: B || What is a bass line? || The lowest part, often chord roots.
+p: B || What does transpose mean? || Move music into a different key.
+p: B || What is a capo? || A clamp that raises all strings' pitch.
+p: B || What is a loop-based song? || A song repeating one short progression.
+p: I || How do you find the key by ear? || Hum the note that sounds like home.
+p: I || In G, which chord is vi? || E minor.
+p: I || Label Am F C G in C. || vi IV I V.
+p: I || Transpose C G Am F to G. || G D Em C.
+p: I || In E, what is V? || B.
+p: I || Why follow the bass line? || It often plays the chord roots.
+p: C || Why transpose a song? || To fit a singer's range or an instrument.
+p: C || How can a chorus feel bigger than a verse through chords? || By changing progression or starting on I for a strong arrival.
+p: C || Why are numerals useful in analysis? || They show a pattern that works in any key.
+p: C || Analyze your chosen song. || Answers vary.
+mis: Thinking the first chord is always the key | Ignoring the bass line | Thinking numerals change when you transpose
+et: Label G D Em C in G. | How do you find the key by ear?
+mc: B || Analysis means || studying how music works | performing loudly | tuning | buying music || A
+mc: B || A bass line is || the lowest part | the melody | the drums | the lyrics || A
+mc: B || Transpose means || move to another key | slow down | get louder | stop || A
+mc: B || A capo || raises string pitch | lowers volume | is a drum | is a chord || A
+mc: B || A loop-based song repeats || one progression | nothing | only lyrics | silence || A
+mc: B || The tonic sounds like || home | a clash | silence | a rest || A
+mc: I || In G, Em is || vi | ii | iii | IV || A
+mc: I || Am F C G in C is || vi IV I V | I V vi IV | ii V I | I IV V || A
+mc: I || C G Am F in G is || G D Em C | D A Bm G | C F G C | A E F♯m D || A
+mc: I || In E, V is || B | A | C♯m | F || A
+mc: C || Numerals help because they || work in any key | name the song | show lyrics | add volume || A
+mc: C || Transposing helps fit || a singer's range | the lyrics | the title | the tempo || A
+sa: B || Define transpose. || To move music into a different key.
+sa: B || What does a bass line often play? || Chord roots.
+sa: I || Label G D Em C in G. || I V vi IV.
+sa: I || Transpose C G Am F into D. || D A Bm G.
+sa: I || Label E A B in E. || I IV V.
+sa: I || How do you find a song's key? || Hum the home note.
+sa: C || Explain how a progression supports a song's mood. || Answers vary.
+sa: C || Present your song analysis. || Answers vary.
+
+=== MU9.C1 0
+hook: Most songs on the radio follow a map: verse, chorus, verse, chorus, bridge, chorus. Classical pieces have maps too. Knowing a song's form helps you predict, remember and write music.
+sc: I can identify binary (AB), ternary (ABA) and rondo form | I can identify verse, chorus, pre-chorus and bridge in songs | I can map the form of a piece
+v: form :: The structure or plan of a piece of music.
+v: binary form (AB) :: Two contrasting sections.
+v: ternary form (ABA) :: A section, a contrasting section, then the first section returns.
+v: rondo (ABACA) :: A main section that keeps returning between contrasting sections.
+v: verse :: A section with the same melody but new lyrics each time.
+v: chorus :: The repeated section with the same lyrics and main hook.
+ts: Mapping Music || Listening || How is music organized into sections?
+tx: Forms guide (written for this lesson): ¶ Binary (AB): two contrasting sections, often each repeated (AABB); common in Baroque dances. ¶ Ternary (ABA): A, contrasting B, then A returns. "Twinkle, Twinkle, Little Star" is a simple ABA. ¶ Rondo (ABACA): A keeps returning. Beethoven's "Für Elise" (written around 1810) is a well-known rondo. ¶ Verse-chorus form: Intro, Verse 1, (Pre-chorus), Chorus, Verse 2, (Pre-chorus), Chorus, Bridge, Chorus, Outro. ¶ Bridge: a contrasting section, often with new chords, before the last chorus. ¶ Activities: 1. Listen to Twinkle and Für Elise; use letters to map each. 2. Listen to two school-appropriate pop songs; write the section and the time it starts (e.g. 0:00 Intro, 0:12 Verse 1). 3. Create a form map poster with colour-coded sections. 4. Compare: which form appears in both classical and pop music?
+src: Original activity written for this lesson; Für Elise is in the public domain.
+st: Learn AB, ABA and rondo | Map Twinkle and Für Elise with letters | Map a pop song with timings | Identify verse, chorus and bridge | Compare classical and pop forms
+org: Time | Section | Letter | How I knew
+an: How did you know when a new section started? | Why does the chorus repeat more than the verse? | What does a bridge add? | Which classical form is like verse-chorus?
+pr: Create a colour-coded form map for one song or piece, with timings, section names and letters.
+ex: Ternary || Map Twinkle, Twinkle. || Does the first part return? || ABA || What makes B different?
+ex: Rondo || Map ABACA. || A returns || Main theme, contrast, main, new contrast, main || Name a rondo.
+ex: Verse or chorus || Same melody, new words each time. Which section? || Lyrics change || Verse || What stays the same in a chorus?
+ex: Bridge || What does a bridge do? || Contrast || Gives a new section, often new chords, before the last chorus || Where does it usually appear?
+p: B || What is form? || The structure of a piece.
+p: B || What is binary form? || Two contrasting sections (AB).
+p: B || What is ternary form? || ABA.
+p: B || What is rondo form? || A returning main section, ABACA.
+p: B || What is a chorus? || The repeated section with the same lyrics and hook.
+p: I || What is a verse? || Same melody, new lyrics each time.
+p: I || What is a bridge? || A contrasting section before the final chorus.
+p: I || What form is Twinkle, Twinkle? || ABA.
+p: I || What form is Für Elise? || Rondo.
+p: I || What is a pre-chorus? || A section building from verse to chorus.
+p: I || What is an outro? || The ending section.
+p: C || Why do songwriters repeat the chorus? || To make the hook memorable.
+p: C || How is verse-chorus like rondo? || A main section keeps returning between other sections.
+p: C || Why does music need contrast and repetition? || Repetition makes it memorable; contrast keeps interest.
+p: C || Present your form map. || Answers vary.
+mis: Thinking every repeated section is a chorus | Thinking pop and classical forms are unrelated | Missing the bridge
+et: Name the letters for ternary form. | What is the difference between verse and chorus?
+mc: B || Form is || structure | volume | speed | pitch || A
+mc: B || Binary form is || AB | ABA | ABACA | AAA || A
+mc: B || Ternary form is || ABA | AB | ABAC | BBB || A
+mc: B || Rondo is || ABACA | AB | ABA | AAA || A
+mc: B || A chorus has || the same lyrics each time | new lyrics each time | no melody | only drums || A
+mc: B || A verse has || new lyrics each time | the hook | silence | no melody || A
+mc: I || Twinkle, Twinkle is || ABA | AB | ABACA | free form || A
+mc: I || Für Elise is a || rondo | binary piece | blues | symphony || A
+mc: I || A bridge appears || before the last chorus | at the start only | never | after the outro || A
+mc: I || A pre-chorus || builds to the chorus | ends the song | is silent | is the intro || A
+mc: C || Repeating the chorus makes the hook || memorable | quieter | shorter | forgettable || A
+mc: C || Verse-chorus is like rondo because || a main section returns | it has no repeats | it's classical | it's slow || A
+sa: B || Define ternary form. || A section, contrasting section, then the first returns (ABA).
+sa: B || What is a bridge? || A contrasting section before the final chorus.
+sa: I || Map Twinkle, Twinkle. || ABA.
+sa: I || Map a rondo. || ABACA.
+sa: I || Compare verse and chorus. || Verse: new lyrics; chorus: same lyrics and hook.
+sa: I || Write a typical pop form. || Intro, verse, chorus, verse, chorus, bridge, chorus, outro.
+sa: C || Explain why music needs repetition and contrast. || Memory and interest.
+sa: C || Present your form map. || Answers vary.
+
+=== MU9.C1 1
+hook: From Joni Mitchell, who grew up on the Prairies, to Oscar Peterson's jazz piano, Tanya Tagaq's Inuit throat singing and today's chart-toppers, Canadian musicians have shaped music around the world.
+sc: I can name Canadian musicians from different styles and eras | I can describe the musical features of a Canadian artist | I can explain how policies like Canadian content support Canadian music
+v: Canadian content (CanCon) :: Rules requiring Canadian radio to play a share of Canadian music.
+v: CRTC :: The Canadian Radio-television and Telecommunications Commission, which regulates broadcasting.
+v: Juno Awards :: Canada's major annual music awards.
+v: Polaris Music Prize :: An annual prize for the best Canadian album, judged on artistic merit.
+v: genre :: A style or category of music.
+v: katajjaq :: Inuit throat singing, traditionally a vocal game performed by two women.
+ts: Canada's Soundtrack || Listening || Who are Canada's musicians and how do they shape music?
+tx: Artist gallery (summary written for this lesson; dates are from public records): ¶ Joni Mitchell: singer-songwriter born in Fort Macleod, Alberta, in 1943 and raised in Saskatchewan; known for folk albums such as Blue (1971) and open guitar tunings. ¶ Oscar Peterson (1925–2007): jazz pianist from Montreal, famous for speed and swing; composed the "Canadiana Suite" (1964). ¶ Gordon Lightfoot (1938–2023): folk songwriter from Orillia, Ontario; "Canadian Railroad Trilogy" (1967) tells the story of building the railway. ¶ Leonard Cohen (1934–2016): Montreal poet-songwriter; "Hallelujah" (1984) has been covered many times. ¶ Tanya Tagaq: Inuk singer from Nunavut who uses throat singing in experimental music; won the Polaris Music Prize in 2014 for Animism. ¶ Jeremy Dutcher: Wolastoqiyik tenor and composer from New Brunswick; won the Polaris Prize in 2018 for an album sung in Wolastoqey, built around archival recordings of his ancestors. ¶ Policy: The CRTC introduced Canadian content rules for radio in 1971; today commercial radio must play at least 35% Canadian popular music. ¶ Activity: rotate through stations listening to short excerpts; record genre, instruments, features and what makes each artist distinctive.
+src: Summary written for this lesson from public biographical records.
+st: Listen to six Canadian artists | Record genre, instruments and features | Learn about CanCon and the CRTC | Discuss Indigenous artists reclaiming language and tradition | Choose an artist for your presentation
+org: Artist | Era | Genre | Instruments | Distinctive feature
+an: Which artist surprised you most? | How does Jeremy Dutcher's album preserve language? | Why might Canada have CanCon rules? | Which Canadian artist would you add?
+pr: Write a profile of one Canadian artist: background, genre, musical features and impact.
+ex: Joni Mitchell || Where was Joni Mitchell born? || Prairies || Fort Macleod, Alberta || Which album from 1971 is famous?
+ex: Oscar Peterson || What style did Oscar Peterson play? || Piano style || Jazz || Which suite did he write?
+ex: CanCon || What do CanCon rules require? || Radio || Commercial radio must play at least 35% Canadian popular music || Who sets the rules?
+ex: Tanya Tagaq || What tradition does Tanya Tagaq draw on? || Inuit vocal style || Throat singing (katajjaq) || What prize did she win?
+p: B || What is CanCon? || Rules requiring Canadian radio to play Canadian music.
+p: B || What is the CRTC? || The regulator of Canadian broadcasting.
+p: B || What are the Juno Awards? || Canada's major music awards.
+p: B || What is the Polaris Prize? || A prize for the best Canadian album.
+p: B || What is katajjaq? || Inuit throat singing.
+p: I || Where was Joni Mitchell born? || Fort Macleod, Alberta.
+p: I || What instrument did Oscar Peterson play? || Piano.
+p: I || What does Canadian Railroad Trilogy tell about? || Building the railway.
+p: I || Which Leonard Cohen song is widely covered? || Hallelujah.
+p: I || In which year did Tanya Tagaq win the Polaris Prize? || 2014.
+p: I || In which language did Jeremy Dutcher sing his Polaris-winning album? || Wolastoqey.
+p: C || Why does Canada have CanCon rules? || To support Canadian artists against larger foreign markets.
+p: C || Why is Jeremy Dutcher's work important for language? || It helps keep the Wolastoqey language and songs alive.
+p: C || How have Indigenous artists influenced Canadian music? || By bringing traditional forms and languages into new genres.
+p: C || Write your artist profile. || Answers vary.
+mis: Thinking Canadian music is only one genre | Thinking CanCon covers only Canadian-born artists' fame | Overlooking Indigenous artists
+et: Name three Canadian musicians. | What is CanCon?
+mc: B || CanCon rules apply to || radio | movies only | books | sports || A
+mc: B || The CRTC regulates || broadcasting | schools | hospitals | roads || A
+mc: B || The Junos are || music awards | sports trophies | film awards | science prizes || A
+mc: B || The Polaris Prize is for || best Canadian album | best single | best concert | best video || A
+mc: B || Katajjaq is || Inuit throat singing | a drum | a dance | a guitar || A
+mc: B || Oscar Peterson played || jazz piano | violin | bagpipes | tuba || A
+mc: I || Joni Mitchell was born in || Fort Macleod, Alberta | Toronto | Halifax | Victoria || A
+mc: I || Canadian Railroad Trilogy is by || Gordon Lightfoot | Leonard Cohen | Drake | Joni Mitchell || A
+mc: I || Hallelujah was written by || Leonard Cohen | Oscar Peterson | Gordon Lightfoot | Tanya Tagaq || A
+mc: I || Commercial radio must play at least || 35% Canadian music | 5% | 90% | 100% || A
+mc: C || CanCon aims to || support Canadian artists | ban foreign music | reduce radio | sell tickets || A
+mc: C || Jeremy Dutcher's album helps preserve || the Wolastoqey language | French | Latin | Spanish || A
+sa: B || Define CanCon. || Rules requiring Canadian radio to play a share of Canadian music.
+sa: B || What is the Polaris Prize? || An annual prize for the best Canadian album.
+sa: I || Describe Oscar Peterson's music. || Fast, swinging jazz piano.
+sa: I || Describe Tanya Tagaq's music. || Experimental music using Inuit throat singing.
+sa: I || What is Canadian Railroad Trilogy about? || Building the railway.
+sa: I || Name three Canadian artists and their genres. || Answers vary.
+sa: C || Explain why CanCon exists. || To support Canadian artists.
+sa: C || Write your artist profile. || Answers vary.
+
+=== MU9.C1 2
+hook: You've listened to Canadian artists; now you become the expert. A good music presentation lets the audience hear what makes an artist special, not just read facts on a slide.
+sc: I can research a Canadian artist using reliable sources | I can present their background, style and impact with musical examples | I can cite my sources and answer questions
+v: research :: Finding and checking information from sources.
+v: reliable source :: A trustworthy source, such as an official site, a library database or a major news outlet.
+v: citation :: A note giving credit to a source.
+v: musical example :: A short clip played to show a point.
+v: impact :: The effect an artist has had on music or society.
+v: discography :: A list of an artist's recordings.
+ts: Spotlight on a Canadian Artist || Presentation || How do I present a musician so the audience understands their music?
+tx: Presentation guide (written for this lesson): ¶ Choose: one Canadian musician or group from any genre or era (folk, jazz, classical, country, hip hop, rock, pop, Indigenous, francophone). Check with your teacher that the music is school-appropriate. ¶ Research (2 lessons): use at least three reliable sources: e.g. The Canadian Encyclopedia, the artist's official website, the Juno Awards or Polaris sites, a library database or a major news outlet. Record citations as you go. ¶ Content (4–5 minutes): 1. Background: where they're from and how they began. 2. Style: genre, instruments, voice, lyrics, form. 3. Two musical examples (30 seconds each) with what to listen for. 4. Impact: awards, influence, community or cultural importance. 5. Your opinion with reasons. ¶ Slides: images and key words, not paragraphs. ¶ End with a works-cited slide and take two questions. ¶ Peer rubric: accurate content, clear musical examples, explained features using music vocabulary, confident delivery, sources cited.
+src: Original activity written for this lesson.
+st: Choose an artist and check appropriateness | Research with three reliable sources | Plan five content sections | Choose two musical examples with listening focus | Present and answer questions
+org: Section | Key points | Source | Musical example
+an: What made your artist distinctive? | Which source was most reliable? | How did your musical examples help the audience? | What feedback did you get?
+pr: Give a 4–5 minute presentation on a Canadian artist with two musical examples, music vocabulary and a works-cited slide.
+ex: Reliable source || Is a random fan blog reliable? || Check author and evidence || Not on its own; confirm facts in The Canadian Encyclopedia or official sites || Name a reliable source.
+ex: Listening focus || How do you introduce a clip? || Tell what to listen for || "Listen for the open guitar tuning and high vocal leaps" || Why does that help?
+ex: Impact || How do you show impact? || Evidence || Awards, artists they influenced, cultural importance || Give an example.
+ex: Citation || What goes in a citation? || Source details || Author or organization, title, website or publisher, date || Where does it go?
+p: B || What is research? || Finding and checking information.
+p: B || What is a reliable source? || A trustworthy source like an encyclopedia or official site.
+p: B || What is a citation? || Credit to a source.
+p: B || What is a discography? || A list of an artist's recordings.
+p: B || What is impact? || The effect an artist has had.
+p: I || How many sources should you use? || At least three.
+p: I || How long is the presentation? || 4–5 minutes.
+p: I || How many musical examples? || Two.
+p: I || How long is each example? || About 30 seconds.
+p: I || Name one reliable source. || The Canadian Encyclopedia.
+p: I || What goes on slides? || Images and key words.
+p: C || Why tell the audience what to listen for? || It focuses their attention on the musical feature.
+p: C || Why check facts in more than one source? || To confirm accuracy.
+p: C || Why include your opinion with reasons? || It shows thinking beyond facts.
+p: C || Present your artist. || Answers vary.
+mis: Reading slides word for word | Playing long clips without explaining them | Using unreliable sources without checking
+et: Name your artist and one reliable source. | What will listeners focus on in your clip?
+mc: B || Research means || finding and checking information | guessing | copying slides | singing || A
+mc: B || A reliable source is || trustworthy | anonymous and unchecked | always a blog | a rumour || A
+mc: B || A citation gives || credit to a source | a grade | a song | a key || A
+mc: B || A discography lists || recordings | concerts only | awards only | lyrics || A
+mc: B || Impact means || an artist's effect | a drum hit | a tempo | a key || A
+mc: B || Slides should show || images and key words | full paragraphs | nothing | only text || A
+mc: I || Use at least || three sources | one source | ten sources | no sources || A
+mc: I || The presentation lasts || 4–5 minutes | 30 seconds | an hour | 20 minutes || A
+mc: I || Each clip lasts about || 30 seconds | 10 minutes | 2 seconds | a full album || A
+mc: I || A reliable Canadian source is || The Canadian Encyclopedia | a random comment | a meme | an ad || A
+mc: C || Telling listeners what to listen for || focuses attention | wastes time | confuses | is not needed || A
+mc: C || Checking more than one source || confirms accuracy | is unnecessary | adds errors | wastes time || A
+sa: B || Define reliable source. || A trustworthy source such as an encyclopedia or official site.
+sa: B || What is a discography? || A list of an artist's recordings.
+sa: I || Name the five content sections. || Background, style, examples, impact, opinion.
+sa: I || How should you introduce a musical example? || Say what to listen for.
+sa: I || What is in a citation? || Author or organization, title, publisher or website, date.
+sa: I || How do you show an artist's impact? || Awards, influence, cultural importance.
+sa: C || Explain why you check facts in several sources. || To confirm accuracy.
+sa: C || Present your Canadian artist. || Answers vary.
+
+=== MU9.D1 0
+hook: Songwriters often say the hook comes first: a catchy line that sticks in your head. Then they build lyrics and a melody around it. Today you start your own song with a hook, a verse and a chorus.
+sc: I can write lyrics with a clear theme, rhyme and a memorable hook | I can set lyrics to a melody that fits their rhythm | I can draft a verse and chorus
+v: lyrics :: The words of a song.
+v: hook :: A short, catchy part of a song that listeners remember.
+v: rhyme scheme :: The pattern of rhymes in lines, shown with letters (e.g. ABAB).
+v: syllable :: A unit of sound in a word.
+v: stressed syllable :: The syllable said with more emphasis.
+v: theme :: The main idea or message of a song.
+ts: Hooks and Lines || Composition || How do I write lyrics and a melody that fit together?
+tx: Songwriting steps (written for this lesson): ¶ 1. Theme (5 minutes): Choose a theme you care about: a place, a friendship, a challenge, a season in Alberta, a goal. ¶ 2. Hook (10 minutes): Write a short line (3–7 words) that sums up the theme. Repeat it out loud. Does it stick? ¶ 3. Chorus (10 minutes): Four lines including the hook; rhyme scheme AABB or ABAB. ¶ 4. Verse (10 minutes): Four lines with details, images and story. Verses are more specific; the chorus is the big idea. ¶ 5. Fit words to rhythm: say each line, clap the syllables, and put stressed syllables on strong beats ("to-MOR-row" not "TO-mor-row"). ¶ 6. Melody: sing the hook over a I–V–vi–IV progression, using chord tones on strong beats. The chorus melody is usually higher and more repetitive than the verse. ¶ Content guide: school-appropriate lyrics; original words only.
+src: Original activity written for this lesson.
+st: Choose a theme | Write a 3–7 word hook | Write a four-line chorus with the hook | Write a detailed verse | Fit syllables and stresses to a melody
+org: Section | Lyrics | Rhyme | Melody idea
+an: Why did you choose your theme? | Is your hook memorable? Test it on a partner. | How did you match stressed syllables to strong beats? | How is your chorus melody different from your verse?
+pr: Write and sing or play the verse and chorus of an original song with a clear hook.
+ex: Rhyme scheme || Lines end: day, light, way, night. Scheme? || Match rhymes || ABAB || What is AABB?
+ex: Stress || Where does the stress fall in "tomorrow"? || Say it || to-MOR-row: the middle syllable || Where should it go?
+ex: Verse vs chorus || "The bus was late, the snow came down." Verse or chorus? || Detail or big idea? || Verse: a specific detail || What would the chorus say?
+ex: Hook || What makes a hook catchy? || Short and repeated || Short, simple, repeated, with a memorable rhythm or melody || Write one.
+p: B || What are lyrics? || The words of a song.
+p: B || What is a hook? || A short catchy part listeners remember.
+p: B || What is a rhyme scheme? || The pattern of rhymes in lines.
+p: B || What is a syllable? || A unit of sound in a word.
+p: B || What is a theme? || The main idea of a song.
+p: I || How long should a hook be? || 3–7 words.
+p: I || What is AABB? || Lines 1 and 2 rhyme, and lines 3 and 4 rhyme.
+p: I || Where should stressed syllables go? || On strong beats.
+p: I || How is a verse different from a chorus? || The verse has details; the chorus has the big idea and hook.
+p: I || Which progression do you use for the melody? || I–V–vi–IV.
+p: I || How is a chorus melody often different? || Higher and more repetitive.
+p: C || Why put stressed syllables on strong beats? || So words sound natural when sung.
+p: C || Why should verses be specific? || Details tell the story and make it vivid.
+p: C || Why repeat the hook? || So listeners remember the song.
+p: C || Share your verse and chorus. || Answers vary.
+mis: Forcing rhymes that make no sense | Putting stress on the wrong syllable | Writing a chorus with no hook
+et: Write your hook. | What is your rhyme scheme?
+mc: B || Lyrics are || song words | chords | rhythms | instruments || A
+mc: B || A hook is || catchy and memorable | silent | a chord | a rest || A
+mc: B || A rhyme scheme shows || rhyme patterns | tempo | key | volume || A
+mc: B || A syllable is || a unit of sound | a chord | a song | a key || A
+mc: B || A theme is || the main idea | a drum | a scale | a rest || A
+mc: B || A hook is about || 3–7 words | 50 words | 1 letter | a full page || A
+mc: I || Day, light, way, night is || ABAB | AABB | ABBA | AAAA || A
+mc: I || Stressed syllables go on || strong beats | weak beats | rests | nowhere || A
+mc: I || Verses usually contain || details | only the hook | no words | silence || A
+mc: I || Chorus melodies are often || higher and repetitive | lower and random | silent | spoken || A
+mc: C || Stress on strong beats makes words || sound natural | sound odd | silent | faster || A
+mc: C || Repeating the hook helps listeners || remember | forget | sleep | leave || A
+sa: B || Define hook. || A short catchy part of a song listeners remember.
+sa: B || What is a rhyme scheme? || The pattern of rhymes shown with letters.
+sa: I || Compare verse and chorus lyrics. || Verse: details; chorus: big idea and hook.
+sa: I || Where do stressed syllables go? || On strong beats.
+sa: I || What is AABB? || Pairs of rhyming lines.
+sa: I || How long is a good hook? || 3–7 words.
+sa: C || Explain how you fit words to the melody. || Answers vary.
+sa: C || Share your verse and chorus. || Answers vary.
+
+=== MU9.D1 1
+hook: Many hit songs were arranged on a laptop. With a free digital audio workstation, you can add drums, bass, chords and effects to your song, the same way producers do.
+sc: I can use a digital audio workstation to build an arrangement | I can layer tracks for drums, bass, chords and melody | I can use loops and instruments legally and responsibly
+v: digital audio workstation (DAW) :: Software for recording, editing and arranging music, such as GarageBand or BandLab.
+v: track :: One layer of sound in a DAW, such as drums or vocals.
+v: arrangement :: How a song's parts and instruments are organized over time.
+v: MIDI :: Digital note information that tells virtual instruments what to play.
+v: loop :: A short repeating recording or pattern.
+v: royalty-free :: Sound you may use without paying each time, under its licence.
+ts: Producer Mode || Technology || How do producers arrange a song in a DAW?
+tx: DAW workshop (written for this lesson; uses a free DAW such as BandLab in a browser or GarageBand on Apple devices): ¶ 1. Set up (5 minutes): new project, tempo (e.g. 90 BPM), key from your song, time signature 4/4. ¶ 2. Drums (10 minutes): add a drum track: kick on beats 1 and 3, snare on 2 and 4, hi-hat on eighths. Or use a drum loop that comes with the DAW. ¶ 3. Chords (10 minutes): MIDI keyboard or piano track playing your I–V–vi–IV progression, one chord per bar. ¶ 4. Bass (5 minutes): bass track playing the root of each chord. ¶ 5. Melody (5 minutes): play or enter your hook melody on a lead instrument. ¶ 6. Arrangement (10 minutes): plan sections on the timeline: intro (drums + chords), verse (lighter), chorus (all tracks, fuller), outro. Build contrast by adding and removing tracks. ¶ Legal and responsible: use loops included with the DAW, your own sounds, or clearly licensed royalty-free or Creative Commons sounds with credit. Do not copy commercial recordings.
+src: Original activity written for this lesson.
+st: Set tempo, key and time signature | Build a drum track | Add chords and bass with MIDI | Add the hook melody | Arrange sections by adding and removing tracks
+org: Section | Bars | Tracks playing | Energy level
+an: How did you make the chorus sound bigger? | Which track was hardest to create? | What loops did you use and are they licensed? | How did arranging change your song?
+pr: Build a DAW arrangement of your song with at least four tracks and contrasting sections, and list the sources of any loops.
+ex: Basic beat || Where do kick and snare go in a basic 4/4 beat? || Strong and back beats || Kick on 1 and 3, snare on 2 and 4 || Where do hi-hats go?
+ex: Bass || What does the bass play? || Chord roots || The root of each chord, e.g. C, G, A, F || Why roots?
+ex: Contrast || How do you make a chorus bigger? || Layers || Add tracks, raise dynamics, widen the range || How might the verse differ?
+ex: Licence || Can you use a clip of a hit song? || Copyright || No; use DAW loops, your own sounds or licensed royalty-free sounds with credit || Why?
+p: B || What is a DAW? || Software for recording, editing and arranging music.
+p: B || What is a track? || One layer of sound.
+p: B || What is an arrangement? || How parts and instruments are organized over time.
+p: B || What is MIDI? || Digital note information for virtual instruments.
+p: B || What does royalty-free mean? || Usable without paying each time, under licence.
+p: I || Name two free DAWs. || BandLab and GarageBand.
+p: I || Where does the snare go in a basic beat? || Beats 2 and 4.
+p: I || Where does the kick go? || Beats 1 and 3.
+p: I || What does the bass play? || The root of each chord.
+p: I || How many tracks should you have? || At least four.
+p: I || What loops may you use? || DAW loops, your own, or licensed royalty-free loops.
+p: C || How does adding and removing tracks shape a song? || It creates contrast and builds energy.
+p: C || Why use MIDI instead of recording audio? || Notes are easy to edit and change instruments.
+p: C || Why credit Creative Commons sounds? || Licences often require it and it respects creators.
+p: C || Describe your arrangement plan. || Answers vary.
+mis: Thinking anything online is free to use | Making every section the same | Adding so many tracks that the melody gets buried
+et: Name four tracks in your arrangement. | How does your chorus differ from the verse?
+mc: B || A DAW is || music software | a drum | a microphone | a guitar || A
+mc: B || A track is || one layer of sound | a whole album | a key | a rest || A
+mc: B || Arrangement means || organizing parts over time | tuning | buying music | lyrics || A
+mc: B || MIDI is || digital note information | a microphone | a speaker | a key || A
+mc: B || Royalty-free sounds are || usable under licence without paying each time | stolen | illegal | silent || A
+mc: B || A loop || repeats | ends | is silent | is a chord || A
+mc: I || The snare plays on || 2 and 4 | 1 and 3 | every beat | never || A
+mc: I || The kick plays on || 1 and 3 | 2 and 4 | off-beats only | never || A
+mc: I || Bass usually plays || chord roots | melody | lyrics | silence || A
+mc: I || A free browser DAW is || BandLab | Photoshop | Excel | Word || A
+mc: C || Contrast between sections comes from || adding and removing tracks | same tracks always | silence only | random notes || A
+mc: C || Using a hit song clip without permission || breaks copyright | is fine | is royalty-free | is required || A
+sa: B || Define DAW. || Software for recording, editing and arranging music.
+sa: B || What is MIDI? || Digital note information for virtual instruments.
+sa: I || Describe a basic 4/4 beat. || Kick on 1 and 3, snare on 2 and 4, hi-hat eighths.
+sa: I || What does the bass play? || The root of each chord.
+sa: I || Which sounds can you use legally? || DAW loops, your own, licensed royalty-free.
+sa: I || How do you make a chorus bigger? || Add tracks and energy.
+sa: C || Explain how arranging creates contrast. || Adding and removing layers changes energy.
+sa: C || Describe your arrangement. || Answers vary.
+
+=== MU9.D1 2
+hook: Recording turns your idea into something you can share. Producers spend hours getting the levels right so every part can be heard. Today you record, mix and share your finished song.
+sc: I can record vocals or an instrument cleanly | I can mix levels and panning so all parts are clear | I can export, share and reflect on my song
+v: recording :: Capturing sound so it can be played back.
+v: mixing :: Balancing the volume, panning and effects of tracks.
+v: panning :: Placing a sound to the left or right in stereo.
+v: levels :: The volume of each track.
+v: clipping :: Distortion when a sound is too loud for the system.
+v: export :: Save a finished song as an audio file, such as MP3 or WAV.
+ts: Record, Mix, Share || Technology || How do I record and mix a finished song?
+tx: Recording session (written for this lesson): ¶ 1. Set up (5 minutes): quiet space, headphones on (so the backing track isn't picked up by the microphone), microphone about a hand's width to 20 cm away. ¶ 2. Check levels: sing the loudest part; the meter should peak in the upper-middle, never red (clipping). ¶ 3. Record (15 minutes): record vocals or a live instrument over your arrangement. Record several takes and keep the best, or combine the best parts. ¶ 4. Mix (15 minutes): Levels: vocals or melody loudest, drums and bass steady, chords supporting. Panning: keep vocals, kick and bass centred; pan other parts slightly left or right. Effects: a little reverb gives space; too much sounds muddy. Listen on headphones and speakers. ¶ 5. Export (5 minutes): MP3 for sharing or WAV for best quality. Name: title_yourname. ¶ 6. Share in class and write a reflection: what you are proud of, one thing you'd change and what you learned about songwriting. ¶ Privacy: share only in the class space; ask permission before sharing anyone else's voice.
+src: Original activity written for this lesson.
+st: Set up with headphones and microphone distance | Check levels to avoid clipping | Record several takes | Mix levels, panning and reverb | Export, share and reflect
+org: Track | Level | Pan | Effect
+an: Why wear headphones while recording? | Which take did you keep and why? | How did panning change the sound? | What would you change in your song next time?
+pr: Record, mix and export your finished song, share it in class, and write a reflection.
+ex: Clipping || The meter hits red. What do you do? || Too loud || Lower the input gain or move back from the mic || Why avoid clipping?
+ex: Panning || Which parts usually stay centred? || Important low and lead sounds || Vocals, kick and bass || Where might a shaker go?
+ex: Reverb || What happens with too much reverb? || Space vs clarity || The mix sounds muddy and far away || How much is enough?
+ex: Export || MP3 or WAV for sharing online? || Size vs quality || MP3, a smaller file || When is WAV better?
+p: B || What is recording? || Capturing sound to play back.
+p: B || What is mixing? || Balancing volume, panning and effects.
+p: B || What is panning? || Placing sound left or right.
+p: B || What is clipping? || Distortion from too much volume.
+p: B || What does export mean? || Save the song as an audio file.
+p: I || Why wear headphones while recording? || So the microphone doesn't pick up the backing track.
+p: I || How far should the mic be? || About a hand's width to 20 cm.
+p: I || Which parts stay centred? || Vocals, kick and bass.
+p: I || Which is smaller, MP3 or WAV? || MP3.
+p: I || What should be loudest in the mix? || The vocals or melody.
+p: I || What is a take? || One recording attempt.
+p: C || Why test on headphones and speakers? || Mixes sound different on each.
+p: C || Why does too much reverb hurt a mix? || It makes it muddy and unclear.
+p: C || Why ask permission before sharing someone's voice? || To respect their privacy.
+p: C || Write your reflection. || Answers vary.
+mis: Recording too loud and clipping | Making everything equally loud | Sharing recordings without permission
+et: How do you avoid clipping? | What should be loudest in your mix?
+mc: B || Recording means || capturing sound | deleting sound | tuning | writing lyrics || A
+mc: B || Mixing balances || volume, panning and effects | lyrics | chords | tempo only || A
+mc: B || Panning places sound || left or right | louder | higher | slower || A
+mc: B || Clipping is || distortion from loudness | a quiet sound | a pause | an effect || A
+mc: B || Export means || save as an audio file | delete | record | tune || A
+mc: B || A take is || one recording attempt | a mix | a chord | a lyric || A
+mc: I || Headphones stop the mic picking up || the backing track | the singer | silence | the DAW || A
+mc: I || Usually centred are || vocals, kick and bass | shakers only | reverb | nothing || A
+mc: I || MP3 compared with WAV is || smaller | larger | silent | the same || A
+mc: I || The loudest part is usually || vocals or melody | hi-hat | reverb | silence || A
+mc: C || Too much reverb sounds || muddy | clearer | louder only | dry || A
+mc: C || Before sharing someone's voice you should || ask permission | do nothing | delete it | rename it || A
+sa: B || Define panning. || Placing a sound to the left or right in stereo.
+sa: B || What is clipping? || Distortion when a sound is too loud.
+sa: I || How do you set recording levels? || Peak in the upper-middle, never red.
+sa: I || Which parts stay centred? || Vocals, kick and bass.
+sa: I || Compare MP3 and WAV. || MP3 smaller for sharing; WAV best quality.
+sa: I || Why record several takes? || To keep the best performance.
+sa: C || Explain how you balanced your mix. || Answers vary.
+sa: C || Write your reflection. || Answers vary.
