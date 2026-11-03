@@ -1,0 +1,659 @@
+=== SPA9.A1 1
+hook: Machu Picchu, the beaches of Cancún, the streets of Buenos Aires, the Galápagos Islands: the Spanish-speaking world is full of dream destinations. Today you'll plan a trip, from the flight to the hotel to the sights.
+sc: I can plan a trip using ir a + infinitive and querer | I can describe transportation, accommodation and activities | I can explain my choices with reasons
+v: el itinerario :: the itinerary
+v: el boleto / el billete :: the ticket
+v: reservar :: to book, reserve
+v: el alojamiento :: accommodation
+v: el hotel / el albergue :: hotel / hostel
+v: hacer turismo :: to go sightseeing
+v: quedarse :: to stay
+v: la maleta :: the suitcase
+ts: Mi viaje de sueño || Planning || How do I plan a trip in Spanish?
+tx: Model plan (written for this lesson): ¶ Voy a viajar a Perú en julio con mi familia. Vamos a ir en avión de Calgary a Lima. Primero, vamos a quedarnos tres días en un hotel en Lima. Vamos a visitar el centro histórico y comer ceviche. Después, vamos a ir a Cusco y vamos a hacer una excursión a Machu Picchu. Quiero sacar muchas fotos. Finalmente, vamos a volver a Canadá. Es un viaje caro, pero ¡va a ser increíble! ¶ Planning language: Voy a + infinitive; Quiero + infinitive (I want to); Necesito + infinitive (I need to): Necesito reservar el hotel. ¶ Sequence: primero, luego, después, finalmente. ¶ Reasons: porque + reason: Quiero ir a Argentina porque me encanta el fútbol. ¶ Destinations to consider: Machu Picchu (Perú), las islas Galápagos (Ecuador), Barcelona (España), Ciudad de México, Buenos Aires (Argentina), Cartagena (Colombia), Costa Rica's rainforests. ¶ Activity: plan a 5-day trip with a partner: destination, dates, transport, accommodation, three activities, a budget estimate and a reason.
+src: Original model written for this lesson.
+st: Read the model plan | Learn planning verbs | Choose a destination | Plan transport, accommodation and activities | Explain reasons for your choices
+org: Día | Lugar | Actividad | Alojamiento
+an: Where is the family going, and how? | What will they do in Cusco? | Why did you choose your destination? | What do you need to book first?
+pr: Write a 5-day trip plan in Spanish with transport, accommodation, at least five activities, sequence words and two reasons.
+ex: Plan || "We're going to stay in a hostel." || vamos a quedarnos || Vamos a quedarnos en un albergue. || "I'm going to book a hotel."
+ex: Want || "I want to visit the Galápagos." || quiero + infinitive || Quiero visitar las islas Galápagos. || Why?
+ex: Need || "I need to pack my suitcase." || necesito + hacer la maleta || Necesito hacer la maleta. || Another need?
+ex: Reason || Explain choosing Argentina. || porque + reason || Quiero ir a Argentina porque me encanta el tango. || Another?
+p: B || What is "el itinerario"? || The itinerary.
+p: B || What does "reservar" mean? || To book.
+p: B || What is "el alojamiento"? || Accommodation.
+p: B || What does "hacer turismo" mean? || To go sightseeing.
+p: B || What is "la maleta"? || The suitcase.
+p: I || Say "I'm going to travel to Mexico." || Voy a viajar a México.
+p: I || Say "I want to take photos." || Quiero sacar fotos.
+p: I || Say "I need to book the ticket." || Necesito reservar el boleto.
+p: I || Where is Machu Picchu? || Peru.
+p: I || What will the family eat in Lima? || Ceviche.
+p: I || Where are the Galápagos Islands? || Ecuador.
+p: C || Why use sequence words in a plan? || To show the order of the trip.
+p: C || Translate: First we're going to fly to Lima, then we're going to Cusco. || Primero vamos a volar a Lima, luego vamos a ir a Cusco.
+p: C || Why give reasons for choices? || It makes the plan persuasive and personal.
+p: C || Write your trip plan. || Answers vary.
+mis: Conjugating both verbs in ir a | Forgetting the a | Confusing boleto and billete regions
+et: ¿Adónde quieres viajar? ¿Por qué? | Say "I need to book a hotel."
+mc: B || "El itinerario" is || the itinerary | the ticket | the hotel | the map || A
+mc: B || "Reservar" means || to book | to reserve seats only | to return | to rest || A
+mc: B || "La maleta" is || the suitcase | the map | the ticket | the passport || A
+mc: B || "El albergue" is || a hostel | a hotel suite | an airport | a beach || A
+mc: B || "Hacer turismo" means || to go sightseeing | to do tourism work | to travel by bus | to make maps || A
+mc: B || "Quedarse" means || to stay | to leave | to quiet | to ask || A
+mc: I || "I want to visit Peru" is || Quiero visitar Perú. | Quiero visito Perú. | Voy visitar Perú. | Quiero a visitar Perú. || A
+mc: I || "I need to pack" is || Necesito hacer la maleta. | Necesito hago maleta. | Tengo maleta. | Necesito maleta hacer. || A
+mc: I || Machu Picchu is in || Peru | Mexico | Spain | Chile || A
+mc: I || The Galápagos belong to || Ecuador | Peru | Colombia | Costa Rica || A
+mc: C || Sequence words show || order | price | weather | distance || A
+mc: C || Giving reasons makes a plan || persuasive | longer only | confusing | shorter || A
+sa: B || Name four travel words. || El itinerario, el boleto, el hotel, la maleta.
+sa: B || What does "reservar" mean? || To book.
+sa: I || Write two plans with ir a. || Answers vary.
+sa: I || Write a sentence with quiero and a reason. || Answers vary.
+sa: I || Write a sentence with necesito. || Answers vary.
+sa: I || What will the family do in Cusco? || Hacer una excursión a Machu Picchu.
+sa: C || Explain why sequence words help. || They show the order of the trip.
+sa: C || Write your trip plan. || Answers vary.
+
+=== SPA9.A1 2
+hook: Lost luggage, a missed bus, checking into the wrong hotel: things go wrong on trips. Knowing the right phrases at the airport, hotel and station helps you solve problems calmly in Spanish.
+sc: I can handle situations at the airport, hotel and station | I can ask for help and explain a problem | I can role-play travel situations politely with usted
+v: el aeropuerto :: the airport
+v: el pasaporte :: the passport
+v: la tarjeta de embarque :: the boarding pass
+v: la puerta de embarque :: the boarding gate
+v: la habitación :: the hotel room
+v: Tengo una reserva :: I have a reservation
+v: Perdí… :: I lost…
+v: ¿Me puede ayudar? :: Can you help me?
+ts: De viaje || Role-play || How do I handle travel situations in Spanish?
+tx: Situations (written for this lesson): ¶ 1. Airport check-in: Agente: Buenos días. Su pasaporte, por favor. ¿Cuántas maletas tiene? / Viajero: Una maleta. ¿Cuál es la puerta de embarque? / Agente: La puerta doce. El vuelo sale a las tres. ¶ 2. Hotel: Viajera: Buenas tardes. Tengo una reserva a nombre de Martínez. / Recepcionista: Sí, una habitación doble por tres noches. ¿Me permite su pasaporte? / Viajera: ¿A qué hora es el desayuno? / Recepcionista: De siete a diez. ¶ 3. Problem: Viajero: Perdón, ¿me puede ayudar? Perdí mi maleta. / Agente: ¿De qué color es? / Viajero: Es grande y azul. ¶ 4. Station: ¿A qué hora sale el próximo tren a Sevilla? Un boleto de ida y vuelta, por favor. ¶ Useful: de ida (one way), de ida y vuelta (round trip), el vuelo (flight), retrasado (delayed), cancelado (cancelled). ¶ Politeness: use usted with staff: ¿Me puede ayudar? ¿Me permite…? ¶ Note: perdí is the preterite (past) of perder. ¶ Activity: role-play cards in pairs for four situations; switch roles.
+src: Original dialogues written for this lesson.
+st: Read four travel situations | Learn airport, hotel and station words | Practise explaining a problem | Use usted politely | Role-play in pairs
+org: Situación | Frases útiles
+an: What does the agent ask at check-in? | How do you report lost luggage? | What's the difference between de ida and de ida y vuelta? | Which situation would be hardest in real life?
+pr: Perform two travel role-plays (one including a problem) using at least eight travel phrases with usted.
+ex: Gate || Ask which gate. || ¿Cuál es + la puerta de embarque? || ¿Cuál es la puerta de embarque? || Ask when the flight leaves.
+ex: Hotel || Check in with a reservation. || Tengo una reserva + a nombre de || Tengo una reserva a nombre de Lee. || Ask about breakfast.
+ex: Problem || Report a lost passport. || Perdí + item || Perdón, ¿me puede ayudar? Perdí mi pasaporte. || What might they ask?
+ex: Ticket || Buy a round-trip ticket to Madrid. || de ida y vuelta || Un boleto de ida y vuelta a Madrid, por favor. || One way?
+p: B || What is "el aeropuerto"? || The airport.
+p: B || What is "el pasaporte"? || The passport.
+p: B || What is "la habitación"? || The room.
+p: B || What does "Tengo una reserva" mean? || I have a reservation.
+p: B || What does "¿Me puede ayudar?" mean? || Can you help me?
+p: I || What is "la tarjeta de embarque"? || The boarding pass.
+p: I || Say "I lost my suitcase." || Perdí mi maleta.
+p: I || What does "de ida y vuelta" mean? || Round trip.
+p: I || What does "retrasado" mean? || Delayed.
+p: I || When is breakfast at the hotel? || From 7 to 10.
+p: I || Ask when the next train to Seville leaves. || ¿A qué hora sale el próximo tren a Sevilla?
+p: C || Why use usted with staff? || It's polite and respectful.
+p: C || Translate: My flight is cancelled. Can you help me? || Mi vuelo está cancelado. ¿Me puede ayudar?
+p: C || What tense is "perdí"? || Preterite (past).
+p: C || Perform your role-plays. || Answers vary.
+mis: Using tú with hotel and airport staff | Confusing la habitación with la habitación doble | Not explaining the problem clearly
+et: Report a lost item. | Buy a one-way ticket.
+mc: B || "El aeropuerto" is || the airport | the airplane | the port | the air || A
+mc: B || "La habitación" is || the room | the habit | the inhabitant | the building || A
+mc: B || "¿Me puede ayudar?" means || Can you help me? | Can I help you? | May I go? | Do you know me? || A
+mc: B || "La puerta de embarque" is || the boarding gate | the door | the exit | the port || A
+mc: B || "El vuelo" is || the flight | the return | the trip | the hotel || A
+mc: B || "Cancelado" means || cancelled | delayed | on time | full || A
+mc: I || "Round trip" is || de ida y vuelta | de ida | de vuelta | ida ida || A
+mc: I || "I lost my passport" is || Perdí mi pasaporte. | Pierdo pasaporte mi. | Perdo mi pasaporte. | Perdido pasaporte. || A
+mc: I || "Retrasado" means || delayed | early | cancelled | lost || A
+mc: I || "I have a reservation" is || Tengo una reserva. | Soy una reserva. | Hay reserva. | Estoy reserva. || A
+mc: C || With staff, use || usted | tú | vosotros | nothing || A
+mc: C || "Perdí" is in the || preterite | present | future | imperative || A
+sa: B || Name four airport or hotel words. || El aeropuerto, el pasaporte, la habitación, el vuelo.
+sa: B || Ask for help politely. || ¿Me puede ayudar?
+sa: I || Check in at a hotel. || Tengo una reserva a nombre de…
+sa: I || Report lost luggage. || Perdí mi maleta.
+sa: I || Buy a round-trip ticket. || Un boleto de ida y vuelta, por favor.
+sa: I || Ask what time the flight leaves. || ¿A qué hora sale el vuelo?
+sa: C || Explain why usted is used. || Politeness with staff.
+sa: C || Perform your role-plays. || Answers vary.
+
+=== SPA9.B1 0
+hook: La cabeza, los hombros, las rodillas y los pies: you may have sung this as a child. Body vocabulary is essential for sports, fitness and especially for explaining what's wrong at the doctor's.
+sc: I can name parts of the body in Spanish | I can use the article with body parts | I can follow and give body instructions
+v: el cuerpo :: the body
+v: la cabeza :: the head
+v: el brazo :: the arm
+v: la mano :: the hand (feminine!)
+v: la pierna :: the leg
+v: el pie :: the foot
+v: la espalda :: the back
+v: el estómago :: the stomach
+ts: El cuerpo humano || Practice || What are the parts of the body in Spanish?
+tx: Body vocabulary (written for this lesson): la cabeza, la cara (face), los ojos, la nariz, la boca, las orejas (outer ears) / los oídos (inner ears), los dientes (teeth), la garganta (throat), el cuello (neck), los hombros (shoulders), el brazo, el codo (elbow), la mano, los dedos (fingers), la espalda, el pecho (chest), el estómago, la pierna, la rodilla (knee), el tobillo (ankle), el pie. ¶ Notes: la mano is feminine even though it ends in -o. Spanish usually uses the article (not mi) with body parts: Levanta la mano. Me lavo las manos. ¶ Activities: 1. Label a body diagram. 2. "Simón dice" (Simon says): Simón dice: tócate la nariz. Simón dice: levanta los brazos. 3. Sing "Cabeza, hombros, rodillas y pies." 4. A student leads a stretching routine in Spanish: Levanten los brazos. Doblen las rodillas. Giren la cabeza.
+src: Original activity written for this lesson; "Cabeza, hombros, rodillas y pies" is a traditional children's song.
+st: Learn body vocabulary | Label a diagram | Play "Simón dice" | Sing the song | Lead a stretching routine
+org: Parte del cuerpo | Artículo | Plural
+an: Which body word has a surprising gender? | Why "levanta la mano" not "tu mano"? | What's the difference between orejas and oídos? | How could you use these words in sports?
+pr: Label a body diagram with 18 parts and write five stretching instructions in Spanish.
+ex: Gender || Is "mano" masculine or feminine? || Exception || Feminine: la mano || What's the plural?
+ex: Instruction || "Raise your arms." (ustedes) || Levanten + los || Levanten los brazos. || "Bend your knees."
+ex: Article || "Touch your nose." (tú) || Tócate + la || Tócate la nariz. || Why not "tu nariz"?
+ex: Ears || Orejas vs oídos? || Outer vs inner || Las orejas are outer ears; los oídos are inner ears || Which hurts with an earache?
+p: B || What is "la cabeza"? || The head.
+p: B || What is "el brazo"? || The arm.
+p: B || What is "la pierna"? || The leg.
+p: B || What is "la espalda"? || The back.
+p: B || What is "el pie"? || The foot.
+p: I || What is "la rodilla"? || The knee.
+p: I || What is "la garganta"? || The throat.
+p: I || What is "el tobillo"? || The ankle.
+p: I || Is "mano" masculine or feminine? || Feminine.
+p: I || Say "Raise your hand." (tú) || Levanta la mano.
+p: I || What is "el codo"? || The elbow.
+p: C || Why does Spanish use la/el with body parts? || Ownership is clear from context.
+p: C || Translate: Bend your knees and raise your arms. (ustedes) || Doblen las rodillas y levanten los brazos.
+p: C || Which word means inner ear? || El oído.
+p: C || Write your stretching instructions. || Answers vary.
+mis: Saying "el mano" | Using mi with body parts in every sentence | Confusing orejas and oídos
+et: Nombra seis partes del cuerpo. | Say "Touch your head."
+mc: B || "La cabeza" is || the head | the face | the hair | the neck || A
+mc: B || "El brazo" is || the arm | the hand | the leg | the back || A
+mc: B || "La pierna" is || the leg | the foot | the arm | the knee || A
+mc: B || "El pie" is || the foot | the pie | the toe | the leg || A
+mc: B || "La espalda" is || the back | the shoulder | the chest | the stomach || A
+mc: B || "La boca" is || the mouth | the nose | the eye | the ear || A
+mc: I || "La mano" is || feminine | masculine | plural | a verb || A
+mc: I || "La rodilla" is || the knee | the ankle | the elbow | the wrist || A
+mc: I || "La garganta" is || the throat | the neck | the chin | the tongue || A
+mc: I || "Raise your hand" (tú) is || Levanta la mano. | Levanta tu el mano. | Levantar mano. | Levantas la mano. || A
+mc: C || Inner ear is || el oído | la oreja | el ojo | la nariz || A
+mc: C || Spanish uses the article with body parts because || ownership is clear | it's random | it's formal | it's plural || A
+sa: B || Name eight body parts in Spanish. || Cabeza, brazo, mano, pierna, pie, espalda, estómago, rodilla.
+sa: B || What is "el cuello"? || The neck.
+sa: I || Explain the gender of mano. || Feminine despite ending in -o.
+sa: I || Give two stretching instructions. || Levanten los brazos. Doblen las rodillas.
+sa: I || Explain orejas vs oídos. || Outer ears versus inner ears.
+sa: I || Say "Touch your knees." (tú) || Tócate las rodillas.
+sa: C || Explain why Spanish uses articles with body parts. || Ownership is clear.
+sa: C || Write your stretching instructions. || Answers vary.
+
+=== SPA9.B1 1
+hook: "Me duele la cabeza." Like gustar, the verb doler works backwards: the body part "hurts to you." Learn this pattern and you can explain any ache to a doctor.
+sc: I can describe pain with me duele and me duelen | I can describe other symptoms with tener and estar | I can role-play a doctor's visit
+v: doler (o → ue) :: to hurt
+v: Me duele… :: My … hurts (singular)
+v: Me duelen… :: My … hurt (plural)
+v: ¿Qué te duele? :: What hurts?
+v: Tengo fiebre :: I have a fever
+v: Tengo tos :: I have a cough
+v: Estoy resfriado/a :: I have a cold
+v: el médico / la médica :: the doctor
+ts: En el consultorio || Dialogue || How do I describe symptoms in Spanish?
+tx: Grammar (written for this lesson): doler works like gustar: the body part is the subject. Me duele la cabeza (one part). Me duelen los pies (plural). Te duele, le duele, nos duele(n), les duele(n). ¶ Other symptoms: tener + fiebre / tos / dolor de cabeza / gripe (flu) / náuseas. estar + enfermo/a (sick), resfriado/a (have a cold), cansado/a (tired), mareado/a (dizzy). ¶ Dialogue (read in pairs): ¶ Médica: Buenos días. ¿Qué te pasa? ¶ Diego: No me siento bien. Me duele la garganta y me duelen los oídos. ¶ Médica: ¿Tienes fiebre? ¶ Diego: Sí, un poco. Y tengo tos. ¶ Médica: ¿Desde cuándo? ¶ Diego: Desde hace tres días. ¶ Médica: Tienes una infección de garganta. Toma esta medicina, bebe mucha agua y descansa. ¶ "Desde hace + time" = for (a length of time up to now). ¶ Activity: symptom cards: partners act out symptoms; the other asks ¿Qué te duele? and diagnoses with me duele/me duelen.
+src: Original dialogue written for this lesson.
+st: Learn doler like gustar | Learn tener and estar symptoms | Read the doctor dialogue | Use desde hace | Act out symptom cards
+org: Síntoma | Frase en español
+an: Why "me duelen los oídos" with -n? | What are Diego's symptoms? | What advice does the doctor give? | How is doler like gustar?
+pr: Write a doctor dialogue with at least five symptoms, using me duele and me duelen correctly and one desde hace sentence.
+ex: Singular || "My stomach hurts." || me duele + el || Me duele el estómago. || "My back hurts."
+ex: Plural || "My feet hurt." || me duelen + los || Me duelen los pies. || "My eyes hurt."
+ex: Third person || "Her head hurts." || le duele || Le duele la cabeza. || "Their legs hurt."
+ex: Desde hace || "I've had a fever for two days." || desde hace || Tengo fiebre desde hace dos días. || "I've been sick for a week."
+p: B || What does "Me duele la cabeza" mean? || My head hurts.
+p: B || What does "Tengo fiebre" mean? || I have a fever.
+p: B || What does "Tengo tos" mean? || I have a cough.
+p: B || What does "Estoy resfriado" mean? || I have a cold.
+p: B || Ask "What hurts?" || ¿Qué te duele?
+p: I || Say "My feet hurt." || Me duelen los pies.
+p: I || Say "His back hurts." || Le duele la espalda.
+p: I || Say "I'm dizzy." (girl) || Estoy mareada.
+p: I || What are Diego's symptoms? || Sore throat, earache, fever, cough.
+p: I || How long has Diego been sick? || Three days.
+p: I || What does the doctor advise? || Take medicine, drink water, rest.
+p: C || Why is doler like gustar? || The thing (body part) is the subject, with me/te/le.
+p: C || Translate: My knees have hurt for a week. || Me duelen las rodillas desde hace una semana.
+p: C || Why "estoy enfermo" not "soy enfermo"? || It's a temporary condition, so estar.
+p: C || Write your doctor dialogue. || Answers vary.
+mis: Saying "yo duelo" | Using duele with plural parts | Using ser for temporary illness
+et: ¿Qué te duele? | Say "My ears hurt."
+mc: B || "Me duele" means || it hurts me | I hurt you | I'm sad | I'm tired || A
+mc: B || "Tengo fiebre" means || I have a fever | I have a cough | I'm cold | I'm hungry || A
+mc: B || "Tengo tos" means || I have a cough | I have toast | I'm sneezing | I'm sick of it || A
+mc: B || "Estoy resfriado" means || I have a cold | I'm refreshed | I'm rested | I'm fine || A
+mc: B || "La médica" is || the doctor | the medicine | the medic kit | the nurse || A
+mc: B || "Mareado" means || dizzy | married | sea | tired || A
+mc: I || "My feet hurt" is || Me duelen los pies. | Me duele los pies. | Yo duelo pies. | Mis pies duele. || A
+mc: I || "Her head hurts" is || Le duele la cabeza. | Le duelen la cabeza. | Ella duele cabeza. | Su cabeza duelo. || A
+mc: I || "For three days" (up to now) is || desde hace tres días | hace desde tres | por tres días ago | en tres días || A
+mc: I || "I'm sick" is || Estoy enfermo. | Soy enfermo. | Tengo enfermo. | Hay enfermo. || A
+mc: C || Doler works like || gustar | ser | tener | ir || A
+mc: C || Temporary illness uses || estar | ser | hay | ir || A
+sa: B || Say "My throat hurts." || Me duele la garganta.
+sa: B || Say "I have a fever." || Tengo fiebre.
+sa: I || Explain me duele vs me duelen. || Singular versus plural body parts.
+sa: I || List Diego's symptoms. || Sore throat, earache, fever, cough.
+sa: I || Say "I've had a cough for four days." || Tengo tos desde hace cuatro días.
+sa: I || Give two symptoms with estar. || Estoy cansado. Estoy mareado.
+sa: C || Explain why doler is like gustar. || The body part is the subject.
+sa: C || Write your doctor dialogue. || Answers vary.
+
+=== SPA9.B1 2
+hook: "¿Cómo estás?" is more than a greeting. Spanish uses estar to describe how you feel right now: happy, nervous, bored, stressed. Talking about feelings is part of looking after your health.
+sc: I can describe feelings and emotions with estar | I can explain why I feel a certain way with porque | I can give advice for wellbeing
+v: ¿Cómo estás? :: How are you?
+v: contento/a / feliz :: happy
+v: triste :: sad
+v: nervioso/a :: nervous
+v: estresado/a :: stressed
+v: aburrido/a :: bored
+v: enojado/a :: angry
+v: tranquilo/a :: calm
+ts: ¿Cómo te sientes? || Discussion || How do I talk about feelings and wellbeing in Spanish?
+tx: Guide (written for this lesson): ¶ estar + feeling (temporary states): Estoy contenta. Estamos nerviosos. ¿Estás cansado? ¶ Feelings agree: nervioso (boy), nerviosa (girl), nerviosos (group). Feliz and triste don't change for gender (feliz → felices in plural). ¶ Note: ser aburrido = to be boring; estar aburrido = to be bored. ¶ Reasons: Estoy nervioso porque tengo un examen. Estoy contenta porque es viernes. ¶ Sentirse: Me siento bien / mal / mejor (I feel well / bad / better). ¶ Wellbeing advice (tú commands): Duerme ocho horas. Haz ejercicio. Habla con un amigo. Respira profundamente. Toma un descanso. Escucha música. ¶ Activity: emotion cards with scenarios (Tienes un examen mañana. Tu mejor amigo se muda. Ganaste un partido.). Partners say how they'd feel, why, and give one piece of advice. Share only what you're comfortable sharing.
+src: Original activity written for this lesson.
+st: Learn feelings with estar | Learn agreement for feelings | Give reasons with porque | Use me siento | Give wellbeing advice with commands
+org: Situación | ¿Cómo te sientes? | ¿Por qué? | Consejo
+an: Why is estar used for feelings? | What's the difference between ser aburrido and estar aburrido? | Which wellbeing advice is most useful for you? | How can talking about feelings help health?
+pr: Write about four situations: how you'd feel, why, and one piece of wellbeing advice for each.
+ex: Feeling || "I'm happy because it's Friday." || estar + porque || Estoy contento porque es viernes. || "I'm nervous because…"
+ex: Agreement || "My sisters are tired." || plural feminine || Mis hermanas están cansadas. || "We are calm."
+ex: Bored vs boring || "The film is boring. I'm bored." || ser vs estar || La película es aburrida. Estoy aburrido. || Why different?
+ex: Advice || Advise a stressed friend. || tú command || Respira profundamente y habla con alguien. || Another tip?
+p: B || What does "contento" mean? || Happy.
+p: B || What does "triste" mean? || Sad.
+p: B || What does "nervioso" mean? || Nervous.
+p: B || What does "cansado" mean? || Tired.
+p: B || What does "tranquilo" mean? || Calm.
+p: I || Say "I'm stressed because I have an exam." || Estoy estresado porque tengo un examen.
+p: I || Say "She is angry." || Ella está enojada.
+p: I || What does "Me siento mejor" mean? || I feel better.
+p: I || Give the plural of feliz. || Felices.
+p: I || Advise "Sleep eight hours." || Duerme ocho horas.
+p: I || Advise "Talk to a friend." || Habla con un amigo.
+p: C || Why use estar for feelings? || Feelings are temporary states.
+p: C || What's the difference between ser aburrido and estar aburrido? || Boring versus bored.
+p: C || Why is talking about feelings good for health? || It reduces stress and helps people get support.
+p: C || Write your situations. || Answers vary.
+mis: Using ser for feelings | Forgetting agreement | Confusing aburrido meanings
+et: ¿Cómo estás hoy? ¿Por qué? | Give one wellbeing tip.
+mc: B || "Contento" means || happy | content only | sad | angry || A
+mc: B || "Triste" means || sad | tired | sick | bored || A
+mc: B || "Nervioso" means || nervous | nerve | brave | calm || A
+mc: B || "Enojado" means || angry | sick | tired | happy || A
+mc: B || "Tranquilo" means || calm | tired | quick | sad || A
+mc: B || "Estresado" means || stressed | stretched | strong | strict || A
+mc: I || "I'm bored" is || Estoy aburrido. | Soy aburrido. | Tengo aburrido. | Hay aburrido. || A
+mc: I || "We are nervous" (mixed group) is || Estamos nerviosos. | Somos nerviosas. | Estamos nervioso. | Están nerviosos. || A
+mc: I || "Me siento mejor" means || I feel better | I sit better | I'm the best | I'm worse || A
+mc: I || "Talk to a friend" (tú) is || Habla con un amigo. | Hablar con amigo. | Hablas amigo. | Hable con amigo tú. || A
+mc: C || Feelings use || estar | ser | tener | hay || A
+mc: C || "Ser aburrido" means || to be boring | to be bored | to be tired | to be busy || A
+sa: B || Name six feelings in Spanish. || Contento, triste, nervioso, cansado, enojado, tranquilo.
+sa: B || Ask "How are you?" || ¿Cómo estás?
+sa: I || Describe a feeling with a reason. || Answers vary.
+sa: I || Explain ser aburrido vs estar aburrido. || Boring versus bored.
+sa: I || Give three wellbeing tips. || Duerme ocho horas. Haz ejercicio. Habla con un amigo.
+sa: I || Say "My friends are happy." || Mis amigos están contentos.
+sa: C || Explain why feelings use estar. || They're temporary states.
+sa: C || Write your situations. || Answers vary.
+
+=== SPA9.C1 0
+hook: The Amazon rainforest, which crosses several Spanish-speaking countries, the glaciers of Patagonia and the coral reefs of the Caribbean are among the world's most important ecosystems, and they're under pressure.
+sc: I can name environmental problems in Spanish | I can describe causes and consequences | I can connect problems to places in the Spanish-speaking world
+v: el medio ambiente :: the environment
+v: la contaminación :: pollution
+v: el cambio climático :: climate change
+v: la deforestación :: deforestation
+v: la basura :: garbage
+v: la sequía :: drought
+v: los glaciares :: glaciers
+v: en peligro de extinción :: endangered
+ts: Nuestro planeta || Reading || What environmental problems affect the Spanish-speaking world and ours?
+tx: Text (read aloud, written for this lesson): ¶ El medio ambiente tiene muchos problemas. La deforestación en la selva amazónica destruye el hábitat de muchos animales. La contaminación del aire es un problema grave en las ciudades grandes. Por el cambio climático, los glaciares de la Patagonia y de los Andes se derriten. Hay mucha basura de plástico en los océanos. Algunas especies, como el jaguar, están en peligro de extinción. En Canadá también tenemos problemas: los incendios forestales y la contaminación del agua. ¶ Cause and consequence: por + noun (because of): Por la contaminación, el aire está sucio. causa (causes): La deforestación causa inundaciones. por eso (that's why). ¶ Activity: groups receive a map with problem icons (Amazonía, Ciudad de México, Patagonia, el Caribe, Alberta) and write one cause-and-consequence sentence for each.
+src: Original text written for this lesson.
+st: Read the text | Learn environmental vocabulary | Use por, causa and por eso | Match problems to places | Write cause-and-consequence sentences
+org: Lugar | Problema | Causa | Consecuencia
+an: What does deforestation destroy? | Why are glaciers melting? | Which animal in the text is endangered? | What problems does Canada share?
+pr: Write six cause-and-consequence sentences about environmental problems in the Spanish-speaking world and Canada.
+ex: Por || "Because of pollution, the air is dirty." || Por + la || Por la contaminación, el aire está sucio. || Another?
+ex: Causa || "Deforestation causes floods." || causa || La deforestación causa inundaciones. || Another?
+ex: Por eso || "There's a lot of plastic; that's why the fish are sick." || por eso || Hay mucho plástico; por eso los peces están enfermos. || Another?
+ex: Endangered || "The jaguar is endangered." || estar en peligro || El jaguar está en peligro de extinción. || Name another.
+p: B || What is "el medio ambiente"? || The environment.
+p: B || What is "la contaminación"? || Pollution.
+p: B || What is "la basura"? || Garbage.
+p: B || What is "la sequía"? || Drought.
+p: B || What does "en peligro de extinción" mean? || Endangered.
+p: I || What is "la deforestación"? || Deforestation.
+p: I || What does "se derriten" mean? || They melt.
+p: I || Where is the Amazon rainforest? || In South America, including several Spanish-speaking countries.
+p: I || What does "por eso" mean? || That's why.
+p: I || What problem in Canada does the text mention? || Wildfires and water pollution.
+p: I || Which animal is endangered in the text? || The jaguar.
+p: C || Why are glaciers important? || They store fresh water for rivers.
+p: C || Translate: Climate change causes droughts. || El cambio climático causa sequías.
+p: C || How are Canada and Latin America connected environmentally? || Shared global problems like climate change.
+p: C || Write your sentences. || Answers vary.
+mis: Confusing por and porque | Saying "el ambiente medio" | Thinking problems are only far away
+et: Nombra tres problemas del medio ambiente. | Use por eso in a sentence.
+mc: B || "El medio ambiente" is || the environment | the middle | the atmosphere only | the weather || A
+mc: B || "La contaminación" is || pollution | contamination of food only | a contest | a container || A
+mc: B || "La basura" is || garbage | the base | a bus | a bath || A
+mc: B || "La sequía" is || drought | flood | storm | snow || A
+mc: B || "Los glaciares" are || glaciers | ice cream | glasses | lakes || A
+mc: B || "La deforestación" is || cutting forests | planting forests | flooding | fishing || A
+mc: I || "Por eso" means || that's why | because of | for that price | by that || A
+mc: I || "Causa" means || causes | cause only | case | cost || A
+mc: I || "The jaguar is endangered" is || El jaguar está en peligro de extinción. | El jaguar es peligro. | El jaguar hay extinción. | El jaguar tiene peligro. || A
+mc: I || "Se derriten" means || they melt | they freeze | they grow | they fall || A
+mc: C || Glaciers matter because they || store fresh water | are cold | are pretty only | block roads || A
+mc: C || Por + noun means || because of | for | by | through only || A
+sa: B || Name six environmental problems. || Contaminación, cambio climático, deforestación, basura, sequía, extinción.
+sa: B || What does "por eso" mean? || That's why.
+sa: I || Write a sentence with por. || Answers vary.
+sa: I || Write a sentence with causa. || Answers vary.
+sa: I || What is happening to Andean glaciers? || They are melting.
+sa: I || Name an endangered animal. || El jaguar.
+sa: C || Explain why glaciers matter. || They store fresh water.
+sa: C || Write your sentences. || Answers vary.
+
+=== SPA9.C1 1
+hook: "En mi opinión, debemos reciclar más." "Es importante usar menos plástico." Giving opinions and suggestions is how people work together on environmental solutions, in any language.
+sc: I can give opinions with en mi opinión, creo que and pienso que | I can make suggestions with deber, tener que and es importante + infinitive | I can debate an environmental question
+v: en mi opinión :: in my opinion
+v: creo que / pienso que :: I believe that / I think that
+v: debemos + infinitivo :: we should / we must
+v: tenemos que + infinitivo :: we have to
+v: es importante + infinitivo :: it's important to
+v: reciclar / reutilizar / reducir :: to recycle / reuse / reduce
+v: ahorrar agua :: to save water
+v: estoy de acuerdo :: I agree
+ts: ¿Qué debemos hacer? || Debate || How do I give opinions and suggestions about the environment?
+tx: Toolkit (written for this lesson): ¶ Opinions: En mi opinión, … / Creo que… / Pienso que… / Para mí, … ¶ Suggestions: Debemos usar el transporte público. Tenemos que reciclar. Es importante ahorrar agua. Es necesario plantar árboles. No debemos usar bolsas de plástico. ¶ Agreeing and disagreeing: Estoy de acuerdo. / No estoy de acuerdo porque… / Tienes razón, pero… ¶ Debate statements: 1. Las escuelas deben prohibir las botellas de plástico. 2. Es mejor ir a la escuela en bicicleta o a pie. 3. Todos debemos comer menos carne. ¶ Structure: opinion + reason + example: Creo que las escuelas deben prohibir las botellas de plástico porque producen mucha basura. Por ejemplo, en nuestra cafetería hay muchas botellas en la basura. ¶ Activity: four corners (muy de acuerdo, de acuerdo, en desacuerdo, muy en desacuerdo); each corner prepares two arguments in Spanish and debates politely.
+src: Original statements and activity written for this lesson.
+st: Learn opinion phrases | Learn suggestion structures | Practise agreeing and disagreeing | Prepare arguments | Debate politely
+org: Afirmación | Mi opinión | Razón | Ejemplo
+an: Which statement did you feel strongest about? | How did you support your opinion? | How can you disagree politely? | Which suggestion is most realistic?
+pr: Write an opinion paragraph on one debate statement with your opinion, two reasons, an example and two suggestions.
+ex: Opinion || Give an opinion on bikes. || Creo que + reason || Creo que es mejor ir en bicicleta porque no contamina. || Add an example.
+ex: Suggestion || "We must save water." || tenemos que + infinitive || Tenemos que ahorrar agua. || Another?
+ex: Es importante || "It's important to recycle." || es importante + infinitive || Es importante reciclar. || Another?
+ex: Disagree || Disagree politely. || No estoy de acuerdo porque… || No estoy de acuerdo porque es difícil en invierno. || Another reason?
+p: B || What does "en mi opinión" mean? || In my opinion.
+p: B || What does "creo que" mean? || I believe that.
+p: B || What does "debemos" mean? || We should.
+p: B || What does "reciclar" mean? || To recycle.
+p: B || What does "estoy de acuerdo" mean? || I agree.
+p: I || Say "We have to recycle." || Tenemos que reciclar.
+p: I || Say "It's important to save water." || Es importante ahorrar agua.
+p: I || Say "We shouldn't use plastic bags." || No debemos usar bolsas de plástico.
+p: I || Say "I disagree because…" || No estoy de acuerdo porque…
+p: I || What does "Tienes razón, pero…" mean? || You're right, but…
+p: I || What does "reducir" mean? || To reduce.
+p: C || Why add examples to opinions? || They make arguments convincing.
+p: C || Translate: I think schools should ban plastic bottles. || Creo que las escuelas deben prohibir las botellas de plástico.
+p: C || How can debates help environmental action? || They help people consider solutions and reach agreement.
+p: C || Write your opinion paragraph. || Answers vary.
+mis: Conjugating after es importante | Saying "estoy acuerdo" without de | Giving opinions without reasons
+et: Da tu opinión sobre el plástico. | Make one suggestion.
+mc: B || "En mi opinión" means || in my opinion | in my option | in my house | I agree || A
+mc: B || "Creo que" means || I believe that | I create | I grow | I know that || A
+mc: B || "Debemos" means || we should | we owe only | we did | we will || A
+mc: B || "Reciclar" means || to recycle | to reuse | to reduce | to cycle || A
+mc: B || "Ahorrar agua" means || to save water | to waste water | to drink water | to boil water || A
+mc: B || "Estoy de acuerdo" means || I agree | I'm awake | I'm according | I disagree || A
+mc: I || "We have to recycle" is || Tenemos que reciclar. | Tenemos reciclar. | Tenemos que reciclamos. | Hay reciclar. || A
+mc: I || "It's important to save water" is || Es importante ahorrar agua. | Es importante ahorramos agua. | Está importante ahorrar. | Importante es ahorro. || A
+mc: I || "I disagree" is || No estoy de acuerdo. | No soy acuerdo. | Estoy no acuerdo. | No tengo acuerdo. || A
+mc: I || "Tienes razón" means || you're right | you have a reason only | you're wrong | you agree || A
+mc: C || Examples make arguments || convincing | shorter | weaker | confusing || A
+mc: C || After es importante use || an infinitive | a conjugated verb | a noun only | nothing || A
+sa: B || Give three opinion phrases. || En mi opinión, creo que, pienso que.
+sa: B || What does "debemos" mean? || We should.
+sa: I || Give two suggestions with tenemos que and es importante. || Answers vary.
+sa: I || Disagree politely with a reason. || Answers vary.
+sa: I || State your opinion on one debate statement. || Answers vary.
+sa: I || What are the 3 R's in Spanish? || Reducir, reutilizar, reciclar.
+sa: C || Explain why reasons and examples matter. || They make arguments convincing.
+sa: C || Write your opinion paragraph. || Answers vary.
+
+=== SPA9.C1 2
+hook: Costa Rica generates almost all of its electricity from renewable sources. Ecuador's constitution gives rights to nature itself. Spanish-speaking countries are leaders in some of the world's most creative environmental efforts.
+sc: I can describe environmental efforts in Spanish-speaking countries | I can explain what we can learn from them | I can present an environmental success story in Spanish
+v: la energía renovable :: renewable energy
+v: el parque nacional :: the national park
+v: la reserva :: the reserve
+v: proteger :: to protect
+v: conservar :: to conserve
+v: los derechos de la naturaleza :: the rights of nature
+v: el ecoturismo :: ecotourism
+v: el ejemplo :: the example
+ts: Ejemplos verdes || Research || What environmental efforts are happening in the Spanish-speaking world?
+tx: Success stories (written for this lesson from public sources): ¶ Costa Rica: for several years it has generated almost all its electricity from renewable sources such as hydroelectric, geothermal, wind and solar power. A large share of the country is protected in national parks and reserves, and ecotourism is an important industry. ¶ Ecuador: its 2008 constitution recognized the rights of nature (los derechos de la naturaleza). The Galápagos Islands became a national park in 1959 and are protected for their unique species. ¶ México: the Monarch Butterfly Biosphere Reserve in Michoacán protects forests where millions of monarch butterflies spend the winter after migrating from Canada and the United States; it is a UNESCO World Heritage site. ¶ Chile: large new national parks in Patagonia were created in partnership with conservation donors. ¶ Sentences: Costa Rica usa energía renovable. Ecuador protege los derechos de la naturaleza. Las mariposas monarca viajan desde Canadá hasta México. ¶ Connection to Canada: monarch butterflies also live in Canada in summer, so protecting them requires cooperation between countries. ¶ Activity: groups research one success story and present it in Spanish: ¿Dónde? ¿Qué hacen? ¿Por qué es importante? ¿Qué podemos aprender?
+src: Summary from public sources including UNESCO and national park agencies.
+st: Learn about four success stories | Learn conservation vocabulary | Research one story | Explain what we can learn | Present in Spanish
+org: País | Esfuerzo | Resultado | Lección para Canadá
+an: How does Costa Rica produce electricity? | What does "rights of nature" mean? | How do monarch butterflies connect Canada and Mexico? | What can Canada learn?
+pr: Present an environmental success story from a Spanish-speaking country in Spanish, explaining what it is, why it matters and what we can learn.
+ex: Costa Rica || What powers Costa Rica's electricity? || Renewables || Hydroelectric, geothermal, wind and solar || What is ecotourism?
+ex: Ecuador || What did Ecuador's 2008 constitution do? || Rights || It recognized the rights of nature || Why is that unusual?
+ex: Monarchs || Where do monarchs spend winter? || Mexico || In forests in Michoacán, Mexico || Where do they spend summer?
+ex: Lesson || What can Canada learn? || Cooperation || Protecting migrating species requires countries to work together || Another lesson?
+p: B || What is "la energía renovable"? || Renewable energy.
+p: B || What is "el parque nacional"? || The national park.
+p: B || What does "proteger" mean? || To protect.
+p: B || What does "conservar" mean? || To conserve.
+p: B || What is "el ecoturismo"? || Ecotourism.
+p: I || Which country generates almost all electricity from renewables? || Costa Rica.
+p: I || Which country recognized the rights of nature in 2008? || Ecuador.
+p: I || When did the Galápagos become a national park? || 1959.
+p: I || Where do monarch butterflies spend winter? || Michoacán, Mexico.
+p: I || Say "Costa Rica uses renewable energy." || Costa Rica usa energía renovable.
+p: I || Where were new national parks created in Chile? || Patagonia.
+p: C || Why do monarchs need international cooperation? || They migrate across Canada, the US and Mexico.
+p: C || Translate: We can learn from Costa Rica. || Podemos aprender de Costa Rica.
+p: C || How can ecotourism help conservation? || It earns money from protecting nature.
+p: C || Give your presentation. || Answers vary.
+mis: Thinking environmental leadership only comes from wealthy countries | Thinking local problems have no global links | Copying research without explaining it
+et: Name one environmental success story. | Why does it matter?
+mc: B || "La energía renovable" is || renewable energy | new energy | renewed people | fuel || A
+mc: B || "Proteger" means || to protect | to protest | to produce | to project || A
+mc: B || "Conservar" means || to conserve | to converse | to convert | to consume || A
+mc: B || "El ecoturismo" is || ecotourism | economy | echo | mass tourism || A
+mc: B || "La reserva" in nature is || the reserve | the reservation only | the rest | the review || A
+mc: B || "El ejemplo" is || the example | the exercise | the exit | the effort || A
+mc: I || Almost all-renewable electricity comes from || Costa Rica | Argentina | Spain | Mexico City || A
+mc: I || The rights of nature are in the constitution of || Ecuador | Chile | Peru | Spain || A
+mc: I || Monarchs winter in || Michoacán, Mexico | Alberta | Patagonia | Galápagos || A
+mc: I || The Galápagos became a national park in || 1959 | 1859 | 2008 | 1999 || A
+mc: C || Monarch protection needs || international cooperation | one country | no action | only Canada || A
+mc: C || Ecotourism helps by || earning money from protecting nature | cutting forests | building malls | nothing || A
+sa: B || Name four conservation words. || Proteger, conservar, el parque nacional, la energía renovable.
+sa: B || What is ecotourism? || Tourism that supports nature conservation.
+sa: I || Describe Costa Rica's success. || Almost all electricity from renewables; many protected areas.
+sa: I || Describe Ecuador's constitution. || It recognized the rights of nature in 2008.
+sa: I || Explain the monarch connection to Canada. || Monarchs spend summers in Canada and winters in Mexico.
+sa: I || Say what Canada can learn. || Answers vary.
+sa: C || Explain why cooperation matters for migrating species. || They cross borders.
+sa: C || Give your presentation. || Answers vary.
+
+=== SPA9.D1 0
+hook: "De grande, quiero ser veterinaria." Talking about your future, and the careers that interest you, is one of the most personal conversations you can have in a new language.
+sc: I can name professions in Spanish with masculine and feminine forms | I can talk about my future using voy a ser and quiero ser | I can explain my choice with reasons and skills
+v: la profesión :: the profession
+v: el médico / la médica :: the doctor
+v: el ingeniero / la ingeniera :: the engineer
+v: el profesor / la profesora :: the teacher
+v: el/la veterinario/a :: the vet
+v: el/la periodista :: the journalist
+v: Voy a ser… :: I'm going to be…
+v: Quiero ser… :: I want to be…
+ts: Mi futuro || Speaking || What careers interest me and why?
+tx: Guide (written for this lesson): ¶ Patterns: -o → -a (médico, médica; abogado, abogada); -or → -ora (profesor, profesora; programador, programadora); -ista same for both (el/la periodista, el/la artista, el/la dentista); -e often same (el/la estudiante). ¶ No article after ser with professions: Mi madre es enfermera. ¶ Future: Voy a ser ingeniera. Quiero ser piloto. Me gustaría ser chef. Voy a estudiar en la universidad. ¶ Reasons and skills: porque me gustan los animales; porque soy creativo/a; porque quiero ayudar a la gente; porque soy bueno/a en matemáticas. ¶ Model: De grande, quiero ser veterinaria porque me encantan los animales y soy paciente. Voy a estudiar biología en la universidad. Me gustaría trabajar en una clínica en Red Deer. ¶ Activity: career interview: ¿Qué quieres ser? ¿Por qué? ¿Qué vas a estudiar? ¿Dónde te gustaría trabajar? Then report on a partner.
+src: Original model written for this lesson.
+st: Learn professions and their forms | Use ser without an article | Use voy a ser and quiero ser | Give reasons and skills | Interview and report on a partner
+org: Profesión | Masculino | Femenino | ¿Por qué me interesa?
+an: Which professions don't change for gender? | Why no article after ser? | What does your partner want to be, and why? | What skills does your dream job need?
+pr: Write a paragraph about your future career with a profession, three reasons or skills, what you'll study and where you'd like to work.
+ex: Feminine || Feminine of ingeniero? || -o → -a || ingeniera || Feminine of profesor?
+ex: -ista || "She is a journalist." || same form, no article || Ella es periodista. || "He is an artist."
+ex: Future || "I want to be a pilot because I love travelling." || quiero ser + porque || Quiero ser piloto porque me encanta viajar. || Another?
+ex: Study || "I'm going to study medicine." || voy a estudiar || Voy a estudiar medicina. || Where?
+p: B || What is "la profesión"? || The profession.
+p: B || What is "el médico"? || The doctor.
+p: B || What is "la profesora"? || The teacher (woman).
+p: B || What is "el/la periodista"? || The journalist.
+p: B || What does "Quiero ser" mean? || I want to be.
+p: I || Feminine of abogado? || Abogada.
+p: I || Feminine of programador? || Programadora.
+p: I || Say "My father is a nurse." || Mi padre es enfermero.
+p: I || Say "I'm going to be an engineer." (girl) || Voy a ser ingeniera.
+p: I || Say "because I'm creative" (boy). || Porque soy creativo.
+p: I || Ask "What do you want to be?" || ¿Qué quieres ser?
+p: C || Why no article after ser with jobs? || Spanish omits it with unmodified professions.
+p: C || Translate: I would like to work in a hospital. || Me gustaría trabajar en un hospital.
+p: C || Why mention skills when explaining a career choice? || They show why you'd be good at it.
+p: C || Write your career paragraph. || Answers vary.
+mis: Saying "es una médica" | Using masculine forms for women | Giving choices without reasons
+et: ¿Qué quieres ser? ¿Por qué? | Give the feminine of profesor.
+mc: B || "La profesión" is || the profession | the professor | the procession | the promise || A
+mc: B || "El médico" is || the doctor | the medicine | the medic kit | the media || A
+mc: B || "El/la periodista" is || journalist | periodic | pianist | period || A
+mc: B || "Quiero ser" means || I want to be | I want to see | I am | I was || A
+mc: B || "El ingeniero" is || the engineer | the genius | the engine | the ingredient || A
+mc: B || "El/la veterinario/a" is || the vet | the veteran | the veggie | the vendor || A
+mc: I || Feminine of profesor is || profesora | profesoro | profesoresa | profesor || A
+mc: I || "She is a doctor" is || Ella es médica. | Ella es una médica. | Ella está médica. | Ella médica es. || A
+mc: I || "I'm going to be a pilot" is || Voy a ser piloto. | Voy ser piloto. | Voy a soy piloto. | Voy a estar piloto. || A
+mc: I || -ista professions || don't change for gender | add -o | add -a | don't exist || A
+mc: C || After ser, professions usually take || no article | un/una always | el | la || A
+mc: C || Skills explain || why you'd suit a job | the salary | the location | nothing || A
+sa: B || Name six professions in Spanish. || Médico, ingeniero, profesor, veterinario, periodista, abogado.
+sa: B || Ask "What do you want to be?" || ¿Qué quieres ser?
+sa: I || Give feminine forms of médico, profesor and programador. || Médica, profesora, programadora.
+sa: I || Say what you want to be and why. || Answers vary.
+sa: I || Say what you're going to study. || Answers vary.
+sa: I || Report on your partner's career plan. || Answers vary.
+sa: C || Explain the no-article rule. || Ser + profession takes no article.
+sa: C || Write your career paragraph. || Answers vary.
+
+=== SPA9.D1 1
+hook: "Ayer fui al cine, comí palomitas y vi una película increíble." To tell stories about the past, Spanish uses the preterite, the tense of completed actions.
+sc: I can form the preterite of regular -ar, -er and -ir verbs | I can use common irregular preterites (ir, ser, hacer, tener) | I can narrate past events with time expressions
+v: el pretérito :: the preterite (past) tense
+v: ayer :: yesterday
+v: anoche :: last night
+v: la semana pasada :: last week
+v: el año pasado :: last year
+v: fui :: I went / I was
+v: hice :: I did, made
+v: tuve :: I had
+ts: ¿Qué hiciste? || Grammar || How do I talk about the past in Spanish?
+tx: Preterite (written for this lesson): ¶ -ar (hablar): hablé, hablaste, habló, hablamos, hablaron. ¶ -er/-ir (comer, vivir): comí, comiste, comió, comimos, comieron; viví, viviste, vivió, vivimos, vivieron. ¶ Watch the accents: hablo (I speak) vs habló (he spoke). ¶ Irregular: ir and ser share forms: fui, fuiste, fue, fuimos, fueron (context tells which). hacer: hice, hiciste, hizo, hicimos, hicieron. tener: tuve, tuviste, tuvo, tuvimos, tuvieron. ¶ Spelling in yo: jugar → jugué, practicar → practiqué, llegar → llegué. ¶ Text: El fin de semana pasado fue muy divertido. El sábado, jugué al fútbol con mis amigos y ganamos. Después, fuimos a una pizzería y comimos mucho. Por la noche, vi una película con mi familia. El domingo, hice la tarea y llamé a mi abuela. ¡Tuve un fin de semana fantástico! ¶ Activity: "¿Qué hiciste ayer?": interview three classmates and write a summary using él/ella forms.
+src: Original text written for this lesson.
+st: Learn regular preterite endings | Learn ir, ser, hacer and tener | Note spelling changes in yo | Read the weekend text | Interview classmates
+org: Infinitivo | Yo | Él/Ella
+an: What did the writer do on Saturday? | How do you tell fui (I went) from fui (I was)? | Why does jugar become jugué? | What did your classmates do yesterday?
+pr: Write a paragraph about last weekend with at least eight preterite verbs, including three irregular ones and two time expressions.
+ex: -ar || "I talked to my friend." || hablé || Hablé con mi amigo. || "She talked."
+ex: -er || "We ate pizza." || comimos || Comimos pizza. || "They ate tacos."
+ex: Irregular || "I went to the park." || fui || Fui al parque. || "He went to school."
+ex: Spelling || "I played soccer." || jugar → jugué || Jugué al fútbol. || "I arrived late."
+p: B || What is the preterite? || The past tense for completed actions.
+p: B || What does "ayer" mean? || Yesterday.
+p: B || What does "anoche" mean? || Last night.
+p: B || What does "fui" mean? || I went / I was.
+p: B || What does "hice" mean? || I did, made.
+p: I || Preterite of hablar, yo? || Hablé.
+p: I || Preterite of comer, ella? || Comió.
+p: I || Preterite of ir, nosotros? || Fuimos.
+p: I || Preterite of tener, yo? || Tuve.
+p: I || Preterite of jugar, yo? || Jugué.
+p: I || Preterite of hacer, él? || Hizo.
+p: C || How do you tell hablo from habló? || The accent: habló is past (he spoke).
+p: C || Why does jugar become jugué? || To keep the hard g sound before e.
+p: C || Translate: Last year we went to Mexico. || El año pasado fuimos a México.
+p: C || Write about your weekend. || Answers vary.
+mis: Forgetting accents (hable vs hablé) | Saying "yo fue" | Writing "jugé"
+et: ¿Qué hiciste ayer? | Give the preterite of ir for yo and ella.
+mc: B || "Ayer" means || yesterday | today | tomorrow | already || A
+mc: B || "Anoche" means || last night | tonight | tomorrow night | every night || A
+mc: B || "Fui" can mean || I went or I was | I go | I will go | I am || A
+mc: B || "Hice" means || I did | I do | I will do | I have || A
+mc: B || "Tuve" means || I had | I have | I took | I want || A
+mc: B || "El año pasado" means || last year | next year | this year | every year || A
+mc: I || "I spoke" is || hablé | hablo | habló | hable || A
+mc: I || "He ate" is || comió | comí | come | comimos || A
+mc: I || "We went" is || fuimos | fueron | fue | vamos || A
+mc: I || "I played" is || jugué | jugé | jugó | juego || A
+mc: C || Habló (with accent) means || he spoke | I speak | I spoke | speak! || A
+mc: C || Jugué adds u to || keep the hard g | look nice | show plural | make it future || A
+sa: B || Give the -ar preterite endings. || -é, -aste, -ó, -amos, -aron.
+sa: B || Give the -er/-ir preterite endings. || -í, -iste, -ió, -imos, -ieron.
+sa: I || Conjugate ir in the preterite. || Fui, fuiste, fue, fuimos, fueron.
+sa: I || Say "I did my homework." || Hice la tarea.
+sa: I || Say "Yesterday I arrived late." || Ayer llegué tarde.
+sa: I || Report what a classmate did. || Answers vary.
+sa: C || Explain the importance of accents in the preterite. || They distinguish tense and person.
+sa: C || Write about your weekend. || Answers vary.
+
+=== SPA9.D1 2
+hook: Your Spanish journey has a past and a future. In this final project, you'll connect them: where you've been, what you've done and where you're going, all in Spanish.
+sc: I can contrast past events and future plans in one presentation | I can use the preterite and ir a + infinitive accurately | I can reflect on my Spanish learning
+v: antes / ahora / en el futuro :: before / now / in the future
+v: cuando era niño/a :: when I was a child
+v: el año que viene :: next year
+v: el próximo año :: next year
+v: aprendí :: I learned
+v: voy a seguir :: I'm going to continue
+v: la meta :: the goal
+v: me siento orgulloso/a :: I feel proud
+ts: Mi pasado y mi futuro || Presentation || How do I compare my past and my future in Spanish?
+tx: Project guide (written for this lesson): ¶ Part 1, el pasado (preterite): one memorable event (a trip, a celebration, an achievement): El verano pasado, fui a… Aprendí a… Ganamos… ¶ Part 2, el presente (present): who you are now: Ahora estoy en noveno grado. Me gusta… Practico… ¶ Part 3, el futuro (ir a + infinitive): plans for next year and your career: El próximo año, voy a… De grande, voy a ser… ¶ Part 4, mi español: what you learned in Spanish 7–9 and your goals: En la clase de español, aprendí a presentarme, a pedir comida en un restaurante y a hablar del medio ambiente. Voy a seguir estudiando español porque… Mi meta es viajar a… ¶ Format: 2–3 minute presentation or video with a timeline visual (photos or drawings). ¶ Peer questions: ¿Qué fue lo mejor de tu viaje? ¿Qué vas a estudiar? ¶ Rubric: content, preterite accuracy, future accuracy, vocabulary range, pronunciation, visuals, reflection.
+src: Original project written for this lesson.
+st: Choose a memorable past event | Describe yourself now | Describe future plans | Reflect on learning Spanish | Present with a timeline visual
+org: Pasado | Presente | Futuro
+an: Which tense was hardest to use correctly? | What memorable event did you choose? | What are your goals for Spanish? | What are you proudest of learning?
+pr: Present a 2–3 minute past-present-future timeline in Spanish with a reflection on your Spanish learning.
+ex: Past || "Last summer I went to Banff and I saw a bear." || preterite || El verano pasado fui a Banff y vi un oso. || Another past sentence?
+ex: Present || "Now I'm in grade 9 and I play volleyball." || present || Ahora estoy en noveno grado y juego al voleibol. || Another?
+ex: Future || "Next year I'm going to take Spanish 10." || ir a + infinitive || El próximo año voy a tomar español 10. || Another plan?
+ex: Reflection || "In Spanish class, I learned to order food." || aprendí a + infinitive || En la clase de español, aprendí a pedir comida. || What else?
+p: B || What does "antes" mean? || Before.
+p: B || What does "ahora" mean? || Now.
+p: B || What does "el próximo año" mean? || Next year.
+p: B || What does "aprendí" mean? || I learned.
+p: B || What is "la meta"? || The goal.
+p: I || Which tense is used for the past event? || The preterite.
+p: I || Which structure is used for plans? || Ir a + infinitive.
+p: I || Say "I learned to introduce myself." || Aprendí a presentarme.
+p: I || Say "I'm going to continue studying Spanish." || Voy a seguir estudiando español.
+p: I || Say "I feel proud." (girl) || Me siento orgullosa.
+p: I || How long is the presentation? || 2–3 minutes.
+p: C || Why use a timeline visual? || It shows past, present and future clearly.
+p: C || Translate: When I was a child, I lived in Toronto. Now I live in Calgary. || Cuando era niño, vivía en Toronto. Ahora vivo en Calgary.
+p: C || Why reflect on learning? || It shows growth and helps set goals.
+p: C || Give your presentation. || Answers vary.
+mis: Using the present for past events | Mixing up ir a + infinitive with the preterite of ir | Reading the presentation word for word
+et: Write one past and one future sentence. | What did you learn in Spanish class?
+mc: B || "Antes" means || before | after | now | always || A
+mc: B || "Ahora" means || now | then | later | never || A
+mc: B || "El próximo año" means || next year | last year | this year | every year || A
+mc: B || "Aprendí" means || I learned | I learn | I will learn | I teach || A
+mc: B || "La meta" is || the goal | the meeting | the metal | the map || A
+mc: B || "Me siento orgulloso" means || I feel proud | I sit proudly | I'm angry | I'm tired || A
+mc: I || Past events use the || preterite | present | future | imperative || A
+mc: I || Future plans use || ir a + infinitive | the preterite | gustar | the imperative || A
+mc: I || "I learned to order food" is || Aprendí a pedir comida. | Aprendo pedir comida. | Aprendí pedí comida. | Voy a aprender comida. || A
+mc: I || "I'm going to continue" is || Voy a seguir. | Fui a seguir. | Sigo voy. | Voy seguir. || A
+mc: C || A timeline visual shows || past, present and future | only the past | only photos | nothing || A
+mc: C || Reflection helps you || see growth and set goals | forget | stop learning | finish early || A
+sa: B || What does "la meta" mean? || The goal.
+sa: B || What does "aprendí" mean? || I learned.
+sa: I || Write two past sentences in the preterite. || Answers vary.
+sa: I || Write two present sentences. || Answers vary.
+sa: I || Write two future sentences with ir a. || Answers vary.
+sa: I || Write a reflection sentence about Spanish class. || Answers vary.
+sa: C || Explain why reflection matters. || It shows growth and helps set goals.
+sa: C || Give your presentation. || Answers vary.
