@@ -1,0 +1,637 @@
+=== EOE8.A1 1
+hook: GPS can fail when batteries die or satellites drop out in a deep valley. A compass needs no power. Knowing how to take and follow a bearing is a skill that can get you home.
+sc: I can identify the parts of a baseplate compass | I can take and follow a bearing | I can adjust for magnetic declination
+v: compass :: A tool with a magnetic needle that points to magnetic north.
+v: bearing :: A direction measured in degrees clockwise from north (0–360°).
+v: baseplate :: The clear plastic base of an orienteering compass.
+v: direction-of-travel arrow :: The arrow on the baseplate that points where you walk.
+v: orienting arrow :: The arrow inside the housing that lines up with the needle.
+v: magnetic declination :: The angle between true north and magnetic north.
+ts: Finding Your Bearing || Field skills || How do I navigate with a compass?
+tx: Compass skills (written for this lesson): ¶ Parts: baseplate, direction-of-travel arrow, rotating housing (bezel) with degrees, orienting arrow, magnetic needle (red end points to magnetic north). ¶ Cardinal bearings: N 0°/360°, E 90°, S 180°, W 270°. ¶ Taking a bearing to an object: 1. Point the direction-of-travel arrow at the object. 2. Turn the housing until the orienting arrow lines up under the red needle ("red in the shed"). 3. Read the degrees at the index line. ¶ Following a bearing: 1. Set the bearing on the housing. 2. Hold the compass flat in front of you. 3. Turn your whole body until red is in the shed. 4. Walk where the travel arrow points, picking a landmark on that line. ¶ Declination: maps use true north; compasses point to magnetic north. In much of Alberta, magnetic north is roughly 13–15° east of true north and changes slowly over time; check the current value on your map or from Natural Resources Canada. ¶ Activity: compass course on the field: follow three bearings and distances (using your pace length) to find a hidden marker.
+src: Original activity written for this lesson; declination values are approximate and change over time.
+st: Learn the parts of a compass | Learn cardinal bearings | Take a bearing to an object | Follow a bearing with pacing | Complete a schoolyard compass course
+org: Leg | Bearing | Distance | Landmark | Found?
+an: What does "red in the shed" mean? | How close were you to the marker? | Why does declination matter? | When might a compass be better than GPS?
+pr: Complete a three-leg compass course using bearings and pacing, and record your bearings, distances and accuracy.
+ex: Cardinal || What bearing is east? || Degrees clockwise || 90° || What about southwest?
+ex: Southwest || What bearing is southwest? || Between S and W || 225° || What about northeast?
+ex: Red in the shed || What does "red in the shed" mean? || Needle and arrow || Line the red needle up inside the orienting arrow || When do you do this?
+ex: Declination || Why adjust for declination? || True vs magnetic || Maps use true north; compasses point to magnetic north, which can differ by over 10° in Alberta || What happens if you ignore it?
+p: B || What is a compass? || A tool whose needle points to magnetic north.
+p: B || What is a bearing? || A direction in degrees from north.
+p: B || What is the direction-of-travel arrow? || The baseplate arrow showing where to walk.
+p: B || What is the orienting arrow? || The housing arrow that lines up with the needle.
+p: B || What is magnetic declination? || The angle between true and magnetic north.
+p: I || What bearing is south? || 180°.
+p: I || What bearing is west? || 270°.
+p: I || What bearing is northeast? || 45°.
+p: I || What colour is the north end of the needle? || Red.
+p: I || About how much is declination in much of Alberta? || About 13–15° east.
+p: I || How do you measure distance on a compass course? || Pacing.
+p: C || Why pick a landmark on your bearing line? || So you can walk to it without staring at the compass.
+p: C || Why keep the compass flat? || So the needle swings freely.
+p: C || Why can ignoring declination get you lost? || A small angle error grows over distance.
+p: C || Report your compass course results. || Answers vary.
+mis: Holding the compass tilted | Turning the compass instead of your body | Ignoring declination
+et: What bearing is west? | What does "red in the shed" mean?
+mc: B || A compass needle points to || magnetic north | true south | the sun | the nearest town || A
+mc: B || A bearing is measured in || degrees | metres | minutes | litres || A
+mc: B || The direction-of-travel arrow shows || where to walk | magnetic north | the scale | the legend || A
+mc: B || The orienting arrow lines up with || the needle | the sun | your feet | the map edge || A
+mc: B || Declination is || true vs magnetic north angle | altitude | distance | speed || A
+mc: B || East is || 90° | 0° | 180° | 270° || A
+mc: I || South is || 180° | 90° | 270° | 360° || A
+mc: I || Southwest is || 225° | 135° | 315° | 45° || A
+mc: I || The north end of the needle is || red | green | blue | yellow || A
+mc: I || Alberta declination is roughly || 13–15° east | 0° | 90° west | 45° east || A
+mc: C || Keep the compass flat so || the needle swings freely | it looks good | it's warm | nothing || A
+mc: C || Small angle errors || grow over distance | shrink | disappear | don't matter || A
+sa: B || Define bearing. || A direction measured in degrees clockwise from north.
+sa: B || What is magnetic declination? || The angle between true north and magnetic north.
+sa: I || Give bearings for N, E, S, W. || 0°, 90°, 180°, 270°.
+sa: I || Describe how to follow a bearing. || Set bearing, hold flat, turn body until red is in the shed, walk.
+sa: I || Why pick a landmark? || To walk to it without staring at the compass.
+sa: I || Why can GPS fail? || Batteries, cold or lost signal.
+sa: C || Explain why declination matters. || Errors grow over distance.
+sa: C || Report your compass course. || Answers vary.
+
+=== EOE8.A1 2
+hook: Many search-and-rescue calls begin the same way: nobody knew where the person went or when they'd be back. A trip plan left with someone at home is one of the simplest and most important safety tools.
+sc: I can write a complete trip plan | I can identify hazards and plan for them | I can choose a route that fits the group's ability
+v: trip plan :: A written plan of where you're going, who's going, the route, timing and what to do if you're overdue.
+v: route :: The path you plan to travel.
+v: hazard :: Something that could cause harm, such as weather, water or wildlife.
+v: turnaround time :: A set time to head back no matter where you are.
+v: emergency contact :: A person at home who knows your plan and will call for help if you're overdue.
+v: overdue :: Later than the planned return time.
+ts: Plan Before You Go || Field skills || What goes into a safe trip plan?
+tx: Trip plan template (written for this lesson; based on common outdoor-safety guidance): ¶ 1. Who: names, ages, any medical conditions, emergency contacts. ¶ 2. Where: start point, route (attach a map with the route highlighted), destination, alternate routes. ¶ 3. When: departure time, turnaround time, expected return time, and the time the contact should call for help. ¶ 4. Gear: group and personal essentials, communication (charged phone; in remote areas, a satellite messenger). ¶ 5. Conditions: forecast, trail reports, wildlife advisories, fire bans (check Alberta Parks and Parks Canada sites). ¶ 6. Hazards and plans: e.g. thunderstorms → leave exposed ridges early; bears → travel in groups, make noise, carry bear spray (with trained adults); river crossings → avoid in high water. ¶ 7. Emergency plan: what the group does if someone is hurt or lost ("hug a tree": stay put and blow the whistle). ¶ Activity: groups plan a 4–6 km day hike using a topographic map: calculate distance and elevation gain, estimate time (a common rule of thumb: about 4 km per hour plus extra time for climbing), set a turnaround time and fill the template.
+src: Original activity written for this lesson; agency names are public.
+st: Learn the trip plan sections | Choose a route on a topo map | Estimate distance and time | Identify hazards and responses | Complete and exchange trip plans
+org: Section | Details | Hazard | Response
+an: Why is a turnaround time important? | Which hazard was most likely on your route? | How did elevation gain change your time estimate? | What should the emergency contact do if you're overdue?
+pr: Write a complete trip plan for a 4–6 km day hike, including map, timing, hazards and emergency plan.
+ex: Time estimate || A 6 km hike at 4 km/h on flat ground? || Distance ÷ speed || 1.5 hours || What about climbing?
+ex: Turnaround || You haven't reached the lake by turnaround time. What do you do? || Rule || Turn back anyway || Why?
+ex: Lost || A student is separated from the group. What should they do? || Hug a tree || Stay put and blow three whistle blasts || Why stay put?
+ex: Contact || What does the emergency contact need? || Plan || Route, return time and when to call for help || Who do they call?
+p: B || What is a trip plan? || A written plan of who, where, when and emergencies.
+p: B || What is a route? || The planned path.
+p: B || What is a hazard? || Something that could cause harm.
+p: B || What is a turnaround time? || A set time to head back.
+p: B || What is an emergency contact? || A person at home who knows your plan.
+p: I || Name four sections of a trip plan. || Who, where, when, gear.
+p: I || What is a common hiking speed rule of thumb? || About 4 km per hour plus time for climbing.
+p: I || What does "hug a tree" mean? || Stay put if lost.
+p: I || Where can you check park conditions? || Alberta Parks and Parks Canada.
+p: I || 8 km at 4 km/h on flat ground? || 2 hours.
+p: I || What should you avoid in thunderstorms? || Exposed ridges.
+p: C || Why does a turnaround time prevent problems? || It stops you being caught out by darkness or tiredness.
+p: C || Why should lost people stay put? || Searchers find a stationary person more easily.
+p: C || Why add time for elevation gain? || Climbing is slower than walking on flat ground.
+p: C || Share your trip plan. || Answers vary.
+mis: Not telling anyone where you're going | Ignoring the turnaround time to reach the goal | Wandering when lost
+et: What is a turnaround time? | What should a lost person do?
+mc: B || A trip plan includes || who, where and when | only snacks | music | nothing || A
+mc: B || A route is || the planned path | the weather | a meal | a shelter || A
+mc: B || A hazard || could cause harm | is a snack | is safe | is a map || A
+mc: B || A turnaround time means || head back at a set time | speed up | camp | stop forever || A
+mc: B || An emergency contact || knows your plan | comes with you | is a ranger | is a stranger || A
+mc: B || Overdue means || later than planned | early | on time | lost forever || A
+mc: I || 6 km at 4 km/h is || 1.5 hours | 6 hours | 24 hours | 15 minutes || A
+mc: I || A lost person should || stay put | run | hide | keep walking || A
+mc: I || In thunderstorms avoid || exposed ridges | valleys | trees always | shelters || A
+mc: I || Conditions come from || Alberta Parks and Parks Canada | rumours | old maps | nobody || A
+mc: C || Turnaround times prevent || being caught out | fun | lunch | photos || A
+mc: C || Elevation gain makes hikes || slower | faster | shorter | flat || A
+sa: B || Define turnaround time. || A set time to head back no matter where you are.
+sa: B || What is a trip plan? || A written plan of who, where, when, gear and emergencies.
+sa: I || List the trip plan sections. || Who, where, when, gear, conditions, hazards, emergency plan.
+sa: I || Estimate time for 5 km at 4 km/h flat. || 1.25 hours.
+sa: I || What should a lost person do? || Stay put and blow three whistle blasts.
+sa: I || Name a hazard and a response. || Answers vary.
+sa: C || Explain why lost people should stay put. || Searchers find them more easily.
+sa: C || Share your trip plan. || Answers vary.
+
+=== EOE8.B1 0
+hook: Every drop of rain that falls on your school eventually flows somewhere: down a storm drain, into a creek, a river and finally an ocean. The land that drains into one river is its watershed, and we all live in one.
+sc: I can define a watershed and its parts | I can identify Alberta's major river basins and where they drain | I can map my local watershed
+v: watershed :: An area of land where all water drains to the same river, lake or ocean.
+v: divide :: High ground that separates one watershed from another.
+v: tributary :: A smaller stream or river that flows into a larger one.
+v: headwaters :: The source area where a river begins.
+v: riparian zone :: The strip of land along a river or stream.
+v: runoff :: Water that flows over land instead of soaking in.
+ts: Where Does Our Water Go? || Investigation || What is our watershed, and how does it connect us?
+tx: Watershed guide (written for this lesson from public sources): ¶ Alberta's major river basins include the Peace, Athabasca, Hay, North Saskatchewan, South Saskatchewan (including the Bow, Oldman and Red Deer rivers), Beaver and Milk river basins. ¶ Three oceans: water from the Peace and Athabasca flows north through the Mackenzie system to the Arctic Ocean; the Saskatchewan rivers flow east to Hudson Bay; the Milk River flows south to the Missouri and Mississippi and on to the Gulf of Mexico. ¶ Headwaters: many of Alberta's rivers begin in the Rocky Mountains, fed by snowpack and glaciers. ¶ Activities: 1. Crumpled-paper model: crumple paper, flatten partly, mark ridges with a blue marker, spray with water and watch where it flows and pools. Identify divides, tributaries and the "main river." 2. On a map of Alberta, find your river basin and trace your river to the ocean. 3. Local map: mark your school, the nearest creek or river, storm drains around the school and where they lead. 4. Discuss: what we put on driveways and lawns can end up in the river.
+src: Summary written for this lesson from public Alberta government watershed information.
+st: Build a crumpled-paper watershed | Identify divides and tributaries | Find your river basin on a map | Trace your river to the ocean | Map storm drains near school
+org: Feature | Where on our map | Connection to our water
+an: Which ocean does your watershed drain to? | Where are the divides in your model? | Where do the storm drains near school lead? | How can actions upstream affect people downstream?
+pr: Create a labelled map of your local watershed showing your school, storm drains, the nearest creek or river, and the ocean it drains to.
+ex: Divide || What does a divide do? || High ground || Separates water flowing into different watersheds || Where are Alberta's big divides?
+ex: Three oceans || Name the three oceans Alberta water reaches. || Basins || Arctic, Hudson Bay (Atlantic), Gulf of Mexico || Which basin goes south?
+ex: Storm drain || Where does water in a street drain usually go? || Pipes || Often straight to a creek or river, sometimes without treatment || Why does that matter?
+ex: Headwaters || Where do many Alberta rivers begin? || Mountains || In the Rocky Mountains, from snow and glaciers || Why does snowpack matter?
+p: B || What is a watershed? || Land draining to the same body of water.
+p: B || What is a divide? || High ground separating watersheds.
+p: B || What is a tributary? || A smaller stream flowing into a larger one.
+p: B || What are headwaters? || Where a river begins.
+p: B || What is runoff? || Water flowing over land.
+p: I || Which ocean do the Peace and Athabasca drain to? || The Arctic Ocean.
+p: I || Where do the Saskatchewan rivers drain? || Hudson Bay.
+p: I || Where does the Milk River drain? || The Gulf of Mexico.
+p: I || Name three rivers in the South Saskatchewan basin. || Bow, Oldman, Red Deer.
+p: I || Where do many Alberta rivers begin? || The Rocky Mountains.
+p: I || What is a riparian zone? || Land along a stream.
+p: C || Why does what goes down a storm drain matter? || It may flow untreated into rivers.
+p: C || How do upstream actions affect people downstream? || Pollution and water use travel downstream.
+p: C || Why does mountain snowpack matter to prairie cities? || It feeds rivers through spring and summer.
+p: C || Present your watershed map. || Answers vary.
+mis: Thinking storm drains go to treatment plants | Thinking watersheds are only rivers | Thinking our actions don't reach the river
+et: Define watershed. | Which ocean does your river reach?
+mc: B || A watershed is land that || drains to one water body | is flat | has no water | is a lake only || A
+mc: B || A divide is || high ground between watersheds | a river | a lake | a dam || A
+mc: B || A tributary || flows into a larger river | is an ocean | is a mountain | is a lake || A
+mc: B || Headwaters are || where a river begins | where it ends | a lake | a city || A
+mc: B || Runoff is water that || flows over land | evaporates | freezes | soaks in || A
+mc: B || A riparian zone is || land along a stream | a mountain top | a desert | a city || A
+mc: I || The Peace River drains to || the Arctic | Hudson Bay | the Gulf of Mexico | the Pacific || A
+mc: I || The North Saskatchewan drains to || Hudson Bay | the Arctic | the Pacific | the Gulf of Mexico || A
+mc: I || The Milk River drains to || the Gulf of Mexico | the Arctic | Hudson Bay | Lake Louise || A
+mc: I || The Bow River is in the || South Saskatchewan basin | Peace basin | Athabasca basin | Milk basin || A
+mc: C || Storm drains often lead || straight to rivers | to treatment always | nowhere | to the ocean directly || A
+mc: C || Upstream pollution || affects people downstream | stays put | vanishes | helps fish || A
+sa: B || Define watershed. || An area of land where all water drains to the same river, lake or ocean.
+sa: B || What is a tributary? || A smaller stream flowing into a larger one.
+sa: I || Name four Alberta river basins. || Peace, Athabasca, North Saskatchewan, South Saskatchewan.
+sa: I || Name the three oceans Alberta water reaches. || Arctic, Hudson Bay, Gulf of Mexico.
+sa: I || Where do many rivers begin? || The Rocky Mountains.
+sa: I || Where do storm drains near school lead? || Answers vary.
+sa: C || Explain how upstream actions affect downstream. || Pollution and use travel downstream.
+sa: C || Present your watershed map. || Answers vary.
+
+=== EOE8.B1 1
+hook: Water can look clear and still be unhealthy. Scientists test temperature, oxygen, pH and the tiny creatures living on the stream bottom to find out how healthy a waterway really is.
+sc: I can test water for temperature, pH, turbidity and dissolved oxygen | I can use aquatic invertebrates as indicators of water quality | I can interpret results and suggest causes
+v: water quality :: How healthy water is for living things and people.
+v: pH :: A scale from 0 to 14 showing how acidic or basic water is; 7 is neutral.
+v: turbidity :: How cloudy water is.
+v: dissolved oxygen :: Oxygen mixed in water that fish and insects breathe.
+v: indicator species :: Organisms whose presence shows environmental conditions.
+v: benthic macroinvertebrates :: Small animals without backbones living on stream bottoms, such as insect larvae.
+ts: Testing the Water || Investigation || How healthy is our local water?
+tx: Water testing (written for this lesson; done with adult supervision at a safe, shallow site or with samples collected by staff): ¶ Tests: 1. Temperature (thermometer): cold water holds more oxygen; trout prefer cold water. 2. pH (test strips): many healthy streams range from about 6.5 to 8.5. 3. Turbidity (turbidity tube or a Secchi disk): cloudier water can mean erosion or runoff. 4. Dissolved oxygen (test kit): most fish need more than about 5 mg/L; cold-water fish need more. ¶ Invertebrates: gently kick-net a riffle, put the catch in a white tray with water, identify with a key, and return everything. Sensitive to pollution: mayfly, stonefly and caddisfly larvae. Somewhat tolerant: dragonfly larvae, scuds, crayfish. Tolerant: aquatic worms, leeches, midge larvae. Many sensitive species = good water quality. ¶ Safety: no wading in fast or deep water; wash hands; wear boots. ¶ Analysis: compare results with healthy ranges; suggest causes (e.g. low oxygen in warm, slow water; high turbidity after rain).
+src: Original activity written for this lesson; ranges are general guides used in stream monitoring education.
+st: Review safety | Test temperature, pH, turbidity and oxygen | Kick-net and identify invertebrates | Compare with healthy ranges | Suggest causes and actions
+org: Test | Result | Healthy range | Healthy?
+an: Which test result was outside the healthy range? | What invertebrates did you find, and what do they indicate? | How might weather affect results? | What could improve water quality here?
+pr: Write a water-quality report with test results, invertebrate findings, an overall health rating and two suggested causes or actions.
+ex: pH || pH 7.8. Healthy? || Range about 6.5–8.5 || Yes, slightly basic and within range || What about pH 5?
+ex: Indicators || You find many stonefly larvae. Meaning? || Sensitive species || Likely good water quality || What if you find only worms?
+ex: Oxygen || Dissolved oxygen is 3 mg/L. Concern? || Fish need > 5 || Yes; most fish would struggle || What could cause it?
+ex: Turbidity || Water is cloudy after a storm. Why? || Runoff || Soil and sediment washed in by runoff || How could riparian plants help?
+p: B || What is water quality? || How healthy water is.
+p: B || What is pH? || A 0–14 scale of acid to base.
+p: B || What is turbidity? || How cloudy water is.
+p: B || What is dissolved oxygen? || Oxygen mixed in water.
+p: B || What is an indicator species? || An organism showing environmental conditions.
+p: I || What pH is neutral? || 7.
+p: I || What is a typical healthy stream pH range? || About 6.5–8.5.
+p: I || How much dissolved oxygen do most fish need? || More than about 5 mg/L.
+p: I || Name three pollution-sensitive invertebrates. || Mayfly, stonefly and caddisfly larvae.
+p: I || Name two pollution-tolerant invertebrates. || Aquatic worms and leeches.
+p: I || Does cold or warm water hold more oxygen? || Cold.
+p: C || Why are invertebrates good indicators? || They live there all the time and reflect long-term conditions.
+p: C || Why might turbidity rise after rain? || Runoff carries soil into the water.
+p: C || How do riparian plants protect water quality? || They shade water, hold soil and filter runoff.
+p: C || Write your water-quality report. || Answers vary.
+mis: Thinking clear water is always clean | Keeping invertebrates instead of returning them | Wading into unsafe water
+et: Name two water tests. | What does finding stonefly larvae mean?
+mc: B || pH 7 is || neutral | acidic | basic | toxic || A
+mc: B || Turbidity measures || cloudiness | temperature | oxygen | depth || A
+mc: B || Dissolved oxygen is || oxygen in water | salt | sand | algae || A
+mc: B || Indicator species show || conditions | weather only | time | nothing || A
+mc: B || Benthic macroinvertebrates live || on stream bottoms | in trees | in the air | in deserts || A
+mc: B || Water quality is || how healthy water is | how deep | how fast | how cold only || A
+mc: I || A healthy stream pH is about || 6.5–8.5 | 1–2 | 12–14 | 0 || A
+mc: I || Most fish need oxygen above about || 5 mg/L | 0.5 mg/L | 50 mg/L | 500 mg/L || A
+mc: I || A pollution-sensitive insect is the || stonefly larva | aquatic worm | leech | midge larva || A
+mc: I || Cold water holds || more oxygen | less oxygen | no oxygen | salt || A
+mc: C || Invertebrates indicate || long-term conditions | today only | weather | nothing || A
+mc: C || Riparian plants || hold soil and shade water | cause erosion | warm water | add pollution || A
+sa: B || Define turbidity. || How cloudy water is.
+sa: B || What is an indicator species? || An organism whose presence shows environmental conditions.
+sa: I || Report your test results. || Answers vary.
+sa: I || What do sensitive invertebrates indicate? || Good water quality.
+sa: I || Why does cold water matter? || It holds more oxygen.
+sa: I || Why might turbidity rise after rain? || Runoff carries soil.
+sa: C || Explain how riparian plants protect water. || Shade, hold soil, filter runoff.
+sa: C || Write your water-quality report. || Answers vary.
+
+=== EOE8.B1 2
+hook: Most wild animals avoid people, but they leave clues everywhere: tracks in mud and snow, chewed twigs, scat, feathers and trails. Learning to read these signs lets you discover who shares your neighbourhood.
+sc: I can identify common Alberta animal tracks and signs | I can record wildlife observations in a survey | I can explain how wildlife depends on habitat and connected corridors
+v: track :: A footprint left by an animal.
+v: sign :: Any evidence of an animal, such as scat, chewing, nests or trails.
+v: habitat :: The place an animal lives and finds food, water, shelter and space.
+v: wildlife corridor :: A connected strip of habitat that lets animals move safely.
+v: migration :: Seasonal movement of animals from one area to another.
+v: citizen science :: Projects where the public collects data for scientists.
+ts: Who Lives Here? || Investigation || How can I find and record local wildlife?
+tx: Tracking guide (written for this lesson): ¶ Common Alberta tracks: deer: split heart shape (two toes). Coyote: oval with four toes and claw marks, often in a straight line. Domestic dog: rounder, toes more spread, wandering path. Snowshoe hare: large hind feet landing in front of small front feet (a Y-shaped pattern). Squirrel: small, with front and hind feet in a box pattern. Birds: three forward toes, one back. ¶ Other signs: chewed cones (squirrels), browsed twigs (deer, hares), woodpecker holes, scat, feathers, nests, trails through grass. ¶ Survey (40 minutes): along a set route near school or a park, record each sign: type, location, size (photo with a ruler or a coin for scale), likely animal and confidence (sure, probably, unsure). Never touch scat. ¶ Habitat needs: food, water, shelter, space. Roads and buildings can break habitat into pieces; wildlife corridors and crossings (like those on the Trans-Canada Highway in Banff National Park) help animals move. ¶ Citizen science: share observations with projects like iNaturalist (with a teacher account) so scientists can use the data.
+src: Original activity written for this lesson; tracking descriptions are general field-guide features.
+st: Learn common track shapes | Learn other animal signs | Survey a route and record signs | Photograph signs with a scale | Discuss habitat needs and corridors
+org: Sign | Location | Size | Likely animal | Confidence
+an: Which animal signs were most common? | How sure were you of each identification? | What habitat features supported these animals? | How could a wildlife corridor help animals near our school?
+pr: Complete a wildlife sign survey with at least six records, then explain what habitat features support the animals you found.
+ex: Deer track || What does a deer track look like? || Two toes || A split heart shape || What about a coyote?
+ex: Coyote vs dog || How do you tell a coyote track from a dog's? || Shape and path || Coyote: oval, narrow, straight line; dog: rounder, wandering || Why the difference?
+ex: Hare || Why do hare hind prints land in front? || Gait || Hares bound, swinging big hind feet past the front feet || What pattern does it make?
+ex: Corridor || Why are highway crossings in Banff important? || Connectivity || They let wildlife cross safely and reduce collisions || What else breaks habitat?
+p: B || What is a track? || An animal footprint.
+p: B || What is a sign? || Evidence of an animal.
+p: B || What is a habitat? || Where an animal finds food, water, shelter and space.
+p: B || What is a wildlife corridor? || Connected habitat for safe movement.
+p: B || What is citizen science? || Public helping collect scientific data.
+p: I || What does a deer track look like? || A split heart.
+p: I || How many toes does a coyote track show? || Four.
+p: I || What pattern do hare tracks make? || Big hind feet in front of small front feet.
+p: I || What eats seeds from cones and leaves piles of scales? || Squirrels.
+p: I || Should you touch scat? || No.
+p: I || Name the four habitat needs. || Food, water, shelter, space.
+p: C || Why record confidence in identification? || To show how reliable each record is.
+p: C || How do roads affect wildlife? || They break up habitat and cause collisions.
+p: C || Why is citizen science valuable? || Many observers collect far more data than scientists alone.
+p: C || Explain the habitat features you found. || Answers vary.
+mis: Assuming every canine track is a dog | Touching scat | Thinking city areas have no wildlife
+et: Describe a deer track. | Name the four habitat needs.
+mc: B || A track is || a footprint | a nest | a song | a map || A
+mc: B || A sign is || evidence of an animal | a road sign | a poster | a rule || A
+mc: B || Habitat provides || food, water, shelter, space | only food | only water | nothing || A
+mc: B || A wildlife corridor || connects habitat | blocks animals | is a road | is a fence || A
+mc: B || Citizen science involves || the public collecting data | only scientists | no data | movies || A
+mc: B || Migration is || seasonal movement | sleeping | hunting | nesting only || A
+mc: I || A deer track is || a split heart | four round toes | a Y shape | three toes || A
+mc: I || A coyote track walks in || a straight line | circles | zigzags always | no pattern || A
+mc: I || Hare hind feet land || in front of front feet | behind | beside | never || A
+mc: I || Banff highway crossings help || wildlife cross safely | cars go faster | block animals | nothing || A
+mc: C || Recording confidence shows || reliability | speed | colour | weather || A
+mc: C || Roads affect wildlife by || breaking up habitat | adding food | making corridors | nothing || A
+sa: B || Define wildlife corridor. || A connected strip of habitat that lets animals move safely.
+sa: B || What is citizen science? || Projects where the public collects data for scientists.
+sa: I || Describe deer, coyote and hare tracks. || Split heart; four-toed oval in a line; big hind feet ahead.
+sa: I || Name four kinds of animal sign. || Tracks, scat, chewing, nests.
+sa: I || How do roads affect wildlife? || They break up habitat and cause collisions.
+sa: I || Name the four habitat needs. || Food, water, shelter, space.
+sa: C || Explain why citizen science is valuable. || It collects far more data.
+sa: C || Explain the habitat features you found. || Answers vary.
+
+=== EOE8.C1 0
+hook: Alberta's landscapes provide energy, food, timber, homes and recreation, and each use changes the land. Understanding those impacts is the first step to making better decisions about how we share it.
+sc: I can identify major human land uses in Alberta | I can analyze positive and negative impacts on an environment | I can suggest ways to reduce negative impacts
+v: land use :: How people use an area of land, such as farming, cities or forestry.
+v: impact :: An effect, positive or negative, on the environment.
+v: habitat fragmentation :: Breaking habitat into smaller, disconnected pieces.
+v: reclamation :: Returning disturbed land to a useful, natural state.
+v: native grassland :: Prairie that has never been ploughed, with its original plants.
+v: mitigation :: Actions that reduce harm.
+ts: People and the Land || Investigation || How do human activities affect Alberta environments?
+tx: Land-use case cards (written for this lesson; groups take one each): ¶ 1. Agriculture: crops and ranching feed people and support the economy. Much native grassland has been ploughed; ranching on native grass can help keep grassland intact. ¶ 2. Energy development: oil, gas, wind and solar provide energy and jobs. Impacts can include land disturbance, linear features (roads, seismic lines, pipelines), and water use; companies are required to reclaim land. ¶ 3. Forestry: provides wood and jobs; clear-cuts change habitat; replanting is required. ¶ 4. Urban growth: housing and services for growing cities; pavement increases runoff; green spaces and parks help. ¶ 5. Recreation: parks and trails bring health and tourism; heavy use can erode trails and disturb wildlife. ¶ Analysis: for your case, make a T-chart of benefits and impacts on land, water, air and wildlife. Identify one mitigation (e.g. wildlife crossings, reclamation, riparian buffers, trail maintenance). ¶ Share: each group presents in 2 minutes; class looks for common impacts (like fragmentation).
+src: Original activity written for this lesson.
+st: Read a land-use case card | List benefits and impacts | Analyze effects on land, water, air and wildlife | Identify a mitigation | Share and compare cases
+org: Land use | Benefits | Impacts | Mitigation
+an: What impacts appeared in more than one land use? | Which benefits are most important to Albertans? | Which mitigation seems most effective? | Is any land use impact-free?
+pr: Analyze one Alberta land use with benefits, impacts and two mitigations, and present it to the class.
+ex: Fragmentation || How do seismic lines affect caribou? || Linear features || They break up forest and let predators travel more easily || What mitigation helps?
+ex: Urban runoff || Why do cities increase runoff? || Pavement || Impervious surfaces stop water soaking in || What helps?
+ex: Reclamation || What is reclamation? || Restore || Returning disturbed land to a useful, natural state || Who is responsible?
+ex: Ranching || How can ranching help grassland? || Grazing || Grazing native grass instead of ploughing keeps grassland intact || What risk does overgrazing bring?
+p: B || What is land use? || How people use land.
+p: B || What is an impact? || An effect on the environment.
+p: B || What is habitat fragmentation? || Breaking habitat into pieces.
+p: B || What is reclamation? || Restoring disturbed land.
+p: B || What is mitigation? || Actions that reduce harm.
+p: I || Name five Alberta land uses. || Agriculture, energy, forestry, urban growth, recreation.
+p: I || What is a linear feature? || A road, seismic line or pipeline corridor.
+p: I || What is native grassland? || Prairie never ploughed.
+p: I || What must forestry companies do after cutting? || Replant.
+p: I || How do cities increase runoff? || Pavement stops water soaking in.
+p: I || Name a mitigation for wildlife and roads. || Wildlife crossings.
+p: C || Why does fragmentation harm wildlife? || Animals lose connected space to find food, mates and shelter.
+p: C || Why is no land use impact-free? || All uses change land somehow.
+p: C || How can benefits and impacts be balanced? || With planning, mitigation and protecting key areas.
+p: C || Present your land-use analysis. || Answers vary.
+mis: Thinking only industry has impacts | Thinking impacts are always negative | Ignoring benefits people rely on
+et: Name one land use with a benefit and an impact. | What is mitigation?
+mc: B || Land use is || how people use land | weather | soil type | a map || A
+mc: B || An impact is || an effect | a cause only | a map | a tool || A
+mc: B || Fragmentation breaks habitat into || pieces | one big area | water | air || A
+mc: B || Reclamation || restores land | damages land | sells land | maps land || A
+mc: B || Mitigation || reduces harm | increases harm | ignores harm | causes harm || A
+mc: B || Native grassland is || never ploughed | a lawn | a crop | a forest || A
+mc: I || A linear feature is a || seismic line | lake | mountain | cloud || A
+mc: I || After cutting, forestry must || replant | pave | abandon | burn || A
+mc: I || Pavement causes || more runoff | more soaking | less flooding | nothing || A
+mc: I || A wildlife mitigation is || crossings | more roads | fences only | nothing || A
+mc: C || Fragmentation harms wildlife by || reducing connected space | adding food | making corridors | nothing || A
+mc: C || Every land use || has some impact | has none | is harmful only | is perfect || A
+sa: B || Define habitat fragmentation. || Breaking habitat into smaller, disconnected pieces.
+sa: B || What is mitigation? || Actions that reduce harm.
+sa: I || List five Alberta land uses. || Agriculture, energy, forestry, urban growth, recreation.
+sa: I || Give a benefit and an impact of urban growth. || Housing; more runoff.
+sa: I || What is reclamation? || Returning disturbed land to a natural state.
+sa: I || How can ranching help grassland? || Grazing native grass instead of ploughing.
+sa: C || Explain how benefits and impacts can be balanced. || Planning, mitigation, protecting key areas.
+sa: C || Present your analysis. || Answers vary.
+
+=== EOE8.C1 1
+hook: For thousands of years, Indigenous peoples have lived in relationship with the lands now called Alberta, building deep knowledge of plants, animals, seasons and fire. That knowledge offers important ways of thinking about how we care for the land today.
+sc: I can describe key ideas in Indigenous perspectives on relationship with the land | I can give examples of traditional ecological knowledge | I can listen to and learn from Indigenous voices respectfully
+v: traditional ecological knowledge :: Knowledge about the environment built by Indigenous peoples over many generations.
+v: reciprocity :: Giving back; caring for the land that cares for us.
+v: relationship :: A connection with responsibilities on both sides.
+v: cultural burning :: The planned use of fire by Indigenous peoples to care for land.
+v: oral tradition :: Knowledge passed on through stories, songs and teachings.
+v: protocol :: Respectful ways of asking for and receiving teachings.
+ts: Learning From the Land || Reflection || What can Indigenous perspectives teach us about caring for the land?
+tx: Learning guide (written for this lesson; teachings vary between nations, and local knowledge keepers should be invited following school protocols): ¶ Common themes shared by many Indigenous nations: land as a relative, not just a resource; responsibilities to future generations; reciprocity (take only what you need, give thanks, give back); everything is connected. ¶ Traditional ecological knowledge examples: knowing when and where plants and animals can be harvested sustainably; seasonal rounds (moving with the seasons); cultural burning used by many nations to renew grasslands and reduce fuel; detailed knowledge of medicinal plants such as sweetgrass and sage. ¶ Today: Indigenous Guardians programs employ community members to monitor and care for lands; parks increasingly co-manage with Indigenous nations. ¶ Activities: 1. Listen to a local knowledge keeper or a teacher-selected video from an Indigenous organization. 2. Note key teachings and questions. 3. Compare: how is "land as a relative" different from "land as a resource"? 4. Connect: link one teaching to something you learned in Outdoor Ed (e.g. reciprocity and Leave No Trace). ¶ Respect: Indigenous knowledge belongs to communities; share teachings accurately and credit where they came from.
+src: Summary written for this lesson; specific teachings should come from local Indigenous knowledge keepers.
+st: Learn common themes | Explore examples of traditional ecological knowledge | Listen to an Indigenous voice | Compare "relative" and "resource" views | Connect a teaching to your own learning
+org: Teaching | Example | Connection to my learning | Question
+an: What teaching stood out to you, and why? | How does seeing land as a relative change how you treat it? | How is cultural burning similar to modern fire management? | How can you show respect when learning from Indigenous knowledge?
+pr: Write a reflection on one Indigenous teaching about land, how it connects to your Outdoor Ed learning and one way it could guide a decision today.
+ex: Relative vs resource || How does "land as a relative" change behaviour? || Responsibility || You care for a relative and take only what you need || How about "resource"?
+ex: Cultural burning || Why burn grassland? || Renewal || Fire renews grass and reduces fuel for wildfires || What modern practice is similar?
+ex: Guardians || What do Indigenous Guardians do? || Monitoring || Monitor and care for lands and waters for their nations || Why is this valuable?
+ex: Respect || How do you share a teaching respectfully? || Credit || Share accurately and say who it came from || Why does credit matter?
+p: B || What is traditional ecological knowledge? || Generations of Indigenous knowledge about the environment.
+p: B || What is reciprocity? || Giving back to what cares for us.
+p: B || What is cultural burning? || Planned Indigenous use of fire to care for land.
+p: B || What is oral tradition? || Knowledge passed through stories and teachings.
+p: B || What is a protocol? || A respectful way to ask for and receive teachings.
+p: I || Name a common theme in Indigenous perspectives. || Land as a relative.
+p: I || What is a seasonal round? || Moving with the seasons to harvest and live.
+p: I || Name two medicinal plants. || Sweetgrass and sage.
+p: I || What do Guardians programs do? || Monitor and care for lands.
+p: I || Why invite knowledge keepers through protocols? || To show respect.
+p: I || What should you do when sharing a teaching? || Share accurately and credit it.
+p: C || How does reciprocity connect to Leave No Trace? || Both mean taking only what you need and caring for the land.
+p: C || Why are teachings different between nations? || Each nation has its own lands, languages and knowledge.
+p: C || How can traditional knowledge help modern land management? || It offers long-term observation and proven practices like burning.
+p: C || Write your reflection. || Answers vary.
+mis: Treating all Indigenous peoples as having one set of teachings | Thinking traditional knowledge is only historical | Sharing teachings without credit
+et: What is reciprocity? | Name one example of traditional ecological knowledge.
+mc: B || Traditional ecological knowledge is || generations of land knowledge | a textbook | a law | a myth only || A
+mc: B || Reciprocity means || giving back | taking all | ignoring | selling || A
+mc: B || Cultural burning || renews land | destroys forever | is accidental | is illegal always || A
+mc: B || Oral tradition passes knowledge by || stories and teachings | email | textbooks only | TV || A
+mc: B || A protocol is || a respectful way to ask | a test | a map | a fence || A
+mc: B || Sweetgrass is a || medicinal plant | tree | animal | river || A
+mc: I || A common theme is land as || a relative | a product only | nothing | a burden || A
+mc: I || Guardians programs || monitor and care for land | sell land | build roads | ban people || A
+mc: I || A seasonal round means || moving with seasons | staying put | migrating birds | holidays || A
+mc: I || Sharing teachings requires || accuracy and credit | changing them | hiding sources | nothing || A
+mc: C || Teachings differ because || each nation has its own knowledge | they're random | they're wrong | nobody knows || A
+mc: C || Reciprocity connects to || Leave No Trace | littering | overharvesting | nothing || A
+sa: B || Define traditional ecological knowledge. || Knowledge about the environment built by Indigenous peoples over generations.
+sa: B || What is cultural burning? || The planned use of fire by Indigenous peoples to care for land.
+sa: I || Name three common themes. || Land as relative, future generations, reciprocity.
+sa: I || What do Indigenous Guardians do? || Monitor and care for lands and waters.
+sa: I || How do you share teachings respectfully? || Accurately and with credit.
+sa: I || Why are teachings different between nations? || Different lands, languages and knowledge.
+sa: C || Explain how traditional knowledge helps land management. || Long-term observation and proven practices.
+sa: C || Write your reflection. || Answers vary.
+
+=== EOE8.C1 2
+hook: A proposed project near a river: a rancher, a First Nation, a mining company, a town council and a birdwatchers' club all see the same land differently. Good decisions start with understanding every perspective.
+sc: I can identify stakeholders in a land-use decision | I can explain different perspectives and the values behind them | I can propose a decision that balances perspectives
+v: stakeholder :: A person or group affected by or interested in a decision.
+v: perspective :: A point of view shaped by values and experiences.
+v: values :: Beliefs about what is important.
+v: trade-off :: Giving up one benefit to gain another.
+v: consultation :: Asking affected people for input before deciding.
+v: compromise :: A solution where each side gives something up.
+ts: Many Views, One Land || Discussion || How do different perspectives shape land-use decisions?
+tx: Role-play scenario (fictional, written for this lesson): "Willow Creek Valley": a company proposes a gravel pit beside Willow Creek near a small town. Gravel is needed for roads and construction. ¶ Stakeholder roles: 1. Gravel company: jobs, local supply, lower road-building costs; plans to reclaim the site in 20 years. 2. Local First Nation: the valley holds cultural sites and medicine plants; wants to be consulted and protect the creek. 3. Rancher: worried about dust, noise and creek water for cattle; might benefit from road upgrades. 4. Town council: needs jobs and tax revenue; also hears residents' concerns. 5. Conservation group: creek has trout and is a bird migration stopover; wants riparian protection. 6. Residents: concerned about truck traffic past the school. ¶ Steps: 1. Read your role card; list your values and concerns. 2. Town hall: each stakeholder speaks for 1 minute. 3. Map common ground and conflicts. 4. In mixed groups, propose a decision: approve, reject or approve with conditions (e.g. setback from creek, truck routes, consultation agreement, reclamation bond). 5. Explain the trade-offs.
+src: Original fictional scenario written for this lesson.
+st: Read a stakeholder role card | Identify values and concerns | Speak at a town hall | Map common ground and conflicts | Propose a balanced decision with trade-offs
+org: Stakeholder | Values | Concerns | Possible benefits
+an: Which perspective was hardest to understand? | Where did stakeholders agree? | What trade-offs did your group accept? | Why is consultation important before decisions?
+pr: Write a decision proposal for Willow Creek Valley that addresses at least four stakeholder perspectives and explains the trade-offs.
+ex: Values || What does the conservation group value? || Ecology || Healthy creek, fish and bird habitat || What does the company value?
+ex: Common ground || Where might the rancher and conservation group agree? || Creek || Both want clean creek water || What conflicts remain?
+ex: Condition || Suggest a condition to protect the creek. || Buffer || A 100 m setback with no digging near the creek || Who benefits?
+ex: Trade-off || What is a trade-off of rejecting the pit? || Loss || Protects the valley but loses jobs and raises gravel costs || Is it worth it?
+p: B || What is a stakeholder? || A person or group affected by a decision.
+p: B || What is a perspective? || A point of view.
+p: B || What are values? || Beliefs about what matters.
+p: B || What is a trade-off? || Giving up one benefit for another.
+p: B || What is consultation? || Asking affected people before deciding.
+p: I || Name four stakeholders in the scenario. || Company, First Nation, rancher, conservation group.
+p: I || What does the gravel company offer? || Jobs and local gravel supply.
+p: I || What is the First Nation's concern? || Cultural sites, medicine plants and consultation.
+p: I || What is the residents' concern? || Truck traffic past the school.
+p: I || Name a possible approval condition. || A setback from the creek.
+p: I || What is a reclamation bond? || Money set aside to guarantee the land is restored.
+p: C || Why do stakeholders see the same land differently? || Their values and needs differ.
+p: C || Why is consultation important? || It respects rights and leads to better decisions.
+p: C || Why do most real decisions involve trade-offs? || It's rarely possible to give everyone everything.
+p: C || Write your decision proposal. || Answers vary.
+mis: Thinking one side is completely right | Ignoring stakeholders without power | Thinking compromise means everyone loses
+et: Define stakeholder. | Give one trade-off in the Willow Creek scenario.
+mc: B || A stakeholder is || affected by a decision | always the winner | a referee | a tool || A
+mc: B || A perspective is || a point of view | a fact | a map | a rule || A
+mc: B || Values are || beliefs about what matters | prices | numbers | maps || A
+mc: B || A trade-off means || giving up one benefit for another | getting everything | losing all | nothing || A
+mc: B || Consultation means || asking affected people | ignoring them | voting alone | guessing || A
+mc: B || A compromise || has each side give something | has one winner | ends talks | is illegal || A
+mc: I || The company offers || jobs and gravel | trout | medicine plants | quiet || A
+mc: I || The First Nation wants || consultation and protection | only money | nothing | more traffic || A
+mc: I || A creek protection condition is || a setback | more digging | removing trees | draining it || A
+mc: I || Residents worry about || truck traffic | too much quiet | fewer roads | birds || A
+mc: C || Perspectives differ because of || values and needs | luck | weather | colour || A
+mc: C || Real decisions usually involve || trade-offs | no costs | one perfect answer | nothing || A
+sa: B || Define trade-off. || Giving up one benefit to gain another.
+sa: B || What is consultation? || Asking affected people for input before deciding.
+sa: I || List four stakeholders and their values. || Answers vary.
+sa: I || Where did stakeholders find common ground? || Answers vary.
+sa: I || Suggest two conditions for approval. || Creek setback, truck routes, consultation, reclamation bond.
+sa: I || What is a reclamation bond? || Money guaranteeing restoration.
+sa: C || Explain why consultation matters. || It respects rights and improves decisions.
+sa: C || Write your decision proposal. || Answers vary.
+
+=== EOE8.D1 0
+hook: Many community groups already care for local parks, creeks and natural areas, and they welcome help. Partnering with them gives students real projects, expert guidance and a lasting connection to their community.
+sc: I can research local organizations that care for the environment | I can contact a partner professionally | I can explain what makes a good partnership
+v: partnership :: Working together toward a shared goal.
+v: community organization :: A local group working for a cause, such as a stewardship society.
+v: volunteer :: Someone who gives time without pay.
+v: stewardship group :: A group that cares for a natural area.
+v: professional communication :: Clear, polite, purposeful writing or speaking.
+v: mutual benefit :: When both partners gain something.
+ts: Finding a Partner || Project || Who in our community cares for the environment, and how can we help?
+tx: Partner research (written for this lesson): ¶ Types of partners: your municipality's parks or environment department; local stewardship or "friends of" park groups; watershed councils (Alberta has Watershed Planning and Advisory Councils for major basins); naturalist clubs; Indigenous organizations; land trusts; school district sustainability staff. ¶ Research (20 minutes): in groups, find two possible partners. Record: name, mission, projects, how they work with youth, contact info (from official websites). ¶ Choose: which partner best fits the class's interests and the schoolyard or community needs identified earlier? ¶ Professional email (teacher sends from the school account): greeting; who we are (grade 8 Outdoor Ed class, school name); what we've learned; what we hope to do together; dates that work; thanks and closing. Keep it short and specific. ¶ Partnership qualities: shared goals, clear roles, good communication, mutual benefit (students learn and help; the group gets volunteers and youth engagement), respect for the partner's expertise.
+src: Original activity written for this lesson; organization types are general examples.
+st: Learn about types of partners | Research two local organizations | Choose the best-fit partner | Draft a professional email | Discuss qualities of a good partnership
+org: Organization | Mission | Projects | Youth involvement | Fit
+an: Which organization surprised you? | Why is your chosen partner the best fit? | What would the partner gain from working with us? | What makes a partnership last?
+pr: Write a profile of a potential partner organization and draft a professional email proposing a joint project.
+ex: Mission || What is a mission statement? || Purpose || A short statement of what an organization aims to do || Why read it?
+ex: Mutual benefit || What does a partner gain from student volunteers? || Both gain || Help with projects and youth engagement || What do students gain?
+ex: Email opener || Write the first line of a professional email. || Polite and clear || "Dear Ms. Singh, we are a Grade 8 Outdoor Education class at..." || What comes next?
+ex: Fit || How do you choose the best partner? || Match || Compare their projects with the needs you identified || What else matters?
+p: B || What is a partnership? || Working together toward a shared goal.
+p: B || What is a community organization? || A local group working for a cause.
+p: B || What is a volunteer? || Someone who gives time without pay.
+p: B || What is a stewardship group? || A group caring for a natural area.
+p: B || What is mutual benefit? || Both partners gain.
+p: I || Name three types of partners. || Parks department, stewardship group, watershed council.
+p: I || What should you record about each partner? || Name, mission, projects, youth work, contact.
+p: I || Where should contact info come from? || Official websites.
+p: I || Who sends the email? || The teacher from the school account.
+p: I || Name three parts of a professional email. || Greeting, purpose, thanks.
+p: I || What are WPACs? || Alberta's Watershed Planning and Advisory Councils.
+p: C || Why partner instead of working alone? || Partners bring expertise, resources and lasting impact.
+p: C || Why keep emails short and specific? || Busy people respond better to clear requests.
+p: C || Why respect a partner's expertise? || They know the site and best practices.
+p: C || Share your partner profile and email. || Answers vary.
+mis: Thinking students must do projects alone | Sending vague or informal emails | Choosing a partner without checking fit
+et: Name one possible partner. | What is mutual benefit?
+mc: B || A partnership is || working together | competing | ignoring | arguing || A
+mc: B || A volunteer || gives time without pay | is paid | is a boss | is a customer || A
+mc: B || A stewardship group || cares for a natural area | builds malls | sells land | paves parks || A
+mc: B || Mutual benefit means || both gain | one gains | none gain | one loses || A
+mc: B || A mission statement shows || an organization's purpose | prices | staff names | a map || A
+mc: B || Professional emails are || clear and polite | long and casual | rude | blank || A
+mc: I || A possible partner is || a parks department | a video game | a fast-food chain | nobody || A
+mc: I || Contact info should come from || official websites | rumours | guesses | social comments || A
+mc: I || The email is sent by || the teacher | a random student | nobody | a parent only || A
+mc: I || WPACs focus on || watersheds | sports | music | traffic || A
+mc: C || Partners bring || expertise and resources | problems only | nothing | confusion || A
+mc: C || Short emails work because || busy people respond better | they're rude | they're unclear | nothing || A
+sa: B || Define partnership. || Working together toward a shared goal.
+sa: B || What is mutual benefit? || When both partners gain something.
+sa: I || Name three types of partner organizations. || Parks department, stewardship group, watershed council.
+sa: I || Describe your chosen partner. || Answers vary.
+sa: I || List the parts of a professional email. || Greeting, who we are, purpose, dates, thanks.
+sa: I || What does each side gain? || Students learn; partners get volunteers.
+sa: C || Explain why partnerships matter. || Expertise, resources and lasting impact.
+sa: C || Share your partner profile. || Answers vary.
+
+=== EOE8.D1 1
+hook: Invasive plants like garlic mustard and purple loosestrife spread fast and push out native species. Restoration projects pull invaders, plant natives and give habitats a chance to recover.
+sc: I can identify common invasive and native plants in Alberta | I can plan a restoration activity with a partner | I can explain how restoration improves habitat
+v: restoration :: Helping a damaged ecosystem return to health.
+v: invasive species :: A non-native species that spreads and harms ecosystems.
+v: native plant :: A plant that naturally grows in the region.
+v: noxious weed :: A plant that the law requires landowners to control.
+v: riparian planting :: Planting along streams to stabilize banks and filter runoff.
+v: site plan :: A map and list of what will be done where.
+ts: Planning a Restoration || Project || How do we plan a restoration project that helps habitat recover?
+tx: Restoration planning (written for this lesson): ¶ Alberta's Weed Control Act classifies some invasive plants as "prohibited noxious" (must be destroyed) or "noxious" (must be controlled). Examples: purple loosestrife, garlic mustard (prohibited noxious); Canada thistle, oxeye daisy, common tansy, leafy spurge (noxious). ¶ Native alternatives: willows and red-osier dogwood along streams; prairie crocus, wild bergamot, fireweed, goldenrod and native grasses in open areas. ¶ Plan with your partner: 1. Site: where will we work? Walk it with the partner. 2. Activity: pulling invasive weeds, planting native seedlings, live-staking willows, litter clean-up, building a fence to keep people off a recovering area. 3. Identify: learn to recognize the target invasive plant and look-alikes (with partner guidance). 4. Logistics: date, transport, permission forms, gloves, tools, bags for weeds (bag invasive seeds; don't compost), water, first aid, washrooms. 5. Safety: wear gloves (some plants irritate skin); no tool use without instruction. 6. Measures: count plants pulled or planted, area restored, before/after photos.
+src: Original activity written for this lesson; plant classifications from Alberta's Weed Control Regulation.
+st: Learn invasive and native plants | Walk the site with the partner | Choose restoration activities | Plan logistics and safety | Set measures of success
+org: Task | Location | Materials | Who | Measure
+an: Why are invasive plants a problem? | Which native plants will we use, and why? | What safety risks do we need to plan for? | How will we know the restoration worked?
+pr: Create a restoration site plan with partner input, including target species, activities, logistics, safety and success measures.
+ex: Invasive || Why is purple loosestrife a problem? || Spreads || It takes over wetlands and crowds out native plants || What category is it in Alberta?
+ex: Bagging || Why bag pulled invasive weeds, not compost them? || Seeds || Seeds can survive and spread from compost || Where do the bags go?
+ex: Riparian planting || Why plant willows on a creek bank? || Roots || Roots hold soil and shade the water || What is live-staking?
+ex: Measures || How do you measure a weed pull's success? || Count and photos || Count bags or plants removed and compare photos over time || When do you check again?
+p: B || What is restoration? || Helping a damaged ecosystem recover.
+p: B || What is an invasive species? || A non-native species that harms ecosystems.
+p: B || What is a native plant? || A plant that naturally grows in the region.
+p: B || What is a noxious weed? || A plant landowners must control by law.
+p: B || What is riparian planting? || Planting along streams.
+p: I || Name two prohibited noxious weeds in Alberta. || Purple loosestrife and garlic mustard.
+p: I || Name two noxious weeds in Alberta. || Canada thistle and oxeye daisy.
+p: I || Name a native shrub for creek banks. || Red-osier dogwood or willow.
+p: I || Why wear gloves? || Some plants irritate skin.
+p: I || What should you do with pulled invasive weeds? || Bag them; don't compost.
+p: I || Which Alberta law classifies weeds? || The Weed Control Act.
+p: C || Why do invasive species spread so quickly? || They often have no natural predators here.
+p: C || Why involve the partner in identifying plants? || To avoid pulling native look-alikes.
+p: C || Why measure before and after? || To show whether restoration worked.
+p: C || Share your site plan. || Answers vary.
+mis: Composting invasive weeds | Pulling plants you can't identify | Thinking all wildflowers are native
+et: Name an invasive plant. | Why bag invasive weeds?
+mc: B || Restoration helps ecosystems || recover | collapse | stay damaged | disappear || A
+mc: B || Invasive species || harm ecosystems | always help | are native | are rare || A
+mc: B || Native plants || grow naturally here | come from overseas | are plastic | are invasive || A
+mc: B || Noxious weeds must be || controlled | planted | protected | sold || A
+mc: B || Riparian planting is along || streams | highways | rooftops | deserts || A
+mc: B || A site plan shows || what happens where | the menu | the weather | the budget only || A
+mc: I || A prohibited noxious weed is || purple loosestrife | fireweed | wild bergamot | prairie crocus || A
+mc: I || A noxious weed is || Canada thistle | willow | goldenrod | red-osier dogwood || A
+mc: I || Pulled invasive weeds go in || bags | compost | the creek | the field || A
+mc: I || A creek-bank native is || willow | garlic mustard | tansy | leafy spurge || A
+mc: C || Invasives spread fast because they || lack natural predators | are slow | are rare | are protected || A
+mc: C || Partners help identify plants to || avoid pulling natives | slow work | confuse | add weeds || A
+sa: B || Define invasive species. || A non-native species that spreads and harms ecosystems.
+sa: B || What is restoration? || Helping a damaged ecosystem return to health.
+sa: I || Name two invasive and two native Alberta plants. || Answers vary, e.g. garlic mustard, Canada thistle; willow, fireweed.
+sa: I || Why bag invasive weeds? || Seeds can spread from compost.
+sa: I || Why plant willows along creeks? || Roots hold soil and shade water.
+sa: I || List three logistics items. || Date, permission forms, gloves.
+sa: C || Explain why invasive species spread quickly. || No natural predators.
+sa: C || Share your site plan. || Answers vary.
+
+=== EOE8.D1 2
+hook: Restoration day turns plans into real change. Then comes the part that makes projects better each year: measuring results honestly and learning what worked.
+sc: I can carry out restoration tasks safely and effectively | I can evaluate the project using data and feedback | I can thank partners and share results with the community
+v: evaluation :: Judging how well a project met its goals.
+v: outcome :: A result of a project.
+v: feedback :: Comments that help improve future work.
+v: impact report :: A short summary of what a project achieved.
+v: follow-up monitoring :: Checking a site later to see lasting change.
+v: gratitude :: Showing thanks.
+ts: Restore, Evaluate, Share || Project || How do we carry out and evaluate a restoration project?
+tx: Restoration day and evaluation (written for this lesson): ¶ 1. Arrival and briefing: partner explains the site, target plants, tools and safety. ¶ 2. Work in teams: record counts (plants pulled or planted, bags filled, area covered); take before/after photos from the same spots ("photo points"). ¶ 3. Wrap-up circle: one thing learned, one thing noticed about the land. ¶ 4. Evaluation (back at school): compare outcomes with your goals: e.g. "Goal: 200 native seedlings planted; outcome: 230." Survey participants and the partner: what worked, what to improve? ¶ 5. Impact report (one page): goals, what we did, numbers, photos, quotes, lessons learned, next steps. ¶ 6. Gratitude: send thank-you notes or a short video to the partner. ¶ 7. Share: post the impact report on the school website or newsletter with permission. ¶ 8. Follow-up monitoring: plan a return visit (e.g. in spring) to check seedling survival or weed regrowth at the same photo points.
+src: Original activity written for this lesson.
+st: Join the partner briefing | Work in teams and record counts | Take photo-point pictures | Evaluate outcomes against goals | Write an impact report, thank partners and plan follow-up
+org: Goal | Outcome | Met? | Lesson learned
+an: Did you meet your goals? | What did the partner's feedback say? | What would you change next time? | Why is follow-up monitoring important?
+pr: Write a one-page impact report with goals, outcomes, photos, feedback and next steps, and send a thank-you to your partner.
+ex: Goal vs outcome || Goal 200 seedlings; planted 230. Met? || Compare || Yes, exceeded by 30 || What percent of the goal?
+ex: Percent of goal || 230 of 200? || 230 ÷ 200 × 100 || 115% || What if only 150 were planted?
+ex: Photo points || Why take photos from the same spots? || Fair comparison || So changes over time are clear || When do you return?
+ex: Follow-up || Why check seedlings in spring? || Survival || To see how many survived winter || What if many died?
+p: B || What is evaluation? || Judging how well a project met goals.
+p: B || What is an outcome? || A result.
+p: B || What is feedback? || Comments to improve work.
+p: B || What is an impact report? || A summary of what a project achieved.
+p: B || What is follow-up monitoring? || Checking a site later.
+p: I || What are photo points? || Fixed spots for before and after photos.
+p: I || 150 of 200 seedlings: percent of goal? || 75%.
+p: I || Name three parts of an impact report. || Goals, numbers, next steps.
+p: I || Who should you thank? || The partner organization.
+p: I || What happens in the wrap-up circle? || Share one learning and one observation.
+p: I || When might you do follow-up? || In spring.
+p: C || Why survey the partner? || They see the project's value from an expert view.
+p: C || Why report lessons learned honestly? || So future projects improve.
+p: C || Why does gratitude strengthen partnerships? || Partners feel valued and want to work together again.
+p: C || Write your impact report. || Answers vary.
+mis: Only reporting successes | Forgetting to thank partners | Never returning to check results
+et: What is an outcome? | Why use photo points?
+mc: B || Evaluation judges || how well goals were met | the weather | the bus | nothing || A
+mc: B || An outcome is || a result | a plan | a goal | a guess || A
+mc: B || Feedback helps || improve | hide | stop | confuse || A
+mc: B || An impact report || summarizes achievements | lists complaints | is a menu | is a map || A
+mc: B || Follow-up monitoring || checks later | ends projects | starts projects | is optional always || A
+mc: B || Photo points are || fixed photo spots | random photos | selfies | drawings || A
+mc: I || 230 of 200 is || 115% | 87% | 30% | 230% || A
+mc: I || 150 of 200 is || 75% | 50% | 150% | 25% || A
+mc: I || Thank-you notes go to || the partner | nobody | the weeds | yourself only || A
+mc: I || Follow-up could be in || spring | never | the same hour | 50 years || A
+mc: C || Honest lessons learned || improve future projects | embarrass | waste time | hide data || A
+mc: C || Gratitude makes partners || want to work again | leave | angry | confused || A
+sa: B || Define evaluation. || Judging how well a project met its goals.
+sa: B || What is follow-up monitoring? || Checking a site later to see lasting change.
+sa: I || Compare your goal and outcome. || Answers vary.
+sa: I || Why use photo points? || To compare changes fairly over time.
+sa: I || List parts of an impact report. || Goals, actions, numbers, photos, feedback, lessons, next steps.
+sa: I || Why survey the partner? || For an expert view of value.
+sa: C || Explain why gratitude matters. || It strengthens partnerships.
+sa: C || Write your impact report. || Answers vary.
