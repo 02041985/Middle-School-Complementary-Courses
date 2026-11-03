@@ -1,0 +1,637 @@
+=== CTF7.A1 1
+hook: A restaurant asks a team to invent a new lunch item. Without rules, one person makes soup, one makes cake, and one makes a sandwich nobody can afford. A clear brief with criteria keeps everyone working toward the same target.
+sc: I can explain what a challenge brief is | I can pick out the requirements and limits in a brief | I can write clear criteria for success
+v: challenge :: A task in CTF where you create a product, service or solution.
+v: brief :: A short description of the challenge: who it is for, what is needed and the limits.
+v: criteria :: The standards used to judge whether a product is successful.
+v: constraint :: A limit, such as time, cost, materials or size.
+v: client :: The person or group the product is made for.
+v: measurable :: Able to be checked with a test, count or measurement.
+ts: Decode the Brief || Design challenge || How does a clear brief lead to clear criteria?
+tx: Sample brief (written for this lesson): ¶ "The Grade 6 class is holding a reading celebration and needs a bookmark for each student. Each bookmark must be 5 cm by 20 cm, fit in a paperback, show the school's reading slogan and be made from materials already in our room. The class needs 30 bookmarks in two lessons, and the cost must stay under 10 dirhams in total." ¶ Part 1: Highlight the client (who), the need (what), the constraints (limits) and any hints about what the client values. ¶ Part 2: Turn the brief into four to six criteria. Good criteria are specific and measurable: "Bookmark is 5 cm by 20 cm (± 2 mm)" is better than "Bookmark is a good size." ¶ Part 3: Swap criteria with a partner. Can each criterion be checked with a ruler, a count, a test or a simple yes/no? Rewrite any that cannot.
+src: Original activity written for this lesson.
+st: Read the brief and highlight the client, need and constraints | List what the client values | Write four to six criteria | Check that each criterion is measurable | Revise criteria with a partner
+org: Part of the brief | Words from the brief | Criterion I wrote | How I will check it
+an: Who is the client and what do they need? | Which constraints will be hardest to meet? | Which of your criteria was hardest to make measurable? | How could unclear criteria cause problems later?
+pr: Write a criteria checklist for the bookmark challenge with at least five measurable criteria, then circle the one you think matters most to the client.
+ex: Finding the client || Who is the client in the bookmark brief? || Who is the product for? | Look for "needs" || The Grade 6 class || Why does knowing the client matter?
+ex: Spotting constraints || List the constraints in the brief. || Size | Materials | Time | Cost || 5 cm by 20 cm, classroom materials only, two lessons, under 10 dirhams || Which is hardest?
+ex: Vague to measurable || Rewrite "The bookmark looks nice." || Ask what "nice" means to the client | Make it checkable || "Slogan is readable from 1 m away and has no smudges" || Write one more.
+ex: Need vs want || The client "would love" glitter. Is that a criterion? || Needs must be met | Wants are extras || A want; nice to include if time allows || Why separate needs and wants?
+p: B || What is a challenge brief? || A short description of who the product is for, what is needed and the limits.
+p: B || What are criteria? || Standards used to judge if a product is successful.
+p: B || What is a constraint? || A limit such as time, cost, materials or size.
+p: B || Who is the client? || The person or group the product is made for.
+p: B || What does measurable mean? || Able to be checked by a test, count or measurement.
+p: I || Name the four constraints in the bookmark brief. || Size, materials, time and cost.
+p: I || Is "the bookmark is strong" measurable? || Not yet; it needs a test, such as surviving 20 page turns without tearing.
+p: I || Rewrite "it is colourful" as a measurable criterion. || "Uses at least three colours."
+p: I || How many bookmarks are needed? || 30.
+p: I || What is the difference between a need and a want? || A need must be met; a want is an extra.
+p: I || Why check criteria with a partner? || A partner can spot criteria that are vague or impossible to check.
+p: C || Why do designers write criteria before they start making? || So they know what success looks like and can plan for it.
+p: C || What could happen if the cost constraint is ignored? || The client may not be able to afford the product, so it fails the brief.
+p: C || Write a criterion for safety in the bookmark challenge. || "No sharp edges or loose pieces."
+p: C || How do criteria help in the appraising stage later? || They give a checklist to test the finished product against.
+mis: Thinking criteria are just opinions | Thinking every idea from the client is a requirement | Thinking constraints only mean money
+et: Name two constraints in a brief. | Rewrite a vague criterion so it is measurable.
+mc: B || A brief describes || the client, need and limits | only the price | only the materials | the final grade || A
+mc: B || Criteria are || standards for success | a list of tools | a type of sketch | a career || A
+mc: B || A constraint is || a limit | a reward | a client | a feeling || A
+mc: B || The client is || who the product is for | the teacher only | the designer | the store || A
+mc: B || Measurable means || can be checked or measured | looks nice | is expensive | is secret || A
+mc: B || Which is a constraint in the bookmark brief? || under 10 dirhams | glitter | blue colour | a famous author || A
+mc: I || Which criterion is measurable? || 5 cm by 20 cm | looks cool | is fun | is good || A
+mc: I || "The client would love glitter" is a || want | need | constraint | test || A
+mc: I || Criteria help later when you || appraise the product | buy materials | clean up | choose a career || A
+mc: I || The bookmark must fit || a paperback | a laptop | a locker | a pencil case || A
+mc: C || Writing criteria first helps designers || plan toward success | skip planning | avoid testing | ignore the client || A
+mc: C || Ignoring a cost constraint means || the product may fail the brief | the product improves | nothing changes | the client pays more happily || A
+sa: B || Define criteria. || Standards used to judge whether a product is successful.
+sa: B || What is a constraint? || A limit, such as time, cost, materials or size.
+sa: I || List the constraints in the bookmark brief. || Size, classroom materials, two lessons and under 10 dirhams.
+sa: I || Rewrite "the bookmark is nice" as a measurable criterion. || Answers vary; e.g. the slogan is readable from 1 m away.
+sa: I || Explain the difference between a need and a want. || A need must be met; a want is optional.
+sa: I || Who is the client in the bookmark brief? || The Grade 6 class.
+sa: C || Why should criteria be written before making? || So success is clear and the plan can aim for it.
+sa: C || Write five measurable criteria for a bookmark. || Answers vary; must be checkable.
+
+=== CTF7.A1 2
+hook: A school bake sale opens in two hours, and the oven is still cold, nobody bought flour and three people are making the same cookies. Planning is the boring part that makes the exciting part work.
+sc: I can break a challenge into steps | I can list the materials, tools and time I need | I can make a realistic timeline
+v: plan :: A set of steps that shows how a challenge will be completed.
+v: timeline :: A schedule showing when each step will happen.
+v: materials :: The things used up to make a product, such as paper or ingredients.
+v: tools :: The equipment used to make a product, such as scissors or a ruler.
+v: milestone :: A checkpoint that shows an important part is finished.
+v: contingency :: A backup plan in case something goes wrong.
+ts: Plan It Out || Design challenge || How does a good plan make a challenge possible?
+tx: Challenge (written for this lesson): Your team has three 50-minute lessons to make a set of 30 reading-celebration bookmarks that meet your criteria from last lesson. ¶ Planning template: ¶ 1. Steps: List every step in order, from "collect materials" to "deliver to the Grade 6 class." ¶ 2. Materials and tools: For each step, list what is used up (materials) and what is reused (tools). ¶ 3. Time: Estimate minutes for each step. Add the times. Do they fit in 150 minutes? If not, cut, combine or speed up steps. ¶ 4. Roles: Who does each step? ¶ 5. Milestones: Mark two checkpoints, for example "first bookmark finished and checked against criteria." ¶ 6. Contingency: Write one problem that might happen (for example, the laminator breaks) and what you will do.
+src: Original activity written for this lesson.
+st: List the steps in order | List materials and tools for each step | Estimate the time for each step and total it | Assign roles and mark milestones | Write a contingency plan
+org: Step | Materials | Tools | Time (min) | Who
+an: Which step will take the longest? | Did your total time fit in 150 minutes? What did you change? | Why are milestones useful? | What is your biggest risk and your backup plan?
+pr: Complete a full plan for the bookmark challenge with steps, materials, tools, times, roles, two milestones and one contingency.
+ex: Materials or tools || Is a ruler a material or a tool? || Is it used up? | It is reused || A tool || Name a material for bookmarks.
+ex: Total time || Steps take 20, 45, 40, 30 and 25 minutes. Does it fit 150 minutes? || 20 + 45 + 40 + 30 + 25 = 160 || No; 10 minutes too long || What would you cut?
+ex: Milestone || Write a good milestone for the challenge. || A checkpoint for an important part || "First bookmark finished and checked against criteria by end of lesson 1" || Why check early?
+ex: Contingency || The printer is broken. What is your backup? || Think of another way to add the slogan || Hand-letter the slogan with a stencil || Why plan backups in advance?
+p: B || What is a plan? || A set of steps showing how to complete a challenge.
+p: B || What is a timeline? || A schedule showing when each step happens.
+p: B || What is the difference between materials and tools? || Materials are used up; tools are reused.
+p: B || What is a milestone? || A checkpoint showing an important part is finished.
+p: B || What is a contingency? || A backup plan.
+p: I || How many minutes are in three 50-minute lessons? || 150.
+p: I || Is glue a material or a tool? || A material.
+p: I || Steps total 160 minutes but you have 150. Name one fix. || Combine or shorten steps, or split work among team members.
+p: I || Why assign roles? || So everyone knows their job and no work is doubled.
+p: I || Name a sensible first step. || Collect and check materials.
+p: I || Name a sensible last step. || Check against criteria and deliver to the client.
+p: C || Why do people often underestimate time? || They forget setup, cleanup and fixing mistakes.
+p: C || How can a milestone save a project? || It shows problems early, while there is still time to fix them.
+p: C || Write a contingency for running out of card stock. || Use cereal-box card, or reduce size and ask for more early.
+p: C || How does planning connect to careers? || Every job, from chef to engineer, plans tasks, time and resources.
+mis: Thinking planning wastes time | Thinking the plan cannot change once written | Forgetting setup and cleanup time
+et: Name one material and one tool for your challenge. | What is one milestone in your plan?
+mc: B || A timeline shows || when each step happens | the price | the client | the criteria || A
+mc: B || A tool is || reused | used up | a cost | a client || A
+mc: B || A material is || used up | always a machine | a timeline | a milestone || A
+mc: B || A milestone is || a checkpoint | a backup plan | a tool | a client || A
+mc: B || A contingency is || a backup plan | the first step | a material | a criterion || A
+mc: B || Glue is a || material | tool | client | milestone || A
+mc: I || Three 50-minute lessons equal || 150 minutes | 100 minutes | 50 minutes | 300 minutes || A
+mc: I || Steps of 20, 45, 40, 30 and 25 minutes total || 160 minutes | 150 minutes | 140 minutes | 170 minutes || A
+mc: I || Roles help a team || avoid doubled work | skip planning | ignore criteria | avoid testing || A
+mc: I || A good final step is || check against criteria and deliver | buy materials | sketch ideas | choose a client || A
+mc: C || People underestimate time because they forget || setup and cleanup | the client | the colour | the brief || A
+mc: C || Milestones help by || showing problems early | ending the project | replacing criteria | removing roles || A
+sa: B || Define timeline. || A schedule showing when each step happens.
+sa: B || What is the difference between a material and a tool? || Materials are used up; tools are reused.
+sa: I || Your steps total 160 minutes but you have 150. What could you do? || Combine, shorten or share steps.
+sa: I || Write one milestone for the bookmark challenge. || Answers vary; e.g. first bookmark checked by end of lesson 1.
+sa: I || Write one contingency plan. || Answers vary.
+sa: I || Why assign roles in a team? || So everyone knows their job and work isn't doubled.
+sa: C || Explain why planning matters in a challenge. || It makes sure time, materials and people are ready to meet the criteria.
+sa: C || Complete a plan for your challenge. || Answers vary; must include steps, materials, time and roles.
+
+=== CTF7.B1 0
+hook: Every year, millions of people get sick from food that looked and smelled fine. Most of those illnesses come from simple mistakes: unwashed hands, a dirty cutting board, food left out too long. Professional kitchens follow strict rules, and today so will you.
+sc: I can follow hand-washing and food-safety rules | I can prevent cross-contamination | I can work safely with heat and knives
+v: food safety :: Practices that keep food from causing illness.
+v: bacteria :: Tiny living things; some cause food poisoning.
+v: cross-contamination :: Spreading bacteria from one food, surface or hand to another.
+v: sanitize :: To reduce bacteria on a surface to a safe level.
+v: danger zone :: The temperature range, 4 °C to 60 °C, where bacteria grow fastest.
+v: hazard :: Something that could cause harm.
+ts: Kitchen Safety Check || Design challenge || How do professional kitchens keep food and people safe?
+tx: Kitchen rules (summary written for this lesson, based on standard food-safety guidance): ¶ Clean: Wash hands with soap and warm water for at least 20 seconds before cooking, after touching raw meat or eggs, and after using the washroom or touching your face or phone. Wash and sanitize counters and boards. ¶ Separate: Use one cutting board for raw meat and another for ready-to-eat foods such as fruit. Never put cooked food on a plate that held raw meat. ¶ Cook: Cook food to a safe internal temperature (for example, chicken to 74 °C), checked with a food thermometer. ¶ Chill: Keep cold food at 4 °C or colder. Do not leave food in the danger zone (4 °C to 60 °C) for more than 2 hours. ¶ Kitchen safety: Tie back long hair, wear an apron, turn pot handles inward, use oven mitts, carry knives point down beside your leg, and wipe up spills right away. ¶ Station task: At five stations, find the hazard in each photo or set-up and write the rule that fixes it.
+src: Summary written for this lesson from standard food-safety guidance (clean, separate, cook, chill).
+st: Learn the four food-safety steps | Practise the 20-second hand wash | Visit five hazard stations | Write the rule that fixes each hazard | Make a kitchen-safety poster
+org: Station | Hazard I found | Rule that fixes it | Food safety or kitchen safety?
+an: Why is hand-washing the most important rule? | How can cross-contamination happen without anyone noticing? | Why is the danger zone dangerous? | Which kitchen-safety rule do people break most often?
+pr: Create a kitchen-safety poster with the four food-safety steps and three kitchen-safety rules, each with a picture or symbol.
+ex: Hand washing || How long should you wash your hands? || Soap and warm water | Scrub all surfaces || At least 20 seconds || When must you wash again?
+ex: Cross-contamination || You cut raw chicken, then slice apples on the same board. What is wrong? || Raw meat bacteria move to ready-to-eat food || Cross-contamination; use separate boards or wash and sanitize first || How else can it happen?
+ex: Danger zone || A pizza sat on the counter overnight. Is it safe? || Room temperature is in the danger zone | Limit is 2 hours || No; throw it out || Why can't you smell bacteria?
+ex: Knife safety || How do you carry a knife across a kitchen? || Point down | Beside your leg | Say "knife behind" || Point down beside your leg, warning others || Why is a sharp knife safer than a dull one?
+p: B || How long should you wash your hands? || At least 20 seconds.
+p: B || What is cross-contamination? || Spreading bacteria from one food, surface or hand to another.
+p: B || What is the danger zone? || 4 °C to 60 °C.
+p: B || What does sanitize mean? || To reduce bacteria on a surface to a safe level.
+p: B || What is a hazard? || Something that could cause harm.
+p: I || Name the four food-safety steps. || Clean, separate, cook and chill.
+p: I || How long can food stay in the danger zone? || No more than 2 hours.
+p: I || At what temperature should a fridge keep food? || 4 °C or colder.
+p: I || Why turn pot handles inward? || So nobody knocks the pot off the stove.
+p: I || To what internal temperature should chicken be cooked? || 74 °C.
+p: I || Name two times you must wash your hands. || Before cooking and after touching raw meat.
+p: C || Why can food that looks and smells fine still make you sick? || Harmful bacteria usually can't be seen or smelled.
+p: C || Plan how to avoid cross-contamination when making sandwiches with raw vegetables and cooked chicken. || Wash hands, use separate boards and utensils, and sanitize surfaces between tasks.
+p: C || Why is a dull knife more dangerous than a sharp one? || It needs more force and can slip.
+p: C || Why do restaurants have food-safety inspections? || To protect the public from foodborne illness.
+mis: Thinking food is safe if it smells fine | Thinking rinsing a board with water is enough | Thinking cooked food can sit out all day
+et: Name the four food-safety steps. | Give one way to prevent cross-contamination.
+mc: B || Hands should be washed for at least || 20 seconds | 2 seconds | 5 minutes | 1 second || A
+mc: B || The danger zone is || 4 °C to 60 °C | 0 °C to 4 °C | 60 °C to 100 °C | below 0 °C || A
+mc: B || Cross-contamination spreads || bacteria between foods or surfaces | flavours on purpose | heat | water only || A
+mc: B || Sanitize means || reduce bacteria to a safe level | add salt | cook longer | freeze || A
+mc: B || A hazard is || something that could cause harm | a recipe | a tool | an ingredient || A
+mc: B || The four food-safety steps include || clean, separate, cook, chill | wash, dry, eat, sleep | buy, cut, fry, serve | mix, bake, cool, sell || A
+mc: I || Food should not stay in the danger zone longer than || 2 hours | 8 hours | 1 day | 1 week || A
+mc: I || A fridge should keep food at || 4 °C or colder | 10 °C | 20 °C | 30 °C || A
+mc: I || Chicken should reach an internal temperature of || 74 °C | 40 °C | 50 °C | 100 °C || A
+mc: I || Pot handles should be turned || inward | outward | upward | toward you || A
+mc: C || Food that smells fine can still be unsafe because || bacteria can't be seen or smelled | smell always tells the truth | bacteria are large | cooking removes smell || A
+mc: C || A dull knife is dangerous because it || can slip with extra force | is sharp | is heavy | is new || A
+sa: B || Define cross-contamination. || Spreading bacteria from one food, surface or hand to another.
+sa: B || What is the danger zone? || 4 °C to 60 °C, where bacteria grow fastest.
+sa: I || Name the four food-safety steps. || Clean, separate, cook, chill.
+sa: I || Give two kitchen-safety rules. || Tie back hair and turn pot handles inward.
+sa: I || How long can food stay in the danger zone? || No more than 2 hours.
+sa: I || When must you wash your hands? || Before cooking, after raw meat or eggs, after the washroom.
+sa: C || Explain how to avoid cross-contamination when preparing a meal. || Separate boards and utensils, wash hands, sanitize surfaces.
+sa: C || Why can food that looks fine still cause illness? || Harmful bacteria can't be seen or smelled.
+
+=== CTF7.B1 1
+hook: Baking is chemistry. Add twice the baking soda and your muffins taste like soap; add half the flour and they collapse. A recipe only works if you measure the way the recipe writer did.
+sc: I can use measuring cups and spoons correctly | I can measure dry and liquid ingredients accurately | I can scale a recipe up or down
+v: recipe :: A set of instructions with ingredients and steps for making a food.
+v: dry measure :: A cup or spoon filled and levelled for dry ingredients.
+v: liquid measure :: A clear cup with lines, read at eye level.
+v: level :: Scraping off the extra so the ingredient is flat with the top of the measure.
+v: millilitre (mL) :: A metric unit of volume; 250 mL is one standard cup.
+v: scale a recipe :: To multiply or divide every ingredient to make more or less.
+ts: Measure Like a Chef || Design challenge || Why does accurate measuring matter in cooking?
+tx: Measuring guide (written for this lesson): ¶ Common metric measures: 1 cup = 250 mL, ½ cup = 125 mL, ¼ cup = 60 mL, 1 tablespoon (tbsp) = 15 mL, 1 teaspoon (tsp) = 5 mL. ¶ Dry ingredients (flour, sugar, oats): Spoon into a dry measure until heaped, then level with the back of a knife. Don't pack flour or shake the cup. Brown sugar is the exception: pack it firmly. ¶ Liquid ingredients (milk, oil, water): Use a clear liquid measure on the counter. Bend down so your eyes are level with the line. ¶ Small amounts (baking soda, salt): Use measuring spoons, level them off. ¶ Station test: Measure 1 cup of flour three ways (scooped and packed, spooned and levelled, shaken). Weigh each on a kitchen scale. A correct cup of all-purpose flour is about 130 g. Which method was closest?
+src: Original activity written for this lesson; standard Canadian kitchen measures.
+st: Learn the measuring tools and units | Practise levelling dry ingredients | Read a liquid measure at eye level | Do the three-way flour test and weigh each | Scale a recipe for a different number of people
+org: Method | Mass (g) | Difference from 130 g | Accurate?
+an: Which flour method gave the most? Why? | Why read liquids at eye level? | What could go wrong if baking soda is measured carelessly? | When would you need to scale a recipe?
+pr: Scale an energy-bite recipe that serves 4 so it serves 12, showing your work, then measure the ingredients for a 4-person batch accurately.
+ex: Conversion || How many mL is 3 tbsp? || 1 tbsp = 15 mL | 3 × 15 || 45 mL || How many tsp is that?
+ex: Levelling || Why level flour instead of packing it? || Packing squeezes more flour in || Packing adds extra flour and makes food dry and heavy || Which ingredient is packed on purpose?
+ex: Scaling up || A recipe for 4 uses ½ cup oats. How much for 12? || 12 ÷ 4 = 3 | 3 × ½ cup || 1½ cups (375 mL) || How much for 2 people?
+ex: Liquid measure || Why not read the measuring cup from above? || The line looks different from above || Reading from above gives the wrong amount; read at eye level || What happens if you add too much liquid?
+p: B || How many mL are in 1 cup? || 250 mL.
+p: B || How many mL are in 1 tablespoon? || 15 mL.
+p: B || How many mL are in 1 teaspoon? || 5 mL.
+p: B || What does level mean in measuring? || Scraping off the extra so it is flat with the top.
+p: B || How do you read a liquid measure? || On the counter, at eye level.
+p: I || How many teaspoons are in 1 tablespoon? || 3.
+p: I || Which ingredient is packed into the cup? || Brown sugar.
+p: I || A recipe for 2 needs 1 cup milk. How much for 6? || 3 cups (750 mL).
+p: I || A recipe for 8 needs 2 tsp salt. How much for 4? || 1 tsp.
+p: I || About how much does 1 cup of flour weigh? || About 130 g.
+p: I || Why use a dry measure for flour, not a liquid cup? || Dry measures can be levelled exactly.
+p: C || Why does accuracy matter more in baking than in making a salad? || Baking depends on chemical reactions that need exact amounts.
+p: C || Scale 1½ cups flour for a recipe serving 6 down to 2. || ½ cup.
+p: C || Why do professional bakers weigh ingredients? || Weight is more accurate than volume.
+p: C || What could happen if you doubled the baking soda? || Bitter or soapy taste and poor texture.
+mis: Thinking packing flour gives a better cup | Thinking any cup works for liquids | Thinking you can scale by changing only some ingredients
+et: How many mL are in 1 tablespoon? | Scale ½ cup for 4 people to 8 people.
+mc: B || 1 cup equals || 250 mL | 100 mL | 15 mL | 500 mL || A
+mc: B || 1 tablespoon equals || 15 mL | 5 mL | 50 mL | 250 mL || A
+mc: B || 1 teaspoon equals || 5 mL | 15 mL | 1 mL | 25 mL || A
+mc: B || Liquids are read || at eye level | from above | from below | by guessing || A
+mc: B || To level flour you || scrape off the extra | pack it down | shake the cup | add more || A
+mc: B || A recipe gives || ingredients and steps | only prices | only pictures | only times || A
+mc: I || 3 teaspoons equal || 1 tablespoon | 1 cup | 1 mL | ½ cup || A
+mc: I || Which ingredient is packed? || brown sugar | flour | salt | oats || A
+mc: I || ½ cup for 4 people scaled to 12 is || 1½ cups | 1 cup | 2 cups | 3 cups || A
+mc: I || 1 cup of flour weighs about || 130 g | 30 g | 500 g | 1 kg || A
+mc: C || Accuracy matters most in baking because of || chemical reactions | colour | plate size | music || A
+mc: C || Professional bakers often || weigh ingredients | guess amounts | use any cup | skip recipes || A
+sa: B || How many mL are in 1 cup and 1 tablespoon? || 250 mL and 15 mL.
+sa: B || How do you measure flour correctly? || Spoon it in and level it off.
+sa: I || Scale 2 tsp vanilla for 4 people to 12 people. || 6 tsp (2 tbsp).
+sa: I || Why read liquids at eye level? || Reading from above gives the wrong amount.
+sa: I || Which method in the flour test was most accurate? || Spooned and levelled.
+sa: I || How many teaspoons in a tablespoon? || 3.
+sa: C || Explain why accurate measuring matters in baking. || Baking relies on chemical reactions that need exact amounts.
+sa: C || Scale an energy-bite recipe from 4 to 12 servings. || Answers vary; each ingredient multiplied by 3.
+
+=== CTF7.B1 2
+hook: A healthy snack has to do three jobs at once: taste good, keep you full until dinner and be safe to eat. Today your team designs, prepares and presents one, and a panel of classmates will judge it against your criteria.
+sc: I can choose a snack that follows Canada's food guide | I can prepare a snack safely following a recipe | I can present my snack and explain my choices
+v: nutrition :: How the body uses food for energy, growth and health.
+v: Canada's food guide :: Canada's healthy-eating advice: half a plate of vegetables and fruits, a quarter whole grains, a quarter protein foods, and water to drink.
+v: whole grain :: A grain food that keeps all parts of the grain, such as oats or whole wheat.
+v: protein foods :: Foods such as beans, nuts, eggs, yogurt, fish and meat that help build and repair the body.
+v: presentation :: How food looks when served, and how you explain it.
+v: mise en place :: French for "everything in its place": getting all ingredients and tools ready before cooking.
+ts: Snack Lab || Design challenge || How do I design and prepare a healthy snack that meets the criteria?
+tx: Challenge brief (written for this lesson): ¶ Design and prepare a healthy after-school snack for Grade 7 students. Criteria: it includes at least two of the three food-guide groups (vegetables and fruits, whole grains, protein foods); it takes no more than 25 minutes to prepare; it costs under 15 dirhams for four servings; it is safe for someone with a nut allergy; it is served attractively. ¶ Suggested recipes: yogurt parfait with oats and berries; hummus with vegetable sticks and whole-wheat pita; whole-grain wrap with egg and spinach; fruit kebabs with a yogurt dip. ¶ Steps: choose a recipe and check it against the criteria; set up mise en place; wash hands and sanitize the station; prepare the snack; plate four servings; clean up; present to the tasting panel.
+src: Original activity written for this lesson; food-guide summary based on Canada's food guide (2019).
+st: Choose a recipe and check it against the criteria | Set up mise en place and a clean station | Prepare the snack safely | Plate and present four servings | Clean up and score your snack against the criteria
+org: Criterion | How our snack meets it | Score (1–4) | Improvement
+an: Which food-guide groups did your snack include? | How did mise en place help? | Which criterion was hardest to meet? | What would you change next time?
+pr: Write a short "menu card" for your snack: name, ingredients, food-guide groups, allergy note, cost per serving and one sentence explaining why it is a healthy choice.
+ex: Food groups || Which groups are in a yogurt parfait with oats and berries? || Yogurt | Oats | Berries || Protein foods, whole grains, and vegetables and fruits || Does it meet the criterion?
+ex: Cost per serving || Four servings cost 12 dirhams. Cost per serving? || 12 ÷ 4 || 3 dirhams || Is it under the limit?
+ex: Allergy check || Is a peanut-butter dip allowed? || The brief says nut-allergy safe || No; swap for hummus or yogurt dip || Why do allergies matter in schools?
+ex: Mise en place || What is mise en place for fruit kebabs? || Gather fruit, skewers, board, knife, bowl || Wash and lay out all ingredients and tools before starting || How does it save time?
+p: B || What does nutrition mean? || How the body uses food for energy, growth and health.
+p: B || Name the three food-guide groups. || Vegetables and fruits, whole grains, protein foods.
+p: B || What does Canada's food guide recommend to drink? || Water.
+p: B || What is a whole grain? || A grain food that keeps all parts of the grain.
+p: B || What is mise en place? || Getting ingredients and tools ready before cooking.
+p: I || What fraction of the plate should be vegetables and fruits? || Half.
+p: I || Name two protein foods. || Beans and yogurt.
+p: I || Four servings cost 14 dirhams. Cost per serving? || 3.50 dirhams.
+p: I || Why must the snack be nut-free? || Some students have nut allergies, which can be life-threatening.
+p: I || How long can you take to prepare the snack? || No more than 25 minutes.
+p: I || Name one way to make a snack look attractive. || Use different colours and arrange it neatly.
+p: C || Why does a snack with protein keep you full longer? || Protein digests more slowly than sugary foods.
+p: C || Suggest a nut-free swap for a granola bar with peanuts. || Oat bar made with sunflower seeds.
+p: C || Score a snack that has fruit only and took 40 minutes. || It fails two criteria: one food group and over time.
+p: C || How does presentation affect people's choices? || Attractive food looks more appealing, so people are more likely to try it.
+mis: Thinking healthy food can't taste good | Thinking any granola bar is a whole-grain snack | Thinking presentation doesn't matter
+et: Name the food-guide groups in your snack. | What is one thing you would improve?
+mc: B || Canada's food guide recommends drinking || water | soda | juice | energy drinks || A
+mc: B || Half the plate should be || vegetables and fruits | protein | grains | dessert || A
+mc: B || Oats are a || whole grain | protein food | vegetable | fruit || A
+mc: B || Mise en place means || everything in its place | cook fast | add salt | clean later || A
+mc: B || A protein food is || beans | lettuce | apple | rice cake || A
+mc: B || Nutrition is about || how the body uses food | how food is sold | how food is cooked only | food colours || A
+mc: I || Hummus with veggies and pita includes || three food groups | one food group | no food groups | only grains || A
+mc: I || 12 dirhams for four servings is || 3 dirhams each | 4 dirhams each | 12 dirhams each | 2 dirhams each || A
+mc: I || A peanut dip fails the criterion because of || nut allergies | cost | colour | time || A
+mc: I || A whole-grain choice is || whole-wheat pita | white bread | cake | candy || A
+mc: C || Protein keeps you full because it || digests more slowly | has no energy | is sweet | is cold || A
+mc: C || A fruit-only snack that took 40 minutes fails || two criteria | no criteria | the cost only | the allergy rule || A
+sa: B || Name the three food-guide groups. || Vegetables and fruits, whole grains, protein foods.
+sa: B || What is mise en place? || Getting all ingredients and tools ready before cooking.
+sa: I || Which food groups are in a yogurt parfait with oats and berries? || Protein foods, whole grains, vegetables and fruits.
+sa: I || Calculate cost per serving for 4 servings costing 14 dirhams. || 3.50 dirhams.
+sa: I || Give a nut-free swap for a peanut dip. || Hummus or a yogurt dip.
+sa: I || Why does presentation matter? || It makes food more appealing.
+sa: C || Explain how your snack meets the criteria. || Answers vary.
+sa: C || Write a menu card for your snack. || Answers vary; must include groups, allergy note and cost.
+
+=== CTF7.C1 0
+hook: Before a car goes on sale, engineers crash it into walls, freeze it and drive it thousands of kilometres. They don't ask "Do we like it?" They ask "Does it meet the standard?" Today you test your product the same way.
+sc: I can plan tests for each criterion | I can test a product fairly and record results | I can decide whether a product meets the criteria
+v: appraise :: To judge the quality of a product using criteria and evidence.
+v: test :: A planned check to see if a product meets a criterion.
+v: evidence :: Results or observations that support a judgement.
+v: fair test :: A test where only one thing changes and everything else stays the same.
+v: pass/fail :: A judgement of whether a criterion has been met.
+v: rubric :: A scoring guide that describes levels of quality.
+ts: Test Lab || Design challenge || How do I know if my product really works?
+tx: Testing plan (written for this lesson), using the bookmark challenge: ¶ Criterion 1: Size is 5 cm by 20 cm (± 2 mm). Test: measure with a ruler. ¶ Criterion 2: Survives 20 uses. Test: put the bookmark in a paperback and close and open the book 20 times; check for tears or bends. ¶ Criterion 3: Slogan readable from 1 m. Test: three classmates read it from 1 m; record how many read it correctly. ¶ Criterion 4: Costs under 10 dirhams for 30. Test: add up the cost of materials used. ¶ Criterion 5: No sharp edges. Test: run a finger carefully along each edge. ¶ Rules for fair testing: test every bookmark the same way; record results right away; don't skip a test because you think it will pass. ¶ Results table: For each criterion, record the result and mark Pass or Fail.
+src: Original activity written for this lesson.
+st: Match a test to each criterion | Run each test the same way for every product | Record results in the table | Mark each criterion pass or fail | Write an overall appraisal
+org: Criterion | Test | Result | Pass or fail
+an: Which test was easiest to run? Which was hardest? | Did any result surprise you? | Why must every product be tested the same way? | Does your product meet the brief overall?
+pr: Write a one-paragraph appraisal of your product using evidence from at least three tests.
+ex: Matching tests || What test checks "survives 20 uses"? || Repeat the action 20 times | Check for damage || Open and close a book 20 times, then check for tears || Is this a fair test?
+ex: Fair test || One bookmark is tested in a thick book, another in a thin one. Fair? || Only the product should change || No; use the same book for every test || Why does this matter?
+ex: Using evidence || "Our bookmark is strong." Improve this appraisal. || Add test results || "It survived all 20 uses with no tears" || Why is evidence better?
+ex: Pass or fail || The bookmark measures 5.4 cm wide. Pass? || Allowed range is 4.8 to 5.2 cm || Fail; it is 2 mm too wide || How could you fix it?
+p: B || What does appraise mean? || To judge a product's quality using criteria and evidence.
+p: B || What is a test? || A planned check to see if a product meets a criterion.
+p: B || What is evidence? || Results or observations that support a judgement.
+p: B || What is a fair test? || One where only one thing changes.
+p: B || What is a rubric? || A scoring guide describing levels of quality.
+p: I || What test checks the size criterion? || Measure with a ruler.
+p: I || A bookmark measures 20.1 cm long. Does it pass (± 2 mm)? || Yes.
+p: I || Two of three classmates read the slogan. Does it pass if all three must? || No.
+p: I || Why record results right away? || So you don't forget or change them.
+p: I || Why test every product the same way? || So results can be compared fairly.
+p: I || What should you do if a product fails a criterion? || Note it and plan an improvement.
+p: C || Why is "I like it" not an appraisal? || It is an opinion without evidence or criteria.
+p: C || Design a test for "the bookmark is waterproof." || Drip 10 drops of water on it and check for damage after 1 minute.
+p: C || Why should you not skip tests you expect to pass? || You might be wrong, and the evidence is needed.
+p: C || How do testing skills connect to careers? || Quality inspectors, engineers and chefs all test products against standards.
+mis: Thinking appraising means saying whether you like it | Thinking one test is enough | Thinking a failed test means the project failed
+et: Name one test you ran and its result. | Did your product meet the brief? Give evidence.
+mc: B || To appraise means to || judge using criteria and evidence | buy | sell | decorate || A
+mc: B || Evidence is || results that support a judgement | an opinion | a guess | a sketch || A
+mc: B || A fair test changes || only one thing | everything | nothing | the criteria || A
+mc: B || A rubric is || a scoring guide | a tool | a material | a client || A
+mc: B || Size is tested with || a ruler | a thermometer | a timer | a scale || A
+mc: B || Results should be recorded || right away | next week | never | only if good || A
+mc: I || 5.4 cm wide with a limit of 5 cm ± 2 mm || fails | passes | can't be tested | is perfect || A
+mc: I || Testing bookmarks in different books is || not a fair test | a fair test | evidence | a rubric || A
+mc: I || A good appraisal uses || test results | only opinions | the price only | the colour only || A
+mc: I || A failed criterion means you should || plan an improvement | quit | hide it | change the criteria || A
+mc: C || "I like it" is not an appraisal because it || lacks evidence and criteria | is too long | is a test | is fair || A
+mc: C || A test for waterproofing could be || dripping water and checking damage | measuring length | counting colours | reading the slogan || A
+sa: B || Define appraise. || To judge a product's quality using criteria and evidence.
+sa: B || What is a fair test? || A test where only one thing changes.
+sa: I || Describe a test for "survives 20 uses." || Open and close a book 20 times, then check for damage.
+sa: I || Does a 5.4 cm wide bookmark pass a 5 cm ± 2 mm criterion? || No.
+sa: I || Why record results immediately? || So they are accurate and not forgotten.
+sa: I || What should you do when a product fails a test? || Plan an improvement.
+sa: C || Write an appraisal using evidence from three tests. || Answers vary; must use results.
+sa: C || Why is evidence better than opinion in appraising? || Evidence shows whether criteria are actually met.
+
+=== CTF7.C1 1
+hook: Pixar shows unfinished films to the whole studio and invites brutally honest notes. Their directors say the first version of every film "sucks," and feedback is how it gets better. Good feedback is a gift, if you know how to give it and use it.
+sc: I can give specific, kind and helpful feedback | I can receive feedback without getting defensive | I can decide which feedback to use
+v: feedback :: Comments that help someone improve their work.
+v: peer :: A classmate or someone at the same level.
+v: specific :: Clear and detailed, pointing to exactly what works or needs work.
+v: constructive :: Aimed at helping improve, not at criticizing the person.
+v: glow and grow :: A feedback method: one thing that works (glow) and one thing to improve (grow).
+v: defensive :: Arguing or making excuses instead of listening.
+ts: Gallery Walk Feedback || Design challenge || How can feedback from others improve my product?
+tx: Feedback protocol (written for this lesson): ¶ 1. Set up: Each team places its product with its criteria checklist. ¶ 2. Gallery walk (15 minutes): Visit three other products. For each, write one "glow" and one "grow" on sticky notes. Each comment must point to a criterion. ¶ Strong examples: "Glow: the slogan is easy to read from across the room." "Grow: the corners bent after a few uses; try rounding them or using thicker card." ¶ Weak examples: "Nice!" "It's bad." "I don't like the colour." ¶ 3. Read your feedback (5 minutes): Don't argue or explain. Sort the notes into three piles: "Use it," "Maybe," "Not this time." ¶ 4. Respond (10 minutes): Choose the two most useful notes and write how you will act on them.
+src: Original activity written for this lesson.
+st: Learn what makes feedback helpful | Give glow and grow feedback on three products | Read your feedback without arguing | Sort feedback into use it, maybe, not this time | Choose two pieces of feedback to act on
+org: Feedback I received | Criterion it relates to | Use it, maybe or not this time | What I will do
+an: Which feedback note was most helpful and why? | Was any feedback hard to hear? How did you respond? | Why should feedback point to criteria? | Why don't you have to use every piece of feedback?
+pr: Write a short reflection: the two pieces of feedback you will use, why, and exactly what you will change.
+ex: Specific vs vague || Improve the feedback "It's nice." || Point to what works | Link to a criterion || "The colours make the slogan stand out from 1 m away" || Rewrite "It's bad."
+ex: Constructive grow || Improve "The corners are terrible." || Describe the problem | Suggest a fix || "The corners bent after five uses; thicker card might help" || Why suggest a fix?
+ex: Sorting feedback || "I don't like purple" when the client asked for school colours || Check it against the brief || "Not this time"; it is personal taste, not a criterion || When could taste matter?
+ex: Receiving feedback || A classmate says your slogan is hard to read. What do you do? || Listen | Thank them | Check with a test || Thank them and test readability from 1 m || Why not argue?
+p: B || What is feedback? || Comments that help someone improve their work.
+p: B || What is a peer? || A classmate or someone at the same level.
+p: B || What does specific mean? || Clear and detailed.
+p: B || What is constructive feedback? || Feedback aimed at helping improve.
+p: B || What is glow and grow? || One thing that works and one thing to improve.
+p: I || Rewrite "Good job" as specific feedback. || Answers vary; e.g. "The edges are neatly cut and smooth."
+p: I || Why should feedback link to criteria? || So it helps the product meet the brief.
+p: I || What should you do when you read your feedback? || Listen, don't argue, and sort it.
+p: I || Name the three sorting piles. || Use it, maybe, not this time.
+p: I || What does defensive mean? || Arguing or making excuses instead of listening.
+p: I || Why give a suggestion with a "grow"? || It shows how to improve.
+p: C || Why don't designers use every piece of feedback? || Some is personal taste or conflicts with the brief.
+p: C || How can a feedback note be honest and kind at the same time? || Describe the problem clearly and focus on the work, not the person.
+p: C || Why do companies like Pixar seek honest feedback? || It finds problems early and makes the final product better.
+p: C || What would you do if two peers gave opposite feedback? || Check both against the criteria or test them.
+mis: Thinking feedback means criticism | Thinking you must use all feedback | Thinking kind feedback must be vague
+et: Write one glow and one grow for a product. | Which feedback will you act on?
+mc: B || Feedback helps people || improve their work | stop working | win prizes | avoid tests || A
+mc: B || A peer is || a classmate | a parent | a principal | a client only || A
+mc: B || Glow and grow gives || one strength and one improvement | two complaints | a grade | a price || A
+mc: B || Constructive feedback aims to || help improve | hurt feelings | end the project | win an argument || A
+mc: B || Specific feedback is || clear and detailed | vague | very short | always positive || A
+mc: B || Defensive means || arguing instead of listening | listening carefully | thanking | testing || A
+mc: I || Best feedback for a bookmark is || "The corners bent after five uses; try thicker card" | "Nice!" | "It's bad" | "I hate it" || A
+mc: I || "I don't like purple" should be sorted as || not this time | use it | a criterion | a test || A
+mc: I || When reading feedback you should || listen and sort it | argue | throw it away | rewrite the brief || A
+mc: I || Feedback should link to || criteria | the designer's name | the price only | weather || A
+mc: C || Designers don't use all feedback because some is || personal taste | always right | a criterion | a test || A
+mc: C || If peers disagree you should || test or check against criteria | ignore both | pick the louder one | stop || A
+sa: B || Define constructive feedback. || Feedback aimed at helping someone improve.
+sa: B || What is glow and grow? || One strength and one improvement.
+sa: I || Rewrite "It's bad" as constructive feedback. || Answers vary; must describe the problem and a fix.
+sa: I || What should you do when you receive feedback? || Listen, thank the person and sort it.
+sa: I || Why should feedback link to criteria? || So it helps meet the brief.
+sa: I || Name the three feedback piles. || Use it, maybe, not this time.
+sa: C || Explain why not all feedback should be used. || Some is personal taste or doesn't fit the brief.
+sa: C || Write a reflection on two pieces of feedback you will use. || Answers vary.
+
+=== CTF7.C1 2
+hook: The first iPhone had no copy-and-paste and no app store. Each new version fixed what users complained about. Real products are never finished on the first try; they are improved one planned change at a time.
+sc: I can use test results and feedback to find what to improve | I can choose the improvement that matters most | I can plan and justify a change
+v: improvement :: A change that makes a product better meet its criteria.
+v: priority :: The thing that matters most and should be done first.
+v: justify :: To give reasons and evidence for a decision.
+v: trade-off :: Giving up one thing to gain another.
+v: version :: One form of a product; version 2 is an improved version 1.
+v: impact :: How much difference a change will make.
+ts: Version 2.0 || Design challenge || How do I decide what to improve first?
+tx: Improvement planner (written for this lesson): ¶ Step 1, Gather evidence: List every failed criterion from your tests and every "use it" feedback note. ¶ Step 2, Rate each problem: Impact (how much fixing it helps meet the brief, 1–3) and Effort (how much time or material it takes, 1–3). ¶ Step 3, Choose: Fix high-impact, low-effort problems first. Consider trade-offs: thicker card fixes bending but may raise the cost. ¶ Step 4, Plan: Write exactly what you will change, the materials and time needed, and how you will test it again. ¶ Sample problem list (bookmark challenge): corners bend after 5 uses (impact 3, effort 1); slogan smudges (impact 2, effort 2); colours not school colours (impact 1, effort 1); cost 12 dirhams for 30, over budget (impact 3, effort 2).
+src: Original activity written for this lesson.
+st: List failed criteria and useful feedback | Rate each problem for impact and effort | Choose the top improvement and note any trade-offs | Write a plan for version 2 | Plan how you will retest
+org: Problem | Impact (1–3) | Effort (1–3) | Trade-off | Priority
+an: Which problem has the highest impact? | Which improvement is a "quick win"? | What trade-offs did you find? | How will you know version 2 is better?
+pr: Write a version-2 plan that names your top two improvements, justifies them with evidence and explains how you will retest.
+ex: Quick win || Which sample problem is a quick win? || High impact | Low effort || Corners bending (impact 3, effort 1) || What fix would you use?
+ex: Trade-off || Thicker card stops bending. What is the trade-off? || Better strength | Possibly higher cost || Stronger bookmark, but the cost may go over budget || How could you avoid it?
+ex: Justify || Justify fixing the cost problem. || Criterion says under 10 dirhams | Current cost 12 dirhams || It fails a required criterion, so the product can't be accepted || What change lowers cost?
+ex: Retest || How do you check the corner fix worked? || Repeat the same test || Run the 20-use book test again and compare || Why use the same test?
+p: B || What is an improvement? || A change that makes a product better meet its criteria.
+p: B || What is a priority? || The thing that matters most and should be done first.
+p: B || What does justify mean? || To give reasons and evidence for a decision.
+p: B || What is a trade-off? || Giving up one thing to gain another.
+p: B || What is a version? || One form of a product.
+p: I || What is a quick win? || A high-impact, low-effort improvement.
+p: I || Which sample problem has the lowest impact? || Colours not school colours.
+p: I || Why fix failed required criteria first? || The product can't be accepted until they are met.
+p: I || How do you check an improvement worked? || Retest with the same test.
+p: I || Give a trade-off of laminating bookmarks. || Stronger and waterproof, but more time and cost.
+p: I || What two ratings help choose improvements? || Impact and effort.
+p: C || Why not try to fix everything at once? || Time and materials are limited, and you won't know which change helped.
+p: C || Suggest a way to cut the bookmark cost from 12 to under 10 dirhams. || Use recycled card or smaller ribbons.
+p: C || Why do companies release products in versions? || Each version fixes problems found by users.
+p: C || Justify your top improvement with evidence. || Answers vary; must use test results or feedback.
+mis: Thinking improving means starting over | Thinking every problem is equally important | Thinking a change is better without retesting
+et: What is your top improvement and why? | Name one trade-off in your plan.
+mc: B || An improvement helps a product || better meet criteria | cost more always | look different only | skip testing || A
+mc: B || A priority is done || first | last | never | randomly || A
+mc: B || To justify is to || give reasons and evidence | guess | copy | hide || A
+mc: B || A trade-off means || giving up one thing to gain another | getting everything | no change | a free item || A
+mc: B || Version 2 is || an improved version 1 | the same product | a new client | a test || A
+mc: B || Impact means || how much difference a change makes | how heavy it is | its colour | its name || A
+mc: I || A quick win is || high impact, low effort | low impact, high effort | no impact | any change || A
+mc: I || Corners bending (impact 3, effort 1) is a || quick win | low priority | trade-off | criterion || A
+mc: I || To check an improvement you || retest the same way | skip testing | ask the price | change criteria || A
+mc: I || Thicker card might || raise the cost | lower strength | remove colour | shrink size || A
+mc: C || Fixing everything at once makes it hard to || know which change helped | finish | buy materials | test || A
+mc: C || Failed required criteria should be fixed || first | last | never | only if easy || A
+sa: B || Define trade-off. || Giving up one thing to gain another.
+sa: B || What is a quick win? || A high-impact, low-effort improvement.
+sa: I || Which sample problem would you fix first and why? || Corners or cost; they have high impact.
+sa: I || How do you know an improvement worked? || Retest with the same test.
+sa: I || Give a trade-off of a possible improvement. || Answers vary.
+sa: I || Why rate impact and effort? || To choose the most useful improvements first.
+sa: C || Write and justify a version-2 plan. || Answers vary; must use evidence.
+sa: C || Why don't designers fix everything at once? || Limited time and they need to know which change worked.
+
+=== CTF7.D1 0
+hook: On TV shows like Dragons' Den, inventors get about three minutes to explain what they made, why it matters and how they made it. The best products can still fail if nobody understands them. Communicating is part of designing.
+sc: I can explain my product and how it meets the criteria | I can describe my design process | I can present clearly to an audience
+v: present :: To show and explain your work to an audience.
+v: process :: The steps you followed to plan, create and improve your product.
+v: audience :: The people you are presenting to.
+v: visual aid :: A picture, model, slide or sample that helps explain your ideas.
+v: eye contact :: Looking at your audience while you speak.
+v: design process :: Plan, create, appraise and communicate, repeated as needed.
+ts: Three-Minute Showcase || Design challenge || How do I share my product and process clearly?
+tx: Presentation structure (written for this lesson): ¶ 1. Hook (15 seconds): a question or fact that grabs attention. "Have you ever lost your page because your bookmark tore?" ¶ 2. The brief (20 seconds): who the client was and what they needed. ¶ 3. The product (45 seconds): show it and explain how it meets each criterion, with evidence from testing. ¶ 4. The process (60 seconds): planning, a problem you hit, feedback you used, and version 2. ¶ 5. Wrap-up (20 seconds): what you learned and one question for the audience. ¶ Delivery tips: stand where everyone can see the product; speak slowly and loudly enough for the back row; look at different people; use notes as reminders, not a script. ¶ Audience task: For each presentation, note one strength and one question.
+src: Original activity written for this lesson.
+st: Plan your three-minute presentation using the structure | Choose a visual aid | Rehearse with a partner and get one tip | Present to the class | Give and receive audience feedback
+org: Part | What I will say | Visual aid | Time
+an: Which part of your presentation was strongest? | Why include the process, not only the product? | What did you learn from watching other teams? | Which delivery tip was hardest to follow?
+pr: Deliver your three-minute showcase, then write two sentences about one thing that went well and one thing you would change.
+ex: A strong hook || Write a hook for a healthy-snack presentation. || A question or surprising fact || "What if your after-school snack kept you full until dinner?" || Write another hook.
+ex: Using evidence || How do you show the bookmark meets the size criterion? || Mention the test and result || "We measured all 30; every one was 5 by 20 cm within 2 mm" || Why include numbers?
+ex: Telling the process || What should you say about a problem you hit? || Problem | What you did | Result || "Our corners bent, so we used thicker card and they survived 20 uses" || Why share problems?
+ex: Delivery || Your notes are a full script. What's the risk? || You'll read, not talk || You lose eye contact; use key words instead || How would you make cue cards?
+p: B || What does present mean? || To show and explain your work to an audience.
+p: B || What is the design process? || Plan, create, appraise and communicate.
+p: B || What is a visual aid? || Something that helps explain your ideas, such as a model or slide.
+p: B || What is an audience? || The people you present to.
+p: B || What is eye contact? || Looking at your audience while you speak.
+p: I || Name the five parts of the presentation structure. || Hook, brief, product, process, wrap-up.
+p: I || Why include test results? || They prove the product meets the criteria.
+p: I || Why talk about a problem you had? || It shows how you solved problems and improved.
+p: I || How long is the presentation? || Three minutes.
+p: I || Why use cue cards instead of a script? || So you talk naturally and keep eye contact.
+p: I || What is the audience's task? || Note one strength and one question.
+p: C || Why does communicating matter in design? || People need to understand a product to use or buy it.
+p: C || How would you adjust a presentation for younger students? || Simpler words, more visuals and a shorter talk.
+p: C || Write a 15-second hook for your product. || Answers vary.
+p: C || Which careers depend on presenting well? || Sales, marketing, teaching, engineering and entrepreneurship.
+mis: Thinking only the product matters, not the process | Thinking mistakes should be hidden | Thinking reading a script is the same as presenting
+et: Name the five parts of the presentation. | Give one delivery tip.
+mc: B || To present is to || show and explain work | hide work | buy work | test work || A
+mc: B || A visual aid could be || a model or slide | a whisper | a script only | silence || A
+mc: B || The audience is || the people you present to | the product | the client only | the brief || A
+mc: B || Eye contact means || looking at your audience | looking at notes | closing eyes | looking at the floor || A
+mc: B || The design process includes || plan, create, appraise, communicate | buy, sell, eat, sleep | read, copy, paste, print | none || A
+mc: B || The presentation lasts || three minutes | thirty minutes | thirty seconds | an hour || A
+mc: I || The first part of the presentation is the || hook | wrap-up | process | brief || A
+mc: I || Test results in a presentation || prove criteria are met | waste time | confuse people | replace the product || A
+mc: I || Sharing a problem you solved shows || problem solving | failure only | bad planning | nothing || A
+mc: I || Cue cards should have || key words | a full script | nothing | drawings only || A
+mc: C || Communicating matters because people need to || understand a product | avoid products | skip testing | ignore criteria || A
+mc: C || For younger students you should use || simpler words and more visuals | longer talks | harder words | no visuals || A
+sa: B || Define visual aid. || A picture, model, slide or sample that helps explain ideas.
+sa: B || Name the five parts of the presentation structure. || Hook, brief, product, process, wrap-up.
+sa: I || Why include the process in a presentation? || It shows planning, problem solving and improvement.
+sa: I || Give two delivery tips. || Speak loudly and slowly; make eye contact.
+sa: I || Write a hook for your product. || Answers vary.
+sa: I || Why use cue cards? || To talk naturally and keep eye contact.
+sa: C || Explain why communicating is part of designing. || A product succeeds only if people understand it.
+sa: C || Reflect on one strength and one change for your presentation. || Answers vary.
+
+=== CTF7.D1 1
+hook: You just measured, planned, cooked, tested and presented. Those same skills are used every day by nurses, chefs, carpenters, accountants and game designers. The question isn't whether you have career skills; it's which careers you have them for.
+sc: I can name the skills I used in CTF challenges | I can explain what a transferable skill is | I can connect my skills to occupations in different career clusters
+v: skill :: Something you can do well because you have learned and practised it.
+v: transferable skill :: A skill useful in many jobs, such as communication or problem solving.
+v: technical skill :: A skill for a specific task or tool, such as using a sewing machine.
+v: occupation :: A specific job.
+v: career :: The path of jobs and learning a person follows through life.
+v: career cluster :: A group of related careers that share skills and knowledge.
+ts: Skills to Careers Map || Case study || How do the skills I use in CTF connect to real careers?
+tx: Case studies (written for this lesson): ¶ Amira, pastry chef: measures accurately, follows food-safety rules, plans orders for a busy morning, adjusts recipes when customers give feedback. ¶ Daniel, electrician (apprentice): reads plans, measures carefully, follows safety rules, troubleshoots problems, explains work to clients. ¶ Sara, game designer: plans a project, sketches ideas, tests games with players, fixes bugs, presents to a team. ¶ Omar, nurse: follows hygiene rules, measures doses precisely, communicates with patients and families, works in a team, keeps careful records. ¶ Task: Highlight the skills each person uses. Circle any skill used by all four. Then list three skills you used in CTF challenges this year and match each to at least two occupations.
+src: Composite case studies written for this lesson.
+st: Read the four case studies | Highlight skills each person uses | Find skills shared by all four | List your own CTF skills | Match each skill to two occupations in different clusters
+org: Skill | Where I used it in CTF | Occupation 1 | Occupation 2 | Transferable or technical
+an: Which skills appear in all four careers? | Which of your skills are transferable? | Which occupation surprised you by using your skills? | Which cluster interests you most now?
+pr: Create a "skills to careers" map with three of your skills, where you used each, and two occupations for each skill from different clusters.
+ex: Shared skills || Which skill do Amira, Daniel, Sara and Omar all use? || Look across all four || Following safety or quality rules and communicating || Why is it in every job?
+ex: Transferable or technical || Is "using a sewing machine" transferable or technical? || Specific tool || Technical || Name a transferable skill used with it.
+ex: Matching || Accurate measuring connects to which occupations? || Find jobs that measure || Chef, nurse, electrician, carpenter || Which clusters are they in?
+ex: Clusters || Which cluster is a game designer in? || Media and digital work || Media, Design and Communication Arts (or Business, Finance and IT) || Why can a job fit two clusters?
+p: B || What is a skill? || Something you can do well through learning and practice.
+p: B || What is a transferable skill? || A skill useful in many jobs.
+p: B || What is a technical skill? || A skill for a specific task or tool.
+p: B || What is the difference between an occupation and a career? || An occupation is one job; a career is the path through many.
+p: B || What is a career cluster? || A group of related careers sharing skills.
+p: I || Name two transferable skills. || Communication and problem solving.
+p: I || Name a technical skill from the foods challenge. || Measuring ingredients or using kitchen tools safely.
+p: I || Which skills does a nurse share with a chef? || Hygiene, accurate measuring and teamwork.
+p: I || Which cluster is an electrician in? || Trades, Manufacturing and Transportation.
+p: I || Which cluster is a nurse in? || Health, Recreation and Human Services.
+p: I || Name a skill a game designer uses that you used in CTF. || Testing and improving.
+p: C || Why do employers value transferable skills? || They help workers succeed in many tasks and adapt to change.
+p: C || How could planning a bake sale prepare you for running a business? || It uses budgeting, scheduling, teamwork and customer service.
+p: C || Why might someone change careers several times? || Interests, technology and jobs change, and transferable skills carry over.
+p: C || Connect one of your CTF skills to two occupations. || Answers vary.
+mis: Thinking school skills don't count as career skills | Thinking each career needs completely different skills | Thinking you must pick one career forever
+et: Name one transferable skill you used this term. | Name two occupations that use it.
+mc: B || A transferable skill is || useful in many jobs | used in one job only | a tool | a cluster || A
+mc: B || A technical skill is || for a specific task or tool | for every job | a feeling | a career || A
+mc: B || An occupation is || a specific job | a lifetime path | a hobby | a skill || A
+mc: B || Problem solving is || transferable | technical | a cluster | an occupation || A
+mc: B || Using a sewing machine is || technical | transferable | a cluster | a career || A
+mc: B || A career is || a path of jobs and learning | one task | a tool | a test || A
+mc: I || A nurse is in || Health, Recreation and Human Services | Trades | Natural Resources | Media || A
+mc: I || An electrician is in || Trades, Manufacturing and Transportation | Health | Media | Business || A
+mc: I || All four case studies used || safety or quality rules and communication | sewing | coding | baking || A
+mc: I || Accurate measuring is used by || chefs and nurses | nobody | only artists | only accountants || A
+mc: C || Employers value transferable skills because || they help workers adapt | they are rare | they are technical | they are easy || A
+mc: C || People change careers because || interests and jobs change | skills disappear | they must | it is required || A
+sa: B || Define transferable skill. || A skill useful in many jobs.
+sa: B || What is the difference between an occupation and a career? || An occupation is a job; a career is the path through many jobs.
+sa: I || Name two skills shared by a chef and a nurse. || Hygiene and accurate measuring.
+sa: I || Is "measuring ingredients" technical or transferable? || Technical, though measuring is transferable.
+sa: I || Name the cluster for a game designer. || Media, Design and Communication Arts.
+sa: I || List two transferable skills you used in CTF. || Answers vary.
+sa: C || Create a skills-to-careers map for one skill. || Answers vary.
+sa: C || Why are transferable skills valuable over a lifetime? || They carry over when jobs and careers change.
+
+=== CTF7.D1 2
+hook: Athletes watch video of their games. Musicians record practice. People who improve fastest are the ones who look back and ask: what worked, what didn't, and what next? Today you look back on your CTF year so far.
+sc: I can reflect on what I learned in CTF challenges | I can describe how my interests and strengths have changed | I can set a goal for my next challenge
+v: reflection :: Thinking carefully about your experiences to learn from them.
+v: portfolio :: A collection of your work and reflections that shows your learning.
+v: goal :: Something you plan to achieve.
+v: SMART goal :: A goal that is Specific, Measurable, Achievable, Relevant and Time-bound.
+v: growth :: Improvement in skills or understanding over time.
+v: artifact :: A piece of work or evidence saved in a portfolio.
+ts: My CTF Portfolio || Design challenge || How have my interests and skills grown, and what do I want to try next?
+tx: Portfolio checklist (written for this lesson): ¶ 1. Artifacts: Choose three pieces of evidence, for example your criteria checklist, a photo of your snack, your test results table or your presentation cue cards. ¶ 2. Reflection for each artifact: What is it? What did I learn making it? What would I do differently? ¶ 3. Interest check: Re-take the interest inventory from the first lesson. Compare your scores. Which went up? Which went down? Why? ¶ 4. Strength check: Name two skills that are now strengths and one skill you want to grow. ¶ 5. Goal: Write one SMART goal for your next CTF challenge. Example: "In the next challenge, I will finish a first prototype by the end of lesson 2 so I have time to test and improve it." ¶ 6. Share: Show one artifact to a partner and explain your growth.
+src: Original activity written for this lesson.
+st: Choose three artifacts | Write a reflection for each | Compare your interest inventory scores | Name your strengths and a skill to grow | Write a SMART goal and share with a partner
+org: Artifact | What I learned | What I'd change | Skill it shows
+an: Which artifact shows your biggest growth? | How have your interests changed since the start? | Which skill is now a strength? | Is your goal SMART? How do you know?
+pr: Complete a portfolio page with three artifacts, three reflections, your interest comparison and one SMART goal.
+ex: Choosing artifacts || Which is better evidence: a blank plan or a filled-in test table? || Evidence shows learning || The test table; it shows what you did and learned || Which artifact shows teamwork?
+ex: Deep reflection || Improve "I learned a lot." || Say what and how || "I learned that testing early would have saved our corners" || Why be specific?
+ex: SMART goal || Is "I will do better" a SMART goal? || Specific? Measurable? Time-bound? || No; rewrite with a clear target and deadline || Rewrite it.
+ex: Interest change || Your foods score went from 2 to 4. What does that show? || Compare before and after || Your interest in foods grew through the challenge || What caused it?
+p: B || What is reflection? || Thinking carefully about experiences to learn from them.
+p: B || What is a portfolio? || A collection of work and reflections showing learning.
+p: B || What is an artifact? || A piece of work saved as evidence.
+p: B || What does SMART stand for? || Specific, Measurable, Achievable, Relevant, Time-bound.
+p: B || What is growth? || Improvement over time.
+p: I || Name three possible artifacts. || Criteria checklist, test results table, presentation cue cards.
+p: I || What three questions do you answer for each artifact? || What is it, what did I learn, what would I do differently.
+p: I || Rewrite "I want to be better at planning" as a SMART goal. || "I will make a step-by-step timeline before the next challenge starts."
+p: I || Why re-take the interest inventory? || To see how interests changed.
+p: I || Name one strength you might list. || Answers vary; e.g. measuring accurately.
+p: I || Why share an artifact with a partner? || Explaining it deepens reflection.
+p: C || Why is reflection important for future careers? || People who learn from experience improve and adapt.
+p: C || How can a portfolio help in a job or school application? || It shows real evidence of skills and growth.
+p: C || Why might interests drop after trying something? || You learned it isn't a good fit, which is useful too.
+p: C || Write a SMART goal for your next challenge. || Answers vary; must meet all five parts.
+mis: Thinking reflection is just summarizing | Thinking a lower interest score is a failure | Thinking goals don't need deadlines
+et: Name one artifact and what it shows. | Write your SMART goal.
+mc: B || Reflection means || thinking about experiences to learn | copying work | cleaning up | starting over || A
+mc: B || A portfolio is || a collection of work and reflections | a single test | a recipe | a tool || A
+mc: B || An artifact is || a saved piece of work | a reflection only | a goal | a grade || A
+mc: B || The T in SMART stands for || time-bound | talented | technical | tested || A
+mc: B || Growth means || improvement over time | staying the same | a goal | a test || A
+mc: B || The M in SMART stands for || measurable | many | material | maybe || A
+mc: I || A strong artifact is || a filled-in test results table | a blank page | a lost sketch | nothing || A
+mc: I || "I will do better" is || not a SMART goal | a SMART goal | an artifact | a reflection || A
+mc: I || Re-taking the interest inventory shows || how interests changed | your grade | the price | your skills only || A
+mc: I || A deep reflection is || specific | vague | one word | copied || A
+mc: C || A lower interest score can be || useful learning | a failure | a mistake | meaningless || A
+mc: C || Portfolios help applications by || showing evidence of skills | replacing interviews | listing prices | hiding work || A
+sa: B || Define portfolio. || A collection of work and reflections showing learning.
+sa: B || What does SMART stand for? || Specific, Measurable, Achievable, Relevant, Time-bound.
+sa: I || Name three artifacts you could choose. || Answers vary.
+sa: I || Rewrite "I want to be better" as a SMART goal. || Answers vary.
+sa: I || How have your interests changed? || Answers vary.
+sa: I || Name two strengths and one skill to grow. || Answers vary.
+sa: C || Explain why reflection matters for careers. || Learning from experience helps people improve and adapt.
+sa: C || Complete a portfolio page. || Answers vary.

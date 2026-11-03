@@ -1,0 +1,638 @@
+=== CTF9.A1 1
+hook: A company once designed a sleek new water bottle, then discovered that their customers mostly wanted one that fit in a car cup holder. Research would have told them in a week. Before you design, you find out what users really need.
+sc: I can plan research to understand users | I can write fair survey and interview questions | I can collect and summarize user data
+v: user :: The person who will use the product.
+v: market research :: Collecting information about users, their needs and similar products.
+v: survey :: A set of questions asked to many people.
+v: interview :: A conversation with one person to learn about their needs in depth.
+v: closed question :: A question with set answers, such as yes/no or a rating.
+v: open question :: A question people answer in their own words.
+v: leading question :: A question that pushes people toward a certain answer.
+ts: Know Your Users || Case study || How do I find out what users really need?
+tx: Research brief (written for this lesson): Your team has identified a need: "Students lose track of homework deadlines." Before designing a solution, research the users. ¶ Part 1, Survey (aim for 20 responses from Grades 7–9): Write five questions. Mix closed and open questions. Examples: "How often do you miss a homework deadline? (Never / Sometimes / Often)"; "What do you use now to track homework?"; "What would make tracking homework easier?" ¶ Part 2, Interviews (two people): Ask "Tell me about the last time you missed a deadline. What happened?" Listen more than you talk. ¶ Part 3, Competitor check: Look at two existing solutions (a paper planner, a calendar app). List what users like and dislike about each. ¶ Part 4, Summarize: Count closed-question answers. Group open answers into themes. Write three key findings.
+src: Original activity written for this lesson.
+st: Write five fair survey questions | Survey at least 20 students | Interview two users | Compare two existing solutions | Summarize three key findings
+org: Research method | What we asked or looked at | What we found | Key finding
+an: What did users say most often? | Did any finding surprise you? | Which method gave the most useful information? | How will the findings shape your design?
+pr: Write a one-page research summary with your survey results, interview quotes, competitor comparison and three key findings.
+ex: Leading question || Fix "Don't you hate forgetting homework?" || It pushes an answer || "How do you feel when you forget a homework deadline?" || Why are leading questions a problem?
+ex: Closed vs open || Is "Do you use a planner? Yes/No" closed or open? || Set answers || Closed || Rewrite it as open.
+ex: Counting results || 12 of 20 students said "Sometimes." What percent? || 12 ÷ 20 × 100 || 60% || What does that show?
+ex: Finding themes || Open answers: "reminders," "phone alerts," "notifications." Theme? || Group similar answers || Users want automatic reminders || How could your design use this?
+p: B || What is a user? || The person who will use the product.
+p: B || What is market research? || Collecting information about users, needs and similar products.
+p: B || What is a survey? || A set of questions asked to many people.
+p: B || What is a closed question? || One with set answers.
+p: B || What is an open question? || One answered in people's own words.
+p: I || What is a leading question? || A question that pushes toward an answer.
+p: I || Why interview as well as survey? || Interviews give deeper reasons and stories.
+p: I || 15 of 20 users want reminders. What percent? || 75%.
+p: I || Why look at competitor products? || To learn what users like and dislike in existing solutions.
+p: I || How do you analyze open answers? || Group them into themes.
+p: I || How many survey responses should you aim for? || At least 20.
+p: C || Why might users say one thing and do another? || People don't always notice or admit their habits, so observation helps.
+p: C || Why survey users from different grades? || Needs can differ, and a range gives a fuller picture.
+p: C || How could a small sample mislead you? || A few people may not represent most users.
+p: C || Write one open and one closed question for your project. || Answers vary.
+mis: Thinking you already know what users want | Thinking more questions always gives better data | Asking only friends who agree with you
+et: Give one key finding from your research. | Write one fair survey question.
+mc: B || A user is || who will use the product | the designer | the teacher only | the store || A
+mc: B || A survey asks || many people questions | one person in depth | no one | only experts || A
+mc: B || An interview is || an in-depth conversation | a test | a sketch | a graph || A
+mc: B || A closed question has || set answers | no answers | open answers | hidden answers || A
+mc: B || An open question is answered || in people's own words | with yes or no | with a number only | by the designer || A
+mc: B || A leading question || pushes toward an answer | is fair | is open | is closed only || A
+mc: I || 12 of 20 is || 60% | 12% | 20% | 40% || A
+mc: I || Open answers are analyzed by || grouping into themes | ignoring them | counting letters | guessing || A
+mc: I || Competitor research shows || what users like and dislike | prices only | colours only | nothing || A
+mc: I || "Don't you hate forgetting homework?" is || leading | fair | open-ended and neutral | closed and neutral || A
+mc: C || A small sample can mislead because || it may not represent most users | it is too big | it is always right | it has no data || A
+mc: C || Observing users helps because || people don't always notice their habits | users lie always | surveys are banned | it's faster || A
+sa: B || Define market research. || Collecting information about users, their needs and similar products.
+sa: B || What is the difference between closed and open questions? || Closed have set answers; open are answered freely.
+sa: I || Fix a leading question. || Answers vary.
+sa: I || Calculate the percentage for 15 of 20. || 75%.
+sa: I || Why interview users? || To understand reasons and stories in depth.
+sa: I || Name two existing solutions to the homework problem. || A paper planner and a calendar app.
+sa: C || Write three key findings from your research. || Answers vary.
+sa: C || Explain why research comes before designing. || It shows what users actually need.
+
+=== CTF9.A1 2
+hook: "Make an app for homework" is a topic. "Grade 8 students who play sports miss about two deadlines a month because their schedules change weekly" is a problem you can actually solve. A sharp problem statement points straight at a solution.
+sc: I can write a clear problem statement using research | I can identify the user, need and insight | I can write a "How might we" question to guide ideas
+v: problem statement :: A clear sentence describing who has a problem, what they need and why.
+v: need :: Something a user must have to solve their problem.
+v: insight :: A key understanding about users that comes from research.
+v: "How might we" question :: A question that turns a problem into a design challenge.
+v: scope :: How big or small a project is.
+v: empathy :: Understanding how someone else feels and thinks.
+ts: Sharpen the Problem || Design challenge || How do I turn research into a problem I can solve?
+tx: Problem-statement formula (written for this lesson): ¶ [User] needs a way to [need] because [insight]. ¶ Example from homework research: "Grade 8 students who play team sports need a way to keep track of changing homework deadlines because their practice schedules change each week and they forget to check the class page." ¶ Checklist: Is the user specific? Is the need about the user, not about a product ("an app")? Does the insight come from research? Is the scope small enough for our time? ¶ "How might we" (HMW): Turn the problem into a question: "How might we help student athletes keep track of deadlines when their schedules change?" ¶ Practice: Improve these weak statements: "Students need an app." "Kids are lazy about homework." "Everyone needs to be more organized."
+src: Original activity written for this lesson.
+st: Review your research findings | Write a problem statement using the formula | Check it against the checklist | Improve three weak statements | Write two "How might we" questions
+org: Part | Our words | Evidence from research
+an: Who exactly is your user? | What insight from research shaped your statement? | Why shouldn't the need name a product? | Is your scope realistic?
+pr: Write a final problem statement and two "How might we" questions, each supported by a finding from your research.
+ex: Weak to strong || Improve "Students need an app." || Who? Need? Why? || "Grade 9 students with part-time jobs need a way to plan study time because their shifts change weekly" || Why remove "app"?
+ex: Blame vs need || What is wrong with "Kids are lazy about homework"? || It blames users || It judges users instead of describing a need || Rewrite it with empathy.
+ex: Scope || Is "Fix homework for all schools in Canada" a good scope? || Too large || No; narrow it to one group at our school || Why does scope matter?
+ex: HMW || Turn the problem into an HMW question. || Start with "How might we" || "How might we remind athletes about deadlines without adding screen time?" || Write another.
+p: B || What is a problem statement? || A sentence describing who has a problem, what they need and why.
+p: B || What is an insight? || A key understanding from research.
+p: B || What does HMW stand for? || How might we.
+p: B || What is scope? || How big or small a project is.
+p: B || What is empathy? || Understanding how someone else feels and thinks.
+p: I || What is the problem-statement formula? || [User] needs a way to [need] because [insight].
+p: I || Why should the need not name a product? || So many solutions stay possible.
+p: I || Where should the insight come from? || Research.
+p: I || What makes a user specific? || Describing who they are, such as grade and situation.
+p: I || Why avoid blaming users? || Good design starts with empathy, not judgement.
+p: I || Write an HMW question for lost lunch containers. || "How might we help students remember to bring lunch containers home?"
+p: C || Why does a narrow scope often lead to a better product? || It focuses effort on a real, solvable need.
+p: C || How does empathy change a problem statement? || It focuses on users' real situations instead of judging them.
+p: C || Why write more than one HMW question? || Different questions open different ideas.
+p: C || Evaluate your problem statement with the checklist. || Answers vary.
+mis: Putting a solution inside the problem statement | Blaming users instead of understanding them | Choosing a scope too large to finish
+et: Write your problem statement. | Write one "How might we" question.
+mc: B || A problem statement describes || user, need and insight | a product only | a price | a tool || A
+mc: B || An insight comes from || research | guessing | the teacher only | a competitor || A
+mc: B || HMW stands for || How might we | Help many workers | Hold my water | How much work || A
+mc: B || Scope means || project size | colour | user | price || A
+mc: B || Empathy means || understanding others' feelings | ignoring users | blaming users | testing || A
+mc: B || A need describes || what the user must have | a product name | a price | a material || A
+mc: I || "Students need an app" is weak because it || names a product | is too specific | has research | uses empathy || A
+mc: I || "Kids are lazy" is weak because it || blames users | is specific | uses data | is an HMW || A
+mc: I || "Fix homework for all of Canada" has a scope that is || too large | perfect | too small | specific || A
+mc: I || HMW questions turn problems into || design challenges | answers | grades | tests || A
+mc: C || Narrow scope helps because it || focuses on a solvable need | is lazy | is bigger | avoids research || A
+mc: C || More than one HMW question || opens different ideas | wastes time | is wrong | narrows ideas || A
+sa: B || Define problem statement. || A sentence describing who has a problem, what they need and why.
+sa: B || What is an insight? || A key understanding about users from research.
+sa: I || Improve "Students need an app." || Answers vary; must name user, need and insight.
+sa: I || Why avoid blaming users? || Design should start from empathy.
+sa: I || Write an HMW question for your project. || Answers vary.
+sa: I || What is the formula for a problem statement? || [User] needs a way to [need] because [insight].
+sa: C || Write and justify your problem statement. || Answers vary; must cite research.
+sa: C || Explain why scope matters. || A realistic scope can be finished well.
+
+=== CTF9.B1 0
+hook: Every app on your phone started as a sketch on paper. Game studios storyboard every level, and filmmakers storyboard every shot before filming. Planning a digital product saves hours of rebuilding later.
+sc: I can choose a digital product that fits my problem statement | I can plan it with a storyboard or wireframe | I can break the build into tasks
+v: digital product :: A product made with technology, such as an app, game, website or video.
+v: storyboard :: A series of sketches showing the scenes or screens in order.
+v: wireframe :: A simple drawing of a screen layout showing where things go.
+v: user interface (UI) :: The screens, buttons and menus a user interacts with.
+v: feature :: Something a product can do.
+v: minimum viable product (MVP) :: The simplest version that solves the main problem.
+ts: Digital Blueprint || Design challenge || How do I plan a digital product before building it?
+tx: Planning guide (written for this lesson): ¶ 1. Choose a format that fits your problem statement and skills: an app or game (Scratch, MIT App Inventor, Code.org), a website (Google Sites or simple HTML), or a video (phone camera and free editing software). ¶ 2. List features. Sort them into "must have" (the MVP) and "nice to have." For a homework reminder: must have = add a task with a due date, see tasks in date order, show a reminder; nice to have = colours by subject, sound effects. ¶ 3. Storyboard or wireframe: For an app or website, draw each screen as a wireframe with buttons labelled and arrows showing what each button does. For a video, storyboard each shot with a sketch, the shot type, what is said and the length. ¶ 4. Task list: Break the build into tasks of 20 minutes or less and order them.
+src: Original activity written for this lesson.
+st: Choose the product format | List features and identify the MVP | Draw wireframes or a storyboard | Show how screens or scenes connect | Write a task list for building
+org: Feature | Must have or nice to have | Screen or scene | Task to build it
+an: Why did you choose this format? | What is your MVP? | Which screen or scene was hardest to plan? | How does your plan solve the problem statement?
+pr: Produce a digital blueprint: MVP feature list, labelled wireframes or storyboard, and an ordered task list.
+ex: MVP || Is "sound effects" a must-have for the homework reminder? || Does it solve the main problem? || No; it is nice to have || What is a must-have?
+ex: Wireframe || What does a wireframe show? || Layout, not colours || Where buttons, text and images go on a screen || Why skip colours at first?
+ex: Storyboard || Plan one shot for a 60-second explainer video. || Sketch | Shot type | Words | Time || Close-up of a planner; "Ever forget a deadline?"; 4 seconds || What is the next shot?
+ex: Task size || Break "build the app" into smaller tasks. || 20 minutes or less each || Make the add-task screen; make the list screen; add the date sort; add the reminder || Why small tasks?
+p: B || What is a digital product? || A product made with technology, like an app or video.
+p: B || What is a storyboard? || Sketches showing scenes or screens in order.
+p: B || What is a wireframe? || A simple screen layout drawing.
+p: B || What does UI stand for? || User interface.
+p: B || What is an MVP? || The simplest version that solves the main problem.
+p: I || Name two must-have features of a homework reminder. || Add a task with a due date; show a reminder.
+p: I || Name a nice-to-have feature. || Colours by subject.
+p: I || What should a storyboard frame for video include? || A sketch, shot type, words and length.
+p: I || Name two tools for building a simple app or game. || Scratch and MIT App Inventor.
+p: I || Why show arrows between wireframes? || To show what each button does.
+p: I || How long should each build task be? || 20 minutes or less.
+p: C || Why build the MVP first? || It solves the main problem before time runs out on extras.
+p: C || How does the problem statement guide the feature list? || Features must meet the user's need.
+p: C || Why do professionals wireframe before coding? || Changing a drawing is faster than changing code.
+p: C || Choose a format for your project and justify it. || Answers vary.
+mis: Starting to code without a plan | Thinking more features make a better product | Thinking wireframes need colours and pictures
+et: What is your MVP? | Draw one wireframe or storyboard frame.
+mc: B || A wireframe shows || screen layout | final colours | code | a video || A
+mc: B || A storyboard shows || scenes or screens in order | prices | materials | test data || A
+mc: B || UI stands for || user interface | useful idea | unit item | user information || A
+mc: B || An MVP is || the simplest version that solves the problem | the most features | the final version | a video || A
+mc: B || A feature is || something a product can do | a colour | a user | a tool || A
+mc: B || A digital product could be || an app or video | a chair | a snack | a bookmark || A
+mc: I || Sound effects in a reminder app are || nice to have | must have | the MVP | a problem || A
+mc: I || Adding a task with a due date is || must have | nice to have | unnecessary | a test || A
+mc: I || A tool for building simple apps is || MIT App Inventor | a hammer | a sewing machine | an oven || A
+mc: I || Build tasks should be || small, 20 minutes or less | one huge task | random | unplanned || A
+mc: C || Wireframing before coding saves time because || drawings are faster to change | code is free | colours matter | it's required || A
+mc: C || Building the MVP first ensures || the main problem is solved | extras come first | nothing works | time is wasted || A
+sa: B || Define wireframe. || A simple drawing of a screen layout.
+sa: B || What is an MVP? || The simplest version that solves the main problem.
+sa: I || List the MVP features for a homework reminder. || Add a task with a date, list tasks by date, show a reminder.
+sa: I || What does a video storyboard frame include? || Sketch, shot type, words and length.
+sa: I || Name two tools for building apps or games. || Scratch and MIT App Inventor.
+sa: I || Why break the build into small tasks? || So progress is clear and manageable.
+sa: C || Produce a digital blueprint for your product. || Answers vary.
+sa: C || Explain why planning comes before coding. || Changing a plan is faster than changing finished code.
+
+=== CTF9.B1 1
+hook: A computer does exactly what you tell it, nothing more and nothing less. "Make a sandwich" means nothing to a robot; "pick up bread, open the jar, spread 1 tbsp peanut butter" does. Coding is giving clear, ordered instructions.
+sc: I can write an algorithm for a task | I can use sequence, loops and conditionals | I can build part of my digital product
+v: algorithm :: A step-by-step set of instructions to complete a task.
+v: code :: Instructions written in a language a computer can follow.
+v: sequence :: Instructions carried out in order.
+v: loop :: Instructions that repeat.
+v: conditional :: An "if-then" instruction that runs only when something is true.
+v: variable :: A named storage space for a value that can change, such as a score.
+ts: Build the Logic || Design challenge || How do sequence, loops and conditionals make a digital product work?
+tx: Coding concepts (written for this lesson, shown in plain steps that match Scratch or App Inventor blocks): ¶ Sequence: when the app starts → show the title → show the task list. ¶ Loop: for each task in the list → show its name and due date. ¶ Conditional: if the due date is tomorrow → show the task in red and play a reminder; else → show it in black. ¶ Variable: set "tasks due" to 0; for each task due this week, change "tasks due" by 1; show "You have [tasks due] tasks this week." ¶ Unplugged warm-up: In pairs, one person writes an algorithm to draw a house on grid paper using only "move up/down/left/right [number]" and "pen up/pen down." The partner follows it exactly. Did the house come out right? ¶ Build task: Build the MVP screen from your wireframe using at least one loop, one conditional and one variable. For a video project, use the same logic to plan an edit sequence: if a shot is longer than 6 seconds → trim it.
+src: Original activity written for this lesson.
+st: Do the unplugged drawing algorithm | Identify sequence, loops and conditionals in examples | Write the algorithm for your MVP feature | Build it in your chosen tool | Test that it works with sample data
+org: Concept | Where it appears in my product | Blocks or code I used | Does it work?
+an: What went wrong in the unplugged activity and why? | Where does your product need a loop? | What condition does your product check? | Which variable does your product use?
+pr: Build one working MVP feature and write its algorithm, labelling the sequence, loop, conditional and variable.
+ex: Sequence || Put in order: show list, start app, show title. || Order matters || Start app → show title → show list || What happens if out of order?
+ex: Loop || Why use a loop to show 20 tasks? || Avoid repeating code || One loop shows every task instead of writing 20 instructions || What if there are 100 tasks?
+ex: Conditional || Write a conditional for a quiz game. || If-then-else || If answer is correct → add 1 to score; else → show the right answer || What variable is used?
+ex: Variable || A variable "score" starts at 0 and adds 1 three times. Final value? || 0 + 1 + 1 + 1 || 3 || Why is it called a variable?
+p: B || What is an algorithm? || Step-by-step instructions to complete a task.
+p: B || What is code? || Instructions in a language a computer can follow.
+p: B || What is a sequence? || Instructions carried out in order.
+p: B || What is a loop? || Instructions that repeat.
+p: B || What is a conditional? || An if-then instruction.
+p: I || What is a variable? || A named storage space for a value that can change.
+p: I || Write a conditional for a due date. || If due tomorrow, show in red; else show in black.
+p: I || Score starts at 5 and loses 2. Value? || 3.
+p: I || Why must instructions be precise? || Computers do exactly what they are told.
+p: I || Name a block-based tool for coding. || Scratch.
+p: I || Where is a loop useful in your product? || Answers vary; e.g. showing every task.
+p: C || Why do loops make code easier to fix? || A change in one place affects every repeat.
+p: C || Design an algorithm to count overdue tasks. || Set count to 0; for each task, if due date has passed, add 1; show count.
+p: C || How does a video edit use conditional logic? || If a shot is too long, trim it.
+p: C || Why test with sample data? || To check the code works before real users try it.
+mis: Thinking computers understand what you mean | Thinking loops and conditionals are the same | Thinking code works the first time
+et: Name the three basic coding structures. | Write one conditional for your product.
+mc: B || An algorithm is || step-by-step instructions | a computer | a screen | a game || A
+mc: B || A loop || repeats instructions | stops a program | stores a value | checks a condition || A
+mc: B || A conditional uses || if-then | repeat forever | sequence only | colours || A
+mc: B || A variable stores || a value that can change | a picture only | a screen | a loop || A
+mc: B || Sequence means || instructions in order | random instructions | repeating | storing || A
+mc: B || Scratch is a || block-based coding tool | hammer | camera | spreadsheet only || A
+mc: I || Score starts at 0 and adds 1 three times. Final? || 3 | 0 | 1 | 4 || A
+mc: I || Showing every task in a list uses || a loop | a conditional only | no code | a sketch || A
+mc: I || "If due tomorrow, show red" is || a conditional | a loop | a variable | a sequence only || A
+mc: I || Computers do || exactly what they are told | what you mean | what they want | random things || A
+mc: C || Loops make code easier to fix because || one change affects every repeat | they are longer | they hide errors | they are random || A
+mc: C || Counting overdue tasks needs || a variable, loop and conditional | only a sequence | only a picture | nothing || A
+sa: B || Define algorithm. || Step-by-step instructions to complete a task.
+sa: B || What is a conditional? || An if-then instruction.
+sa: I || Write an algorithm with a loop for your product. || Answers vary.
+sa: I || Score starts at 10, loses 3, gains 5. Final value? || 12.
+sa: I || Why must code be precise? || Computers follow instructions exactly.
+sa: I || Name the three basic coding structures. || Sequence, loop, conditional.
+sa: C || Design an algorithm to count tasks due this week. || Answers vary; must use a variable, loop and conditional.
+sa: C || Build and label one MVP feature. || Answers vary.
+
+=== CTF9.B1 2
+hook: The word "bug" became famous in computing when, in 1947, engineers found a real moth stuck in a computer relay and taped it into the logbook. Today every programmer spends a lot of time finding and fixing bugs. Debugging is a skill, not bad luck.
+sc: I can find bugs using a step-by-step strategy | I can fix bugs and explain what caused them | I can refine my product so it works reliably
+v: bug :: A mistake in code or a product that makes it work incorrectly.
+v: debug :: To find and fix bugs.
+v: error message :: A message the software shows when something goes wrong.
+v: trace :: To follow code step by step to see what it does.
+v: edge case :: An unusual input that might break a product, such as an empty list.
+v: refine :: To make small improvements so a product works better.
+ts: Bug Hunt || Design challenge || How do I find and fix problems in my digital product?
+tx: Debugging strategy (written for this lesson): ¶ 1. Reproduce: Make the bug happen again on purpose. Write down exactly what you did. ¶ 2. Isolate: Find the smallest part of the code where it goes wrong. Turn blocks off or add a "say" block to show a variable's value. ¶ 3. Trace: Follow the code step by step. What did you expect? What actually happened? ¶ 4. Fix one thing: Change one thing, then test again. ¶ 5. Check edge cases: empty list, a date in the past, a very long task name, pressing a button twice. ¶ Sample bugs to fix: ¶ Bug A: The task counter shows 0 even when there are tasks. (The counter is reset to 0 inside the loop instead of before it.) ¶ Bug B: Every task shows in red. (The condition checks "due date ≥ tomorrow" instead of "due date = tomorrow.") ¶ Bug C: The app crashes when the list is empty. (The code reads item 1 without checking the list has items.) ¶ For videos: check audio levels, spelling in titles, jump cuts and length.
+src: Original activity written for this lesson; the 1947 moth story is from the Harvard Mark II logbook.
+st: Learn the five debugging steps | Fix the three sample bugs | Test your product with edge cases | Log each bug, cause and fix | Refine one feature for reliability
+org: Bug | How to reproduce it | Cause | Fix | Retested?
+an: Which sample bug was hardest and why? | Which edge case broke your product? | Why change only one thing at a time? | How did a debug log help?
+pr: Complete a debug log with at least three bugs from your product, each with cause and fix, and a refined version of your product.
+ex: Reproduce || A user says "it broke." What do you ask? || Exact steps || "What did you click, in what order, and what did you see?" || Why are exact steps important?
+ex: Counter bug || Why does the counter always show 0? || Trace the loop || It is reset to 0 inside the loop, so it restarts each time; move the reset before the loop || How would you test the fix?
+ex: Condition bug || Why are all tasks red? || Check the condition || "≥ tomorrow" is true for every future date; change it to "= tomorrow" || What should overdue tasks look like?
+ex: Edge case || What edge case crashes the app? || Unusual input || An empty task list; check the list has items first || Name another edge case.
+p: B || What is a bug? || A mistake that makes a product work incorrectly.
+p: B || What does debug mean? || To find and fix bugs.
+p: B || What is an error message? || A message showing something went wrong.
+p: B || What is an edge case? || An unusual input that might break a product.
+p: B || What does refine mean? || To make small improvements.
+p: I || List the five debugging steps. || Reproduce, isolate, trace, fix one thing, check edge cases.
+p: I || Why change only one thing at a time? || So you know which change fixed the bug.
+p: I || How can you see a variable's value while debugging? || Add a "say" or display block.
+p: I || Name two edge cases for a homework app. || An empty list and a past due date.
+p: I || What caused Bug C? || Reading an item from an empty list.
+p: I || Where does the word "bug" come from in computing? || A moth found in a computer in 1947.
+p: C || Why is a debug log useful for a team? || Others can see what was fixed and avoid repeating work.
+p: C || Why might a fix cause a new bug? || Changes can affect other parts of the code.
+p: C || Explain how you would debug "the reminder never appears." || Reproduce, check the condition and date values, trace, fix and retest.
+p: C || Why do companies release updates? || To fix bugs found by users and refine features.
+mis: Thinking bugs mean you're bad at coding | Changing many things at once to fix a bug | Testing only with normal inputs
+et: Name the five debugging steps. | Describe one bug you fixed.
+mc: B || A bug is || a mistake that causes problems | a feature | a user | a screen || A
+mc: B || To debug is to || find and fix bugs | add bugs | delete the app | draw || A
+mc: B || An edge case is || an unusual input | a normal input | a feature | a screen || A
+mc: B || To refine is to || make small improvements | start over | delete | ignore || A
+mc: B || The first debugging step is || reproduce the bug | delete the code | ask a friend to fix it | ignore it || A
+mc: B || An error message shows || something went wrong | a success | a colour | a user || A
+mc: I || Change only one thing so you know || which change fixed it | nothing | the colour | the user || A
+mc: I || A counter reset inside the loop || always restarts | works correctly | counts faster | crashes || A
+mc: I || "Due date ≥ tomorrow" marks || all future tasks | only tomorrow's tasks | no tasks | past tasks || A
+mc: I || An empty list is an example of || an edge case | a feature | a variable | a wireframe || A
+mc: C || A debug log helps a team by || recording fixes | hiding bugs | slowing work | deleting code || A
+mc: C || A fix can create a new bug because || changes affect other code | fixes are perfect | code never changes | bugs disappear || A
+sa: B || Define debug. || To find and fix bugs.
+sa: B || What is an edge case? || An unusual input that might break a product.
+sa: I || List the five debugging steps. || Reproduce, isolate, trace, fix one thing, check edge cases.
+sa: I || Explain the cause of the counter bug. || The counter resets inside the loop.
+sa: I || Name two edge cases for your product. || Answers vary.
+sa: I || Why change one thing at a time? || To know which change fixed the bug.
+sa: C || Complete a debug log for three bugs. || Answers vary.
+sa: C || Explain how you would debug a reminder that never appears. || Reproduce, isolate, trace the condition, fix and retest.
+
+=== CTF9.C1 0
+hook: Big tech companies watch real people use their products before launch, often finding problems the designers never imagined. The rule is simple: you are not your user. Today you plan how to watch real users try your product.
+sc: I can plan a user test with clear tasks | I can choose what to observe and measure | I can prepare to run a fair, respectful test
+v: user testing :: Watching real users try a product to find problems.
+v: usability :: How easy and pleasant a product is to use.
+v: task :: A specific thing a tester is asked to do with the product.
+v: observation :: Watching and recording what users do.
+v: think-aloud :: Asking users to say what they are thinking while using a product.
+v: success rate :: The percentage of users who complete a task.
+ts: Test Plan || Design challenge || How do I find out whether real users can use my product?
+tx: User-test plan (written for this lesson): ¶ 1. Goal: What do you want to learn? Example: "Can Grade 8 students add a homework task and find tomorrow's tasks without help?" ¶ 2. Testers: Choose five users who match your problem statement, not just friends from your team. ¶ 3. Tasks: Write three tasks in plain words without giving away the steps. Good: "Add your science homework due Friday." Bad: "Tap the plus button, then type science." ¶ 4. Measures: For each task record whether it was completed (yes/no), time taken, number of mistakes and what the user said (think-aloud). ¶ 5. Script: Welcome the tester; explain you are testing the product, not them; ask them to think aloud; don't help unless they are completely stuck; thank them. ¶ 6. After-test questions: "What was easiest? What was confusing? Would you use this? Why or why not?"
+src: Original activity written for this lesson.
+st: Write a test goal | Choose five testers who match your users | Write three tasks that don't give away the steps | Decide what you will measure | Write a test script and after-test questions
+org: Task | What success looks like | What I will measure | Notes space
+an: Why test with users who match the problem statement? | Why shouldn't tasks give away the steps? | Why tell testers you are testing the product, not them? | What do you most want to learn?
+pr: Write a complete user-test plan with a goal, tester list, three tasks, measures, a script and after-test questions.
+ex: Good task || Improve "Tap the calendar icon to see tomorrow." || Don't give away steps || "Find out what homework is due tomorrow." || Why does this matter?
+ex: Choosing testers || Should your team members test the app? || They already know how it works || No; choose users who haven't seen it || Who would be ideal?
+ex: Success rate || 4 of 5 testers completed a task. Success rate? || 4 ÷ 5 × 100 || 80% || Is that good enough?
+ex: Not helping || A tester is stuck. What do you do? || Wait | Ask what they're thinking || Wait, ask what they expect to happen, and only help if completely stuck || Why not help right away?
+p: B || What is user testing? || Watching real users try a product.
+p: B || What is usability? || How easy and pleasant a product is to use.
+p: B || What is a task in user testing? || A specific thing a tester is asked to do.
+p: B || What is think-aloud? || Users saying their thoughts while using a product.
+p: B || What is a success rate? || The percentage of users completing a task.
+p: I || How many testers should you choose? || Five.
+p: I || Why not test with your own team? || They already know how the product works.
+p: I || Name three things to measure. || Completion, time and mistakes.
+p: I || 3 of 5 complete a task. Success rate? || 60%.
+p: I || Why tell testers you are testing the product? || So they feel comfortable and act naturally.
+p: I || Write one after-test question. || "What was confusing?"
+p: C || Why does "you are not your user" matter? || Designers know too much to see problems new users face.
+p: C || Why might five testers find most big problems? || Major problems show up for most users quickly.
+p: C || Why not help a stuck tester right away? || Their struggle shows exactly where the design is unclear.
+p: C || Write a task for your product that doesn't give away steps. || Answers vary.
+mis: Testing only with friends | Writing tasks that explain the steps | Helping testers whenever they pause
+et: Write one user-test task. | What will you measure?
+mc: B || User testing means || watching real users try a product | testing the designer | a quiz | a survey only || A
+mc: B || Usability is || how easy a product is to use | its price | its colour | its size || A
+mc: B || Think-aloud means || users say their thoughts | users stay silent | designers talk | no one talks || A
+mc: B || A success rate is || percentage completing a task | number of buttons | price | time only || A
+mc: B || Testers should be || matching users who haven't seen it | your team | the teacher only | nobody || A
+mc: B || You are testing || the product | the tester | the teacher | the weather || A
+mc: I || 4 of 5 completing a task is || 80% | 40% | 4% | 50% || A
+mc: I || A good task is || "Find tomorrow's homework" | "Tap the blue icon" | "Click here then there" | "Do it" || A
+mc: I || When a tester is stuck you should || wait and ask what they expect | help immediately | end the test | laugh || A
+mc: I || Three things to measure are || completion, time and mistakes | colour, size and price | name, age and grade | none || A
+mc: C || "You are not your user" means designers || know too much to see problems | are always right | don't use products | are users || A
+mc: C || Not helping right away shows || where the design is unclear | the tester is slow | the product is perfect | nothing || A
+sa: B || Define usability. || How easy and pleasant a product is to use.
+sa: B || What is think-aloud? || Users saying their thoughts while using a product.
+sa: I || Improve a task that gives away the steps. || Answers vary.
+sa: I || Calculate a success rate for 3 of 5 testers. || 60%.
+sa: I || Why not test with your team? || They already know how it works.
+sa: I || Name three things to measure. || Completion, time, mistakes.
+sa: C || Write a complete user-test plan. || Answers vary.
+sa: C || Explain "you are not your user." || Designers know their product too well to notice problems new users face.
+
+=== CTF9.C1 1
+hook: You've watched five people use your product. Now you have pages of notes, times and quotes. The hard part isn't collecting feedback; it's figuring out what it means and what to do first.
+sc: I can run a user test following my plan | I can organize results to find patterns | I can rank problems by how serious they are
+v: pattern :: Something that happens again and again in the results.
+v: severity :: How serious a problem is for users.
+v: affinity map :: Grouping sticky notes of observations into themes.
+v: quantitative data :: Data in numbers, such as times and success rates.
+v: qualitative data :: Data in words, such as quotes and observations.
+v: pain point :: A part of the product that frustrates users.
+ts: Make Sense of Feedback || Case study || What do my user-test results tell me?
+tx: Sample results (written for this lesson), homework app, five testers: ¶ Task 1, Add homework due Friday: 5 of 5 completed; average time 25 seconds; 2 testers first tapped the title instead of "+." ¶ Task 2, Find tomorrow's homework: 2 of 5 completed; average time 70 seconds; 3 testers said "Where's the calendar?" ¶ Task 3, Delete a finished task: 4 of 5 completed; 1 tester said "I'm scared I'll delete the wrong one." ¶ After-test comments: "I like how fast it is." "The text is tiny on my phone." "I'd use it if it reminded me at night." ¶ Steps: 1. Calculate the success rate for each task. 2. Write each observation on a sticky note and group them into themes (affinity map). 3. Rate each problem's severity: 3 = stops users finishing a task, 2 = slows or confuses users, 1 = small annoyance. 4. List the top three problems to fix.
+src: Original activity written for this lesson.
+st: Run your user tests and record results | Calculate success rates and average times | Build an affinity map of observations | Rate each problem's severity | Choose the top three problems to fix
+org: Problem | How many testers | Severity (1–3) | Evidence
+an: Which task had the lowest success rate? | What patterns appear in the comments? | Which problem is most severe? | Which positive feedback should you keep?
+pr: Write a test-results summary: success rates, a list of problems rated by severity, the top three to fix and one thing users loved.
+ex: Success rate || What is Task 2's success rate? || 2 ÷ 5 × 100 || 40% || Why is it low?
+ex: Pattern || What pattern appears in Task 2? || Repeated comments || Three testers looked for a calendar view || What would fix it?
+ex: Severity || Rate "text is tiny" for severity. || Does it stop or slow users? || 2; it slows and frustrates users but they can still finish || Rate the Task 2 problem.
+ex: Qualitative vs quantitative || Is "70 seconds" qualitative or quantitative? || Numbers or words? || Quantitative || Give a qualitative example.
+p: B || What is a pattern? || Something that happens again and again.
+p: B || What is severity? || How serious a problem is.
+p: B || What is an affinity map? || Grouping observations into themes.
+p: B || What is quantitative data? || Data in numbers.
+p: B || What is qualitative data? || Data in words.
+p: I || What is Task 1's success rate? || 100%.
+p: I || What is Task 3's success rate? || 80%.
+p: I || Which task most needs fixing? || Task 2, finding tomorrow's homework.
+p: I || What severity is a problem that stops users finishing a task? || 3.
+p: I || What is a pain point? || A part that frustrates users.
+p: I || Name one thing users liked. || The app is fast.
+p: C || Why fix severity-3 problems first? || They stop users from completing tasks.
+p: C || Why keep positive features in mind when redesigning? || So fixes don't remove what users value.
+p: C || What feature request appeared in the comments? || Night-time reminders.
+p: C || Why combine numbers and quotes in a summary? || Numbers show how big a problem is; quotes show why.
+mis: Treating one comment as a pattern | Fixing the easiest problem instead of the most severe | Ignoring what users liked
+et: What is your product's biggest problem? | Give one piece of quantitative and one of qualitative data.
+mc: B || A pattern is || something that repeats | a single comment | a colour | a tool || A
+mc: B || Severity means || how serious a problem is | how fast it is | how big a screen is | the price || A
+mc: B || An affinity map groups || observations into themes | prices | screens | users by age || A
+mc: B || Quantitative data is || in numbers | in words | in pictures only | missing || A
+mc: B || Qualitative data is || in words | in numbers | a graph | a percentage || A
+mc: B || A pain point || frustrates users | delights users | is a price | is a feature || A
+mc: I || Task 2's success rate is || 40% | 20% | 60% | 80% || A
+mc: I || Task 1's success rate is || 100% | 80% | 50% | 25% || A
+mc: I || A problem that stops task completion is severity || 3 | 1 | 2 | 0 || A
+mc: I || "70 seconds" is || quantitative | qualitative | a pattern | a pain point || A
+mc: C || Severity-3 problems are fixed first because they || stop users finishing tasks | are easy | are small | are popular || A
+mc: C || Combining numbers and quotes shows || how big and why | nothing | only prices | only colours || A
+sa: B || Define severity. || How serious a problem is for users.
+sa: B || What is the difference between quantitative and qualitative data? || Numbers vs words.
+sa: I || Calculate the success rate for Task 3. || 80%.
+sa: I || What pattern appeared in Task 2? || Testers looked for a calendar.
+sa: I || Rate the "tiny text" problem. || Severity 2.
+sa: I || Name one positive comment to keep. || The app is fast.
+sa: C || Write a test-results summary for your product. || Answers vary.
+sa: C || Explain why the most severe problems come first. || They stop users completing tasks.
+
+=== CTF9.C1 2
+hook: Users rarely notice good design, but they always notice bad design. Fixing the top problems from testing turns a product that "kind of works" into one people actually want to use.
+sc: I can make quality improvements based on user-test results | I can retest to check improvements worked | I can judge my product's quality against criteria
+v: quality :: How well a product meets its criteria and users' needs.
+v: revision :: A change made to improve a product.
+v: retest :: Testing again after changes to compare results.
+v: quality checklist :: A list of standards a product must meet before release.
+v: accessibility :: Designing so people with different abilities can use a product.
+v: release :: Making a product available to users.
+ts: Quality Pass || Design challenge || How do I make my product good enough to release?
+tx: Quality improvement plan (written for this lesson): ¶ 1. Fix the top three problems from user testing. Example fixes for the homework app: add a "Tomorrow" button on the home screen (Task 2 problem); increase text to at least 16 point (tiny text); add an "Are you sure?" message before deleting (delete fear). ¶ 2. Retest the same tasks with three new testers. Compare success rates and times before and after. ¶ 3. Quality checklist before release: All MVP features work. No known severity-3 bugs. Text is readable on a phone. Buttons are big enough to tap (about 1 cm). Colour is not the only way information is shown (for colour-blind users). Spelling and grammar are correct. The product solves the problem statement. ¶ 4. Decide: ready to release, or another iteration?
+src: Original activity written for this lesson.
+st: Choose fixes for your top three problems | Make the revisions | Retest with three new testers | Complete the quality checklist | Decide if the product is ready to release
+org: Problem | Revision | Before | After | Better?
+an: Which revision made the biggest difference? | Did any revision cause a new problem? | Which checklist item did your product fail? | Is your product ready to release? Why?
+pr: Write a quality report: three revisions with before-and-after results, the completed checklist and your release decision.
+ex: Before and after || Task 2: 40% before, 100% after adding a "Tomorrow" button. Change? || 100 − 40 || A 60-percentage-point improvement || Is it ready?
+ex: Accessibility || Overdue tasks are shown only in red. Problem? || Colour-blind users || Some users can't see the difference; add an icon or the word "Overdue" || Name another accessibility feature.
+ex: New problem || Bigger text pushed the "+" button off the screen. What now? || A fix created a bug || Adjust the layout and retest || Why retest everything?
+ex: Release decision || All MVP features work but one severity-2 problem remains. Release? || Check the checklist || Possibly yes, with a note to fix it in the next version || Who decides?
+p: B || What is quality? || How well a product meets criteria and users' needs.
+p: B || What is a revision? || A change made to improve a product.
+p: B || What is a retest? || Testing again after changes.
+p: B || What is accessibility? || Designing so people with different abilities can use a product.
+p: B || What is a release? || Making a product available to users.
+p: I || What text size is suggested for phones? || At least 16 point.
+p: I || About how big should tap buttons be? || About 1 cm.
+p: I || Why not show information by colour only? || Colour-blind users may miss it.
+p: I || Why use new testers for the retest? || Earlier testers already learned the product.
+p: I || Name two items on the quality checklist. || All MVP features work; text is readable.
+p: I || What is the fix for "fear of deleting"? || An "Are you sure?" message.
+p: C || Why retest all tasks, not only the fixed one? || A fix can break something else.
+p: C || Why is accessibility part of quality? || A product is only good if all intended users can use it.
+p: C || When is a product "good enough" to release? || When it meets the checklist and solves the problem, even if small improvements remain.
+p: C || Write one accessibility improvement for your product. || Answers vary.
+mis: Thinking quality means adding more features | Thinking a fix doesn't need retesting | Thinking accessibility only matters for a few people
+et: Name one revision and its before-and-after result. | Is your product ready to release?
+mc: B || Quality means || meeting criteria and users' needs | adding features | being expensive | being new || A
+mc: B || A revision is || a change to improve | a new product | a test | a user || A
+mc: B || Retesting means || testing again after changes | skipping tests | testing once | never testing || A
+mc: B || Accessibility means || people with different abilities can use it | it is expensive | it is fast | it is colourful || A
+mc: B || Release means || making a product available | deleting it | testing it | sketching it || A
+mc: B || A quality checklist lists || standards before release | prices | users | colours || A
+mc: I || 40% to 100% is an improvement of || 60 percentage points | 40 points | 100 points | 140 points || A
+mc: I || Showing overdue tasks only in red affects || colour-blind users | all users equally | nobody | fast users || A
+mc: I || Retests should use || new testers | the same testers | the design team | no one || A
+mc: I || Tap buttons should be about || 1 cm | 1 mm | 10 cm | 1 m || A
+mc: C || All tasks are retested because || a fix can break something else | it's fun | it's faster | nothing changes || A
+mc: C || Accessibility is part of quality because || all intended users must be able to use it | it costs less | it is optional | it looks nice || A
+sa: B || Define accessibility. || Designing so people with different abilities can use a product.
+sa: B || What is a retest? || Testing again after changes to compare results.
+sa: I || Calculate the improvement from 40% to 100%. || 60 percentage points.
+sa: I || Why not use colour alone? || Colour-blind users may miss information.
+sa: I || Name three quality checklist items. || MVP works, readable text, big buttons.
+sa: I || Why use new testers? || Earlier testers already learned the product.
+sa: C || Write a quality report for your product. || Answers vary.
+sa: C || Explain when a product is ready to release. || When it meets the checklist and solves the problem.
+
+=== CTF9.D1 0
+hook: Investors hear hundreds of pitches. Most are forgotten within minutes. The ones that win explain a real problem, a clear solution and why it matters, in about two minutes. Today you learn to pitch.
+sc: I can explain the parts of a pitch | I can write a value proposition | I can create a short, persuasive pitch for my product
+v: pitch :: A short, persuasive presentation of an idea or product.
+v: entrepreneur :: A person who starts a business to solve a problem or meet a need.
+v: value proposition :: A sentence explaining why your product is valuable to users.
+v: target market :: The specific group of people a product is for.
+v: competitor :: Another product or business that solves the same problem.
+v: call to action :: What you want your audience to do at the end.
+ts: Pitch Builder || Design challenge || How do I persuade people that my product is worth it?
+tx: Pitch structure (written for this lesson), about two minutes: ¶ 1. Hook (10 s): a surprising fact or question from your research. "60% of students we surveyed miss homework deadlines at least sometimes." ¶ 2. Problem (20 s): your problem statement and a user story. ¶ 3. Solution (30 s): what your product does, shown in a demo or images. ¶ 4. Value proposition (15 s): "Our app helps student athletes never miss a deadline by showing tomorrow's homework in one tap." ¶ 5. Evidence (20 s): user-test results, such as "task success rose from 40% to 100%." ¶ 6. Competitors (10 s): why yours is different or better. ¶ 7. Call to action (10 s): what you want: "Try it this week" or "Help us launch it school-wide." ¶ Value proposition formula: Our [product] helps [target market] [do something] by [how it works].
+src: Original activity written for this lesson.
+st: Learn the seven parts of a pitch | Write your value proposition using the formula | Choose your strongest evidence | Script and time a two-minute pitch | Rehearse with a partner and revise
+org: Pitch part | My words | Time (s)
+an: What is your strongest hook? | Is your value proposition clear in one sentence? | Which evidence is most persuasive? | What is your call to action?
+pr: Write a two-minute pitch script with all seven parts and a one-sentence value proposition.
+ex: Value proposition || Write one for a reusable lunch container tracker. || Product | Market | Benefit | How || "Our tracker helps busy families stop losing lunch containers by sending a reminder at pickup time" || Is it clear?
+ex: Hook || Which hook is stronger: "Homework is hard" or "60% of students miss deadlines"? || Specific and surprising || The statistic; it uses real research || Write a hook for your product.
+ex: Competitors || How is your app different from a paper planner? || Compare features || It reminds you automatically; a planner only works if you check it || Is that persuasive?
+ex: Call to action || Write a call to action for the school principal. || What do you want? || "Let us test the app with all Grade 8 classes next term" || Why be specific?
+p: B || What is a pitch? || A short, persuasive presentation.
+p: B || What is an entrepreneur? || A person who starts a business to meet a need.
+p: B || What is a value proposition? || A sentence explaining why a product is valuable.
+p: B || What is a target market? || The group a product is for.
+p: B || What is a call to action? || What you want the audience to do.
+p: I || Name the seven parts of a pitch. || Hook, problem, solution, value proposition, evidence, competitors, call to action.
+p: I || What is the value proposition formula? || Our [product] helps [target market] [do something] by [how].
+p: I || How long is the pitch? || About two minutes.
+p: I || Why use a statistic in the hook? || It is specific and grabs attention.
+p: I || What is a competitor? || Another product solving the same problem.
+p: I || What evidence is most persuasive? || Real results from user testing.
+p: C || Why do investors care about the problem, not just the product? || A product only succeeds if it solves a real need.
+p: C || How does research make a pitch stronger? || It provides facts and evidence.
+p: C || Why mention competitors? || To show why your product is different or better.
+p: C || Write your value proposition. || Answers vary.
+mis: Thinking a pitch is just describing features | Ignoring competitors | Ending without asking for anything
+et: Write your value proposition. | What is your call to action?
+mc: B || A pitch is || short and persuasive | long and boring | a test | a sketch || A
+mc: B || An entrepreneur || starts a business to meet a need | only buys products | works for free | avoids risk always || A
+mc: B || A value proposition explains || why a product is valuable | the price only | the colour | the code || A
+mc: B || A target market is || the group a product is for | a store | a competitor | a price || A
+mc: B || A call to action tells the audience || what to do | your name | the problem | nothing || A
+mc: B || A competitor || solves the same problem | is your user | is your team | is a feature || A
+mc: I || The pitch lasts about || two minutes | twenty minutes | two seconds | an hour || A
+mc: I || The strongest hook is || a surprising statistic | "Hi" | "Homework is hard" | silence || A
+mc: I || The most persuasive evidence is || user-test results | your opinion | a guess | a colour || A
+mc: I || "Let us test it with all Grade 8 classes" is a || call to action | hook | competitor | value proposition || A
+mc: C || Investors care about the problem because || products must meet real needs | problems are fun | it's required | they like stories only || A
+mc: C || Mentioning competitors shows || why yours is different | you are worried | nothing | weakness || A
+sa: B || Define value proposition. || A sentence explaining why a product is valuable to users.
+sa: B || What is a call to action? || What you want the audience to do.
+sa: I || Name the seven parts of a pitch. || Hook, problem, solution, value proposition, evidence, competitors, call to action.
+sa: I || Write a hook from your research. || Answers vary.
+sa: I || How is your product different from a competitor? || Answers vary.
+sa: I || What is the value proposition formula? || Our [product] helps [market] [do something] by [how].
+sa: C || Write a two-minute pitch script. || Answers vary.
+sa: C || Explain why evidence makes a pitch persuasive. || It proves the product works.
+
+=== CTF9.D1 1
+hook: On shows like Dragons' Den, entrepreneurs pitch to a panel who fire tough questions: How much does it cost? Who will buy it? What if it breaks? Today you face your own panel.
+sc: I can deliver a confident pitch to a panel | I can answer questions using evidence | I can use panel feedback to improve my idea
+v: panel :: A group of people who listen to and judge pitches.
+v: delivery :: How you speak and act while presenting.
+v: confidence :: Believing in your ideas and showing it through your voice and body.
+v: rebuttal :: A respectful answer to a concern or challenge.
+v: demo :: A live demonstration of a product.
+v: next steps :: The actions you will take after the pitch.
+ts: Pitch Panel || Design challenge || How do I handle a panel's questions with confidence?
+tx: Pitch panel format (written for this lesson): ¶ Each team pitches for two minutes, then the panel (classmates, teachers or invited guests) asks questions for three minutes. ¶ Common panel questions: "Who exactly will use this?" "How do you know they want it?" "What does it cost to make or run?" "What if users stop using it after a week?" "How is it better than what already exists?" "What would you do with more time or money?" ¶ Answering tips: pause before answering; use evidence ("In our testing, 4 of 5 users..."); admit what you don't know and say how you'd find out; stay respectful even if the question feels tough. ¶ Panel scoring (1–4 each): problem is real and clear; solution fits the problem; evidence supports claims; delivery is confident; answers to questions are thoughtful. ¶ After the panel: list the three most useful questions and your next steps.
+src: Original activity written for this lesson.
+st: Prepare answers to the six common questions | Rehearse your demo | Deliver your pitch to the panel | Answer panel questions with evidence | Write next steps based on feedback
+org: Panel question | Our answer | Evidence used | Next step
+an: Which question was hardest to answer? | Did your evidence help you answer? | What did the panel score highest? | What are your next steps?
+pr: Deliver your pitch and Q&A, then write a reflection with the three most useful questions and three next steps.
+ex: Using evidence || "How do you know students want this?" Answer it. || Use research || "60% of 20 surveyed students miss deadlines, and 4 of 5 testers said they'd use it" || Which number is strongest?
+ex: Admitting gaps || "What does it cost to run?" You don't know. || Be honest | Show a plan || "We haven't calculated that yet; we'd check hosting costs and ask the IT department" || Why is honesty better than guessing?
+ex: Rebuttal || "Students already have planners." Respond respectfully. || Acknowledge | Explain difference || "That's true, but our testing showed reminders help students who forget to check planners" || Why acknowledge first?
+ex: Demo tips || Your demo might fail live. How do you prepare? || Backup plan || Rehearse and have screenshots or a short video as backup || What else could go wrong?
+p: B || What is a panel? || A group that listens to and judges pitches.
+p: B || What is delivery? || How you speak and act while presenting.
+p: B || What is a demo? || A live demonstration of a product.
+p: B || What is a rebuttal? || A respectful answer to a concern.
+p: B || What are next steps? || Actions to take after the pitch.
+p: I || How long is the pitch and Q&A? || Two minutes of pitch and three minutes of questions.
+p: I || Name three common panel questions. || Who will use it, how do you know, how is it better.
+p: I || What should you do before answering? || Pause and think.
+p: I || What if you don't know an answer? || Admit it and say how you'd find out.
+p: I || Name two panel scoring criteria. || Evidence supports claims; delivery is confident.
+p: I || Why have a backup for the demo? || In case the live demo fails.
+p: C || Why does acknowledging a concern make a rebuttal stronger? || It shows you listened and respect the question.
+p: C || How can tough questions help your product? || They reveal weaknesses to fix.
+p: C || Why do entrepreneurs practise answering questions? || Investors and clients always ask them.
+p: C || Write three next steps for your product. || Answers vary.
+mis: Thinking tough questions mean the panel dislikes you | Guessing instead of admitting you don't know | Arguing with the panel
+et: Which panel question was most useful? | What is your first next step?
+mc: B || A panel || judges pitches | builds products | writes code | buys tools || A
+mc: B || Delivery means || how you speak and act | the product | the price | the code || A
+mc: B || A demo is || a live demonstration | a drawing | a survey | a price || A
+mc: B || A rebuttal is || a respectful answer to a concern | an insult | silence | a guess || A
+mc: B || Next steps are || actions after the pitch | the hook | the problem | the price || A
+mc: B || Q&A lasts || three minutes | thirty minutes | three seconds | an hour || A
+mc: I || If you don't know an answer || admit it and explain how you'd find out | guess | argue | leave || A
+mc: I || Before answering you should || pause | interrupt | laugh | change topic || A
+mc: I || A good backup for a demo is || screenshots or a video | nothing | an apology | a new idea || A
+mc: I || A strong answer uses || evidence | opinion | guessing | anger || A
+mc: C || Acknowledging a concern first shows || you listened | weakness | agreement only | confusion || A
+mc: C || Tough questions help by || revealing weaknesses to fix | ending projects | wasting time | proving failure || A
+sa: B || Define rebuttal. || A respectful answer to a concern or challenge.
+sa: B || What is a demo? || A live demonstration of a product.
+sa: I || Answer "How do you know students want this?" with evidence. || Answers vary; must use research data.
+sa: I || What should you do if you can't answer? || Admit it and say how you'd find out.
+sa: I || Name three panel scoring criteria. || Clear problem, evidence, confident delivery.
+sa: I || Why prepare a demo backup? || The live demo might fail.
+sa: C || Write a reflection with three useful questions and next steps. || Answers vary.
+sa: C || Explain how panel questions improve a product. || They reveal weaknesses and new ideas.
+
+=== CTF9.D1 2
+hook: In Grade 10, CTF becomes CTS: Career and Technology Studies. Instead of trying a little of everything, you choose courses in areas like cooking, construction, computer science, fashion, media or health, and they count toward your high school diploma. Planning now helps you choose wisely.
+sc: I can describe how CTS works in Alberta high schools | I can connect my CTF experiences to CTS courses | I can make a high school course plan that fits my interests
+v: Career and Technology Studies (CTS) :: Alberta's high school program of hands-on courses that build career skills.
+v: credit :: A unit earned for completing a high school course; Alberta's high school diploma needs at least 100.
+v: pathway :: A planned series of courses leading toward a goal.
+v: introductory, intermediate, advanced :: The three CTS levels, from beginner to more specialized.
+v: dual credit :: A program where high school students earn credits toward both high school and a post-secondary certificate.
+v: post-secondary :: Education after high school, such as college, polytechnic, apprenticeship or university.
+ts: My Pathway Plan || Case study || How can CTS courses help me explore careers in high school?
+tx: Information (summary written for this lesson): ¶ CTS courses are organized in the same five clusters as CTF: Business, Finance and Information Technology; Health, Recreation and Human Services; Media, Design and Communication Arts; Natural Resources; and Trades, Manufacturing and Transportation. ¶ Courses come in introductory, intermediate and advanced levels, and each CTS course is usually worth 1 credit. Students can build a pathway, for example Foods: introductory foods courses in Grade 10 leading to advanced courses in Grade 12. ¶ Related programs: RAP (start an apprenticeship in high school), dual credit (earn college credits) and work experience. ¶ Case studies: Leila loved the CTF foods challenge and plans foods courses each year, plus work experience at a bakery. Marcus liked coding his CTF app and plans computer science courses and a dual-credit program. Aisha enjoyed building her organizer and plans construction courses and RAP as a carpentry apprentice. ¶ Task: Use your CTF portfolio and interest results to plan a CTS pathway for Grades 10–12.
+src: Summary written for this lesson; check your school's course guide and Alberta Education information for current CTS courses.
+st: Learn how CTS is organized | Read the three pathway case studies | Review your CTF portfolio and interests | Choose a cluster and courses for Grades 10–12 | Add a related program and a possible career goal
+org: Grade | CTS courses or cluster | Related program | Career connection
+an: Which CTF challenge best predicted your interests? | Which cluster will you start with in Grade 10? | Which related program interests you: RAP, dual credit or work experience? | How could your plan change, and is that OK?
+pr: Create a Grades 10–12 CTS pathway plan with a cluster, courses each year, one related program and a possible career goal, explaining how your CTF experiences shaped it.
+ex: Credits || How many credits does an Alberta high school diploma need? || Diploma requirement || At least 100 credits || How do CTS courses help?
+ex: Pathway || Build a pathway for someone who loved the coding challenge. || Cluster and levels || Business, Finance and IT: introductory computer science in Grade 10, intermediate in 11, advanced in 12 || What related program fits?
+ex: Matching programs || Aisha wants to be a carpenter. Which program helps most? || Start early || RAP; she can start her apprenticeship in high school || What CTS courses support it?
+ex: Changing plans || Your interests change in Grade 11. Is your plan wasted? || Transferable skills || No; skills and credits still count, and you can switch pathways || Why is flexibility useful?
+p: B || What does CTS stand for? || Career and Technology Studies.
+p: B || What is a credit? || A unit earned for completing a course.
+p: B || What is a pathway? || A planned series of courses toward a goal.
+p: B || What are the three CTS levels? || Introductory, intermediate and advanced.
+p: B || What is post-secondary education? || Education after high school.
+p: I || How many credits is a CTS course usually worth? || 1 credit.
+p: I || How many credits does an Alberta diploma need? || At least 100.
+p: I || Name the five clusters. || Business, finance and IT; health, recreation and human services; media, design and communication arts; natural resources; trades, manufacturing and transportation.
+p: I || What is dual credit? || Earning high school and post-secondary credits at once.
+p: I || Which program lets students start an apprenticeship in high school? || RAP.
+p: I || Which case-study student chose dual credit? || Marcus.
+p: C || Why plan a pathway in Grade 9? || To choose courses that build toward interests and goals.
+p: C || Why is it OK if your plan changes? || Skills and credits still count, and exploring helps you find the right fit.
+p: C || How could work experience help you choose a career? || It shows what the job is really like.
+p: C || Explain how one CTF experience shaped your CTS plan. || Answers vary.
+mis: Thinking CTS is only for students going into trades | Thinking your Grade 9 plan is final | Thinking CTS credits don't count toward a diploma
+et: Name the cluster you plan to start with. | Name one related program that interests you.
+mc: B || CTS stands for || Career and Technology Studies | Computer Training School | Creative Teaching Skills | Career Test Scores || A
+mc: B || A credit is earned by || completing a course | attending once | buying a book | joining a club || A
+mc: B || A pathway is || a planned series of courses | a single class | a road | a test || A
+mc: B || The three CTS levels are || introductory, intermediate, advanced | easy, medium, hard | red, blue, green | A, B, C || A
+mc: B || Post-secondary means || after high school | before high school | during Grade 9 | elementary || A
+mc: B || CTS uses the same || five clusters as CTF | three clusters | ten clusters | no clusters || A
+mc: I || A CTS course is usually worth || 1 credit | 10 credits | 100 credits | 0 credits || A
+mc: I || An Alberta diploma needs at least || 100 credits | 10 credits | 50 credits | 200 credits || A
+mc: I || Starting an apprenticeship in high school uses || RAP | dual credit only | Red Seal | CTF || A
+mc: I || Earning college credits in high school is || dual credit | RAP | CTF | a pitch || A
+mc: C || A changing plan is OK because || skills and credits still count | plans must never change | credits disappear | it's required || A
+mc: C || Work experience helps by || showing what a job is really like | replacing school | giving credits only | nothing || A
+sa: B || Define CTS. || Career and Technology Studies, Alberta's high school hands-on courses.
+sa: B || What is a pathway? || A planned series of courses toward a goal.
+sa: I || How many credits does a CTS course usually give? || 1 credit.
+sa: I || What is dual credit? || Earning high school and post-secondary credits at once.
+sa: I || Name three related programs. || RAP, dual credit, work experience.
+sa: I || How many credits does an Alberta diploma need? || At least 100.
+sa: C || Create a Grades 10–12 CTS pathway plan. || Answers vary.
+sa: C || Explain how CTF prepared you to choose CTS courses. || Answers vary.

@@ -1,0 +1,637 @@
+=== CTF8.A1 1
+hook: Before Leonardo da Vinci built anything, he filled notebooks with quick sketches: flying machines, bridges, gears. Most were never built, but the sketches let him try dozens of ideas in minutes. Sketching is how designers think on paper.
+sc: I can brainstorm many ideas before choosing one | I can draw quick thumbnail sketches | I can draw an orthographic view of my chosen idea
+v: brainstorm :: To generate many ideas quickly without judging them.
+v: thumbnail sketch :: A small, quick drawing that shows an idea.
+v: annotate :: To add notes and labels to a sketch.
+v: orthographic drawing :: A set of flat views (front, top and side) that show an object's true shape and size.
+v: isometric drawing :: A 3-D style drawing where the sides are drawn at 30° angles.
+v: dimension :: A measurement shown on a drawing, such as width or height.
+ts: Idea Factory || Design challenge || How do sketches help designers turn ideas into plans?
+tx: Design brief (written for this lesson): "Design a desk organizer for a Grade 8 student. It must hold at least 6 pencils, a ruler (30 cm), a phone and sticky notes; fit in a space 25 cm wide by 15 cm deep; and be made from wood, card or fabric available in the CTF room." ¶ Part 1, Brainstorm (5 minutes): Write every idea you can think of. No idea is too strange. ¶ Part 2, Thumbnails (10 minutes): Draw at least six thumbnail sketches, each in a box about 5 cm square. Annotate each with one strength and one weakness. ¶ Part 3, Choose: Compare thumbnails against the brief. Star the best one. ¶ Part 4, Orthographic drawing (20 minutes): Draw front, top and side views of your chosen idea on grid paper, lined up with each other, with all main dimensions in centimetres.
+src: Original activity written for this lesson.
+st: Brainstorm ideas for the brief | Draw at least six annotated thumbnails | Compare thumbnails against the brief and choose one | Draw front, top and side views with dimensions | Check the views line up and match
+org: Thumbnail | Strength | Weakness | Meets the brief?
+an: Why draw many thumbnails before choosing? | Which annotation helped you choose? | Why must orthographic views line up? | Which dimension was hardest to decide?
+pr: Produce a design sheet with six annotated thumbnails, your chosen idea starred, and a dimensioned orthographic drawing.
+ex: Brainstorm rule || Why not judge ideas while brainstorming? || Judging slows thinking || It stops wild ideas that might lead to the best solution || How many ideas can you list in 2 minutes?
+ex: Annotation || Annotate a thumbnail of a 3-slot box. || One strength | One weakness || "Simple to build; phone slot may be too narrow" || Add a dimension note.
+ex: Views || Which view shows the width and depth? || Looking from above || The top view || Which view shows height?
+ex: Fit check || Your design is 27 cm wide. Does it meet the brief? || Limit is 25 cm wide || No; reduce the width by at least 2 cm || Which part would you shrink?
+p: B || What is brainstorming? || Generating many ideas quickly without judging them.
+p: B || What is a thumbnail sketch? || A small, quick drawing of an idea.
+p: B || What does annotate mean? || To add notes and labels.
+p: B || What is an orthographic drawing? || Flat front, top and side views showing true shape and size.
+p: B || What is a dimension? || A measurement shown on a drawing.
+p: I || Name the three standard orthographic views. || Front, top and side.
+p: I || Which view shows height and width? || The front view.
+p: I || What angle is used in isometric drawing? || 30°.
+p: I || How many thumbnails should you draw? || At least six.
+p: I || What must the organizer hold? || At least 6 pencils, a 30 cm ruler, a phone and sticky notes.
+p: I || What units should dimensions use? || Centimetres (or millimetres).
+p: C || Why might the best idea come from a strange brainstorm idea? || Unusual ideas can be combined or adapted into creative solutions.
+p: C || The ruler is 30 cm but the space is 25 cm wide. How could the design hold it? || Hold it diagonally, upright or along the depth with an angled slot.
+p: C || Why do builders prefer orthographic drawings to sketches? || They show exact sizes so parts can be made accurately.
+p: C || How do annotated thumbnails help a team decide? || They show strengths and weaknesses clearly for comparison.
+mis: Thinking the first idea is usually the best | Thinking sketches must be artistic | Thinking a pretty drawing is the same as a plan
+et: Name the three orthographic views. | Why draw several thumbnails?
+mc: B || Brainstorming means || generating many ideas quickly | choosing one idea | drawing neatly | measuring || A
+mc: B || A thumbnail sketch is || small and quick | large and detailed | a photo | a measurement || A
+mc: B || To annotate is to || add notes and labels | erase | colour | cut || A
+mc: B || Orthographic views include || front, top, side | left, right, back only | inside, outside | 3-D only || A
+mc: B || A dimension is || a measurement on a drawing | a colour | a material | a client || A
+mc: B || Isometric drawings use || 30° angles | 90° only | 45° only | no angles || A
+mc: I || Width and depth are shown in the || top view | front view | side view | isometric only || A
+mc: I || A 27 cm design for a 25 cm space || fails the brief | passes | is perfect | needs colour || A
+mc: I || The organizer must hold a ruler of || 30 cm | 15 cm | 50 cm | 5 cm || A
+mc: I || You should draw at least || six thumbnails | one thumbnail | two thumbnails | twenty thumbnails || A
+mc: C || Builders prefer orthographic drawings because they || show exact sizes | look artistic | are faster | need no ruler || A
+mc: C || Judging ideas during brainstorming || stops creative ideas | helps creativity | is required | saves materials || A
+sa: B || Define orthographic drawing. || Flat front, top and side views showing true shape and size.
+sa: B || What is a thumbnail sketch? || A small, quick drawing of an idea.
+sa: I || Which view shows width and depth? || The top view.
+sa: I || Annotate one of your thumbnails with a strength and weakness. || Answers vary.
+sa: I || Why must views line up? || So sizes match between views.
+sa: I || Does a 27 cm wide design meet the 25 cm brief? || No.
+sa: C || Explain how sketching helps designers. || It lets them try and compare many ideas quickly before building.
+sa: C || Produce a dimensioned orthographic drawing of your organizer. || Answers vary.
+
+=== CTF8.A1 2
+hook: Skateboard decks are made of maple, phone cases of silicone, sails of nylon. Each material was chosen because of how it behaves: strong, flexible, light, waterproof or cheap. Choosing the wrong material can ruin a great design.
+sc: I can describe the properties of common materials | I can choose materials that suit my design and the brief | I can explain my choice using properties and constraints
+v: material :: The substance a product is made from, such as wood, card, fabric or plastic.
+v: property :: A quality of a material, such as strength, flexibility or weight.
+v: durable :: Able to last a long time without wearing out.
+v: rigid :: Stiff and hard to bend.
+v: flexible :: Able to bend without breaking.
+v: sustainable :: Able to be used without harming the environment for the future.
+ts: Material Match || Design challenge || How do I choose the best material for my design?
+tx: Material testing stations (written for this lesson): ¶ Station 1, Strength: Hang a 500 g mass from a 2 cm strip of each material. Does it hold or tear? ¶ Station 2, Rigidity: Clamp a 15 cm strip and press the end. How far does it bend? ¶ Station 3, Water: Drip 5 drops of water. Does it soak in, warp or stay dry? ¶ Station 4, Workability: Can you cut and join it with tools in the CTF room? How long does it take? ¶ Materials to test: pine strip, MDF, corrugated card, felt, canvas, recycled plastic sheet. ¶ Cost and sustainability card: pine (medium cost, renewable), MDF (low cost, contains glue), corrugated card (very low cost, recyclable), felt (low cost), canvas (medium cost, durable), recycled plastic (medium cost, reuses waste). ¶ Then choose the main material for your desk organizer and justify it.
+src: Original activity written for this lesson.
+st: Test each material at the four stations | Record results in the table | Read the cost and sustainability card | Match properties to your organizer's needs | Choose and justify your main material
+org: Material | Strength | Rigidity | Water | Workability | Cost and sustainability
+an: Which material was strongest? Most flexible? | Which properties does your organizer need most? | Which material best balances properties, cost and sustainability? | What is the trade-off in your choice?
+pr: Write a material justification: your chosen material, three properties that suit your design, one trade-off and how it meets the brief's constraints.
+ex: Matching properties || A phone slot must not bend. Which property matters? || Stiffness || Rigidity || Which tested material is most rigid?
+ex: Trade-off || Corrugated card is cheap and recyclable. What is the trade-off? || Test results || It is weaker and absorbs water || When is card still a good choice?
+ex: Sustainability || Why is recycled plastic sustainable? || Where it comes from || It reuses waste instead of new plastic || What else makes a material sustainable?
+ex: Justify || Justify pine for the organizer. || Properties | Constraints || Strong, rigid and durable; can be cut with room tools; renewable || What is its trade-off?
+p: B || What is a material? || The substance a product is made from.
+p: B || What is a property? || A quality of a material, such as strength.
+p: B || What does durable mean? || Lasts a long time.
+p: B || What does rigid mean? || Stiff and hard to bend.
+p: B || What does sustainable mean? || Can be used without harming the future environment.
+p: I || Name the four test stations. || Strength, rigidity, water and workability.
+p: I || Which material is very low cost and recyclable? || Corrugated card.
+p: I || Which material is flexible and good for a fabric pocket? || Felt or canvas.
+p: I || Why test workability? || To know if it can be cut and joined with available tools.
+p: I || Which property matters for an organizer near a water bottle? || Water resistance.
+p: I || Name one property of pine. || Strong or rigid.
+p: C || Why might two good designs use different materials? || Different needs, costs and tools lead to different best choices.
+p: C || Suggest a material combination for the organizer and explain it. || Pine base for strength and felt pockets for flexibility.
+p: C || Why should designers think about sustainability? || Products affect the environment through materials and waste.
+p: C || How does the brief limit material choice? || It allows only materials available in the CTF room.
+mis: Thinking the strongest material is always best | Thinking cheap means poor quality | Ignoring how a material will be cut and joined
+et: Name your chosen material and two properties. | What is one trade-off?
+mc: B || A property is || a quality of a material | a tool | a client | a sketch || A
+mc: B || Rigid means || stiff | bendy | wet | soft || A
+mc: B || Flexible means || bends without breaking | very stiff | waterproof | heavy || A
+mc: B || Durable means || lasts a long time | breaks easily | costs a lot | is new || A
+mc: B || Sustainable materials || protect the future environment | harm the environment | are always plastic | are always expensive || A
+mc: B || Corrugated card is || cheap and recyclable | very strong | waterproof | metal || A
+mc: I || A phone slot that must not bend needs || rigidity | flexibility | softness | colour || A
+mc: I || A trade-off of card is || weakness and absorbing water | high cost | heavy weight | hard to cut || A
+mc: I || Workability tells you if a material || can be cut and joined | is pretty | is cheap | is wet || A
+mc: I || Recycled plastic is sustainable because it || reuses waste | is new | is cheap | is wood || A
+mc: C || The strongest material isn't always best because || cost and tools also matter | it is ugly | it is light | strength is bad || A
+mc: C || Combining pine and felt gives || strength and flexibility | weakness | no benefit | water damage || A
+sa: B || Define property. || A quality of a material, such as strength or flexibility.
+sa: B || What does sustainable mean? || Able to be used without harming the future environment.
+sa: I || Name the four test stations. || Strength, rigidity, water, workability.
+sa: I || Give a trade-off of corrugated card. || Weak and absorbs water.
+sa: I || Which property matters for a phone slot? || Rigidity.
+sa: I || Why test workability? || To check it can be cut and joined with available tools.
+sa: C || Justify your material choice with three properties. || Answers vary.
+sa: C || Explain why designers consider sustainability. || Materials and waste affect the environment.
+
+=== CTF8.B1 0
+hook: Every year, workplace injuries send thousands of Canadian workers to hospital, and many happen with simple hand tools. Professionals in trades don't avoid tools; they respect them. Safety is the first skill of every builder.
+sc: I can identify common hand tools and their uses | I can follow safety rules for tools and the workshop | I can show I am ready to use tools safely
+v: hand tool :: A tool powered by hand, such as a saw, hammer or screwdriver.
+v: personal protective equipment (PPE) :: Gear that protects you, such as safety glasses or gloves.
+v: safety glasses :: Eye protection worn whenever cutting, drilling or hammering.
+v: clamp :: A tool that holds work firmly in place.
+v: workshop :: A room where things are built with tools.
+v: hazard :: Something that could cause harm.
+ts: Tool Licence || Design challenge || How do I use tools safely in the workshop?
+tx: Workshop safety rules (written for this lesson): ¶ 1. Wear safety glasses when cutting, drilling, sanding or hammering. Tie back long hair and remove dangling items. ¶ 2. Only use a tool after the teacher has demonstrated it and you have passed the tool check. ¶ 3. Clamp your work. Never hold small pieces in your hand while cutting or drilling. ¶ 4. Cut away from your body and keep your other hand behind the blade. ¶ 5. Carry tools pointed down; never run in the workshop. ¶ 6. Report broken tools and injuries right away. ¶ 7. Clean up: return tools to their place and sweep sawdust. ¶ Common tools: tape measure and steel rule (measuring), try square (marking right angles), coping saw and tenon saw (cutting), hand drill (making holes), clamps and vise (holding), sandpaper and files (smoothing), screwdriver and hammer (joining). ¶ Tool check: At each station, name the tool, its use and one safety rule, then demonstrate holding it correctly.
+src: Original activity written for this lesson.
+st: Learn the seven workshop rules | Match each tool to its use | Spot hazards in a workshop picture | Pass a tool check at each station | Sign your workshop safety contract
+org: Tool | What it is for | Safety rule | Checked by teacher
+an: Why must work be clamped? | Which rule protects your eyes? | What should you do if a tool is broken? | Why is cleanup part of safety?
+pr: Earn your "tool licence": complete the tool table, pass the station checks and sign the safety contract.
+ex: Tool use || What tool marks a right angle? || A 90° corner || A try square || Name a tool for cutting curves.
+ex: Clamping || Why not hold a small piece while drilling? || The drill can spin it || The piece can spin or the drill can slip into your hand; clamp it || What holds work on a bench?
+ex: PPE || When do you wear safety glasses? || Any cutting, drilling, sanding or hammering || Whenever chips or dust could fly || Why can't you wait until something hits your eye?
+ex: Hazard spotting || Sawdust is spread on the floor. What is the hazard? || Slipping || Slips and falls; sweep it up || What other hazard comes from mess?
+p: B || What is a hand tool? || A tool powered by hand.
+p: B || What does PPE stand for? || Personal protective equipment.
+p: B || What is a clamp for? || Holding work firmly in place.
+p: B || When should you wear safety glasses? || When cutting, drilling, sanding or hammering.
+p: B || What is a hazard? || Something that could cause harm.
+p: I || What tool cuts curves? || A coping saw.
+p: I || What tool smooths edges? || Sandpaper or a file.
+p: I || Which direction should you cut? || Away from your body.
+p: I || How should you carry a tool? || Pointed down, walking.
+p: I || What should you do if you get hurt? || Report it to the teacher right away.
+p: I || What two tools measure length? || Tape measure and steel rule.
+p: C || Why must the teacher demonstrate a tool first? || So you learn the correct, safe technique.
+p: C || Why is a messy workshop dangerous? || Tripping, slipping and lost or misused tools.
+p: C || Why do trades workers wear PPE even when they are experienced? || Accidents can happen to anyone, and PPE prevents injuries.
+p: C || Explain how clamping improves both safety and accuracy. || It keeps hands away and stops the work moving.
+mis: Thinking safety glasses are only for power tools | Thinking experience means you can skip safety | Thinking cleanup isn't part of safety
+et: Name two tools and their uses. | Give one workshop safety rule.
+mc: B || PPE stands for || personal protective equipment | power plug equipment | private project equipment | paint protection equipment || A
+mc: B || A clamp is used to || hold work in place | cut wood | measure | sand || A
+mc: B || Safety glasses are worn when || cutting, drilling or sanding | eating | reading | writing || A
+mc: B || A coping saw cuts || curves | straight lines only | metal only | glass || A
+mc: B || A try square marks || right angles | circles | curves | colours || A
+mc: B || A hazard could || cause harm | prevent harm | measure | decorate || A
+mc: I || You should cut || away from your body | toward your body | with eyes closed | quickly || A
+mc: I || Tools should be carried || pointed down | pointed up | running | thrown || A
+mc: I || Sawdust on the floor is a || slip hazard | material | tool | measurement || A
+mc: I || Broken tools should be || reported | hidden | used | thrown || A
+mc: C || Clamping helps because it || keeps hands away and stops movement | looks nice | is faster | uses less wood || A
+mc: C || Experienced workers wear PPE because || accidents can happen to anyone | it is fashion | it is required only for beginners | tools are blunt || A
+sa: B || Define PPE. || Personal protective equipment, such as safety glasses.
+sa: B || What is a clamp used for? || Holding work firmly in place.
+sa: I || Name three tools and their uses. || Answers vary; e.g. coping saw cuts curves.
+sa: I || Why should you cut away from your body? || So a slip won't cut you.
+sa: I || What should you do with a broken tool? || Report it.
+sa: I || Name two workshop safety rules. || Wear safety glasses; clamp your work.
+sa: C || Explain why cleanup is part of safety. || Mess causes slips and lost or misused tools.
+sa: C || Why must tools be demonstrated before use? || To learn safe, correct technique.
+
+=== CTF8.B1 1
+hook: Engineers build cardboard and foam models of cars and planes before spending millions on the real thing. A prototype is a test version: cheap, quick and meant to teach you something. Today you build yours.
+sc: I can explain what a prototype is and why it is made | I can build a prototype from my design drawing | I can record changes I make while building
+v: prototype :: An early model built to test a design.
+v: model :: A representation of a design, sometimes at a smaller scale.
+v: scale :: The ratio between the size of a model and the real object.
+v: build log :: A record of what you did, problems and changes while building.
+v: modification :: A change made to a design.
+v: mock-up :: A quick, rough prototype, often in card, to check size and shape.
+ts: Build Day || Design challenge || How does building a prototype test my design?
+tx: Build plan (written for this lesson): ¶ Stage 1, Mock-up (one lesson): Build a full-size mock-up of your desk organizer in card and tape. Place real pencils, a 30 cm ruler, a phone and sticky notes in it. Do they fit? Is it stable? ¶ Stage 2, Modify: Mark any changes on your orthographic drawing in a different colour. ¶ Stage 3, Prototype (two lessons): Build the organizer in your chosen material using safe tool techniques. Follow the order: measure and mark, cut, smooth, test-fit, join, finish. ¶ Build log: After each lesson write the date, what you did, one problem and how you solved it, and any change to the design. ¶ Example log entry: "Day 2. Cut base and two sides. The phone slot was 8 mm too narrow in the mock-up, so I widened it to 18 mm on the drawing before cutting."
+src: Original activity written for this lesson.
+st: Build a full-size card mock-up | Test the mock-up with real items | Mark modifications on your drawing | Build the prototype in your chosen material | Keep a build log each lesson
+org: Date | What I did | Problem | Solution | Design change
+an: What did the mock-up show that the drawing didn't? | What modification did you make? | Which build step was hardest? | How did the build log help you?
+pr: Complete your prototype and a build log with at least three entries, each showing a problem and solution.
+ex: Mock-up value || Why build a card mock-up first? || Cheap | Quick | Full size || It shows fit and size problems before using real materials || What did yours reveal?
+ex: Scale || A model is half size. The real organizer is 24 cm wide. How wide is the model? || 24 ÷ 2 || 12 cm || What is the scale ratio?
+ex: Build order || Why smooth parts before joining? || Edges are hard to reach later || Sanding after joining is harder and less neat || What comes after joining?
+ex: Build log || Improve the entry "Worked on it." || Date, action, problem, solution || "Day 3: joined sides with glue and nails; one side was crooked, so I clamped it with a try square" || Why are details useful?
+p: B || What is a prototype? || An early model built to test a design.
+p: B || What is a mock-up? || A quick, rough prototype in card to check size and shape.
+p: B || What is a build log? || A record of work, problems and changes.
+p: B || What is a modification? || A change to a design.
+p: B || What is scale? || The ratio between model size and real size.
+p: I || List the build order. || Measure and mark, cut, smooth, test-fit, join, finish.
+p: I || What items test the mock-up? || Pencils, a 30 cm ruler, a phone and sticky notes.
+p: I || A half-scale model is 10 cm tall. How tall is the real object? || 20 cm.
+p: I || Why mark changes in a different colour? || So the changes are easy to see.
+p: I || Why test-fit before joining? || To catch problems before parts are fixed.
+p: I || What should each build-log entry include? || Date, what you did, a problem, the solution and changes.
+p: C || Why are prototypes cheaper than mistakes in the final product? || Changes are easy and cheap at the prototype stage.
+p: C || How does a build log help other people? || It shows how the product was made so others can repeat or improve it.
+p: C || Why do engineers build several prototypes? || Each one tests and improves the design.
+p: C || Describe one problem your mock-up revealed and your fix. || Answers vary.
+mis: Thinking a prototype must be perfect | Thinking changing the design means you failed | Skipping the mock-up to save time
+et: What did your mock-up reveal? | Write one build-log entry.
+mc: B || A prototype is || an early test model | the final product | a drawing | a material || A
+mc: B || A mock-up is usually made from || card | steel | glass | gold || A
+mc: B || A build log records || work, problems and changes | prices only | grades | clients || A
+mc: B || A modification is || a change to a design | a tool | a material | a test || A
+mc: B || Scale compares || model size and real size | colours | prices | weights only || A
+mc: B || Engineers build prototypes to || test designs | sell them | avoid testing | decorate || A
+mc: I || A half-scale model of a 24 cm object is || 12 cm | 48 cm | 24 cm | 6 cm || A
+mc: I || Parts should be smoothed || before joining | after finishing | never | before marking || A
+mc: I || Test-fitting happens || before joining | after finishing | never | before cutting || A
+mc: I || The first build step is || measure and mark | join | finish | sand || A
+mc: C || Prototypes save money because || changes are cheap early | they are expensive | they are final | they skip testing || A
+mc: C || Changing a design after a mock-up shows || good problem solving | failure | bad planning | laziness || A
+sa: B || Define prototype. || An early model built to test a design.
+sa: B || What is a mock-up? || A quick card prototype to check size and shape.
+sa: I || List the build order. || Measure and mark, cut, smooth, test-fit, join, finish.
+sa: I || A half-scale model is 12 cm. How big is the real object? || 24 cm.
+sa: I || Why build a mock-up first? || To find size and fit problems cheaply.
+sa: I || What goes in a build-log entry? || Date, work done, problem, solution, change.
+sa: C || Explain why prototypes are valuable. || They reveal problems early when changes are cheap.
+sa: C || Write two build-log entries for your prototype. || Answers vary.
+
+=== CTF8.B1 2
+hook: "Measure twice, cut once" is one of the oldest sayings in carpentry. A cut 3 mm too short can't be uncut. And a joint that wobbles makes the whole product weak. Today you sharpen two core building skills: measuring and joining.
+sc: I can measure and mark accurately | I can choose a suitable joining method | I can explain tolerance and why accuracy matters
+v: tolerance :: The amount a measurement can be off and still work, such as ± 1 mm.
+v: joining :: Connecting parts together.
+v: butt joint :: Two pieces joined end to face, usually with glue, nails or screws.
+v: seam :: A line where two pieces of fabric are sewn together.
+v: seam allowance :: The fabric between the edge and the stitching line, often 1.5 cm.
+v: kerf :: The width of material removed by a saw blade.
+ts: Precision Challenge || Design challenge || How do accurate measuring and strong joining make a better product?
+tx: Precision stations (written for this lesson): ¶ Station 1, Measure and mark: Mark three cuts at 87 mm, 142 mm and 205 mm on a strip using a steel rule and a sharp pencil. Your partner checks each mark. Tolerance: ± 1 mm. ¶ Station 2, Kerf: Cut on the waste side of the line. A saw blade removes about 1 to 2 mm; if you cut on the line, your piece will be too short. ¶ Station 3, Joining methods: Compare a glued butt joint, a nailed butt joint, a screwed joint and a dowel joint. Hang a 1 kg mass from each after the glue dries. Which holds best? Which looks best? ¶ Station 4, Textile joining: Sew a straight seam with a 1.5 cm seam allowance by hand or machine. Check it is straight and the stitches are even. ¶ Choosing a joint: Consider strength, appearance, tools available, time and whether the product must come apart.
+src: Original activity written for this lesson.
+st: Mark three measurements within tolerance | Practise cutting on the waste side | Compare four wood joints | Sew a seam with a 1.5 cm allowance | Choose joints for your prototype and justify them
+org: Joint or seam | Strength | Appearance | Tools needed | Time
+an: How close were your marks to the target? | Why cut on the waste side of the line? | Which joint was strongest? | Which joint suits your organizer and why?
+pr: Write a joining plan for your organizer: which joints you will use where, and why, with the tolerance you will aim for.
+ex: Tolerance || A part should be 120 mm ± 1 mm. Is 121.5 mm acceptable? || Allowed range is 119 to 121 mm || No; it is 0.5 mm too long || What could you do?
+ex: Kerf || You cut exactly on the line with a 2 mm blade. What happens? || The blade removes 2 mm || Your piece is about 1 mm too short || Where should you cut?
+ex: Choosing a joint || Which joint for a box that must look neat with no visible nails? || Hidden joint || Glued dowel joint || What is its trade-off?
+ex: Seam allowance || Your fabric pocket must be 10 cm wide when finished with 1.5 cm seams each side. How wide do you cut it? || 10 + 1.5 + 1.5 || 13 cm || Why add allowances?
+p: B || What is tolerance? || How much a measurement can be off and still work.
+p: B || What is joining? || Connecting parts together.
+p: B || What is a butt joint? || Two pieces joined end to face.
+p: B || What is a seam? || A line where fabric pieces are sewn together.
+p: B || What is kerf? || The width of material removed by a saw blade.
+p: I || What does "measure twice, cut once" mean? || Check measurements before cutting, because cuts can't be undone.
+p: I || A part should be 50 mm ± 1 mm. Is 49.5 mm acceptable? || Yes.
+p: I || Why cut on the waste side of the line? || So the kerf doesn't make the piece too short.
+p: I || What is a common seam allowance? || 1.5 cm.
+p: I || Name four wood joining methods. || Glue, nails, screws, dowels.
+p: I || A finished pocket is 12 cm wide with 1.5 cm seams each side. Cut width? || 15 cm.
+p: C || Why do screws allow a product to be taken apart? || They can be unscrewed without damage.
+p: C || Why is a glued and nailed joint stronger than nails alone? || Glue bonds the surfaces and nails hold while it dries.
+p: C || Why do factories set tolerances? || So parts made by different people or machines fit together.
+p: C || Choose and justify a joint for your organizer's base. || Answers vary.
+mis: Thinking cutting on the line gives the exact size | Thinking more nails always means a stronger joint | Thinking tolerance means being careless
+et: What is tolerance? | Which joint will you use and why?
+mc: B || Tolerance is || allowed variation in a measurement | a type of saw | a fabric | a glue || A
+mc: B || Kerf is || material removed by a saw | a seam | a joint | a ruler || A
+mc: B || A seam joins || fabric | wood | metal | glass || A
+mc: B || A common seam allowance is || 1.5 cm | 15 cm | 1.5 mm | 5 cm || A
+mc: B || "Measure twice, cut once" means || check before cutting | cut twice | measure once | skip measuring || A
+mc: B || A butt joint joins || end to face | fabric edges | metal only | nothing || A
+mc: I || 121.5 mm for 120 ± 1 mm is || not acceptable | acceptable | perfect | too short || A
+mc: I || 49.5 mm for 50 ± 1 mm is || acceptable | not acceptable | too long | impossible || A
+mc: I || Cut on the || waste side of the line | middle of the piece | wrong side | top || A
+mc: I || A 10 cm pocket with 1.5 cm seams each side is cut at || 13 cm | 10 cm | 11.5 cm | 16 cm || A
+mc: C || Screws are chosen when a product must || come apart | be glued | never move | be fabric || A
+mc: C || Factories set tolerances so || parts fit together | parts look different | costs rise | nothing fits || A
+sa: B || Define tolerance. || The amount a measurement can be off and still work.
+sa: B || What is kerf? || The width of material a saw removes.
+sa: I || Is 121.5 mm acceptable for 120 mm ± 1 mm? || No.
+sa: I || Why cut on the waste side of a line? || So the kerf doesn't make the piece too short.
+sa: I || Calculate cut width for a 10 cm pocket with 1.5 cm seams. || 13 cm.
+sa: I || Name four wood joining methods. || Glue, nails, screws, dowels.
+sa: C || Choose and justify a joint for your product. || Answers vary.
+sa: C || Explain why accurate measuring matters in building. || Inaccurate parts don't fit, making the product weak or unusable.
+
+=== CTF8.C1 0
+hook: When engineers test a bridge design, they don't change the weight, the wind and the material all at once. If the bridge fails, they need to know exactly why. That is the idea behind a fair test.
+sc: I can plan a fair test with one variable changed | I can choose what to measure and how | I can predict results before testing
+v: fair test :: A test where only one thing is changed and everything else stays the same.
+v: variable :: Anything that can change in a test.
+v: independent variable :: The one thing you change on purpose.
+v: dependent variable :: What you measure to see the effect.
+v: controlled variables :: Things kept the same so the test is fair.
+v: prediction :: What you think will happen, with a reason.
+ts: Test Planner || Design challenge || How do I plan a test that gives trustworthy results?
+tx: Test planning sheet (written for this lesson): ¶ Testing question: "Does the thickness of the base change how much weight my organizer can hold before it bends 5 mm?" ¶ Independent variable: base thickness (3 mm, 6 mm, 9 mm card or wood). ¶ Dependent variable: mass (in grams) added before the base bends 5 mm. ¶ Controlled variables: same material, same base size, same supports, same way of adding mass (100 g at a time), same person measuring the bend. ¶ Prediction: "I predict the 9 mm base will hold the most because thicker material is stiffer." ¶ Repeat: Do each test three times and find the average. ¶ Your task: Write a testing question for your own prototype. Choose one independent variable, one dependent variable and at least three controlled variables. Write a prediction with a reason.
+src: Original activity written for this lesson.
+st: Read the sample test plan | Identify the independent, dependent and controlled variables | Write a testing question for your prototype | List variables and write a prediction | Plan how many times you will repeat the test
+org: Testing question | Independent variable | Dependent variable | Controlled variables | Prediction
+an: Why change only one variable? | What would happen if two variables changed at once? | Why repeat tests three times? | Is your prediction based on a reason?
+pr: Write a complete fair-test plan for one feature of your prototype.
+ex: Spotting variables || "Does glue type affect joint strength?" Name the independent variable. || What is changed on purpose? || Glue type || What is the dependent variable?
+ex: Unfair test || One base is tested with 100 g steps, another with 500 g steps. Fair? || Method must be the same || No; the way mass is added is not controlled || How would you fix it?
+ex: Repeats || Three trials held 800 g, 900 g and 700 g. Average? || (800 + 900 + 700) ÷ 3 || 800 g || Why average?
+ex: Prediction || Write a prediction for wider phone slots and phone fit. || What and why || "A 20 mm slot will fit more phone cases because there is more space" || How will you test it?
+p: B || What is a fair test? || A test changing only one thing.
+p: B || What is a variable? || Anything that can change in a test.
+p: B || What is the independent variable? || The one thing changed on purpose.
+p: B || What is the dependent variable? || What you measure.
+p: B || What are controlled variables? || Things kept the same.
+p: I || In the sample, what is the independent variable? || Base thickness.
+p: I || In the sample, what is the dependent variable? || Mass held before bending 5 mm.
+p: I || Name two controlled variables in the sample. || Material and base size.
+p: I || Why repeat each test three times? || To check results are reliable.
+p: I || Trials: 400 g, 500 g, 600 g. Average? || 500 g.
+p: I || What makes a prediction good? || It includes a reason.
+p: C || Why is a test with two changed variables not useful? || You can't tell which change caused the result.
+p: C || Write a testing question for your organizer's pencil holder. || Answers vary; e.g. does hole diameter affect how many pencils fit?
+p: C || Why should the same person measure each trial? || To keep measuring consistent.
+p: C || How do engineers use fair tests? || To find out exactly what improves or weakens a design.
+mis: Thinking more changes give more information | Thinking one trial is enough | Thinking a prediction must be correct
+et: Name the independent and dependent variables in your test. | Why repeat trials?
+mc: B || A fair test changes || one variable | all variables | no variables | two variables || A
+mc: B || The independent variable is || changed on purpose | measured | kept the same | ignored || A
+mc: B || The dependent variable is || measured | changed on purpose | kept the same | a prediction || A
+mc: B || Controlled variables are || kept the same | changed | measured | ignored || A
+mc: B || A prediction includes || what will happen and why | the final answer | a material | a tool || A
+mc: B || A variable is || anything that can change | a tool | a client | a sketch || A
+mc: I || In the base test, the independent variable is || base thickness | mass | material | support || A
+mc: I || The average of 800, 900 and 700 g is || 800 g | 900 g | 700 g | 2,400 g || A
+mc: I || Adding mass in different steps makes a test || unfair | fair | faster | accurate || A
+mc: I || Tests are repeated to || check reliability | waste time | change variables | skip measuring || A
+mc: C || Changing two variables means you can't tell || which caused the result | anything | the price | the colour || A
+mc: C || The same person measures to keep || measuring consistent | the test fun | costs low | time short || A
+sa: B || Define fair test. || A test where only one thing changes.
+sa: B || What is the dependent variable? || What you measure to see the effect.
+sa: I || Name the variables in the sample test. || Independent: thickness; dependent: mass held; controlled: material, size, supports.
+sa: I || Calculate the average of 400, 500 and 600 g. || 500 g.
+sa: I || Why repeat trials? || To make results reliable.
+sa: I || Write a prediction with a reason. || Answers vary.
+sa: C || Write a fair-test plan for your prototype. || Answers vary.
+sa: C || Why shouldn't two variables change at once? || You can't tell which caused the result.
+
+=== CTF8.C1 1
+hook: Numbers on their own can hide the story. A table of 15 test results looks like noise; a simple bar graph can show the answer in one glance. Today you turn test data into evidence.
+sc: I can record test results in a clear table | I can calculate averages and display data in a graph | I can draw a conclusion from my results
+v: data :: Facts and measurements collected in a test.
+v: results table :: A table that organizes data for each trial.
+v: average (mean) :: The sum of the values divided by the number of values.
+v: bar graph :: A graph that compares amounts using bars.
+v: conclusion :: A statement of what the results show, linked to the testing question.
+v: outlier :: A result very different from the others, often caused by an error.
+ts: Data to Decision || Design challenge || What do my test results tell me about my design?
+tx: Sample results (written for this lesson), base-thickness test: ¶ 3 mm base: trial 1 = 400 g, trial 2 = 500 g, trial 3 = 450 g ¶ 6 mm base: trial 1 = 900 g, trial 2 = 1,000 g, trial 3 = 950 g ¶ 9 mm base: trial 1 = 1,500 g, trial 2 = 1,600 g, trial 3 = 600 g (the base slipped off a support) ¶ Steps: 1. Calculate the average for each thickness. 2. Decide whether any result is an outlier and why. If an outlier was caused by an error, redo that trial or leave it out and say so. 3. Draw a bar graph: thickness on the x-axis, average mass on the y-axis, with a title and labels. 4. Write a conclusion: answer the testing question, use numbers, compare with your prediction. ¶ Then do the same with your own test data.
+src: Original activity written for this lesson.
+st: Calculate averages for the sample data | Find and explain the outlier | Draw a labelled bar graph | Write a conclusion using numbers | Repeat the analysis with your own data
+org: Thickness | Trial 1 | Trial 2 | Trial 3 | Average
+an: Which result is the outlier and why? | What pattern does the graph show? | Was your prediction correct? | How will the results change your design?
+pr: Present your own test data in a results table and bar graph, and write a three-sentence conclusion that answers your testing question.
+ex: Average || Average of 400, 500 and 450 g? || Add and divide by 3 || 450 g || Average for 6 mm?
+ex: Outlier || Which 9 mm trial is an outlier? || Compare with others || 600 g; the base slipped, so it was an error || What should you do?
+ex: Average without outlier || Average the 9 mm trials without 600 g. || (1,500 + 1,600) ÷ 2 || 1,550 g || Why not include 600 g?
+ex: Conclusion || Write a conclusion for the base test. || Answer the question | Use numbers || "Thicker bases held more: 3 mm averaged 450 g, 6 mm 950 g and 9 mm about 1,550 g" || Was the prediction correct?
+p: B || What is data? || Facts and measurements collected in a test.
+p: B || What is an average? || The sum divided by the number of values.
+p: B || What is a bar graph? || A graph comparing amounts with bars.
+p: B || What is a conclusion? || A statement of what results show.
+p: B || What is an outlier? || A result very different from the others.
+p: I || Average of 900, 1,000 and 950 g? || 950 g.
+p: I || What should a graph include? || A title and labelled axes.
+p: I || What goes on the x-axis of the base graph? || Base thickness.
+p: I || What goes on the y-axis? || Average mass held.
+p: I || What should you do with an outlier caused by an error? || Redo the trial or leave it out and explain.
+p: I || What pattern does the sample data show? || Thicker bases hold more mass.
+p: C || Why use numbers in a conclusion? || They are evidence that supports the statement.
+p: C || Why is a graph often clearer than a table? || It shows patterns at a glance.
+p: C || The 9 mm base is strongest but expensive. How might you decide? || Choose the thinnest base that meets the strength criterion.
+p: C || How could test data persuade a client? || It shows objective proof that the product works.
+mis: Thinking every result must be included even if it was a mistake | Thinking a conclusion just repeats the data | Thinking graphs don't need labels
+et: Calculate one average from your data. | Write your conclusion.
+mc: B || Data is || measurements collected in a test | an opinion | a sketch | a tool || A
+mc: B || An average is || the sum divided by the count | the biggest value | the smallest value | the first value || A
+mc: B || A bar graph || compares amounts | shows a map | lists steps | shows colours || A
+mc: B || A conclusion || states what results show | lists materials | is a prediction | is a tool || A
+mc: B || An outlier is || very different from other results | the average | the first result | a variable || A
+mc: B || A graph needs || a title and labels | no labels | only colours | only numbers || A
+mc: I || The average of 400, 500 and 450 g is || 450 g | 500 g | 400 g | 1,350 g || A
+mc: I || The 600 g trial for 9 mm is || an outlier | the average | normal | the best || A
+mc: I || Base thickness goes on the || x-axis | y-axis | title | legend only || A
+mc: I || The sample data show that thicker bases || hold more | hold less | hold the same | break faster || A
+mc: C || Numbers in a conclusion || provide evidence | waste space | confuse readers | are optional || A
+mc: C || The thinnest base that meets the criterion balances || strength and cost | colour and size | time and fun | nothing || A
+sa: B || Define average. || The sum of values divided by the number of values.
+sa: B || What is an outlier? || A result very different from the others.
+sa: I || Calculate the 6 mm average. || 950 g.
+sa: I || Which 9 mm result is an outlier and why? || 600 g; the base slipped.
+sa: I || What labels does the bar graph need? || A title, thickness on the x-axis and mass on the y-axis.
+sa: I || Write a conclusion for the base test. || Answers vary; must use numbers.
+sa: C || Explain how test results will change your design. || Answers vary.
+sa: C || Present your own data in a table and graph. || Answers vary.
+
+=== CTF8.C1 2
+hook: James Dyson built 5,127 prototypes of his bagless vacuum cleaner over about five years before one worked well enough to sell. Each "failure" taught him something. Iteration is the engine of good design.
+sc: I can explain iteration and why failure helps design | I can use evidence to redesign my prototype | I can test whether my redesign is an improvement
+v: iteration :: Repeating the cycle of design, test and improve.
+v: redesign :: To change a design based on evidence.
+v: failure :: A result that does not meet the criteria, which gives information to improve.
+v: design cycle :: Plan, create, test, improve, repeated.
+v: before-and-after comparison :: Testing the old and new versions the same way to compare them.
+v: root cause :: The real reason a problem happens.
+ts: Iterate! || Design challenge || How does each iteration make my design better?
+tx: Iteration worksheet (written for this lesson): ¶ 1. Problem: Name one criterion your prototype did not meet, with evidence. Example: "The base bent 8 mm with 600 g of books; the criterion is less than 5 mm." ¶ 2. Root cause: Ask "Why?" until you reach the real reason. Why did it bend? The base is thin. Why is it thin? We used 3 mm card to save cost. Why? We didn't know the strength needed. ¶ 3. Redesign options: list two or three fixes (thicker base, add a support rib, change material). ¶ 4. Choose and justify one fix using your test data and cost. ¶ 5. Build the change. ¶ 6. Retest exactly as before and compare before and after. ¶ 7. Decide: Is it better? Does it now meet the criterion? Is another iteration needed?
+src: Original activity written for this lesson; Dyson figure from his widely reported account.
+st: Identify a failed criterion with evidence | Find the root cause | List and choose a redesign option | Build the change and retest the same way | Compare before and after and decide on the next iteration
+org: Iteration | Change made | Test result before | Test result after | Meets criterion?
+an: What was the root cause of your problem? | Why did you choose that fix? | Did the redesign improve the result? By how much? | What would your next iteration be?
+pr: Complete an iteration record showing the problem, root cause, change, before-and-after results and your decision.
+ex: Root cause || The phone keeps falling out. Find a root cause. || Why? Slot too shallow | Why? Measured a phone without a case || The slot was sized for a phone without a case || What fix follows?
+ex: Choosing a fix || Base bends 8 mm. Options: thicker base or support rib. Which costs less? || Compare materials || A support rib uses less material than a thicker base || What test would confirm it?
+ex: Before and after || Before: 8 mm bend. After rib: 3 mm bend. Improvement? || Compare with criterion < 5 mm || Yes; 5 mm less bend and now meets the criterion || Is another iteration needed?
+ex: Failure as data || Why did Dyson keep building prototypes? || Each failure taught something || Each one showed what didn't work and pointed to the next improvement || What did your failure teach you?
+p: B || What is iteration? || Repeating design, test and improve.
+p: B || What is a redesign? || A change based on evidence.
+p: B || What is a root cause? || The real reason a problem happens.
+p: B || What is the design cycle? || Plan, create, test, improve, repeated.
+p: B || Why is failure useful in design? || It shows what to improve.
+p: I || How many prototypes did Dyson build? || 5,127.
+p: I || What technique finds a root cause? || Asking "Why?" repeatedly.
+p: I || Why retest exactly the same way? || So before and after can be compared fairly.
+p: I || Before: 8 mm bend. After: 3 mm. How much improvement? || 5 mm less bend.
+p: I || Does 3 mm meet a "less than 5 mm" criterion? || Yes.
+p: I || Name two redesign options for a bending base. || Thicker base or a support rib.
+p: C || Why fix the root cause rather than the symptom? || Otherwise the problem keeps coming back.
+p: C || When should you stop iterating? || When the product meets the criteria and time or budget runs out.
+p: C || How can one change cause a new problem? || A fix may affect cost, weight or another criterion.
+p: C || Explain iteration using your own prototype. || Answers vary.
+mis: Thinking failure means the designer is bad | Thinking one redesign is always enough | Fixing symptoms instead of root causes
+et: What was your root cause? | Did your redesign meet the criterion?
+mc: B || Iteration means || repeating design, test, improve | finishing once | skipping tests | buying products || A
+mc: B || A root cause is || the real reason for a problem | a symptom | a tool | a cost || A
+mc: B || A redesign is based on || evidence | guessing | colour | luck || A
+mc: B || The design cycle is || plan, create, test, improve | buy, sell, repeat | sketch only | test only || A
+mc: B || In design, failure gives || information to improve | nothing | a grade | an end || A
+mc: B || Dyson built about || 5,000 prototypes | 5 prototypes | 50 prototypes | 1 prototype || A
+mc: I || To find a root cause, ask || "Why?" repeatedly | "When?" once | "Who?" | "How much?" || A
+mc: I || 8 mm bend reduced to 3 mm is an improvement of || 5 mm | 3 mm | 8 mm | 11 mm || A
+mc: I || Retesting the same way allows || fair comparison | faster building | lower cost | new criteria || A
+mc: I || A cheaper fix than a thicker base is || a support rib | gold plating | a new client | more glue only || A
+mc: C || Fixing only symptoms means problems || keep coming back | disappear | improve | never existed || A
+mc: C || A fix can create a new problem by || affecting another criterion | always working | lowering effort | removing tests || A
+sa: B || Define iteration. || Repeating the cycle of design, test and improve.
+sa: B || What is a root cause? || The real reason a problem happens.
+sa: I || Find the root cause of a phone falling out. || The slot was sized without a case.
+sa: I || Before 8 mm, after 3 mm. Does it meet "< 5 mm"? || Yes.
+sa: I || Why retest the same way? || To compare before and after fairly.
+sa: I || What did Dyson's prototypes show? || Failure leads to improvement through iteration.
+sa: C || Complete an iteration record for your prototype. || Answers vary.
+sa: C || Explain why failure is useful in design. || It provides evidence of what to improve.
+
+=== CTF8.D1 0
+hook: When a new building goes up, there are drawings, change orders, inspection reports and photographs of every stage. If something goes wrong years later, the documentation shows what was done. Professionals document their process; so will you.
+sc: I can document my design process with words, sketches and photos | I can organize my documentation clearly | I can explain why documentation matters
+v: documentation :: A record of how a product was planned, made and tested.
+v: design folio :: A booklet or digital file showing the whole design process.
+v: caption :: A short explanation under a photo or sketch.
+v: chronological :: In time order.
+v: specification :: A detailed description of a product's sizes, materials and features.
+v: evidence :: Material that shows what you did and learned.
+ts: Design Folio || Design challenge || How do I show the whole story of my design?
+tx: Design folio checklist (written for this lesson): ¶ Page 1, Brief and criteria: the client, need, constraints and your measurable criteria. ¶ Page 2, Ideas: brainstorm list and annotated thumbnails, with your chosen idea starred. ¶ Page 3, Plan: orthographic drawing with dimensions, material choice and justification, joining plan. ¶ Page 4, Making: three to five photos of the build with captions, plus your build log. ¶ Page 5, Testing: fair-test plan, results table, graph and conclusion. ¶ Page 6, Iteration: problem, root cause, change and before-and-after results. ¶ Page 7, Final product: photo, specification and appraisal against each criterion. ¶ Tips: keep pages in chronological order; caption every image; be honest about problems.
+src: Original activity written for this lesson.
+st: Gather your evidence from the whole project | Organize it into the seven folio pages | Write captions for every image | Write the final specification | Check the folio against the checklist with a partner
+org: Folio page | Evidence included | Missing pieces | Done
+an: Which page tells your story best? | Which evidence was hardest to find? | Why include problems, not just successes? | How could someone use your folio to build your product?
+pr: Complete a seven-page design folio for your desk organizer.
+ex: Good caption || Improve the caption "Building." || What, when, why || "Day 2: gluing the sides; clamps hold them square while drying" || Write a caption for a test photo.
+ex: Specification || Write a specification for the organizer. || Size | Materials | Features || "24 cm × 14 cm × 12 cm; 6 mm pine base; felt pockets; holds 8 pencils, ruler, phone, notes" || Why include numbers?
+ex: Chronological order || Which comes first in the folio: test results or thumbnails? || Order of the process || Thumbnails (ideas come before testing) || Why keep time order?
+ex: Honesty || Should a failed test appear in the folio? || Documentation shows the real process || Yes; it explains the iteration that followed || How does it help the reader?
+p: B || What is documentation? || A record of how a product was planned, made and tested.
+p: B || What is a design folio? || A booklet or file showing the whole design process.
+p: B || What is a caption? || A short explanation under an image.
+p: B || What does chronological mean? || In time order.
+p: B || What is a specification? || A detailed description of sizes, materials and features.
+p: I || What goes on page 1 of the folio? || The brief and criteria.
+p: I || What goes on page 5? || Testing: plan, results, graph and conclusion.
+p: I || How many build photos should you include? || Three to five.
+p: I || Why caption every image? || So readers know what it shows and why it matters.
+p: I || Why include your build log? || It shows problems and solutions along the way.
+p: I || What goes on the final page? || The final product, specification and appraisal.
+p: C || Why do professionals document their work? || To show what was done, check quality and help others repeat or fix it.
+p: C || How could a folio help in a high school or job interview? || It shows evidence of skills and process.
+p: C || Why include failed tests? || They explain why changes were made.
+p: C || Could someone rebuild your product from your folio? What would they need? || Answers vary; drawings, dimensions, materials and steps.
+mis: Thinking documentation is only for the teacher | Hiding mistakes to look better | Thinking photos explain themselves without captions
+et: Name three pages in your design folio. | Write a caption for one photo.
+mc: B || Documentation is || a record of the process | the final product | a tool | a material || A
+mc: B || A caption || explains an image | is a photo | is a tool | is a measurement || A
+mc: B || Chronological means || in time order | alphabetical | by size | random || A
+mc: B || A specification lists || sizes, materials and features | feelings | prices only | names only || A
+mc: B || A design folio shows || the whole design process | only the final photo | the price | the grade || A
+mc: B || Page 1 of the folio has || the brief and criteria | test results | the final photo | the build log || A
+mc: I || Thumbnails come || before testing | after testing | at the end | never || A
+mc: I || A good caption says || what, when and why | "Building" | nothing | the price || A
+mc: I || Failed tests should be || included | hidden | deleted | changed || A
+mc: I || The build log shows || problems and solutions | prices | clients | criteria only || A
+mc: C || Professionals document so others can || repeat or fix the work | ignore it | avoid testing | lose it || A
+mc: C || A folio helps interviews by || showing evidence of skills | replacing grades | listing prices | hiding work || A
+sa: B || Define documentation. || A record of how a product was planned, made and tested.
+sa: B || What is a specification? || A detailed description of sizes, materials and features.
+sa: I || List the seven folio pages. || Brief, ideas, plan, making, testing, iteration, final product.
+sa: I || Write a caption for a build photo. || Answers vary.
+sa: I || Why keep the folio chronological? || So it tells the story in order.
+sa: I || Why include failed tests? || They explain the changes made.
+sa: C || Explain why professionals document their work. || To show quality, help others repeat or fix it and keep records.
+sa: C || Write a specification for your product. || Answers vary.
+
+=== CTF8.D1 1
+hook: Alberta needs electricians, welders, carpenters, heavy-equipment technicians and plumbers, and many of them learn while being paid. Through apprenticeship, you can earn money and a certificate at the same time, and some students start while still in high school.
+sc: I can describe how apprenticeship works | I can name several trades and what they do | I can explain pathways into the trades from high school
+v: trade :: A skilled job that uses hands-on technical knowledge, such as plumbing or welding.
+v: apprenticeship :: Learning a trade by working under a certified worker while also taking technical training.
+v: apprentice :: A person learning a trade through apprenticeship.
+v: journeyperson :: A fully certified tradesperson who has completed an apprenticeship.
+v: Registered Apprenticeship Program (RAP) :: An Alberta program that lets high school students start an apprenticeship while earning high school credits.
+v: Red Seal :: A Canadian endorsement that lets a certified tradesperson work in their trade across Canada.
+ts: Trades Explorer || Case study || What are the pathways into the trades?
+tx: Information (summaries written for this lesson): ¶ How apprenticeship works: An apprentice works for an employer under a journeyperson and is paid while learning. Most of the learning (about 80%) happens on the job; the rest is technical training at a college or polytechnic, such as SAIT in Calgary or NAIT in Edmonton. Many Alberta apprenticeships take about 2 to 4 years. After passing exams, the apprentice becomes a certified journeyperson. ¶ RAP: In Alberta's Registered Apprenticeship Program, high school students can work as apprentices, earn wages and count the hours toward both their apprenticeship and high school credits. ¶ Red Seal: Many trades have a Red Seal endorsement, which lets a journeyperson work across Canada. ¶ Trade profiles: Electrician (installs and repairs electrical systems), Welder (joins metal using heat), Carpenter (builds and repairs structures), Automotive service technician (maintains and repairs vehicles), Plumber (installs pipes and water systems), Cook (prepares food in commercial kitchens). ¶ Task: Research one trade on alis.alberta.ca: what the work involves, training length, skills needed and which CTF skills connect to it.
+src: Summaries written for this lesson; check details for each trade on alis.alberta.ca and tradesecrets.alberta.ca.
+st: Read how apprenticeship works | Learn about RAP and Red Seal | Read the six trade profiles | Research one trade in detail | Connect your CTF skills to that trade
+org: Trade | What the work involves | Training length | Skills needed | My CTF skills that connect
+an: How is apprenticeship different from university? | Why might a student choose RAP? | Which trade connects best to your CTF skills? | What surprised you about the trades?
+pr: Create a one-page trade profile for the trade you researched, including the pathway from high school to journeyperson.
+ex: Earning and learning || How does an apprentice earn money? || Works for an employer || They are paid wages while learning on the job || How is this different from most post-secondary?
+ex: Time split || About what share of apprenticeship is on the job? || Most learning is at work || About 80% || Where is the rest?
+ex: RAP || What does RAP let high school students do? || Start early || Work as apprentices, earn wages and count hours toward high school credits || Who might benefit?
+ex: Connecting skills || Which trade uses your measuring and joining skills? || CTF building || Carpenter (also welder, plumber) || Which uses food-safety skills?
+p: B || What is a trade? || A skilled hands-on technical job.
+p: B || What is apprenticeship? || Learning a trade on the job with technical training.
+p: B || What is a journeyperson? || A fully certified tradesperson.
+p: B || What does RAP stand for? || Registered Apprenticeship Program.
+p: B || What is the Red Seal? || A Canadian endorsement to work in a trade across Canada.
+p: I || About what percentage of apprenticeship learning is on the job? || About 80%.
+p: I || Name two Alberta institutions that offer technical training. || SAIT and NAIT.
+p: I || What does a welder do? || Joins metal using heat.
+p: I || What does an electrician do? || Installs and repairs electrical systems.
+p: I || How long do many Alberta apprenticeships take? || About 2 to 4 years.
+p: I || Which website lists Alberta occupations? || alis.alberta.ca.
+p: C || Why might apprenticeship appeal to someone who learns by doing? || Most learning is hands-on at work.
+p: C || What are two benefits of RAP? || Earning wages and a head start on certification while in high school.
+p: C || Why is Red Seal useful? || It lets a tradesperson work anywhere in Canada.
+p: C || Connect two of your CTF skills to a trade. || Answers vary.
+mis: Thinking trades are only for students who struggle at school | Thinking apprentices aren't paid | Thinking you must finish high school before starting any apprenticeship
+et: What is a journeyperson? | Name one way to start a trade in high school.
+mc: B || An apprentice learns || on the job with training | only in classrooms | online only | alone || A
+mc: B || A journeyperson is || fully certified | a beginner | a student | a client || A
+mc: B || RAP lets students || start apprenticeship in high school | skip school | buy tools | travel || A
+mc: B || Red Seal lets a tradesperson || work across Canada | work only in Alberta | skip training | become a teacher || A
+mc: B || A welder || joins metal with heat | wires buildings | cooks food | fixes cars || A
+mc: B || A trade is || a skilled hands-on job | a hobby | a store | a tax || A
+mc: I || About 80% of apprenticeship is || on the job | in a classroom | online | at home || A
+mc: I || SAIT and NAIT offer || technical training | apprenticeship wages | Red Seal only | high school || A
+mc: I || Many Alberta apprenticeships take about || 2 to 4 years | 2 weeks | 10 years | 1 day || A
+mc: I || Apprentices are || paid | unpaid | charged | volunteers only || A
+mc: C || RAP benefits include || wages and a head start | no school | no exams | free cars || A
+mc: C || Red Seal is useful because it || allows work across Canada | removes training | is a tool | is a school || A
+sa: B || Define apprenticeship. || Learning a trade by working under a journeyperson plus technical training.
+sa: B || What is a journeyperson? || A fully certified tradesperson.
+sa: I || What is RAP? || Alberta's program for high school students to start an apprenticeship and earn credits.
+sa: I || What share of apprenticeship is on the job? || About 80%.
+sa: I || Name three trades and what they do. || Answers vary.
+sa: I || What is the Red Seal? || A Canadian endorsement to work across Canada.
+sa: C || Describe the pathway from high school to journeyperson. || RAP or high school, apprenticeship with employer and training, exams, certification.
+sa: C || Create a profile for one trade. || Answers vary.
+
+=== CTF8.D1 2
+hook: In a real design firm, the final step isn't building; it's the client meeting. You stand up with your product, your folio and your evidence, and you convince people your design works. Today you present to an audience as a professional would.
+sc: I can present my product and process to an audience | I can use my design folio and test evidence | I can answer questions about my design
+v: audience :: The people you are presenting to.
+v: pitch :: A short, persuasive presentation.
+v: evidence :: Test results and examples that support your claims.
+v: Q&A :: Question-and-answer time after a presentation.
+v: professional :: Behaving in a skilled, respectful and prepared way.
+v: feedback form :: A sheet the audience uses to give comments on a presentation.
+ts: Client Showcase || Design challenge || How do I present my design like a professional?
+tx: Showcase format (written for this lesson): ¶ Each team has four minutes plus two minutes of Q&A. The audience acts as the "client panel." ¶ 1. Introduce yourselves and the brief (30 seconds). ¶ 2. Show the product and its specification (45 seconds). ¶ 3. Walk through the process using your folio: ideas, plan, build, testing, iteration (2 minutes). ¶ 4. Evidence: one key graph or result (30 seconds). ¶ 5. Close: how the product meets the brief and one thing you would do with more time (15 seconds). ¶ Q&A tips: listen to the whole question; repeat it if needed; answer honestly; if you don't know, say how you would find out. ¶ Panel feedback form: Clear explanation (1–4), use of evidence (1–4), professional delivery (1–4), one strength, one question.
+src: Original activity written for this lesson.
+st: Plan your four-minute showcase | Choose one key piece of evidence to show | Rehearse and time your presentation | Present to the client panel | Answer questions and review panel feedback
+org: Part | Speaker | Folio page or evidence | Time
+an: What evidence best proved your design works? | Which question from the panel was hardest? | What did the panel feedback say? | How was this presentation different from your Grade 7 one?
+pr: Deliver your showcase, then write a short response to your panel feedback naming one strength and one improvement for next time.
+ex: Choosing evidence || Which is stronger evidence: "it's sturdy" or "the base held 1,550 g with 3 mm bend"? || Specific and measured || The test result; it is measurable proof || What graph would you show?
+ex: Handling Q&A || A panelist asks something you don't know. What do you say? || Be honest | Say how you'd find out || "We didn't test that, but we would by..." || Why not guess?
+ex: Timing || Your rehearsal took 6 minutes. What do you cut? || Keep the key parts || Shorten the process walk-through and keep one main result || Why does timing matter?
+ex: Professional delivery || Name two professional behaviours. || Preparation and respect || Stand facing the audience and speak clearly; thank the panel || What else?
+p: B || What is a pitch? || A short, persuasive presentation.
+p: B || What is Q&A? || Question-and-answer time.
+p: B || What does professional mean? || Skilled, respectful and prepared.
+p: B || What is a feedback form? || A sheet for audience comments.
+p: B || Who is the audience in the showcase? || The client panel.
+p: I || How long is the showcase presentation? || Four minutes plus two minutes of Q&A.
+p: I || Name the five parts of the showcase. || Introduction and brief, product, process, evidence, close.
+p: I || What should you do if you don't know an answer? || Be honest and say how you would find out.
+p: I || What three things does the panel score? || Clear explanation, use of evidence, professional delivery.
+p: I || Why repeat a question before answering? || To check you understood and so everyone hears it.
+p: I || Name one piece of strong evidence. || A measured test result.
+p: C || Why do designers present to clients? || To show the product meets the brief and win approval.
+p: C || How does a folio support a presentation? || It shows evidence of the whole process.
+p: C || Why should one person not do all the talking? || It shows teamwork and keeps the audience engaged.
+p: C || Reflect on how your presenting has improved since Grade 7. || Answers vary.
+mis: Thinking confident means pretending to know everything | Thinking more slides means a better presentation | Thinking Q&A is a test to fear
+et: What evidence will you show? | How will you handle a question you can't answer?
+mc: B || A pitch is || a short persuasive presentation | a tool | a material | a test || A
+mc: B || Q&A means || question-and-answer time | quick and accurate | quality and art | none || A
+mc: B || Professional behaviour is || skilled and respectful | rude | unprepared | silent || A
+mc: B || The client panel is || the audience | the product | the folio | the teacher only || A
+mc: B || A feedback form collects || audience comments | prices | materials | grades only || A
+mc: B || The presentation is || four minutes | forty minutes | four seconds | an hour || A
+mc: I || The strongest evidence is || a measured test result | "it's nice" | "trust us" | a guess || A
+mc: I || If you don't know an answer || be honest and say how you'd find out | guess | ignore it | leave || A
+mc: I || If the rehearsal runs long you should || shorten parts | talk faster only | skip evidence | add more || A
+mc: I || Repeating a question helps || check understanding | waste time | confuse people | avoid answering || A
+mc: C || Designers present to clients to || win approval | avoid feedback | skip testing | hide problems || A
+mc: C || Sharing speaking roles shows || teamwork | confusion | weakness | nothing || A
+sa: B || Define pitch. || A short, persuasive presentation.
+sa: B || What is Q&A? || Question-and-answer time after a presentation.
+sa: I || Name the five parts of the showcase. || Brief, product, process, evidence, close.
+sa: I || How should you handle a question you can't answer? || Be honest and explain how you'd find out.
+sa: I || Which evidence will you show and why? || Answers vary.
+sa: I || What does the panel score? || Explanation, evidence and delivery.
+sa: C || Respond to your panel feedback. || Answers vary.
+sa: C || Explain why presenting is part of the design process. || Clients must understand and approve the product.

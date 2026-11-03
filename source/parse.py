@@ -32,8 +32,9 @@ def parse_file(path):
             elif k == "mc":
                 l, q, opts, ans = split(val, " || "); o = split(opts, " | ")
                 if len(o) != 4: raise ValueError("mc needs 4 options")
+                right = o.pop("ABCD".index(ans)); o.insert(0 if (cur["code"].endswith(".A1") and cur["i"] == 0) else sum(map(ord, q)) % 4, right)  # spread correct answers across A-D (original A1 lessons keep their order: classes already use them)
                 labs = [f"{'ABCD'[j]}) {x}" for j, x in enumerate(o)]
-                cur["mc"].append({"type": "mc", "q": q, "options": labs, "answer": labs["ABCD".index(ans)], "level": LV[l]})
+                cur["mc"].append({"type": "mc", "q": q, "options": labs, "answer": labs[o.index(right)], "level": LV[l]})
             elif k == "sa": l, q, a = split(val, " || "); cur["sa"].append({"type": "short", "q": q, "answer": a, "level": LV[l]})
             else: errs.append(f"{path.name}:{n} unknown key {k!r}")
         except Exception as e:
