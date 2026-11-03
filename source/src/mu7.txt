@@ -1,0 +1,637 @@
+=== MU7.A1 1
+hook: Every song you've ever heard is built from sounds of different lengths. Music notation is a code that tells performers exactly how long each sound lasts. Once you crack it, you can read rhythms you've never heard before.
+sc: I can name whole, half, quarter and eighth notes and their rests | I can count and clap rhythms using these note values | I can read a four-bar rhythm accurately
+v: note value :: How long a note lasts, measured in beats.
+v: whole note :: A note lasting 4 beats in 4/4 time.
+v: half note :: A note lasting 2 beats in 4/4 time.
+v: quarter note :: A note lasting 1 beat in 4/4 time.
+v: eighth note :: A note lasting half a beat; two eighth notes equal one beat.
+v: rest :: A symbol for silence of a set length.
+ts: Crack the Rhythm Code || Listening || How do note values tell us how long sounds last?
+tx: Rhythm chart (written for this lesson, in 4/4 time): ¶ Whole note (open oval, no stem) = 4 beats; count "1-2-3-4." Whole rest = a block hanging below a line. ¶ Half note (open oval with stem) = 2 beats; count "1-2." Half rest = a block sitting on a line. ¶ Quarter note (filled oval with stem) = 1 beat; count "1." Quarter rest = a squiggle. ¶ Eighth notes (filled ovals with flags or a beam) = ½ beat each; count "1-and." Eighth rest = a small "7" shape. ¶ Activities: 1. Note-value pizza: one whole note = 2 halves = 4 quarters = 8 eighths. 2. Echo clapping: the teacher claps four beats; the class echoes. 3. Read and clap four rhythm cards, counting aloud ("1 2-and 3 4"). 4. Rests: show silence with open hands. 5. Write a four-bar rhythm using each note value at least once, then swap with a partner to clap.
+src: Original activity written for this lesson; note values follow standard music notation.
+st: Learn the four note values and their rests | Compare values with the note-value pizza | Echo-clap rhythms | Read and clap rhythm cards while counting | Write and swap a four-bar rhythm
+org: Symbol | Name | Beats in 4/4 | How to count
+an: How many eighth notes equal one half note? | Why do rests matter in rhythm? | Which rhythm card was hardest to clap? | How did counting aloud help?
+pr: Write a four-bar rhythm in 4/4 that uses a whole, half, quarter and eighth note and at least one rest, with the counting written underneath.
+ex: Adding beats || How many beats: half + quarter + two eighths? || 2 + 1 + ½ + ½ || 4 beats || Does it fill a bar of 4/4?
+ex: Counting eighths || How do you count four eighth notes? || Each beat split in two || "1-and 2-and" || How long is that in beats?
+ex: Rests || What is a quarter rest worth in 4/4? || Same as a quarter note || 1 beat of silence || What does a half rest look like?
+ex: Equivalence || How many quarter notes equal a whole note? || 4 ÷ 1 || 4 || How many eighths equal a whole note?
+p: B || How many beats is a whole note in 4/4? || 4.
+p: B || How many beats is a half note? || 2.
+p: B || How many beats is a quarter note? || 1.
+p: B || How long is an eighth note? || Half a beat.
+p: B || What is a rest? || A symbol for silence of a set length.
+p: I || How many eighth notes equal one quarter note? || 2.
+p: I || How many quarter notes equal a half note? || 2.
+p: I || How do you count two eighth notes? || "1-and."
+p: I || What does a half rest look like? || A block sitting on a line.
+p: I || Does half + half + quarter fill a 4/4 bar? || No; it's 5 beats.
+p: I || What does a quarter rest look like? || A squiggle.
+p: C || Why must each bar in 4/4 add up to 4 beats? || The time signature sets 4 beats per bar.
+p: C || Why do musicians count aloud while learning? || It keeps the beat steady and accurate.
+p: C || Write one bar of 4/4 using three different note values. || Answers vary; e.g. half, quarter, two eighths.
+p: C || Why are rests as important as notes? || Silence shapes rhythm and phrasing.
+mis: Thinking rests mean you can stop counting | Thinking eighth notes are worth 8 beats | Thinking all bars can have any number of beats
+et: How many beats is a half note? | Write one bar of 4/4.
+mc: B || A whole note in 4/4 lasts || 4 beats | 1 beat | 2 beats | 8 beats || A
+mc: B || A half note lasts || 2 beats | 4 beats | 1 beat | ½ beat || A
+mc: B || A quarter note lasts || 1 beat | 2 beats | 4 beats | ½ beat || A
+mc: B || An eighth note lasts || ½ beat | 8 beats | 1 beat | 2 beats || A
+mc: B || A rest means || silence | loud | fast | high || A
+mc: B || Note value means || how long a note lasts | how high it is | how loud | its colour || A
+mc: I || Two eighth notes equal || one quarter note | one whole note | one half note | two beats || A
+mc: I || Four quarter notes equal || one whole note | one half note | one eighth | two beats || A
+mc: I || Eighth notes are counted || "1-and" | "1-2-3-4" | "1-2" | silently || A
+mc: I || Half + quarter + two eighths equal || 4 beats | 3 beats | 5 beats | 2 beats || A
+mc: C || A 4/4 bar must total || 4 beats | 3 beats | any amount | 8 beats || A
+mc: C || Counting aloud helps || keep the beat steady | play louder | play higher | skip rests || A
+sa: B || Name the four note values and their beats in 4/4. || Whole 4, half 2, quarter 1, eighth ½.
+sa: B || What is a rest? || A symbol for silence of a set length.
+sa: I || How many eighth notes are in a whole note? || 8.
+sa: I || How do you count four eighth notes? || "1-and 2-and."
+sa: I || Does half + half + quarter fit in a 4/4 bar? || No; it's 5 beats.
+sa: I || Describe a half rest. || A block sitting on a line.
+sa: C || Explain why rests matter. || Silence is part of rhythm and phrasing.
+sa: C || Write a four-bar rhythm with counting. || Answers vary.
+
+=== MU7.A1 2
+hook: Stand up and march: LEFT-right, LEFT-right. Now waltz: ONE-two-three, ONE-two-three. You already feel time signatures in your body. The numbers at the start of the music just write that feeling down.
+sc: I can explain what the top and bottom numbers of a time signature mean | I can feel and conduct 2/4, 3/4 and 4/4 | I can identify the metre of a piece by listening
+v: time signature :: Two numbers at the start of music showing beats per bar and which note gets the beat.
+v: metre :: The pattern of strong and weak beats.
+v: bar (measure) :: A section of music between two bar lines.
+v: bar line :: A vertical line that divides music into bars.
+v: downbeat :: The first, strongest beat of a bar.
+v: conducting pattern :: Hand movements that show the beats in a bar.
+ts: Feel the Metre || Listening || How do time signatures organize the beat?
+tx: Time signatures (written for this lesson): ¶ Top number = how many beats in each bar. Bottom number = which note gets one beat (4 = quarter note). ¶ 2/4: two beats per bar, STRONG-weak, like a march. Conduct: down, up. ¶ 3/4: three beats per bar, STRONG-weak-weak, like a waltz. Conduct: down, out, up (a triangle). ¶ 4/4: four beats per bar, STRONG-weak-medium-weak, the most common metre in pop music. Conduct: down, in, out, up. ¶ Listening task: Listen to short excerpts and decide the metre by finding the strong beat and counting: ¶ 1. A military march (2/4). 2. Johann Strauss II, The Blue Danube waltz (1866) (3/4). 3. A pop song (4/4). 4. "Happy Birthday" (3/4). ¶ Then conduct along with each excerpt.
+src: Original activity written for this lesson; teachers play excerpts from public recordings.
+st: Learn what each number in a time signature means | Feel 2/4, 3/4 and 4/4 by marching, swaying and tapping | Learn the three conducting patterns | Listen and identify the metre of four excerpts | Conduct along with each excerpt
+org: Excerpt | Strong beat pattern | Metre | Conducting pattern
+an: How did you find the strong beat? | Why does a waltz feel different from a march? | Which excerpt was hardest to identify? | Why is 4/4 called "common time"?
+pr: Identify the metre of four listening excerpts with reasons, and conduct one of them for a partner.
+ex: Reading a time signature || What does 3/4 mean? || Top and bottom || 3 beats per bar; the quarter note gets one beat || What about 2/4?
+ex: Strong beats || Count the stresses in 4/4. || Pattern || STRONG-weak-medium-weak || How does 3/4 differ?
+ex: Identifying metre || "Happy Birthday" stresses every third beat. Metre? || Count between stresses || 3/4 || What dance uses 3/4?
+ex: Filling a bar || In 3/4, can a bar hold a whole note? || 3 beats only || No; a whole note is 4 beats || What fills a 3/4 bar?
+p: B || What is a time signature? || Two numbers showing beats per bar and which note gets the beat.
+p: B || What does the top number mean? || Beats per bar.
+p: B || What does a bottom number of 4 mean? || The quarter note gets one beat.
+p: B || What is a bar? || A section between two bar lines.
+p: B || What is the downbeat? || The first, strongest beat of a bar.
+p: I || How many beats are in a bar of 3/4? || 3.
+p: I || What metre does a waltz use? || 3/4.
+p: I || What metre does a march often use? || 2/4.
+p: I || Describe the 3/4 conducting pattern. || Down, out, up.
+p: I || What is the stress pattern of 4/4? || Strong, weak, medium, weak.
+p: I || What metre is "Happy Birthday"? || 3/4.
+p: C || Why is the first beat of a bar the strongest? || It marks the start of each pattern.
+p: C || Why do conductors use patterns? || So musicians see exactly where each beat is.
+p: C || Write one bar of 3/4 using a half and a quarter note. || Half + quarter.
+p: C || Why might pop music use 4/4 so often? || It's easy to dance to and feels steady.
+mis: Thinking the bottom number means the number of bars | Thinking all music is in 4/4 | Confusing tempo with metre
+et: What does 3/4 mean? | Name a piece in 3/4.
+mc: B || A time signature shows || beats per bar and which note gets the beat | the tempo | the key | the volume || A
+mc: B || The top number tells || beats per bar | which note gets the beat | the tempo | the key || A
+mc: B || A bottom 4 means || the quarter note gets the beat | four bars | four instruments | loud || A
+mc: B || A bar line || divides music into bars | ends the song | shows volume | shows pitch || A
+mc: B || The downbeat is || the first strong beat | the last beat | a rest | a high note || A
+mc: B || Metre is || the pattern of strong and weak beats | the speed | the pitch | the key || A
+mc: I || A waltz is usually in || 3/4 | 2/4 | 4/4 | 6/8 || A
+mc: I || 3/4 has || 3 beats per bar | 4 beats per bar | 2 beats per bar | 3 bars || A
+mc: I || The 3/4 conducting pattern is || down, out, up | down, up | down, in, out, up | circle || A
+mc: I || The Blue Danube is a || waltz | march | rock song | anthem only || A
+mc: C || The first beat is strongest because it || starts the pattern | is loudest always | is a rest | is highest || A
+mc: C || A whole note can't fit in 3/4 because || it lasts 4 beats | it's too high | it's too loud | it's a rest || A
+sa: B || Define time signature. || Two numbers showing beats per bar and which note gets one beat.
+sa: B || What is the downbeat? || The first, strongest beat of a bar.
+sa: I || Explain 3/4. || Three beats per bar; quarter note gets the beat.
+sa: I || Describe the 4/4 conducting pattern. || Down, in, out, up.
+sa: I || Name a piece in 3/4 and one in 2/4. || A waltz; a march.
+sa: I || What is the 4/4 stress pattern? || Strong, weak, medium, weak.
+sa: C || Explain how you identify metre by listening. || Find the strong beats and count between them.
+sa: C || Write one bar each of 2/4, 3/4 and 4/4. || Answers vary.
+
+=== MU7.B1 0
+hook: Musicians in Tokyo, Toronto and Lagos can all read the same sheet of music. The five lines of the staff are a universal map of pitch: the higher a note sits, the higher it sounds.
+sc: I can name the lines and spaces of the treble staff | I can read note names using memory aids | I can name notes above and below the staff using ledger lines
+v: staff :: Five lines and four spaces on which music is written.
+v: treble clef :: A symbol at the start of the staff for higher-pitched music; it circles the G line.
+v: pitch :: How high or low a sound is.
+v: line note :: A note with a staff line through its middle.
+v: space note :: A note sitting between two lines.
+v: ledger line :: A short extra line for notes above or below the staff.
+ts: Map of Pitch || Listening || How does the treble staff show pitch?
+tx: Treble staff guide (written for this lesson): ¶ Lines from bottom to top: E, G, B, D, F. Memory aid: "Every Good Boy Deserves Fruit." ¶ Spaces from bottom to top: F, A, C, E, which spell FACE. ¶ The treble clef curls around the second line, G, which is why it's also called the G clef. ¶ Middle C sits on a ledger line just below the staff. D sits in the space below the bottom line. G and A above the staff use the space and a ledger line. ¶ Activities: 1. Hand staff: hold up your left hand sideways; your five fingers are lines and the gaps are spaces. Point to notes as a partner calls names. 2. Note race: in teams, name 20 flash-card notes as fast as possible. 3. Word spelling: decode words written in notes (BAG, CAGE, FACE, BEAD, EGG). 4. Write your own note-word for a partner.
+src: Original activity written for this lesson; staff names follow standard notation.
+st: Learn line and space names | Use the hand staff | Play the note race | Decode note-words | Write a note-word for a partner
+org: Note | Line or space | Position | Memory aid
+an: Which memory aid helped you most? | Why is the treble clef called the G clef? | Where does middle C sit? | Which notes do you still mix up?
+pr: Write five words using notes on the treble staff and exchange them with a partner to decode.
+ex: Lines || What note is on the middle line? || E G B D F || B || What note is on the top line?
+ex: Spaces || What note is in the third space? || F A C E || C || What is in the top space?
+ex: Middle C || Where is middle C? || Below the staff || On a ledger line just below the staff || What note is just above it?
+ex: Decoding || Notes on G line, A space, G line, E bottom line spell? || Read each note || GAGE || Write BAD in notes.
+p: B || How many lines does the staff have? || Five.
+p: B || What is pitch? || How high or low a sound is.
+p: B || What are the line notes from bottom to top? || E, G, B, D, F.
+p: B || What are the space notes from bottom to top? || F, A, C, E.
+p: B || What is a ledger line? || A short extra line above or below the staff.
+p: I || What line does the treble clef curl around? || The G line (second line).
+p: I || What is the memory aid for the lines? || Every Good Boy Deserves Fruit.
+p: I || What note is in the second space? || A.
+p: I || Where is middle C? || On a ledger line below the staff.
+p: I || Spell CAGE in note positions. || Third space, second space, second line, bottom line (or fourth space).
+p: I || What note is on the fourth line? || D.
+p: C || Why are notes higher on the staff higher in pitch? || The staff is a visual map of pitch from low to high.
+p: C || Why is note reading useful even if you play by ear? || You can learn new music and share it accurately.
+p: C || Write the word FADE in notes. || F space, A space, D line, E line or space.
+p: C || How would you name a note above the top line? || The space above F is G.
+mis: Confusing line and space notes | Thinking the staff shows how long notes are | Forgetting ledger lines continue the pattern
+et: Name the line notes. | Name the space notes.
+mc: B || The staff has || 5 lines | 4 lines | 6 lines | 3 lines || A
+mc: B || Pitch is || how high or low | how long | how loud | how fast || A
+mc: B || Treble line notes are || E G B D F | F A C E | A B C D E | C D E F G || A
+mc: B || Treble space notes spell || FACE | EGBDF | CAGE | BEAD || A
+mc: B || A ledger line is || an extra short line | a bar line | a rest | a clef || A
+mc: B || The treble clef is also called || the G clef | the F clef | the C clef | the rest clef || A
+mc: I || The middle line is || B | G | D | E || A
+mc: I || The third space is || C | A | E | F || A
+mc: I || Middle C sits || on a ledger line below the staff | on the top line | in the top space | on the middle line || A
+mc: I || "Every Good Boy Deserves Fruit" names || the lines | the spaces | the clefs | the rests || A
+mc: C || Higher notes on the staff are || higher in pitch | longer | louder | lower in pitch || A
+mc: C || The note just above middle C is || D | B | E | A || A
+sa: B || Name the treble line notes from bottom to top. || E, G, B, D, F.
+sa: B || Name the treble space notes. || F, A, C, E.
+sa: I || Why is the treble clef called the G clef? || It curls around the G line.
+sa: I || Where is middle C? || On a ledger line just below the staff.
+sa: I || Decode a note-word from a partner. || Answers vary.
+sa: I || What note is on the top line? || F.
+sa: C || Explain how the staff shows pitch. || Higher positions sound higher.
+sa: C || Write five words in notes. || Answers vary.
+
+=== MU7.B1 1
+hook: Sing "Twinkle, Twinkle, Little Star" and trace the tune with your hand. It jumps up, then walks down step by step. Every melody has a shape, and musicians describe that shape with three words: step, skip and leap.
+sc: I can identify steps, skips and leaps on the staff | I can describe the contour of a melody | I can hear whether a melody moves by step, skip or leap
+v: melody :: A sequence of pitches that makes a tune.
+v: step :: Moving to the next line or space (next letter name).
+v: skip :: Moving from a line to the next line, or a space to the next space (skipping one note).
+v: leap :: A move larger than a skip.
+v: contour :: The overall shape of a melody: rising, falling, arched or wave-like.
+v: repeated note :: The same pitch played again.
+ts: Melody Shapes || Listening || How do steps, skips and leaps shape a melody?
+tx: Activities (written for this lesson): ¶ 1. Body pitch (5 minutes): Sing "do-re-mi" up and down, touching knees, waist, shoulders and head to show pitch rising. ¶ 2. On the staff (10 minutes): Step = line to space or space to line (C to D). Skip = line to line or space to space (C to E). Leap = anything bigger (C to G). Label 12 intervals on a worksheet as S, K or L. ¶ 3. Contour drawing (10 minutes): Listen to four melodies and draw their shape as a line: "Twinkle, Twinkle, Little Star" (leap up, then steps down); "Ode to Joy" from Beethoven's Symphony No. 9 (1824) (mostly steps); the opening of "Somewhere Over the Rainbow" (a large leap up); "Mary Had a Little Lamb" (steps and repeated notes). ¶ 4. Ear test (10 minutes): The teacher plays two notes; students show a flat hand (repeated), small move (step), two fingers (skip) or a big arm sweep (leap).
+src: Original activity written for this lesson; melodies named are traditional or widely known.
+st: Sing pitches with body levels | Label steps, skips and leaps on the staff | Draw the contour of four melodies | Identify intervals by ear | Describe a melody using step, skip and leap
+org: Melody | Mostly steps, skips or leaps? | Contour drawing | Description
+an: Which melody moved mostly by step? | What effect does a big leap have? | Which interval was hardest to hear? | How would you describe the contour of your favourite song?
+pr: Describe the contour of one melody in words and in a line drawing, using the terms step, skip, leap and repeated note.
+ex: Step || Is E to F a step? || Next letter name || Yes; line to space, next note || Is F to A a step?
+ex: Skip || Is G to B a skip? || Line to line || Yes; it skips A || Name another skip.
+ex: Leap || What kind of move is C to high C? || Much bigger than a skip || A leap (an octave) || What effect does it have?
+ex: Contour || Describe Ode to Joy's opening. || Mostly next notes || Mostly steps with repeated notes, gently rising and falling || Why is it easy to sing?
+p: B || What is a melody? || A sequence of pitches making a tune.
+p: B || What is a step? || Moving to the next note.
+p: B || What is a skip? || Moving line to line or space to space.
+p: B || What is a leap? || A move larger than a skip.
+p: B || What is contour? || The overall shape of a melody.
+p: I || Is D to E a step, skip or leap? || A step.
+p: I || Is E to G a step, skip or leap? || A skip.
+p: I || Is C to A a step, skip or leap? || A leap.
+p: I || Which melody is mostly steps? || Ode to Joy.
+p: I || What contour starts with a big leap up? || Somewhere Over the Rainbow.
+p: I || What is a repeated note? || The same pitch played again.
+p: C || Why are melodies with steps easier to sing? || Small moves are easier for the voice to find.
+p: C || How can a leap create emotion? || A big jump can feel exciting, dramatic or yearning.
+p: C || Draw and describe the contour of Twinkle, Twinkle. || A leap up, then mostly steps down.
+p: C || Why do composers mix steps and leaps? || Variety keeps a melody interesting and memorable.
+mis: Thinking every move up is a leap | Confusing skips with steps | Thinking contour is the same as rhythm
+et: Is G to B a step, skip or leap? | Describe one melody's contour.
+mc: B || A melody is || a sequence of pitches | a rhythm only | a chord | a rest || A
+mc: B || A step moves to || the next note | two notes away | far away | the same note || A
+mc: B || A skip moves || line to line or space to space | to the next note | very far | nowhere || A
+mc: B || A leap is || bigger than a skip | a step | a repeated note | a rest || A
+mc: B || Contour is || a melody's shape | its speed | its volume | its key || A
+mc: B || A repeated note is || the same pitch again | a leap | a skip | a rest || A
+mc: I || E to F is a || step | skip | leap | repeat || A
+mc: I || G to B is a || skip | step | leap | repeat || A
+mc: I || C to high C is a || leap | step | skip | repeat || A
+mc: I || Ode to Joy moves mostly by || step | leap | skip | silence || A
+mc: C || Stepwise melodies are easier to || sing | ignore | write | forget || A
+mc: C || A big leap can feel || dramatic | boring | silent | flat || A
+sa: B || Define contour. || The overall shape of a melody.
+sa: B || What is a skip? || Moving line to line or space to space.
+sa: I || Label C–D, C–E and C–G as step, skip or leap. || Step, skip, leap.
+sa: I || Describe Twinkle, Twinkle's contour. || A leap up then steps down.
+sa: I || Which melody starts with a big leap? || Somewhere Over the Rainbow.
+sa: I || How did you show intervals by ear? || Hand signals for repeat, step, skip and leap.
+sa: C || Explain why composers mix steps and leaps. || Variety makes melodies interesting.
+sa: C || Describe a melody's contour in words and a drawing. || Answers vary.
+
+=== MU7.B1 2
+hook: Reading music becomes real when you play it. Today you put rhythm and pitch together on a classroom instrument and turn black dots on a page into a tune people can recognize.
+sc: I can read a simple melody using pitch and rhythm together | I can play a melody on a classroom instrument | I can practise effectively and fix mistakes
+v: sight-reading :: Playing music you haven't seen before.
+v: fingering :: Which finger or key plays each note.
+v: phrase :: A musical sentence, often four bars long.
+v: practice strategy :: A method for learning music, such as slow practice or chunking.
+v: chunking :: Practising a small section at a time.
+v: steady beat :: A pulse that stays even.
+ts: Read and Play || Performance || How do I combine pitch and rhythm to play a melody?
+tx: Activities (written for this lesson): ¶ Instruments: keyboard, xylophone, recorder or boomwhackers (whatever is available). ¶ 1. Set up (5 minutes): Find C D E F G on your instrument and label them with stickers if needed. ¶ 2. Read before playing (5 minutes): For the melody "Ode to Joy" (opening, in C: E E F G | G F E D | C C D E | E. D D), first clap the rhythm, then say the note names in rhythm, then play. ¶ 3. Practice strategies (15 minutes): Slow first (half speed); chunking (one phrase at a time); loop the tricky bar three times correctly; then connect the phrases. ¶ 4. Second melody (10 minutes): "Hot Cross Buns" or "Mary Had a Little Lamb" using E D C. Partners play it for each other and check pitch and rhythm. ¶ 5. Share (5 minutes): Volunteers play one phrase for the class.
+src: Original activity written for this lesson; Ode to Joy is from Beethoven's Symphony No. 9 (1824), public domain.
+st: Find the notes on your instrument | Clap, say, then play the melody | Practise slowly and in chunks | Learn a second melody with a partner | Share a phrase with the class
+org: Bar | Notes | Rhythm | Tricky? | Strategy used
+an: Which practice strategy helped most? | Where did you make mistakes, and how did you fix them? | Why clap and say before playing? | How did keeping a steady beat help?
+pr: Play one phrase of Ode to Joy accurately for a partner, and write which practice strategy helped you most.
+ex: Clap-say-play || Why clap the rhythm first? || Separate skills || It solves the rhythm before adding pitch || What comes next?
+ex: Chunking || Bar 4 is hard. What do you do? || Small section || Loop bar 4 slowly three times correctly, then join it to bar 3 || Why three times?
+ex: Slow practice || Why play at half speed? || Accuracy || The brain learns correct notes instead of mistakes || When do you speed up?
+ex: Phrase || How long is a typical phrase? || Musical sentence || Often four bars || Where is the first phrase of Ode to Joy?
+p: B || What is sight-reading? || Playing music you haven't seen before.
+p: B || What is a phrase? || A musical sentence.
+p: B || What is chunking? || Practising a small section at a time.
+p: B || What is a steady beat? || An even pulse.
+p: B || What is fingering? || Which finger or key plays each note.
+p: I || What are the first four notes of Ode to Joy in C? || E E F G.
+p: I || What are the three steps before playing? || Clap the rhythm, say the notes, then play.
+p: I || At what speed should you practise first? || Half speed.
+p: I || How many times should you loop a tricky bar correctly? || Three times.
+p: I || Which notes are used in Hot Cross Buns? || E D C.
+p: I || How long is a typical phrase? || Four bars.
+p: C || Why does slow practice lead to faster learning? || You learn correct patterns instead of mistakes.
+p: C || Why does playing a wrong note repeatedly hurt? || The mistake becomes a habit.
+p: C || How do you connect chunks? || Practise the end of one chunk into the start of the next.
+p: C || Which strategy helped you most and why? || Answers vary.
+mis: Thinking practice means playing the whole piece over and over | Speeding up before it's accurate | Ignoring rhythm while finding notes
+et: Name two practice strategies. | Play one phrase for a partner.
+mc: B || Sight-reading is || playing music new to you | memorizing | improvising | listening || A
+mc: B || A phrase is || a musical sentence | a rest | a clef | a key || A
+mc: B || Chunking means || practising small sections | playing everything at once | speeding up | stopping || A
+mc: B || A steady beat is || even | random | silent | getting faster || A
+mc: B || Fingering means || which finger plays each note | the speed | the volume | the key || A
+mc: B || Ode to Joy is by || Beethoven | Mozart | Bach | Strauss || A
+mc: I || Before playing you should || clap and say the notes | play fast | skip rhythm | guess || A
+mc: I || Practise first at || half speed | double speed | full speed | random speed || A
+mc: I || A tricky bar should be looped || correctly three times | once wrongly | never | ten times fast || A
+mc: I || Hot Cross Buns uses || E D C | A B C | F G A | C G E || A
+mc: C || Slow practice works because || you learn correct patterns | it's boring | it's louder | it skips mistakes || A
+mc: C || Repeating mistakes || builds bad habits | fixes them | has no effect | speeds learning || A
+sa: B || Define chunking. || Practising a small section at a time.
+sa: B || What is a phrase? || A musical sentence, often four bars.
+sa: I || List the three steps before playing a new melody. || Clap, say, play.
+sa: I || What are the first eight notes of Ode to Joy in C? || E E F G G F E D.
+sa: I || Name three practice strategies. || Slow practice, chunking, looping.
+sa: I || Which notes are in Hot Cross Buns? || E, D, C.
+sa: C || Explain why slow practice works. || It builds correct patterns.
+sa: C || Explain which strategy helped you most. || Answers vary.
+
+=== MU7.C1 0
+hook: Close your eyes. A flute and a violin can play the exact same note, yet you can tell them apart instantly. That special colour of a sound is called timbre, and it's how you recognize every instrument and voice.
+sc: I can identify instruments by their sound | I can name the instrument families | I can describe timbre using descriptive words
+v: timbre :: The unique colour or quality of a sound.
+v: instrument family :: A group of instruments that make sound in a similar way.
+v: strings :: Instruments that make sound with vibrating strings, such as violin and guitar.
+v: woodwinds :: Instruments played by blowing across or through a reed or mouthpiece, such as flute and clarinet.
+v: brass :: Instruments played by buzzing the lips into a mouthpiece, such as trumpet and tuba.
+v: percussion :: Instruments played by striking, shaking or scraping, such as drums and xylophone.
+ts: Name That Sound || Listening || How can I identify instruments by their sound?
+tx: Listening guide (written for this lesson): ¶ Families: Strings (violin, viola, cello, double bass, guitar, harp); Woodwinds (flute, clarinet, oboe, bassoon, saxophone); Brass (trumpet, French horn, trombone, tuba); Percussion (drums, cymbals, xylophone, timpani); Keyboards (piano, organ); Voice. ¶ Instruments from many cultures: koto (Japanese zither), sitar (Indian string instrument), djembe (West African drum), oud (Middle Eastern lute), erhu (Chinese two-string fiddle), Indigenous hand drum. ¶ Timbre words: bright, dark, warm, brassy, breathy, nasal, mellow, buzzy, sharp, smooth. ¶ Activities: 1. Listen to 12 short clips and name the instrument and family. 2. Describe each with two timbre words. 3. Listen to Benjamin Britten's The Young Person's Guide to the Orchestra (1946) and raise a card for each family as it plays.
+src: Original activity written for this lesson; teachers play clips from public educational recordings.
+st: Learn the instrument families | Listen to 12 clips and name each instrument | Describe timbre with two words | Follow the families in Britten's piece | Compare instruments from different cultures
+org: Clip | Instrument | Family | Timbre words
+an: Which instruments were easiest to recognize? | How would you describe the timbre of the trumpet? | How is the oud similar to the guitar? | Why do instruments sound different even on the same note?
+pr: Complete a listening chart of 12 clips with instrument, family and two timbre words for each.
+ex: Families || Which family is the clarinet in? || How is sound made? || Woodwinds; it uses a reed || Which family is the trombone in?
+ex: Timbre words || Describe the cello's timbre. || Warm or bright? || Warm, rich and mellow || Describe the piccolo.
+ex: World instruments || What family is the djembe in? || Struck with hands || Percussion || What family is the koto in?
+ex: Same note || Why do flute and violin sound different on one note? || Different vibrations || Their timbre differs because the sound is made differently || What makes the flute's sound?
+p: B || What is timbre? || The unique colour of a sound.
+p: B || Name the four orchestra families. || Strings, woodwinds, brass, percussion.
+p: B || How do brass instruments make sound? || Buzzing lips into a mouthpiece.
+p: B || How do string instruments make sound? || Vibrating strings.
+p: B || Give two timbre words. || Bright and warm.
+p: I || Which family is the saxophone in? || Woodwinds.
+p: I || Which family is the French horn in? || Brass.
+p: I || What is the koto? || A Japanese zither.
+p: I || What is the sitar? || An Indian string instrument.
+p: I || Which piece introduces orchestra families? || Britten's The Young Person's Guide to the Orchestra.
+p: I || What family is the djembe in? || Percussion.
+p: C || Why is the saxophone a woodwind even though it is metal? || It uses a reed.
+p: C || How can timbre help a composer create mood? || Different instrument colours suggest different feelings.
+p: C || Compare the oud and the guitar. || Both are plucked string instruments; the oud has no frets and a rounder body.
+p: C || Describe your favourite instrument's timbre. || Answers vary.
+mis: Thinking the saxophone is brass | Thinking timbre means volume | Thinking only orchestra instruments are "real"
+et: Name an instrument from each family. | Describe one timbre.
+mc: B || Timbre is || the colour of a sound | loudness | speed | pitch || A
+mc: B || The violin is in the || strings | brass | woodwinds | percussion || A
+mc: B || The trumpet is in the || brass | strings | woodwinds | percussion || A
+mc: B || The flute is in the || woodwinds | brass | strings | percussion || A
+mc: B || Drums are || percussion | brass | strings | woodwinds || A
+mc: B || Brass instruments use || buzzing lips | reeds | strings | sticks || A
+mc: I || The saxophone is a || woodwind | brass | string | percussion || A
+mc: I || The koto comes from || Japan | India | Mali | Canada || A
+mc: I || The djembe is a || drum | guitar | flute | horn || A
+mc: I || Britten's Young Person's Guide dates from || 1946 | 1846 | 2006 | 1746 || A
+mc: C || The saxophone is a woodwind because it || uses a reed | is metal | is loud | is new || A
+mc: C || Same note, different instruments sound different because of || timbre | tempo | dynamics | metre || A
+sa: B || Define timbre. || The unique colour or quality of a sound.
+sa: B || Name the four orchestra families. || Strings, woodwinds, brass, percussion.
+sa: I || Name an instrument from three different cultures. || Koto, sitar, djembe.
+sa: I || Why is the saxophone a woodwind? || It uses a reed.
+sa: I || Describe the trumpet's timbre. || Bright and brassy.
+sa: I || Which family is the oud in? || Strings.
+sa: C || Explain why instruments sound different on the same note. || Different ways of making sound give different timbre.
+sa: C || Complete your listening chart. || Answers vary.
+
+=== MU7.C1 1
+hook: Saying "I like it" about music isn't wrong, but it isn't very useful either. Musicians describe music with a toolkit of elements: tempo, dynamics, texture and timbre. With these words, you can explain exactly what you hear.
+sc: I can describe music using tempo, dynamics, texture and timbre | I can use music vocabulary in my descriptions | I can explain how elements create mood
+v: tempo :: The speed of the music.
+v: dynamics :: How loud or soft the music is.
+v: texture :: How many layers of sound there are and how they fit together.
+v: monophonic :: A texture with a single melody line.
+v: homophonic :: A texture with a melody and accompanying chords.
+v: polyphonic :: A texture with several independent melodies at once.
+ts: Talk Like a Musician || Listening || How can I describe music using its elements?
+tx: Elements toolkit (written for this lesson): ¶ Tempo: slow (largo, adagio), walking pace (andante), fast (allegro, presto); getting faster (accelerando), slower (ritardando). ¶ Dynamics: very soft (pp, pianissimo), soft (p, piano), medium (mf), loud (f, forte), very loud (ff, fortissimo); getting louder (crescendo), softer (decrescendo). ¶ Texture: thin (one or two parts) to thick (many parts); monophonic, homophonic, polyphonic. ¶ Timbre: instruments and tone colours. ¶ Listening task: For three contrasting excerpts, complete the toolkit chart, then write a three-sentence description that ends with the mood. Examples: Edvard Grieg, "In the Hall of the Mountain King" (1875) (accelerando and crescendo); a Gregorian chant (monophonic); a pop ballad (homophonic). ¶ Sentence frame: "The tempo is ___ and the dynamics ___. The texture is ___ with ___ instruments. Together these create a ___ mood."
+src: Original activity written for this lesson; teachers play excerpts from public recordings.
+st: Learn the four elements and their terms | Listen to three excerpts | Fill in the elements chart | Write a three-sentence description | Explain the mood created
+org: Excerpt | Tempo | Dynamics | Texture | Timbre | Mood
+an: How does the tempo change in "In the Hall of the Mountain King"? | Which excerpt had the thinnest texture? | How did dynamics create excitement? | Which element affected the mood most?
+pr: Write a description of one excerpt using all four elements and explaining the mood.
+ex: Tempo change || What happens in Mountain King? || It speeds up || Accelerando: it gets faster and faster || What happens to dynamics?
+ex: Texture || A single voice singing alone. Texture? || One line || Monophonic || What if a guitar accompanies?
+ex: Dynamics || What does "ff" mean? || Italian terms || Fortissimo: very loud || What does "p" mean?
+ex: Mood || Slow tempo, soft dynamics, thin texture. Mood? || Combine elements || Calm, sad or peaceful || What would make it tense?
+p: B || What is tempo? || The speed of music.
+p: B || What are dynamics? || How loud or soft music is.
+p: B || What is texture? || How many layers of sound there are.
+p: B || What does forte mean? || Loud.
+p: B || What does piano mean in dynamics? || Soft.
+p: I || What is a crescendo? || Getting louder.
+p: I || What is accelerando? || Getting faster.
+p: I || What does allegro mean? || Fast.
+p: I || What is a monophonic texture? || A single melody line.
+p: I || What is homophonic? || Melody with chords.
+p: I || Who composed "In the Hall of the Mountain King"? || Edvard Grieg.
+p: C || How does a crescendo build excitement? || Growing volume increases tension.
+p: C || Why is a polyphonic texture harder to follow? || Several melodies happen at once.
+p: C || Describe music that is fast, loud and thick. || Exciting, energetic or chaotic.
+p: C || Write your three-sentence description. || Answers vary.
+mis: Confusing tempo and dynamics | Thinking "piano" in dynamics means the instrument | Thinking texture means how music feels to touch
+et: Name the four elements. | What does crescendo mean?
+mc: B || Tempo is || speed | loudness | layers | colour || A
+mc: B || Dynamics are || loudness and softness | speed | pitch | layers || A
+mc: B || Texture is || layers of sound | speed | volume | key || A
+mc: B || Forte means || loud | soft | fast | slow || A
+mc: B || Piano in dynamics means || soft | loud | fast | slow || A
+mc: B || Allegro means || fast | slow | soft | loud || A
+mc: I || A crescendo is || getting louder | getting softer | getting faster | stopping || A
+mc: I || Accelerando is || getting faster | getting slower | getting louder | getting softer || A
+mc: I || A single voice alone is || monophonic | homophonic | polyphonic | thick || A
+mc: I || ff means || very loud | very soft | very fast | very slow || A
+mc: C || Slow, soft and thin music may feel || calm or sad | exciting | angry | chaotic || A
+mc: C || Polyphonic music has || several independent melodies | one melody | no melody | only drums || A
+sa: B || Name the four elements of music used. || Tempo, dynamics, texture, timbre.
+sa: B || What is a crescendo? || Getting louder.
+sa: I || Describe the changes in Mountain King. || It speeds up and gets louder.
+sa: I || Define monophonic, homophonic and polyphonic. || One line; melody with chords; many melodies.
+sa: I || What do pp and ff mean? || Very soft; very loud.
+sa: I || Which element affected mood most in one excerpt? || Answers vary.
+sa: C || Explain how elements combine to create mood. || Answers vary.
+sa: C || Write a full description of one excerpt. || Answers vary.
+
+=== MU7.C1 2
+hook: Inuit throat singing, Cree powwow drumming, Celtic fiddling from Cape Breton, Japanese taiko and Mexican mariachi can all be heard in Canada today. Comparing music from different cultures shows how people everywhere use the same elements in their own ways.
+sc: I can compare music from two cultures using musical elements | I can describe the role of music in a culture | I can listen to and talk about music respectfully
+v: culture :: The shared beliefs, customs and arts of a group.
+v: tradition :: Practices passed down through generations.
+v: katajjaq :: Inuit throat singing, often a game between two women facing each other.
+v: powwow :: A gathering of many First Nations that includes singing, drumming and dance.
+v: fiddle music :: Folk music played on the violin, important in Métis, Acadian and Cape Breton traditions.
+v: respect :: Listening with an open mind and learning a music's meaning from its own community.
+ts: Music Across Cultures || Listening || How do music traditions compare, and what do they mean to their communities?
+tx: Listening examples (summaries written for this lesson; teachers play clips from community or public educational sources): ¶ A. Inuit katajjaq: two singers face each other and trade quick rhythmic sounds made with breath and throat; traditionally a game, the first to laugh or run out of breath loses. Tanya Tagaq is a well-known Inuk artist who has brought throat singing to new audiences. ¶ B. Powwow drum songs: a group of singers sits around a large drum, singing high, strong vocals in a call-and-response pattern; songs support dancers and gatherings. ¶ C. Métis fiddle music, such as the "Red River Jig": fast, lively fiddle tunes with foot-tapping, played for dancing. ¶ D. Japanese taiko drumming: powerful, coordinated drumming with movement and shouts. ¶ Task: Choose two examples. Compare them with a Venn diagram using tempo, dynamics, texture, timbre and purpose (game, ceremony, dance, celebration). Then write a short comparison.
+src: Summaries written for this lesson; some songs are ceremonial, so classes listen to examples shared publicly for education.
+st: Listen to four traditions | Note elements and purpose for each | Choose two to compare | Complete a Venn diagram | Write a comparison paragraph
+org: Tradition | Tempo | Dynamics | Texture | Timbre | Purpose
+an: What surprised you about katajjaq? | How is purpose different between two traditions? | What elements did your two examples share? | Why should we learn about music from the people who make it?
+pr: Write a paragraph comparing two music traditions using at least three musical elements and their purpose.
+ex: Purpose || What is the traditional purpose of katajjaq? || How it's used || A friendly vocal game between two singers || What is the purpose of powwow drumming?
+ex: Elements || Describe the tempo of the Red River Jig. || Speed || Fast and lively for dancing || Describe its timbre.
+ex: Shared element || What do powwow drumming and taiko share? || Instruments and energy || Large drums and powerful, strong dynamics || How do they differ?
+ex: Respect || Why not copy ceremonial songs for a class performance? || Ownership || Some songs belong to communities and have sacred meaning || What can we do instead?
+p: B || What is culture? || Shared beliefs, customs and arts of a group.
+p: B || What is a tradition? || Practices passed down through generations.
+p: B || What is katajjaq? || Inuit throat singing, often a game.
+p: B || What is a powwow? || A First Nations gathering with singing, drumming and dance.
+p: B || What instrument leads Métis fiddle music? || The fiddle (violin).
+p: I || Name a well-known Inuk throat singer. || Tanya Tagaq.
+p: I || How does a katajjaq game end? || When one singer laughs or runs out of breath.
+p: I || What is the Red River Jig? || A lively Métis fiddle tune for dancing.
+p: I || What is taiko? || Japanese drumming.
+p: I || What pattern do powwow singers often use? || Call and response.
+p: I || Name two purposes of music. || Celebration and ceremony.
+p: C || Why should we learn about traditions from their communities? || They know the true meanings and protocols.
+p: C || How can music hold a culture's history? || Songs pass on stories, values and language.
+p: C || Why might a song be shared for listening but not for performing? || It may be ceremonial or owned by a community.
+p: C || Write your comparison paragraph. || Answers vary.
+mis: Thinking all Indigenous music sounds the same | Thinking music from other cultures is "simple" | Performing sacred songs without permission
+et: Name two traditions and one difference. | What is the purpose of one tradition?
+mc: B || Culture is || shared customs and arts | a type of drum | a tempo | a key || A
+mc: B || A tradition is || passed down | brand new | a single song | a mistake || A
+mc: B || Katajjaq is || Inuit throat singing | Métis fiddling | Japanese drumming | Cree dance || A
+mc: B || A powwow includes || singing, drumming and dance | only fiddles | only throat singing | only recordings || A
+mc: B || The Red River Jig is played on || the fiddle | taiko | a koto | a flute || A
+mc: B || Taiko is from || Japan | India | Canada | Mexico || A
+mc: I || Katajjaq is traditionally || a game | a funeral | a march | a lullaby only || A
+mc: I || Tanya Tagaq is known for || throat singing | fiddling | taiko | opera || A
+mc: I || Powwow singers often use || call and response | silence | solo flute | electric guitars || A
+mc: I || Métis fiddle music is often for || dancing | sleeping | silence | exams || A
+mc: C || Learning from communities matters because they || know the meanings | sell music | are louder | are faster || A
+mc: C || Some songs shouldn't be performed by others because they || are ceremonial or owned | are too fast | are too quiet | are old || A
+sa: B || Define tradition. || Practices passed down through generations.
+sa: B || What is katajjaq? || Inuit throat singing, often a game between two singers.
+sa: I || Compare the tempo of two traditions. || Answers vary.
+sa: I || What is the purpose of powwow drumming? || To support dancers and gatherings.
+sa: I || Name an Inuk throat singer. || Tanya Tagaq.
+sa: I || Describe the Red River Jig. || A fast Métis fiddle tune for dancing.
+sa: C || Explain why respect matters when studying music from other cultures. || Songs have meanings and protocols set by communities.
+sa: C || Write a comparison of two traditions. || Answers vary.
+
+=== MU7.D1 0
+hook: Drumlines, hip-hop beats and body-percussion groups like STOMP all start with the same idea: a short rhythm that repeats. Today you become the composer and write a four-bar rhythm of your own.
+sc: I can compose a four-bar rhythm in 4/4 | I can notate my rhythm correctly | I can perform my rhythm with a steady beat
+v: compose :: To create a new piece of music.
+v: composer :: A person who writes music.
+v: ostinato :: A short musical pattern repeated over and over.
+v: notate :: To write music down using symbols.
+v: body percussion :: Sounds made with the body, such as claps, snaps, pats and stomps.
+v: motif :: A short musical idea that is repeated or developed.
+ts: Compose a Beat || Composition || How do I compose and notate a rhythm?
+tx: Composition steps (written for this lesson): ¶ 1. Explore (5 minutes): Try four body-percussion sounds: stomp (low), pat thighs (medium), clap (high), snap (very high). ¶ 2. Motif (5 minutes): Create a one-bar idea using quarter and eighth notes. ¶ 3. Build four bars (10 minutes): A common shape is A A B A: bar 1 = motif, bar 2 = repeat, bar 3 = something new, bar 4 = motif again or a strong ending. Include at least one rest. ¶ 4. Notate (10 minutes): Write it in 4/4 with bar lines, and add which body sound plays each note (S, P, C or Sn) under the notes. Check each bar adds to 4 beats. ¶ 5. Perform (10 minutes): Perform it four times in a row with a steady beat. A partner checks it matches the notation.
+src: Original activity written for this lesson.
+st: Explore body-percussion sounds | Create a one-bar motif | Build a four-bar AABA rhythm | Notate it with body sounds | Perform it four times with a steady beat
+org: Bar | Rhythm | Body sounds | Beats (must equal 4)
+an: What makes your motif memorable? | Why does A A B A work well? | Did every bar add up to 4 beats? | Did your performance match your notation?
+pr: Notate and perform an original four-bar rhythm in 4/4 with body percussion, labelled with sounds and counts.
+ex: Motif || Create a motif. || One bar, 4 beats || Quarter (stomp), two eighths (pat-pat), quarter (clap), quarter rest || Is it 4 beats?
+ex: AABA || Why repeat the motif? || Memory || Repetition makes it memorable; the B bar adds contrast || What could bar 3 be?
+ex: Checking bars || Bar has half + quarter + quarter + eighth. Correct? || Add beats || No; it's 4½ beats || How do you fix it?
+ex: Ostinato || How could your rhythm become an ostinato? || Repeat || Loop it continuously under other parts || Where have you heard ostinatos?
+p: B || What does compose mean? || Create new music.
+p: B || What is an ostinato? || A short repeated pattern.
+p: B || What does notate mean? || Write music down with symbols.
+p: B || What is body percussion? || Sounds made with the body.
+p: B || What is a motif? || A short musical idea.
+p: I || Name four body-percussion sounds. || Stomp, pat, clap, snap.
+p: I || What is the AABA shape? || Motif, repeat, something new, motif again.
+p: I || How many beats must each 4/4 bar have? || 4.
+p: I || What must your rhythm include? || At least one rest.
+p: I || How many times do you perform it? || Four times in a row.
+p: I || Which body sound is lowest? || Stomp.
+p: C || Why do composers repeat ideas? || Repetition makes music memorable and unified.
+p: C || Why is contrast (B section) important? || It keeps the music interesting.
+p: C || Why notate music? || So others can read and perform it accurately.
+p: C || Explain your motif choice. || Answers vary.
+mis: Thinking composing must be complicated | Writing bars that don't add up to the time signature | Thinking repetition is boring
+et: Clap your motif. | Does every bar add to 4 beats?
+mc: B || To compose is to || create music | copy music | listen only | tune || A
+mc: B || An ostinato is || a repeated pattern | a single note | a rest | a key || A
+mc: B || To notate is to || write music down | sing | dance | tune || A
+mc: B || Body percussion uses || the body | drums only | pianos | voices only || A
+mc: B || A motif is || a short idea | a whole song | a rest | an instrument || A
+mc: B || The lowest body sound used is || stomp | snap | clap | pat || A
+mc: I || AABA means || motif, repeat, new, motif | four new bars | all the same | random || A
+mc: I || A 4/4 bar must total || 4 beats | 3 beats | 5 beats | any || A
+mc: I || Half + quarter + quarter + eighth equals || 4½ beats | 4 beats | 3 beats | 5 beats || A
+mc: I || Each rhythm must include || a rest | no rests | only whole notes | singing || A
+mc: C || Repetition makes music || memorable | boring always | wrong | quiet || A
+mc: C || The B section gives || contrast | silence | the ending | repetition || A
+sa: B || Define ostinato. || A short musical pattern repeated over and over.
+sa: B || What is a motif? || A short musical idea that is repeated or developed.
+sa: I || Describe the AABA shape. || Motif, repeat, new idea, motif again.
+sa: I || Fix a bar of 4½ beats in 4/4. || Remove an eighth note.
+sa: I || Name four body-percussion sounds. || Stomp, pat, clap, snap.
+sa: I || Why notate your rhythm? || So others can read and perform it.
+sa: C || Explain why composers use repetition and contrast. || Repetition unifies; contrast adds interest.
+sa: C || Notate and perform your four-bar rhythm. || Answers vary.
+
+=== MU7.D1 1
+hook: One rhythm alone is a pattern. Stack four different rhythms on top of each other and it becomes a groove. This is how drum circles, samba bands and electronic music producers build exciting music.
+sc: I can layer rhythms to create a group piece | I can hold my part while others play different rhythms | I can use dynamics and entrances to shape a piece
+v: layer :: To add parts on top of each other.
+v: ensemble :: A group of musicians performing together.
+v: entrance :: The moment a part starts playing.
+v: groove :: A rhythmic feel created by layered patterns.
+v: dynamics :: Changes in loudness.
+v: cue :: A signal to start, stop or change.
+ts: Build the Groove || Composition || How do layered rhythms create a group piece?
+tx: Group composition (written for this lesson): ¶ Groups of four combine their four-bar rhythms from last lesson. ¶ 1. Choose roles (5 minutes): Part 1 = low, steady pulse (the heartbeat, often stomps on beats 1 and 3); Part 2 = medium ostinato; Part 3 = high, busier rhythm; Part 4 = the "solo" with the most interesting rhythm. ¶ 2. Structure (10 minutes): Plan entrances: bars 1–4 Part 1 alone; bars 5–8 add Part 2; bars 9–12 add Part 3; bars 13–16 add Part 4; bars 17–20 everyone, then a big ending on a cue. ¶ 3. Dynamics (5 minutes): Start piano and crescendo as layers enter; finish forte. ¶ 4. Rehearse (15 minutes): One person counts in "1, 2, 3, 4." Practise holding your part while others play. ¶ 5. Score (5 minutes): Write a simple chart showing which parts play in each section.
+src: Original activity written for this lesson.
+st: Choose four parts from low to high | Plan staggered entrances | Add a crescendo as layers enter | Rehearse holding your part | Write a simple score chart
+org: Bars | Part 1 | Part 2 | Part 3 | Part 4 | Dynamics
+an: Which part was hardest to hold while others played? | How did entrances build excitement? | What signal did you use for the ending? | How did the crescendo change the effect?
+pr: Rehearse and write a score chart for a layered rhythm piece with staggered entrances, dynamics and a cued ending.
+ex: Steady pulse || Why does Part 1 play a simple steady beat? || Foundation || It keeps everyone together like a heartbeat || What happens if it speeds up?
+ex: Entrances || Why add one layer at a time? || Build-up || The audience hears each part and the energy grows || What else builds energy?
+ex: Holding a part || You keep switching to your neighbour's rhythm. Fix? || Focus || Count in your head, watch the leader and practise against one other part first || Why does it happen?
+ex: Ending cue || How do you end together? || Signal || A leader raises a hand on bar 19 and everyone hits beat 1 of bar 21 || What other cues work?
+p: B || What does layer mean? || Add parts on top of each other.
+p: B || What is an ensemble? || A group performing together.
+p: B || What is an entrance? || When a part starts.
+p: B || What is a groove? || A rhythmic feel from layered patterns.
+p: B || What is a cue? || A signal to start, stop or change.
+p: I || What does Part 1 usually play? || A low steady pulse.
+p: I || In which bars does Part 4 enter? || Bars 13–16.
+p: I || What dynamic do you start with? || Piano (soft).
+p: I || Who counts in the piece? || One leader.
+p: I || What does a score chart show? || Which parts play in each section.
+p: I || What dynamic do you end with? || Forte (loud).
+p: C || Why do layered rhythms sound exciting? || Different patterns interlock to create a rich groove.
+p: C || Why is listening important in an ensemble? || So everyone stays together and balanced.
+p: C || How could you make the piece quieter in the middle? || Drop some layers and play piano.
+p: C || Describe your group's structure. || Answers vary.
+mis: Thinking louder always means better | Changing to someone else's rhythm | Starting without a count-in
+et: Which part did you play? | How did your group end together?
+mc: B || To layer is to || add parts on top | remove parts | play alone | stop || A
+mc: B || An ensemble is || a group performing | a solo | a song title | a rest || A
+mc: B || An entrance is || when a part starts | when a part stops | the bow | a rest || A
+mc: B || A cue is || a signal | a note | a rest | a key || A
+mc: B || A groove is || a layered rhythmic feel | a single note | a key | silence || A
+mc: B || Part 1 plays || a steady pulse | the solo | nothing | the melody || A
+mc: I || Layers entering one at a time || build energy | reduce energy | confuse | end the piece || A
+mc: I || The piece starts || piano | forte | ff | silent || A
+mc: I || A count-in is || "1, 2, 3, 4" | the ending | a solo | a rest || A
+mc: I || A score chart shows || which parts play when | the price | the composer | the key || A
+mc: C || Holding your part requires || focus and counting | copying others | speeding up | stopping || A
+mc: C || Dropping layers can make music || quieter and thinner | louder | faster | higher || A
+sa: B || Define entrance. || The moment a part starts playing.
+sa: B || What is a groove? || A rhythmic feel created by layered patterns.
+sa: I || Describe the plan for staggered entrances. || One part every four bars until all play.
+sa: I || Why does Part 1 play a steady pulse? || It keeps everyone together.
+sa: I || How did your group end together? || Answers vary.
+sa: I || What dynamics plan did you use? || Start piano, crescendo, end forte.
+sa: C || Explain why layered rhythms sound exciting. || Interlocking patterns create a rich groove.
+sa: C || Write your score chart. || Answers vary.
+
+=== MU7.D1 2
+hook: Professional musicians record their performances, listen back and make notes. What sounded perfect while playing often sounds different on the recording. Today you perform your group piece and reflect like a professional.
+sc: I can perform my group piece with a steady beat and dynamics | I can reflect on a performance using musical vocabulary | I can give and use peer feedback
+v: performance :: Presenting music to an audience.
+v: reflection :: Thinking about and evaluating your work.
+v: steady tempo :: Keeping the same speed throughout.
+v: balance :: How well the parts can be heard in relation to each other.
+v: stage presence :: Confidence and focus while performing.
+v: self-assessment :: Judging your own performance against criteria.
+ts: Perform and Reflect || Performance || How do musicians evaluate and improve a performance?
+tx: Performance plan (written for this lesson): ¶ 1. Warm-up (5 minutes): Clap the pulse together; run each layer once. ¶ 2. Performance (15 minutes): Each group performs its piece for the class; the teacher records it on a tablet if possible. ¶ 3. Peer feedback (10 minutes): For each group, two listeners give one glow and one grow using criteria: steady tempo, accurate rhythms, clear entrances, dynamics, balance, ending together. ¶ 4. Listen back (10 minutes): Groups watch or listen to their recording. ¶ 5. Reflection (10 minutes): Each student rates the group 1–4 on each criterion and writes: one thing that went well, one thing to improve, and what you learned about composing. ¶ Audience etiquette: stay quiet during performances, applaud at the end and give specific, kind feedback.
+src: Original activity written for this lesson.
+st: Warm up as a group | Perform for the class | Give and receive glow and grow feedback | Listen to your recording | Write a self-assessment and reflection
+org: Criterion | Our score (1–4) | Evidence from the recording | Next step
+an: Did the tempo stay steady? How do you know? | Could every layer be heard? | What did the recording reveal that you didn't notice while playing? | What would you change in your composition?
+pr: Perform your group piece and write a reflection rating six criteria with evidence and one next step.
+ex: Tempo || The recording speeds up in the last section. Why? || Excitement || Players rushed as the crescendo built || How can you prevent it?
+ex: Balance || The stomps drown out the snaps. Fix? || Relative volume || Play stomps softer or add more snappers || What is balance?
+ex: Glow || Write a specific glow. || Name criterion and moment || "Your entrances were clean; each new layer came in exactly on beat 1" || Write a grow.
+ex: Listening back || Why record performances? || Different perspective || You hear what the audience heard, not what you felt || What did yours show?
+p: B || What is a performance? || Presenting music to an audience.
+p: B || What is reflection? || Thinking about and evaluating your work.
+p: B || What is a steady tempo? || Keeping the same speed.
+p: B || What is balance? || How well parts can be heard relative to each other.
+p: B || What is stage presence? || Confidence and focus while performing.
+p: I || Name the six feedback criteria. || Steady tempo, accurate rhythms, entrances, dynamics, balance, ending together.
+p: I || Why do groups often speed up during a crescendo? || Excitement makes players rush.
+p: I || How do you fix balance if one part is too loud? || Play it softer or add players to the quiet part.
+p: I || What scale is used for self-assessment? || 1 to 4.
+p: I || What is good audience etiquette? || Quiet listening, applause and kind feedback.
+p: I || Why record the performance? || To hear it as the audience did.
+p: C || Why does a performance feel different from how it sounds? || Performers focus on their part and can't hear the whole.
+p: C || How can feedback improve your composition? || It shows what works and what to change.
+p: C || What did you learn about composing? || Answers vary.
+p: C || Write your next step. || Answers vary.
+mis: Thinking a performance is finished once it's played | Thinking feedback is only criticism | Ignoring the recording because it feels awkward
+et: Name one strength of your performance. | What is your next step?
+mc: B || A performance is || presenting to an audience | practising alone | listening | writing || A
+mc: B || Reflection means || evaluating your work | copying | performing | tuning || A
+mc: B || A steady tempo || stays the same | speeds up | slows down | stops || A
+mc: B || Balance is about || parts being heard fairly | speed | pitch | costume || A
+mc: B || Self-assessment uses || criteria | guesses | the audience only | nothing || A
+mc: B || Good audiences || listen quietly and applaud | talk | leave early | use phones || A
+mc: I || Groups often rush during || a crescendo | a rest | the count-in | silence || A
+mc: I || If stomps are too loud || play them softer | play them louder | remove snaps | speed up || A
+mc: I || Recording helps you || hear what the audience heard | play faster | skip practice | avoid feedback || A
+mc: I || A specific glow names || a criterion and moment | nothing | a price | a person only || A
+mc: C || Performances sound different from inside because || performers focus on their own part | recordings lie | it's quieter | it's faster || A
+mc: C || Feedback improves composition by || showing what to change | ending it | making it longer | nothing || A
+sa: B || Define balance in music. || How well the parts can be heard in relation to each other.
+sa: B || What is reflection? || Thinking about and evaluating your work.
+sa: I || List the six performance criteria. || Steady tempo, rhythms, entrances, dynamics, balance, ending together.
+sa: I || Why might a group speed up? || Excitement during a crescendo.
+sa: I || Write one glow and one grow. || Answers vary.
+sa: I || What did your recording reveal? || Answers vary.
+sa: C || Explain why musicians record and listen back. || To hear the performance as the audience does.
+sa: C || Write your reflection with a next step. || Answers vary.
