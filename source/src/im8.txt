@@ -1,0 +1,637 @@
+=== IM8.A1 1
+hook: Say "too-too-too" and then "doo-doo-doo." Hear the difference? Wind players use their tongue in different ways to make notes smooth and connected or short and bouncy. That's articulation.
+sc: I can play legato and staccato articulations clearly | I can read articulation markings | I can choose articulation to fit the style
+v: articulation :: How notes are started, connected or separated.
+v: legato :: Smooth and connected, often with a soft "doo" tongue.
+v: staccato :: Short and separated, shown by a dot above or below the note.
+v: slur :: A curved line over different notes: tongue only the first note.
+v: accent :: A note played with extra emphasis, shown by >.
+v: tenuto :: A line over a note meaning hold it for its full value.
+ts: Smooth or Short || Performance || How do articulations change the sound?
+tx: Articulation guide (written for this lesson; percussion uses sticking and stroke height for the same effects): ¶ Normal tongue: "too": clear start, full length. ¶ Legato tongue: "doo": gentle start, notes connected. ¶ Staccato (dot): "tut": short, but the air still moves; the gap comes from shortening, not from choking the sound. ¶ Slur (curve over different notes): tongue only the first note; change fingerings with steady air. ¶ Accent (>): stronger air at the start, then back to normal. ¶ Tenuto (–): full value, slight weight. ¶ Activities: 1. Play Concert B♭ C D E♭ F with each articulation at 80 BPM. 2. Slur in pairs: slur 2, tongue 2. 3. Slur all five up and down. 4. Partner listening: play one articulation; partner names it. 5. Style: play "Hot Cross Buns" legato (sweet), then staccato (bouncy). Which suits a march?
+src: Original activity written for this lesson.
+st: Learn six articulation markings | Play each on the five concert notes | Practise slur 2, tongue 2 | Name a partner's articulation by ear | Match articulation to style
+org: Marking | Symbol | Tongue syllable | Sound
+an: Which articulation was hardest? | How do slurred notes stay smooth? | Could your partner hear the difference? | Which articulation suits a march?
+pr: Play a line using legato, staccato, slurs and accents as marked, and explain the effect of each.
+ex: Staccato || What does a dot above a note mean? || Short || Play it short and separated || How do you keep good tone?
+ex: Slur || A curve over C D E. How many tongued? || Only the first || Tongue C, slur to D and E || What keeps it smooth?
+ex: Accent || How do you play >? || Extra air || A stronger start, then normal || How is it different from staccato?
+ex: Style choice || Which articulation for a lullaby? || Smooth || Legato with slurs || What about a march?
+p: B || What is articulation? || How notes are started, connected or separated.
+p: B || What is legato? || Smooth and connected.
+p: B || What is staccato? || Short and separated.
+p: B || What is a slur? || A curve meaning tongue only the first note.
+p: B || What is an accent? || Extra emphasis on a note.
+p: I || What symbol shows staccato? || A dot.
+p: I || What symbol shows an accent? || >.
+p: I || What symbol shows tenuto? || A line over the note.
+p: I || What syllable is legato tongue? || Doo.
+p: I || What does "slur 2, tongue 2" mean? || Slur pairs of notes, then tongue two notes.
+p: I || What keeps slurs smooth? || Steady air.
+p: C || Why should air keep moving in staccato? || So short notes still have good tone.
+p: C || Why does a march use staccato and accents? || They make it crisp and rhythmic.
+p: C || How does articulation change a melody's character? || Smooth sounds gentle; short sounds energetic.
+p: C || Explain your articulation choices. || Answers vary.
+mis: Tonguing every note under a slur | Stopping the air for staccato | Confusing accents with staccato
+et: What does a dot mean? | How many notes are tongued under a slur?
+mc: B || Articulation is || how notes start and connect | volume | pitch | key || A
+mc: B || Legato means || smooth | short | loud | fast || A
+mc: B || Staccato means || short | smooth | soft | slow || A
+mc: B || Under a slur, tongue || the first note | every note | no notes | the last note || A
+mc: B || An accent is || emphasis | silence | a rest | a key || A
+mc: B || Staccato is marked by || a dot | a line | a curve | > || A
+mc: I || Tenuto is marked by || a line | a dot | > | a circle || A
+mc: I || Legato tongue sounds like || doo | tut | ka | ha || A
+mc: I || Slurs stay smooth with || steady air | extra tonguing | stopping air | biting || A
+mc: I || The accent symbol is || > | – | . | ~ || A
+mc: C || Staccato needs moving air so || tone stays good | it is louder | it is longer | it stops || A
+mc: C || Marches often use || staccato and accents | only slurs | no articulation | rubato || A
+sa: B || Define articulation. || How notes are started, connected or separated.
+sa: B || What is a slur? || A curved line over different notes; tongue only the first.
+sa: I || Describe how to play staccato. || Short and separated with air still moving.
+sa: I || Describe legato. || Smooth and connected with a soft "doo" tongue.
+sa: I || What does tenuto mean? || Hold the note for its full value.
+sa: I || Which articulation suits a lullaby? || Legato.
+sa: C || Explain how articulation changes character. || Smooth is gentle; short is energetic.
+sa: C || Explain your articulation choices. || Answers vary.
+
+=== IM8.A1 2
+hook: Professional players can play from the lowest notes on their instrument to the highest with a steady, full tone. Range grows slowly, through daily habits, not by forcing high notes.
+sc: I can extend my range up and down using lip slurs or register exercises | I can keep a good tone across my range | I can use healthy habits that prevent strain
+v: range :: The span from the lowest to the highest note a player can play well.
+v: register :: A part of an instrument's range, such as low, middle or high.
+v: lip slur :: A brass exercise moving between notes on the same valve combination using air and lips.
+v: overtone :: A higher note in the natural series above a fundamental.
+v: register key :: A key on clarinet or saxophone (octave key) that moves notes to a higher register.
+v: endurance :: The ability to play for a long time without tiring.
+ts: Stretching Your Range || Performance || How do musicians expand their range safely?
+tx: Range routines (written for this lesson; teachers adjust for each instrument): ¶ Brass: lip slurs on open (0) valves: Concert B♭ to F to B♭ (trumpet written C–G–C). Use faster air and slight lip firmness to go up; don't press the mouthpiece harder. Rest as much as you play. ¶ Flute: harmonics: finger low notes and blow faster, focused air to get the octave above; keep lips relaxed. ¶ Clarinet: practise crossing the "break" between low and high registers; keep right-hand fingers down where possible. ¶ Saxophone: octave-key slurs: low to middle register with steady air. ¶ Percussion: extend mallet range on keyboard percussion; practise smooth movement across the whole instrument. ¶ All: add one new note above or below each week; play long tones on it at mf; stop if you feel pain. ¶ Track: write your lowest and highest comfortable note today, and set a goal for four weeks.
+src: Original activity written for this lesson.
+st: Warm up with long tones | Practise your instrument's range exercise | Add one new note at mf | Rest between repetitions | Record your range and set a goal
+org: Instrument | Exercise | Lowest good note | Highest good note | Goal
+an: What helps you reach higher notes without forcing? | How did your tone change in the high register? | Why rest between repetitions? | What is your range goal?
+pr: Play your range exercise with good tone, record your current range, and set a four-week goal with a practice plan.
+ex: Pressure || A trumpet player presses hard to reach high C. Problem? || Mouthpiece pressure || It damages endurance and tone; use faster air instead || What else helps?
+ex: Flute harmonics || How do you get the octave on flute? || Air || Faster, more focused air with relaxed lips || What should you avoid?
+ex: Clarinet break || What is the clarinet break? || Register change || The change between low and high registers || How do you smooth it?
+ex: Healthy goal || How fast should range grow? || Small steps || About one new note per week with good tone || Why not faster?
+p: B || What is range? || From lowest to highest good note.
+p: B || What is a register? || A part of an instrument's range.
+p: B || What is a lip slur? || A brass exercise moving notes with air and lips only.
+p: B || What is endurance? || Playing a long time without tiring.
+p: B || What is an overtone? || A higher note in the natural series.
+p: I || How do brass players go higher? || Faster air and slight lip firmness.
+p: I || What should brass players not do? || Press the mouthpiece harder.
+p: I || How do flutes reach the octave? || Faster, focused air.
+p: I || What is the clarinet break? || The change between low and high registers.
+p: I || How often do you add a new note? || About once a week.
+p: I || What should you do if you feel pain? || Stop and rest.
+p: C || Why rest as much as you play on brass? || To protect lip muscles and build endurance.
+p: C || Why add range slowly? || Muscles need time to strengthen with good tone.
+p: C || Why play new notes at mf? || To keep tone controlled without forcing.
+p: C || State your range goal and plan. || Answers vary.
+mis: Forcing high notes with pressure | Practising range without rest | Ignoring tone to reach a note
+et: What helps you play higher? | What should you avoid?
+mc: B || Range is || lowest to highest good note | speed | volume | key || A
+mc: B || A register is || part of the range | a rest | a drum | a key signature || A
+mc: B || Lip slurs are for || brass | flute | percussion | voice only || A
+mc: B || Endurance means || playing long without tiring | playing fast | playing loud | stopping || A
+mc: B || Overtones are || higher natural notes | rests | rhythms | keys || A
+mc: B || If you feel pain || stop and rest | play louder | press harder | ignore it || A
+mc: I || Brass go higher with || faster air | more pressure | less air | biting || A
+mc: I || Flute octaves come from || faster focused air | biting | pressure | louder fingers || A
+mc: I || The clarinet break is || a register change | a broken reed | a rest | a key || A
+mc: I || Add about || one new note a week | ten notes a day | none | twenty a week || A
+mc: C || Brass rest to || protect lip muscles | sleep | skip practice | tune || A
+mc: C || Range grows best || slowly with good tone | fast with force | never | without practice || A
+sa: B || Define range. || The span from the lowest to the highest note a player can play well.
+sa: B || What is a lip slur? || A brass exercise moving notes with air and lips on one valve combination.
+sa: I || How do brass players reach higher notes? || Faster air and slight lip firmness, not pressure.
+sa: I || How do flutes play the octave? || Faster, focused air.
+sa: I || What is the clarinet break? || The change between low and high registers.
+sa: I || What do you do if you feel pain? || Stop and rest.
+sa: C || Explain why range grows slowly. || Muscles need time to strengthen.
+sa: C || State your range goal and plan. || Answers vary.
+
+=== IM8.B1 0
+hook: The dotted quarter followed by an eighth is one of the most common rhythms in band music: it's in "Jingle Bells," in marches and in anthems. Once you can count it, it's everywhere.
+sc: I can explain how a dot adds value to a note | I can count and play dotted half and dotted quarter rhythms | I can play dotted rhythms in band music
+v: dot :: A dot after a note that adds half the note's value.
+v: dotted half note :: A note lasting 3 beats.
+v: dotted quarter note :: A note lasting 1½ beats.
+v: subdivide :: Counting the smaller parts of a beat, like "1 &."
+v: tie :: A curve joining two same-pitch notes.
+v: dotted rhythm :: A pattern using a dotted note followed by a shorter note.
+ts: The Power of the Dot || Performance || How do dotted rhythms work?
+tx: Dot rule (written for this lesson): a dot adds half the value of the note. ¶ Half note (2) + dot (1) = dotted half (3 beats): "1 2 3." ¶ Quarter (1) + dot (½) = dotted quarter (1½ beats): "1 & 2" then the eighth on "&": counted "1 (&) (2) &." ¶ Tie connection: a dotted quarter sounds the same as a quarter tied to an eighth. ¶ Activities: 1. Subdivide: count 4/4 as "1 & 2 & 3 & 4 &" out loud. 2. Clap the dotted quarter + eighth pattern while counting the "&s." 3. Play on Concert B♭ at 72 BPM, then on a scale: dotted quarter + eighth on each note. 4. Find it: the opening of "Jingle Bells" chorus ("Jin-gle bells, jin-gle bells, jin-gle all the way": the word "all" is a dotted quarter followed by "the" as an eighth). 5. Dotted half notes in 3/4: one note fills a whole bar.
+src: Original activity written for this lesson; Jingle Bells is in the public domain.
+st: Learn the dot rule | Subdivide the beat aloud | Clap dotted quarter + eighth | Play dotted rhythms on concert notes and scales | Find dotted rhythms in songs
+org: Note | Value | Dotted value | Counted as
+an: Why does subdividing help with dotted rhythms? | How is a dotted quarter like a tie? | Where did you hear the dotted rhythm in Jingle Bells? | Which dotted rhythm was hardest?
+pr: Clap, count and play a four-bar line with dotted half and dotted quarter + eighth rhythms on concert notes.
+ex: Dotted half || How long is a dotted half? || 2 + 1 || 3 beats || Which time signature does it fill?
+ex: Dotted quarter || How long is a dotted quarter? || 1 + ½ || 1½ beats || What usually follows it?
+ex: Counting || Count dotted quarter + eighth from beat 1. || Subdivide || 1 (&) (2) &: the eighth is on the "and" of 2 || Clap it.
+ex: Tie version || Write a dotted quarter as a tie. || Same length || Quarter tied to eighth || Which is easier to read?
+p: B || What does a dot do? || Adds half the note's value.
+p: B || How long is a dotted half note? || 3 beats.
+p: B || How long is a dotted quarter note? || 1½ beats.
+p: B || What does subdivide mean? || Count smaller parts of the beat.
+p: B || What is a tie? || A curve joining same-pitch notes.
+p: I || What usually follows a dotted quarter? || An eighth note.
+p: I || Count dotted quarter + eighth. || 1 (&) (2) &.
+p: I || What tie equals a dotted quarter? || Quarter tied to eighth.
+p: I || What fills a 3/4 bar in one note? || A dotted half.
+p: I || Where is the eighth after a dotted quarter on beat 1? || On the "and" of 2.
+p: I || Which word in the Jingle Bells chorus is a dotted quarter? || "All."
+p: C || Why does subdividing help? || The eighth falls on an "and" you can count.
+p: C || Why is a dotted quarter often rushed? || Players don't hold the full 1½ beats.
+p: C || Why do composers use dotted rhythms? || They add lilt and forward motion.
+p: C || Write and count a dotted-rhythm bar. || Answers vary.
+mis: Holding a dotted quarter for only 1 beat | Not subdividing | Thinking a dot doubles a note
+et: How long is a dotted quarter? | Count dotted quarter + eighth.
+mc: B || A dot adds || half the value | double | one beat always | nothing || A
+mc: B || A dotted half lasts || 3 beats | 2 beats | 4 beats | 1 beat || A
+mc: B || A dotted quarter lasts || 1½ beats | 1 beat | 2 beats | 3 beats || A
+mc: B || Subdivide means || count smaller parts | skip beats | play loud | stop || A
+mc: B || A tie joins || same-pitch notes | different pitches | bars only | rests || A
+mc: B || A dotted quarter is often followed by || an eighth | a whole note | a fermata | nothing || A
+mc: I || Dotted quarter + eighth counts || 1 (&) (2) & | 1 2 3 4 | 1 & 2 & | 1 2 || A
+mc: I || A dotted quarter equals || quarter tied to eighth | half note | two quarters | eighth || A
+mc: I || A dotted half fills || a 3/4 bar | a 4/4 bar | a 2/4 bar | half a bar || A
+mc: I || The eighth after a dotted quarter on 1 falls on || the & of 2 | beat 3 | beat 1 | beat 4 || A
+mc: C || Subdividing helps because || the eighth lands on a counted & | it's faster | it's louder | it skips || A
+mc: C || Dotted rhythms add || lilt and motion | silence | dissonance | volume || A
+sa: B || State the dot rule. || A dot adds half the note's value.
+sa: B || How long is a dotted half note? || 3 beats.
+sa: I || Count dotted quarter + eighth from beat 1. || 1 (&) (2) &.
+sa: I || Write a dotted quarter as a tie. || Quarter tied to eighth.
+sa: I || Why subdivide? || To place the eighth on the "and."
+sa: I || Where is a dotted rhythm in Jingle Bells? || On "all the" in the chorus.
+sa: C || Explain why dotted quarters get rushed. || Players don't hold the full 1½ beats.
+sa: C || Write and count a dotted-rhythm bar. || Answers vary.
+
+=== IM8.B1 1
+hook: Band music, especially jazz, pop arrangements and marches, often puts notes between the beats. Syncopation can sound tricky on the page, but with subdividing it clicks.
+sc: I can count syncopated rhythms using subdivision | I can play eighth-quarter-eighth and tied syncopations | I can keep a steady beat during syncopated passages
+v: syncopation :: Accents on off-beats or weak beats.
+v: off-beat :: The "and" between beats.
+v: eighth-quarter-eighth :: A common syncopation counted "1 & (2) &."
+v: tie across the beat :: A tie that holds a note through a beat.
+v: subdivision :: Counting the parts of each beat.
+v: backbeat :: Accents on beats 2 and 4.
+ts: Between the Beats || Performance || How do I read and play syncopation?
+tx: Syncopation steps (written for this lesson): ¶ 1. Subdivide: count "1 & 2 & 3 & 4 &" and tap the foot on numbers only. ¶ 2. Eighth-quarter-eighth: notes on 1, "&" of 1 (held through 2), and "&" of 2. Count "1 & (2) &." Your foot taps on beat 2 while the note is held, not when a new note starts. ¶ 3. Tied syncopation: an eighth on "&" of 4 tied to the next bar's beat 1. The note starts early and holds over the bar line. ¶ 4. Practice line at 72 BPM: | ♩ ♪♩♪ ♩ | ♪♩♪ ♩ ♩ | on Concert B♭ then on scale notes. ¶ 5. Band application: find syncopations in the current concert piece; mark the counts in pencil above the notes. ¶ 6. Steady check: half the band plays steady quarters while the other half plays syncopation, then swap.
+src: Original activity written for this lesson.
+st: Subdivide with foot on numbers | Count eighth-quarter-eighth | Play tied syncopation across the bar line | Pencil counts into the concert piece | Play syncopation against steady quarters
+org: Bar | Rhythm | Counts | Where the foot taps
+an: Where did your foot tap while you held a note? | How did pencilling counts help? | Was the tied syncopation harder? | Did the two halves of the band stay together?
+pr: Play a syncopated four-bar line accurately against a steady beat and pencil in the counts.
+ex: Counting || Count eighth-quarter-eighth on beats 1–2. || Subdivide || 1 & (2) & || Where does the foot tap?
+ex: Foot || When does the foot tap during the quarter? || On beat 2 || While the note is held || Why is that hard?
+ex: Tie over bar || An eighth on the "and" of 4 is tied to beat 1. Effect? || Early start || The note starts before the bar line and holds through beat 1 || What style uses this?
+ex: Pencil counts || Why write counts in pencil? || Reminder || So you can see where notes fall and erase later || Where do you write them?
+p: B || What is syncopation? || Accents on off-beats.
+p: B || What is an off-beat? || The "and" between beats.
+p: B || What is subdivision? || Counting parts of each beat.
+p: B || What is a backbeat? || Accents on 2 and 4.
+p: B || What is a tie across the beat? || A tie holding a note through a beat.
+p: I || Count eighth-quarter-eighth. || 1 & (2) &.
+p: I || Where does the foot tap? || On the numbers only.
+p: I || When does the foot tap during the held quarter? || On beat 2.
+p: I || What does a tie over the bar line do? || Starts a note early and holds over the bar.
+p: I || Why pencil counts? || To show where notes fall.
+p: I || What tempo do you practise at? || 72 BPM.
+p: C || Why does foot tapping help syncopation? || It keeps the beat while notes fall between.
+p: C || Why play against steady quarters? || To check you stay with the beat.
+p: C || Why is syncopation common in jazz and pop? || It creates groove and energy.
+p: C || Write a syncopated bar with counts. || Answers vary.
+mis: Tapping the foot on every note | Rushing syncopated notes | Not holding tied notes
+et: Count eighth-quarter-eighth. | Where does the foot tap?
+mc: B || Syncopation accents || off-beats | only beat 1 | rests | the end || A
+mc: B || An off-beat is || the & | beat 1 | a rest | a bar line || A
+mc: B || Subdivision counts || parts of beats | bars | songs | keys || A
+mc: B || A backbeat accents || 2 and 4 | 1 and 3 | only 1 | none || A
+mc: B || A tie across the beat || holds through a beat | stops | repeats | is silent || A
+mc: B || The foot taps on || numbers | every note | ands only | never || A
+mc: I || Eighth-quarter-eighth counts || 1 & (2) & | 1 2 3 4 | 1 & 2 & | 1 2 || A
+mc: I || During the held quarter, the foot taps || beat 2 | nothing | beat 4 | the & || A
+mc: I || A tie over the bar line || starts a note early | ends early | is silent | repeats || A
+mc: I || Counts go in || pencil | pen | marker | nowhere || A
+mc: C || Foot tapping keeps || the beat steady | notes louder | tone dark | pitch high || A
+mc: C || Syncopation creates || groove | silence | out of tune | slow || A
+sa: B || Define syncopation. || Accents on off-beats or weak beats.
+sa: B || What is a backbeat? || Accents on beats 2 and 4.
+sa: I || Count eighth-quarter-eighth. || 1 & (2) &.
+sa: I || Where does the foot tap during syncopation? || On the beat numbers only.
+sa: I || What does a tie over a bar line do? || Starts the note early and holds over the bar.
+sa: I || Why pencil in counts? || To see where notes fall.
+sa: C || Explain why playing against steady quarters helps. || It checks you stay with the beat.
+sa: C || Write a syncopated bar with counts. || Answers vary.
+
+=== IM8.B1 2
+hook: Those sharps and flats at the start of every line aren't decoration. The key signature tells you which notes to change all the way through the piece, and forgetting it is the most common wrong-note mistake in band.
+sc: I can read key signatures for common band keys | I can name the order of flats and sharps | I can play concert B♭, E♭ and F scales with the correct notes
+v: key signature :: Sharps or flats at the start of each line applying to the whole piece.
+v: flat (♭) :: Lowers a note by a half step.
+v: sharp (♯) :: Raises a note by a half step.
+v: natural (♮) :: Cancels a sharp or flat.
+v: accidental :: A sharp, flat or natural added in the music, lasting until the end of the bar.
+v: concert key :: The key as it sounds for the whole band.
+ts: Reading the Key || Performance || How do key signatures tell me which notes to play?
+tx: Key signature guide (written for this lesson): ¶ Order of flats: B♭ E♭ A♭ D♭ G♭ C♭ F♭ ("Battle Ends And Down Goes Charles's Father"). Order of sharps: F♯ C♯ G♯ D♯ A♯ E♯ B♯ (the reverse). ¶ Common concert keys: Concert F: 1 flat (B♭); Concert B♭: 2 flats (B♭, E♭); Concert E♭: 3 flats (B♭, E♭, A♭). ¶ Your part: transposing instruments see a different key signature. For Concert B♭: clarinet and trumpet (B♭ instruments) see C major (no sharps or flats); alto sax (E♭) sees G major (1 sharp, F♯); horn (F) sees F major (1 flat). ¶ Accidentals: last only to the end of the bar; a natural cancels. ¶ Activities: 1. Name the flats in each concert key. 2. Circle notes affected by the key signature in a practice line. 3. Play concert B♭, E♭ and F scales one octave, slowly. 4. Spot the accidental: in a line with an accidental, what happens in the next bar?
+src: Original activity written for this lesson; key relationships follow standard music theory.
+st: Learn the order of flats and sharps | Name concert-key signatures | Find your written key | Circle affected notes | Play three concert scales
+org: Concert key | Flats | My written key | My sharps or flats
+an: Which notes did you forget most often? | Why do clarinets see a different key than flutes? | How long does an accidental last? | Which scale was hardest?
+pr: Play concert B♭, E♭ and F scales with correct key signatures and explain your written key for each.
+ex: Order of flats || Name the first three flats. || Battle Ends And || B♭, E♭, A♭ || Which key has these three?
+ex: Concert key || Concert E♭ has how many flats? || Count || Three: B♭, E♭, A♭ || What about concert F?
+ex: Transposed key || Clarinet's written key for Concert B♭? || B♭ instrument || C major, no sharps or flats || What does alto sax see?
+ex: Accidental || A♮ appears in bar 3. Bar 4 has A. Which A? || Bar line cancels || The key-signature A (A♭ in concert E♭) || Why?
+p: B || What is a key signature? || Sharps or flats applying to the whole piece.
+p: B || What does a flat do? || Lowers a note a half step.
+p: B || What does a sharp do? || Raises a note a half step.
+p: B || What does a natural do? || Cancels a sharp or flat.
+p: B || What is an accidental? || A sharp, flat or natural added in the bar.
+p: I || What is the order of flats? || B E A D G C F.
+p: I || What is the order of sharps? || F C G D A E B.
+p: I || How many flats in concert B♭? || Two: B♭ and E♭.
+p: I || How many flats in concert F? || One: B♭.
+p: I || How many flats in concert E♭? || Three: B♭, E♭, A♭.
+p: I || How long does an accidental last? || To the end of the bar.
+p: C || Why do transposing instruments see different key signatures? || Their written notes differ from concert pitch.
+p: C || Why do wrong notes often come from key signatures? || Players forget flats or sharps later in the line.
+p: C || How can circling notes help? || It reminds you which notes change.
+p: C || Explain your written key for concert B♭. || Answers vary by instrument.
+mis: Forgetting the key signature after the first line | Thinking accidentals last the whole piece | Thinking every instrument has the same key signature
+et: Name the flats in concert B♭. | How long does an accidental last?
+mc: B || A key signature appears || at each line's start | only once | at the end | nowhere || A
+mc: B || A flat || lowers a half step | raises | doubles | silences || A
+mc: B || A sharp || raises a half step | lowers | doubles | silences || A
+mc: B || A natural || cancels a sharp or flat | adds a flat | adds a sharp | is a rest || A
+mc: B || An accidental lasts || to the end of the bar | the whole piece | one beat | forever || A
+mc: B || The first flat is || B♭ | E♭ | F♭ | C♭ || A
+mc: I || Concert B♭ has || 2 flats | 1 flat | 3 flats | no flats || A
+mc: I || Concert F has || 1 flat | 2 flats | 3 flats | 1 sharp || A
+mc: I || Concert E♭ has || 3 flats | 2 flats | 4 flats | 1 flat || A
+mc: I || Clarinet reads concert B♭ major as || C major | G major | F major | B♭ major || A
+mc: C || Key signatures differ by instrument because || written notes differ from concert | of mistakes | of age | of volume || A
+mc: C || Circling affected notes || reminds you of changes | wastes time | adds notes | is wrong || A
+sa: B || Define key signature. || Sharps or flats at the start of each line applying to the whole piece.
+sa: B || What is an accidental? || A sharp, flat or natural added in the music lasting to the end of the bar.
+sa: I || State the order of flats. || B E A D G C F.
+sa: I || Name the flats in concert B♭, E♭ and F. || B♭ E♭; B♭ E♭ A♭; B♭.
+sa: I || What key does alto sax see for concert B♭? || G major.
+sa: I || What does a natural do? || Cancels a sharp or flat.
+sa: C || Explain why key signatures cause wrong notes. || Players forget them later in the line.
+sa: C || Explain your written key for concert B♭. || Answers vary.
+
+=== IM8.C1 0
+hook: Two instruments almost in tune create a "wah-wah" wobble called beats. When they match perfectly, the wobble disappears and the sound becomes one. Tuning is training your ears to hear that.
+sc: I can use a tuner to check my pitch | I can adjust my instrument when sharp or flat | I can hear beats and tune by ear
+v: intonation :: How accurately in tune a player is.
+v: tuner :: A device that shows whether a note is sharp, flat or in tune.
+v: sharp :: Too high in pitch.
+v: flat :: Too low in pitch.
+v: cents :: Small units of pitch on a tuner; 100 cents = one half step.
+v: beats :: A wobbling sound when two pitches are close but not matched.
+ts: In Tune Together || Performance || How do I tune my instrument?
+tx: Tuning guide (written for this lesson): ¶ 1. Warm up first; cold instruments play flat. ¶ 2. Tuning note: usually Concert B♭ (or Concert A for some groups). ¶ 3. Tuner: play a steady mf note; read the needle. Within about ±5 cents is close. ¶ 4. Adjust: If sharp (too high), lengthen the instrument: pull out the tuning slide, headjoint, barrel or mouthpiece. If flat (too low), shorten it: push in. Make small changes. ¶ 5. By ear: play with a partner or a drone; listen for beats. Faster beats = further apart; beats slow down as you get closer; no beats = in tune. ¶ 6. Playing habits also affect pitch: loud playing can go sharp on some instruments; soft playing can go flat; keep air supported. ¶ Mallet percussion and piano are fixed pitch, so percussionists help by playing the reference pitch and listening.
+src: Original activity written for this lesson.
+st: Warm up before tuning | Play the tuning note into a tuner | Adjust slides or joints for sharp or flat | Tune by ear with a drone and listen for beats | Check pitch at soft and loud dynamics
+org: Note | Tuner reading | Adjustment | After
+an: Were you sharp or flat before adjusting? | What did beats sound like? | How did your pitch change at loud and soft dynamics? | Why warm up before tuning?
+pr: Tune your instrument with a tuner and by ear, and record your readings before and after adjustment.
+ex: Sharp || Tuner shows +15 cents. What do you do? || Too high || Pull out the slide or joint slightly || Then?
+ex: Flat || Tuner shows −10 cents. What do you do? || Too low || Push in slightly || Check again
+ex: Beats || Beats get faster as you adjust. Meaning? || Further apart || You moved the wrong way; adjust the other direction || When are you in tune?
+ex: Cold instrument || Why tune after warming up? || Temperature || Cold instruments play flat and rise as they warm || When should you tune?
+p: B || What is intonation? || How accurately in tune a player is.
+p: B || What is a tuner? || A device showing sharp, flat or in tune.
+p: B || What does sharp mean? || Too high.
+p: B || What does flat mean? || Too low.
+p: B || What are beats? || A wobble when pitches nearly match.
+p: I || What do you do if sharp? || Pull out to lengthen.
+p: I || What do you do if flat? || Push in to shorten.
+p: I || How many cents are in a half step? || 100.
+p: I || What is the usual band tuning note? || Concert B♭.
+p: I || What do slower beats mean? || You're getting closer.
+p: I || How do cold instruments play? || Flat.
+p: C || Why does a longer instrument play lower? || Longer air columns vibrate more slowly.
+p: C || Why tune by ear as well as by tuner? || In the band you must adjust while playing.
+p: C || Why must air stay supported for good intonation? || Weak air makes pitch sag.
+p: C || Report your tuning readings. || Answers vary.
+mis: Tuning before warming up | Pushing in when sharp | Watching the tuner instead of listening
+et: What do you do if sharp? | What are beats?
+mc: B || Intonation is || being in tune | volume | speed | rhythm || A
+mc: B || A tuner shows || sharp or flat | the key | lyrics | tempo || A
+mc: B || Sharp means || too high | too low | too loud | too fast || A
+mc: B || Flat means || too low | too high | too soft | too slow || A
+mc: B || Beats are || a wobble from close pitches | drum hits | rests | keys || A
+mc: B || The usual tuning note is || Concert B♭ | Concert G♯ | High C | no note || A
+mc: I || If sharp || pull out | push in | play louder | stop || A
+mc: I || If flat || push in | pull out | play softer | stop || A
+mc: I || A half step is || 100 cents | 10 cents | 50 cents | 1000 cents || A
+mc: I || Slower beats mean || getting closer | further away | louder | done || A
+mc: C || Longer instruments sound || lower | higher | louder | shorter || A
+mc: C || Tune by ear because || you adjust while playing | tuners lie | it's faster | it's louder || A
+sa: B || Define intonation. || How accurately in tune a player is.
+sa: B || What are beats? || A wobbling sound when two pitches are close but not matched.
+sa: I || What do you do when sharp or flat? || Pull out when sharp; push in when flat.
+sa: I || Why warm up before tuning? || Cold instruments play flat.
+sa: I || How do beats help you tune? || They slow and disappear as pitches match.
+sa: I || How many cents in a half step? || 100.
+sa: C || Explain why longer means lower. || Longer air columns vibrate more slowly.
+sa: C || Report your tuning readings. || Answers vary.
+
+=== IM8.C1 1
+hook: A band where the trumpets drown out everyone sounds like a trumpet solo with background noise. Balance is about every part being heard at the right level, so the music makes sense.
+sc: I can explain balance in an ensemble | I can adjust my volume to balance with my section and the band | I can bring out the melody and support it
+v: balance :: The right volume relationship between parts so everything important is heard.
+v: melody :: The main tune.
+v: countermelody :: A second tune played at the same time as the melody.
+v: accompaniment :: Parts that support the melody.
+v: pyramid of sound :: A balance model where low instruments are strongest and high instruments lighter.
+v: section balance :: Players in one section matching each other's volume.
+ts: Balanced Band || Performance || How do bands balance their sound?
+tx: Balance activities (written for this lesson): ¶ 1. Pyramid of sound: play a Concert B♭ chord. Basses (tuba, bass clarinet, baritone sax, bassoon) play the strongest; tenors (trombone, euphonium, horn, tenor sax) a bit less; altos and sopranos (trumpet, clarinet, alto sax, flute, oboe) lightest. Compare with an upside-down pyramid. ¶ 2. Section balance: within a section, no single player stands out; if you hear only yourself, come down. ¶ 3. Melody up: in a chorale, the conductor names who has the melody; that section plays mf; others play mp. Switch melodies. ¶ 4. Countermelody: identify a passage where two tunes happen together; balance them so both are heard. ¶ 5. Listening seats: two students go to the back of the room and report what they hear clearly and what's buried. ¶ 6. Pencil: mark "MEL" over melody passages and "acc" over accompaniment in your part.
+src: Original activity written for this lesson.
+st: Build a pyramid-of-sound chord | Balance within your section | Bring out the melody | Balance a countermelody | Get feedback from listening seats
+org: Passage | Who has melody | My role | My dynamic
+an: How did the pyramid compare with the upside-down version? | Could the listening seats hear the melody? | How did you know your role? | Where did you mark MEL in your part?
+pr: Mark melody and accompaniment in your part and play a chorale with balance adjustments, then explain your choices.
+ex: Pyramid || Why should basses be strongest? || Foundation || Low notes support the chord like a pyramid base || What happens if flutes are loudest?
+ex: Melody up || You have accompaniment marked mf. What do you do? || Balance || Play a little softer so the melody is heard || Why?
+ex: Section || You hear only yourself in the section. What next? || Too loud || Play softer to blend with the section || How can you tell?
+ex: Countermelody || How do you balance melody and countermelody? || Both heard || Each plays clearly but neither covers the other || Who decides?
+p: B || What is balance? || The right volume relationship between parts.
+p: B || What is a countermelody? || A second tune with the melody.
+p: B || What is accompaniment? || Parts supporting the melody.
+p: B || What is the pyramid of sound? || Low instruments strongest, high lighter.
+p: B || What is section balance? || Players in a section matching volume.
+p: I || Which instruments are at the pyramid base? || Tuba, bass clarinet, bassoon, baritone sax.
+p: I || What dynamic does the melody play in the chorale exercise? || mf.
+p: I || What dynamic does accompaniment play in the chorale exercise? || mp.
+p: I || What do listening seats do? || Report what's clear and what's buried.
+p: I || What do you mark over melody passages? || MEL.
+p: I || If you hear only yourself, what do you do? || Play softer.
+p: C || Why does the written dynamic sometimes need adjusting? || Different instruments project differently.
+p: C || Why does an upside-down pyramid sound thin? || There's no strong foundation.
+p: C || Why listen from the back of the room? || The audience hears a different balance.
+p: C || Explain your balance choices. || Answers vary.
+mis: Playing written dynamics without listening | Thinking melody parts should blast | Ignoring the bass foundation
+et: Describe the pyramid of sound. | What do you do if you have accompaniment?
+mc: B || Balance means || right volume between parts | everyone loud | everyone soft | one part only || A
+mc: B || A countermelody is || a second tune | a rest | a bass note | a key || A
+mc: B || Accompaniment || supports the melody | replaces it | is silent | is a solo || A
+mc: B || The pyramid of sound has || low instruments strongest | high strongest | all equal | no low || A
+mc: B || Section balance means || matching volume | one leader blasting | silence | random || A
+mc: B || Melody passages are marked || MEL | acc | rest | ff || A
+mc: I || At the pyramid base is || tuba | piccolo | flute | triangle || A
+mc: I || Accompaniment in the chorale plays || mp | ff | pp | silent || A
+mc: I || Listening seats report || what's clear and buried | the score | grades | lyrics || A
+mc: I || Hearing only yourself means || play softer | play louder | stop | leave || A
+mc: C || Written dynamics need adjusting because || instruments project differently | they're wrong | rules say | nobody cares || A
+mc: C || An upside-down pyramid sounds || thin | full | balanced | warm || A
+sa: B || Define balance. || The right volume relationship between parts so important parts are heard.
+sa: B || What is a countermelody? || A second tune played with the melody.
+sa: I || Describe the pyramid of sound. || Low instruments strongest, high instruments lighter.
+sa: I || What do you do with an accompaniment part? || Play a little softer to support the melody.
+sa: I || Why use listening seats? || To hear what the audience hears.
+sa: I || What do you mark in your part? || MEL and acc.
+sa: C || Explain why written dynamics may need adjusting. || Instruments project differently.
+sa: C || Explain your balance choices. || Answers vary.
+
+=== IM8.C1 2
+hook: A great section sounds like one giant instrument. Blend is when individual voices disappear into a unified sound, like many voices in a choir singing as one.
+sc: I can match my tone with players around me | I can adjust tone colour, vibrato and attack to blend | I can describe the difference between balance and blend
+v: blend :: Individual sounds merging into one unified sound.
+v: tone colour (timbre) :: The quality that makes each instrument or player sound different.
+v: matching :: Copying the tone, length and style of players around you.
+v: unison :: Everyone playing the same note.
+v: vibrato :: A slight regular wavering of pitch used for expression.
+v: lead player :: The section leader whose sound others match.
+ts: One Sound || Performance || How does a section blend into one sound?
+tx: Blend activities (written for this lesson): ¶ Balance vs blend: balance is about volume between parts; blend is about tone matching so voices merge. ¶ 1. Unison test: a section plays Concert F together. Can you pick out individual players? If yes, adjust. ¶ 2. Match the lead: the lead player plays a note; the next player matches tone, volume and length; then the next joins, until the whole section plays. ¶ 3. Tone colour: play one note bright (open, more edge) and one dark (rounder, warmer). The band chooses one colour for a chorale and everyone matches. ¶ 4. Attacks and releases: match how you start ("too" vs "doo") and when you stop. ¶ 5. Vibrato: in a young band, usually play without vibrato in unisons unless the lead player uses it; mismatched vibrato stops blend. ¶ 6. Cross-section blend: clarinets and flutes play the melody together; adjust until they sound like one new colour.
+src: Original activity written for this lesson.
+st: Compare balance and blend | Play a unison test | Join one by one matching the lead | Choose and match a tone colour | Blend across two sections
+org: Exercise | What stood out | Adjustment | Blended?
+an: Could you pick out individuals in the unison test? | What did you adjust to match the lead? | How did matching attacks help? | What new colour did clarinets and flutes make together?
+pr: Play a unison and a chorale phrase with your section, demonstrate blend, and explain the difference between balance and blend.
+ex: Stand out || One clarinet sounds brighter than the rest. Fix? || Match colour || Darken the tone to match the lead || How?
+ex: Balance vs blend || Everyone's volume is right but it sounds like separate players. Problem? || Tone || Blend: tone, attack or vibrato don't match || Fix?
+ex: Joining || Why join one by one? || Hear each addition || Each player can match before the next joins || Who starts?
+ex: Vibrato || One flute uses vibrato in unison. Effect? || Mismatch || It sticks out and stops blend || When is vibrato good?
+p: B || What is blend? || Sounds merging into one.
+p: B || What is tone colour? || The quality that makes each sound different.
+p: B || What is unison? || Everyone playing the same note.
+p: B || What is vibrato? || A slight wavering of pitch.
+p: B || What is a lead player? || The section leader others match.
+p: I || How is balance different from blend? || Balance is volume; blend is tone matching.
+p: I || What do you match in blend? || Tone, volume, length, attack.
+p: I || What is the unison test? || Playing together to see if individuals stand out.
+p: I || Should young bands use vibrato in unisons? || Usually not, unless the lead does.
+p: I || What is bright tone? || Open with more edge.
+p: I || What is dark tone? || Rounder and warmer.
+p: C || Why does matching attacks help blend? || Notes start the same way so they merge.
+p: C || Why choose one tone colour for a piece? || So the whole band sounds unified.
+p: C || How can two sections blend into a new colour? || By matching pitch, tone and volume until they merge.
+p: C || Explain balance and blend in your own words. || Answers vary.
+mis: Thinking balance and blend are the same | Playing your own way regardless of the lead | Using vibrato that doesn't match
+et: Define blend. | How is it different from balance?
+mc: B || Blend means || sounds merging | one loud player | silence | speed || A
+mc: B || Tone colour is || sound quality | volume | speed | key || A
+mc: B || Unison means || same note together | different notes | silence | solo || A
+mc: B || Vibrato is || slight pitch wavering | silence | a rest | a key || A
+mc: B || The lead player || is matched by others | plays alone | conducts | tunes only || A
+mc: B || Bright tone is || open with edge | round and warm | silent | flat || A
+mc: I || Balance is about || volume | tone colour | vibrato | attack only || A
+mc: I || Blend is about || tone matching | volume only | speed | tempo || A
+mc: I || Join the section || one by one | all at random | never | only at the end || A
+mc: I || Mismatched vibrato || stops blend | helps blend | is required | is silent || A
+mc: C || Matching attacks helps notes || merge | separate | get louder | end || A
+mc: C || One tone colour makes the band || unified | random | louder | slower || A
+sa: B || Define blend. || Individual sounds merging into one unified sound.
+sa: B || What is tone colour? || The quality that makes each instrument or player sound different.
+sa: I || Compare balance and blend. || Balance: volume between parts; blend: tone matching.
+sa: I || What do you match to blend? || Tone, volume, length and attack.
+sa: I || Why join the section one at a time? || Each player can match before the next joins.
+sa: I || When should young bands avoid vibrato? || In unisons unless the lead uses it.
+sa: C || Explain how two sections create a new colour. || By matching until they merge.
+sa: C || Explain balance and blend. || Answers vary.
+
+=== IM8.D1 0
+hook: Read a sentence with no pauses or expression and it sounds robotic. Music is the same: phrases are musical sentences, and shaping them with direction and breath is what makes playing sound musical.
+sc: I can identify phrases in a piece | I can shape a phrase with direction and dynamics | I can find the high point of a phrase
+v: phrase :: A musical sentence, often 4 bars.
+v: phrase direction :: The sense of a phrase moving toward a goal and then relaxing.
+v: high point :: The most important or intense moment of a phrase.
+v: phrase mark :: A long curved line over a phrase.
+v: shaping :: Using small dynamic changes to give a phrase direction.
+v: cadence :: The ending of a phrase.
+ts: Musical Sentences || Performance || How do musicians shape phrases?
+tx: Phrase shaping (written for this lesson): ¶ 1. Find the phrases: most band melodies are in 4-bar phrases. Look for long notes, rests and cadences at the ends. Draw a light pencil arc over each phrase. ¶ 2. Find the high point: usually the highest note, a long note, or the note before the cadence. Mark it with an arrow. ¶ 3. Shape: grow gently toward the high point, then relax to the cadence, even if the written dynamic stays the same (e.g. mf with a small swell). ¶ 4. Speaking test: say a sentence flat, then with expression. Then play a phrase flat, then shaped. ¶ 5. Practise with a chorale or a melody like "Ode to Joy" (Beethoven, Symphony No. 9, 1824): 4 bars + 4 bars. Phrase 1 ends open, phrase 2 ends closed. ¶ 6. Partner listening: does your partner's phrase "go somewhere"?
+src: Original activity written for this lesson; Ode to Joy is in the public domain.
+st: Mark phrases with pencil arcs | Find each phrase's high point | Shape toward and away from it | Compare flat and shaped playing | Get partner feedback
+org: Phrase | Bars | High point | Shape
+an: How did you find the high point? | How did the shaped phrase compare with the flat one? | Where does phrase 1 of Ode to Joy end? | Did your partner's phrases go somewhere?
+pr: Play a melody with marked phrases and high points, shaping each phrase, and explain your choices.
+ex: Phrase length || How long are most band phrases? || Count bars || 4 bars || How do you see the end?
+ex: High point || Where is a phrase's high point often? || Look for || The highest or longest note, or just before the cadence || Mark it.
+ex: Shaping || The phrase is marked mf only. How do you shape it? || Small swell || Grow slightly to the high point, relax to the end || Does it break the written dynamic?
+ex: Ode to Joy || Why does phrase 1 sound unfinished? || Ending note || It ends away from the tonic, on an open note || How does phrase 2 end?
+p: B || What is a phrase? || A musical sentence.
+p: B || What is phrase direction? || A phrase moving toward a goal then relaxing.
+p: B || What is the high point? || The most intense moment of a phrase.
+p: B || What is a phrase mark? || A long curve over a phrase.
+p: B || What is shaping? || Small dynamic changes giving direction.
+p: I || How long are most phrases? || 4 bars.
+p: I || How do you mark a phrase? || A light pencil arc.
+p: I || How do you mark a high point? || An arrow.
+p: I || Who composed Ode to Joy? || Beethoven.
+p: I || When was Symphony No. 9 premiered? || 1824.
+p: I || How does phrase 2 of Ode to Joy end? || Closed, on the tonic.
+p: C || Why shape a phrase when the dynamic doesn't change? || Small changes make music expressive, not robotic.
+p: C || How is a phrase like a sentence? || It has a beginning, a goal and a pause at the end.
+p: C || Why should a whole section agree on the high point? || So the shaping is unified.
+p: C || Explain your phrase choices. || Answers vary.
+mis: Playing every note the same | Thinking written dynamics forbid shaping | Breathing in the middle of phrases
+et: How long is a typical phrase? | Where is your phrase's high point?
+mc: B || A phrase is || a musical sentence | a single note | a rest | a key || A
+mc: B || Phrase direction means || moving to a goal | staying flat | stopping | speeding up only || A
+mc: B || The high point is || the most intense moment | the first note | a rest | the title || A
+mc: B || A phrase mark is || a long curve | a dot | a line | a number || A
+mc: B || Shaping uses || small dynamic changes | key changes | silence | tempo only || A
+mc: B || Most phrases are || 4 bars | 1 bar | 20 bars | half a bar || A
+mc: I || Mark a high point with || an arrow | a dot | a star | nothing || A
+mc: I || Ode to Joy is by || Beethoven | Mozart | Sousa | Joplin || A
+mc: I || Symphony No. 9 premiered in || 1824 | 1724 | 1924 | 1624 || A
+mc: I || Phrase 2 of Ode to Joy ends || on the tonic | open | silent | on a rest || A
+mc: C || Shaping without written changes makes music || expressive | robotic | wrong | louder only || A
+mc: C || A section should agree on high points so shaping is || unified | random | louder | silent || A
+sa: B || Define phrase. || A musical sentence, often 4 bars.
+sa: B || What is the high point? || The most important or intense moment of a phrase.
+sa: I || How do you find a phrase's high point? || Highest or longest note, or before the cadence.
+sa: I || How do you shape a phrase marked mf? || Grow slightly to the high point, then relax.
+sa: I || Describe the phrases of Ode to Joy. || 4 + 4 bars; first open, second closed.
+sa: I || How do you mark phrases? || Pencil arcs and arrows.
+sa: C || Explain how a phrase is like a sentence. || It has a start, a goal and a pause.
+sa: C || Explain your phrase choices. || Answers vary.
+
+=== IM8.D1 1
+hook: A march should make you want to stand up straight and step; a ballad should make you lean in and listen. Same band, same instruments, completely different style.
+sc: I can describe the features of march and ballad styles | I can play a march with crisp articulation and steady tempo | I can play a ballad with legato and expressive shaping
+v: style :: The way music is played to fit its type and era.
+v: march :: Music for marching: strong beat, steady tempo, crisp articulation.
+v: ballad :: A slow, lyrical piece focused on melody and expression.
+v: lyrical :: Song-like and smooth.
+v: rubato :: Slight, expressive stretching and pushing of tempo.
+v: strain :: A main section of a march.
+ts: March and Ballad || Performance || How does style change the way we play?
+tx: Style guide (written for this lesson): ¶ March: tempo around 112–120 BPM; strong, steady beat (feet could march to it); notes often separated, with accents on strong beats; crisp staccato for accompaniment "oom-pah" parts; clear dynamic contrasts. Form: strains with repeats, often a trio section (usually in a new key, a softer and more lyrical section). Famous example: "The Stars and Stripes Forever" by John Philip Sousa (1896). ¶ Ballad: slow tempo (around 60–76 BPM); legato tonguing and slurs; long phrases with shaping; warm tone; possible rubato led by the conductor. ¶ Activities: 1. Listen to excerpts of each; list features. 2. Play the same 8-bar melody both ways: march style (separated, accented, 116 BPM) and ballad style (legato, shaped, 66 BPM). 3. Apply to the concert pieces: mark style reminders in pencil ("crisp," "smooth," "light").
+src: Original activity written for this lesson; Sousa's march is in the public domain.
+st: Listen to a march and a ballad | List style features | Play one melody in both styles | Mark style reminders in concert music | Rehearse a march and a ballad
+org: Feature | March | Ballad
+an: Which style felt more natural to you? | How did articulation change between styles? | Why does a march need a steady tempo? | When might the conductor use rubato in a ballad?
+pr: Play an 8-bar melody in march style and ballad style, and explain three differences.
+ex: March articulation || How are march notes played? || Separated || Crisp, separated, accented on strong beats || What about accompaniment?
+ex: Ballad tempo || What tempo suits a ballad? || Slow || About 60–76 BPM || What about a march?
+ex: Trio || What is a march trio? || Contrast section || A softer, lyrical section, often in a new key || Where does it come?
+ex: Rubato || Who leads rubato in a band? || Together || The conductor, so everyone stretches together || Why not each player?
+p: B || What is style? || How music is played to fit its type.
+p: B || What is a march? || Music with a strong beat for marching.
+p: B || What is a ballad? || A slow, lyrical piece.
+p: B || What does lyrical mean? || Song-like and smooth.
+p: B || What is rubato? || Expressive stretching of tempo.
+p: I || What tempo suits a march? || About 112–120 BPM.
+p: I || What tempo suits a ballad? || About 60–76 BPM.
+p: I || What is a strain? || A main section of a march.
+p: I || What is a trio? || A softer, lyrical march section, often in a new key.
+p: I || Who composed The Stars and Stripes Forever? || John Philip Sousa.
+p: I || What articulation suits a ballad? || Legato and slurs.
+p: C || Why must a march keep a steady tempo? || People march to it.
+p: C || Why does the conductor lead rubato? || So the whole band stretches together.
+p: C || How does style connect to a piece's purpose? || The style fits what the music is for, like marching or reflecting.
+p: C || Explain three differences between your march and ballad. || Answers vary.
+mis: Playing every piece in the same style | Rushing marches | Using rubato without the conductor
+et: Name two features of a march. | Name two features of a ballad.
+mc: B || Style means || how music is played for its type | volume only | the key | the composer || A
+mc: B || A march has || a strong steady beat | free tempo | no beat | only slurs || A
+mc: B || A ballad is || slow and lyrical | fast and crisp | loud always | silent || A
+mc: B || Lyrical means || song-like | choppy | silent | fast || A
+mc: B || Rubato is || expressive tempo stretching | strict tempo | a rest | a drum || A
+mc: B || A strain is || a march section | a muscle | a rest | a key || A
+mc: I || March tempo is about || 112–120 BPM | 40 BPM | 200 BPM | 10 BPM || A
+mc: I || Ballad tempo is about || 60–76 BPM | 160 BPM | 200 BPM | 5 BPM || A
+mc: I || Stars and Stripes Forever is by || Sousa | Beethoven | Joplin | Mozart || A
+mc: I || A march trio is || softer and lyrical | the loudest | the intro | silent || A
+mc: C || Marches stay steady because || people march to them | it's easier | rules | for volume || A
+mc: C || Rubato in band is led by || the conductor | each player | the audience | nobody || A
+sa: B || Define rubato. || Slight expressive stretching and pushing of tempo.
+sa: B || What is a march trio? || A softer, lyrical section, often in a new key.
+sa: I || Describe march style. || Steady tempo, separated notes, accents, clear dynamics.
+sa: I || Describe ballad style. || Slow, legato, shaped phrases, warm tone.
+sa: I || Name a famous march and composer. || The Stars and Stripes Forever by Sousa.
+sa: I || Why does the conductor lead rubato? || So everyone stretches together.
+sa: C || Explain how style fits purpose. || Marches for marching; ballads for reflection.
+sa: C || Explain three differences in your performance. || Answers vary.
+
+=== IM8.D1 2
+hook: Run out of air in the middle of a phrase and the music breaks apart. Good players plan where to breathe, just like singers and swimmers, so every phrase stays whole.
+sc: I can choose good places to breathe in my music | I can mark breath points with a breath mark | I can take quick, full breaths without breaking the beat
+v: breath mark :: A comma-shaped symbol (') showing where to breathe.
+v: phrase ending :: The natural place to breathe at the end of a phrase.
+v: catch breath :: A quick breath taken in a short gap.
+v: staggered breathing :: Section members breathing at different times to keep a long note going.
+v: time-stealing :: Shortening the note before a breath slightly to make time to breathe.
+v: breath plan :: A marked map of where to breathe in a piece.
+ts: Plan Your Breaths || Performance || Where should I breathe in my music?
+tx: Breath-planning guide (written for this lesson): ¶ Good places to breathe: at rests; at the end of phrases (look for long notes and cadences); before a new section or a repeat. ¶ Places to avoid: in the middle of a slur; between a tied note; in the middle of a phrase's climb to the high point. ¶ Steps: 1. Sing or hum your part and breathe where it feels natural. 2. Mark breath marks (') in pencil. 3. If there's no rest, time-steal: shorten the note before the breath slightly. 4. Take quick, low breaths through the mouth; practise breathing in for one beat. 5. Long notes beyond your air: use staggered breathing in sections: each player sneaks out, breathes and slides back in quietly at different times, never at bar lines everyone notices. ¶ Practice: mark a breath plan for the concert ballad; play it through; adjust any marks where you still ran out of air. Compare plans with your section so breaths line up in unison passages.
+src: Original activity written for this lesson.
+st: Learn where to breathe and where not to | Hum the part to find natural breaths | Mark breath marks in pencil | Practise quick one-beat breaths | Use staggered breathing on long notes
+org: Bar | Breath mark? | Reason | Worked?
+an: Where did you run out of air before marking? | How did time-stealing feel? | Did your section's breath plans match? | How does staggered breathing hide breaths?
+pr: Mark and perform a breath plan for the concert ballad, and explain why you chose two of the breath points.
+ex: Symbol || What does ' above the staff mean? || Breath mark || Breathe here || Where is it placed?
+ex: No rest || No rest at the phrase end. What do you do? || Time-steal || Shorten the last note slightly to breathe || Does it affect the beat?
+ex: Bad spot || Why not breathe in the middle of a slur? || Breaks the line || It interrupts a connected group of notes || Where instead?
+ex: Staggered || How does staggered breathing work? || Different times || Players breathe at different moments so the sound continues || Where should you avoid sneaking out?
+p: B || What is a breath mark? || A comma-shaped symbol showing where to breathe.
+p: B || What is a phrase ending? || A natural place to breathe.
+p: B || What is a catch breath? || A quick breath in a short gap.
+p: B || What is staggered breathing? || Breathing at different times to keep a sound going.
+p: B || What is time-stealing? || Shortening a note to make time to breathe.
+p: I || Name three good places to breathe. || Rests, phrase ends, before new sections.
+p: I || Name two places to avoid breathing. || Middle of a slur, in a tied note.
+p: I || How do you find natural breaths? || Hum or sing the part.
+p: I || What do you mark breath marks with? || Pencil.
+p: I || How long should a quick breath take? || About one beat.
+p: I || Where shouldn't you sneak out in staggered breathing? || At bar lines everyone notices.
+p: C || Why should sections match breath plans? || So unison passages breathe together and stay unified.
+p: C || Why breathe low and quickly? || It fills the lungs without breaking the beat.
+p: C || Why avoid breathing on the way to the high point? || It breaks the phrase's direction.
+p: C || Explain two of your breath points. || Answers vary.
+mis: Breathing whenever you run out | Breathing in the middle of slurs | Taking breaths that make you late
+et: Draw a breath mark. | Name one place to avoid breathing.
+mc: B || A breath mark looks like || a comma | a dot | a star | a circle || A
+mc: B || A phrase ending is || a natural place to breathe | the middle | the high point | a slur || A
+mc: B || A catch breath is || quick | very long | silent | loud || A
+mc: B || Staggered breathing keeps || the sound going | everyone silent | tempo fast | volume low || A
+mc: B || Time-stealing shortens || the note before a breath | the whole piece | rests | the bar || A
+mc: B || Mark breaths in || pencil | pen | marker | nothing || A
+mc: I || A good place to breathe is || at a rest | mid-slur | in a tie | on the high point || A
+mc: I || Avoid breathing || mid-slur | at rests | at phrase ends | before repeats || A
+mc: I || A quick breath takes about || one beat | four bars | ten seconds | none || A
+mc: I || Find natural breaths by || humming the part | guessing | skipping | asking the audience || A
+mc: C || Sections match breath plans to || stay unified | be louder | finish early | skip notes || A
+mc: C || Breathing on the way to the high point || breaks direction | helps | is required | adds volume || A
+sa: B || Define breath mark. || A comma-shaped symbol showing where to breathe.
+sa: B || What is staggered breathing? || Section members breathing at different times to keep a sound going.
+sa: I || Name good places to breathe. || Rests, phrase ends, before new sections.
+sa: I || Name places to avoid. || Mid-slur, tied notes, the climb to the high point.
+sa: I || What is time-stealing? || Shortening the note before a breath slightly.
+sa: I || How do you find natural breath points? || Hum or sing the part.
+sa: C || Explain why sections match breath plans. || So unison passages stay unified.
+sa: C || Explain two of your breath points. || Answers vary.
