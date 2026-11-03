@@ -1,0 +1,637 @@
+=== IM7.A1 1
+hook: Every great band sound starts with air. Professional players say "the air is the engine": without steady, supported breath, even the best instrument sounds thin and wobbly.
+sc: I can breathe deeply using my diaphragm | I can blow a steady, supported air stream | I can hold a long tone without the sound wavering
+v: breath support :: Using the diaphragm and core muscles to keep air steady and strong.
+v: diaphragm :: The dome-shaped muscle under the lungs that moves down when you breathe in.
+v: long tone :: One note held steadily for a set number of beats.
+v: air stream :: The flow of air into the instrument.
+v: tone :: The quality of a sound.
+v: posture :: How you sit or stand while playing.
+ts: The Air Is the Engine || Performance || How does breathing shape my sound?
+tx: Breathing routine (written for this lesson; percussion students do the breathing and then practise steady stroke-by-stroke sound on a practice pad): ¶ 1. Posture check: sit tall on the front edge of the chair, feet flat, shoulders relaxed. ¶ 2. Belly breath: hand on stomach; breathe in through the mouth for 4 counts. Your hand should move out, not your shoulders up. ¶ 3. Breathe in 4, out 4 on a "too" sound; in 4, out 8; in 4, out 12; in 4, out 16. Keep the air speed even to the end. ¶ 4. Paper test: hold a sheet of paper against a wall with only air; keep it there for 8 counts. ¶ 5. Mouthpiece buzz or headjoint: brass buzz on the mouthpiece; flute on the headjoint; reeds on mouthpiece and barrel or neck. Hold 8 counts steady. ¶ 6. Long tones on the instrument: Concert F for 8 counts at 60 BPM. Listen: does the sound stay the same from start to end?
+src: Original activity written for this lesson.
+st: Check posture | Practise belly breathing | Breathe out for 4, 8, 12 and 16 counts | Hold steady air on the mouthpiece or headjoint | Play long tones on Concert F
+org: Exercise | Counts | Steady? | Tip for next time
+an: Where did you feel your breath move? | Did your sound change at the end of a long tone? | How does posture affect breathing? | What will you practise at home?
+pr: Play a steady 8-count long tone on Concert F with good posture, and explain how breath support helped.
+ex: Shoulders || A student's shoulders rise when breathing in. Problem? || Shallow breath || Breath is shallow; breathe low so the belly expands || How can you check?
+ex: Fading tone || The sound fades at count 6. Fix? || Air support || Keep air speed steady; use core muscles to push air out evenly || What exercise helps?
+ex: Posture || Why sit on the front edge of the chair? || Lungs || It keeps the back straight so the lungs can fill || What about feet?
+ex: Long tone || What does a good long tone sound like? || Steady || Same volume and pitch from start to end || How long should you hold it?
+p: B || What is breath support? || Using the diaphragm and core to keep air steady.
+p: B || What is the diaphragm? || A muscle under the lungs used in breathing.
+p: B || What is a long tone? || One note held steadily.
+p: B || What is tone? || The quality of a sound.
+p: B || What is posture? || How you sit or stand while playing.
+p: I || Where should you feel your breath move? || In your belly, not your shoulders.
+p: I || How many counts do you breathe in? || 4.
+p: I || What is the paper test? || Holding paper on a wall with only air.
+p: I || Which note do you use for long tones? || Concert F.
+p: I || At what tempo do you play long tones? || 60 BPM.
+p: I || Where should your feet be? || Flat on the floor.
+p: C || Why does shallow breathing hurt tone? || There's not enough air to keep the sound steady.
+p: C || Why practise long tones daily? || They build breath control and a steady tone.
+p: C || How does posture connect to breathing? || Sitting tall gives the lungs room to fill.
+p: C || Describe your long-tone progress. || Answers vary.
+mis: Raising shoulders to breathe | Blowing hard at the start and running out | Slouching while playing
+et: Where should your breath go? | What makes a good long tone?
+mc: B || Breath support uses || the diaphragm and core | the shoulders | the hands | the feet || A
+mc: B || The diaphragm is || a breathing muscle | a drum | a reed | a valve || A
+mc: B || A long tone is || one held note | a fast scale | a rest | a chord || A
+mc: B || Tone is || sound quality | speed | volume only | rhythm || A
+mc: B || Good posture means || sitting tall | slouching | crossing legs | leaning back || A
+mc: B || Your feet should be || flat on the floor | crossed | on the chair | under you || A
+mc: I || When you breathe in, your belly should || move out | stay still | shrink | hurt || A
+mc: I || Long tones today use || Concert F | Concert C♯ | High C | no note || A
+mc: I || The paper test uses || only air | your hands | tape | a stand || A
+mc: I || Long tones are at || 60 BPM | 200 BPM | 10 BPM | no tempo || A
+mc: C || Shallow breathing makes tone || unsteady | stronger | louder | perfect || A
+mc: C || Daily long tones build || breath control | fatigue | bad habits | nothing || A
+sa: B || Define breath support. || Using the diaphragm and core muscles to keep air steady.
+sa: B || What is a long tone? || One note held steadily for a set number of beats.
+sa: I || Describe a belly breath. || Breathe low so the belly expands, not the shoulders.
+sa: I || What posture should you use? || Sit tall on the chair's front edge, feet flat.
+sa: I || What does a good long tone sound like? || Steady volume and pitch.
+sa: I || How do you fix a tone that fades? || Keep air speed steady with core support.
+sa: C || Explain how breath affects tone. || Steady air makes steady tone.
+sa: C || Describe your long-tone progress. || Answers vary.
+
+=== IM7.A1 2
+hook: Your first notes are a big moment. Most bands start on the same five concert pitches so everyone can play together from day one: Concert B♭, C, D, E♭ and F.
+sc: I can play the first five notes of the concert B♭ scale on my instrument | I can start each note cleanly with my tongue or stick | I can produce a characteristic tone on each note
+v: concert pitch :: The actual sounding pitch, which the whole band shares.
+v: transposing instrument :: An instrument whose written notes sound at a different pitch.
+v: fingering :: The keys or valves pressed to play a note.
+v: tonguing :: Starting a note with the tongue, as if saying "too."
+v: characteristic tone :: The full, clear sound expected from your instrument.
+v: fingering chart :: A diagram showing how to play each note.
+ts: First Five Notes || Performance || How do I play my first notes with good tone?
+tx: First notes (written for this lesson): The band plays Concert B♭ C D E♭ F. Because some instruments transpose, the written note differs: ¶ Flute, oboe, bassoon, trombone, baritone, tuba, mallet percussion: read B♭ C D E♭ F. ¶ B♭ clarinet, B♭ trumpet, tenor saxophone: read C D E F G. ¶ Alto and baritone saxophone (E♭ instruments): read G A B C D. ¶ French horn (F): read F G A B♭ C. ¶ Snare and percussion: play the rhythm on a pad with even strokes. ¶ Steps: 1. Find each note on your fingering chart. 2. Tongue "too" to start each note; keep air flowing between notes. 3. Play each note for 4 counts at 72 BPM, resting 4 counts. 4. Play up and down the five notes. 5. Tone check: is the sound full and clear, not thin or buzzy? Adjust embouchure and air. ¶ Partner check: one plays, one listens for clean starts and steady tone.
+src: Original activity written for this lesson; transpositions follow standard band practice.
+st: Find the five notes on a fingering chart | Tongue each note with "too" | Play each note for 4 counts | Play up and down the five notes | Check tone with a partner
+org: Concert note | My written note | Fingering | Tone notes
+an: Which note was easiest? Hardest? | Why do clarinets and saxophones read different notes? | Did your tongue start each note cleanly? | What helped your tone most?
+pr: Play Concert B♭ to F up and down with clean tonguing and a characteristic tone, and name your written notes.
+ex: Transposing || A clarinet plays written C. Concert pitch? || B♭ instrument || Concert B♭ || What does alto sax read for Concert B♭?
+ex: Alto sax || Alto sax written G sounds as? || E♭ instrument || Concert B♭ || Why is it different?
+ex: Tonguing || How do you start a note cleanly? || Tongue || Say "too" with the tongue to start the air || Should you stop the air between notes?
+ex: Tone fix || A trumpet sounds thin. Fix? || Air and embouchure || More air support and a firm but relaxed embouchure || What about posture?
+p: B || What is concert pitch? || The actual sounding pitch shared by the band.
+p: B || What is a transposing instrument? || One whose written notes sound at a different pitch.
+p: B || What is fingering? || Keys or valves pressed to play a note.
+p: B || What is tonguing? || Starting a note with the tongue.
+p: B || What is a fingering chart? || A diagram showing how to play each note.
+p: I || Name the five concert notes. || B♭, C, D, E♭, F.
+p: I || What does a B♭ clarinet read for Concert B♭? || C.
+p: I || What does an alto sax read for Concert B♭? || G.
+p: I || What does a French horn read for Concert B♭? || F.
+p: I || What does a flute read for Concert B♭? || B♭.
+p: I || What syllable starts a note? || Too.
+p: C || Why do transposing instruments exist? || Players can use the same fingerings across sizes of the same family.
+p: C || Why keep air flowing between tongued notes? || So notes connect and tone stays steady.
+p: C || How can a partner help your tone? || They can hear what you can't while playing.
+p: C || Describe your first-five performance. || Answers vary.
+mis: Thinking every instrument reads the same notes | Stopping the air with the throat instead of the tongue | Pressing too hard with the lips
+et: Name the five concert notes. | What do you read for Concert B♭?
+mc: B || Concert pitch is || actual sounding pitch | written pitch only | volume | tempo || A
+mc: B || A transposing instrument || sounds different from written | is out of tune | is broken | has no notes || A
+mc: B || Fingering means || keys or valves pressed | rhythm | posture | dynamics || A
+mc: B || Tonguing starts notes with || the tongue | the throat | the teeth | the chin || A
+mc: B || A fingering chart shows || how to play notes | concert dates | lyrics | tempo || A
+mc: B || The first concert notes start on || B♭ | G | A | E || A
+mc: I || B♭ clarinet reads for Concert B♭ || C | G | F | B♭ || A
+mc: I || Alto sax reads for Concert B♭ || G | C | F | E♭ || A
+mc: I || French horn reads for Concert B♭ || F | C | G | D || A
+mc: I || Flute reads for Concert B♭ || B♭ | C | G | F || A
+mc: C || Air between notes should || keep flowing | stop completely | get weaker | reverse || A
+mc: C || Transposing lets players || use the same fingerings across family sizes | play louder | skip notes | avoid practice || A
+sa: B || Define concert pitch. || The actual sounding pitch shared by the whole band.
+sa: B || What is tonguing? || Starting a note with the tongue, as if saying "too."
+sa: I || List the five concert notes. || B♭, C, D, E♭, F.
+sa: I || What does your instrument read for these notes? || Answers vary by instrument.
+sa: I || What do clarinets read for Concert B♭? || C.
+sa: I || What do alto saxes read for Concert B♭? || G.
+sa: C || Explain why instruments transpose. || Same fingerings across family sizes.
+sa: C || Describe your tone on the five notes. || Answers vary.
+
+=== IM7.B1 0
+hook: Musicians count all the time, even in their heads during rests. Counting out loud is how you train your brain to know exactly where every note starts and stops.
+sc: I can name and count whole, half, quarter and eighth notes and rests | I can count rhythms aloud in 4/4 | I can clap and count rhythms accurately
+v: count :: Saying beat numbers aloud to track rhythm.
+v: whole note :: A note lasting 4 beats in 4/4.
+v: half note :: A note lasting 2 beats.
+v: quarter note :: A note lasting 1 beat.
+v: eighth note :: A note lasting half a beat, counted "1 &."
+v: rest :: A symbol for silence of a set length.
+ts: Count It Out || Performance || How does counting aloud help me play rhythms?
+tx: Counting chart (written for this lesson; 4/4 time): ¶ Whole note: 4 beats: "1 2 3 4" (hold). Whole rest: a full bar of silence; it hangs below the fourth line. ¶ Half note: 2 beats: "1 2." Half rest: sits on the third line, like a hat. ¶ Quarter note: 1 beat: "1." Quarter rest: a squiggle. ¶ Eighth notes: half a beat each, counted "1 &"; two eighths beamed together = 1 beat. Eighth rest: like a 7. ¶ Steps: 1. Count each value while tapping the beat with your foot. 2. Clap and count four-bar rhythms from the board (e.g. | ♩ ♩ 𝅗𝅥 | ♫ ♫ ♩ ♩ | 𝅝 | ♩ rest ♫ ♩ |). 3. Whisper the counts during rests, and keep the foot tapping. 4. Partner game: one writes a one-bar rhythm, the other counts and claps it.
+src: Original activity written for this lesson.
+st: Learn note and rest values | Count while tapping the beat | Clap and count four-bar rhythms | Keep counting through rests | Write and swap rhythms with a partner
+org: Symbol | Name | Beats | Counted as
+an: Why count during rests? | Which value was trickiest to count? | How does foot tapping help? | Did your partner's rhythm add up to 4 beats?
+pr: Write, count aloud and clap a four-bar rhythm in 4/4 that uses whole, half, quarter and eighth notes and at least two rests.
+ex: Bar total || Does [half, quarter, quarter] fill 4/4? || Add beats || 2 + 1 + 1 = 4: yes || Try another.
+ex: Eighths || Count four eighth notes. || Half a beat each || 1 & 2 & || How many beats is that?
+ex: Rests || Count [quarter, quarter rest, half]. || Say counts, whisper the rest || 1 (2) 3 4 || Why whisper?
+ex: Whole note || How long is a whole note in 4/4? || Full bar || 4 beats || What fills the same space with silence?
+p: B || How many beats is a whole note in 4/4? || 4.
+p: B || How many beats is a half note? || 2.
+p: B || How many beats is a quarter note? || 1.
+p: B || How long is an eighth note? || Half a beat.
+p: B || What is a rest? || A symbol for silence.
+p: I || How do you count two eighth notes? || 1 &.
+p: I || Where does a half rest sit? || On the third line, like a hat.
+p: I || Where does a whole rest hang? || Below the fourth line.
+p: I || Count [quarter, two eighths, half]. || 1, 2 &, 3 4.
+p: I || How many eighth notes fill a 4/4 bar? || 8.
+p: I || What does the foot do while counting? || Taps the steady beat.
+p: C || Why keep counting during rests? || So you come in at the right time.
+p: C || Why tap the foot while playing? || It keeps the beat steady in your body.
+p: C || Why must each bar add up to 4 in 4/4? || The time signature sets 4 beats per bar.
+p: C || Write a four-bar rhythm. || Answers vary.
+mis: Stopping counting during rests | Treating a half rest and whole rest as the same | Rushing eighth notes
+et: How many beats is a half note? | Count two eighth notes.
+mc: B || A whole note in 4/4 lasts || 4 beats | 2 beats | 1 beat | half a beat || A
+mc: B || A half note lasts || 2 beats | 4 beats | 1 beat | 3 beats || A
+mc: B || A quarter note lasts || 1 beat | 2 beats | 4 beats | half a beat || A
+mc: B || An eighth note lasts || half a beat | 1 beat | 2 beats | 4 beats || A
+mc: B || A rest means || silence | loud | fast | high || A
+mc: B || Two eighths are counted || 1 & | 1 2 | 1 2 3 | 1 || A
+mc: I || A half rest sits || on the third line | under the fourth line | on the staff top | off the staff || A
+mc: I || A whole rest hangs || below the fourth line | on the third line | above the staff | below the staff || A
+mc: I || A 4/4 bar holds || 8 eighth notes | 4 eighth notes | 16 half notes | 3 quarters || A
+mc: I || Half + quarter + quarter equals || 4 beats | 3 beats | 5 beats | 2 beats || A
+mc: C || Counting during rests helps you || enter on time | play louder | skip bars | stop early || A
+mc: C || Foot tapping keeps || the beat steady | the pitch high | the tone dark | the volume low || A
+sa: B || Give the beat values of whole, half, quarter and eighth notes. || 4, 2, 1, half.
+sa: B || What is a rest? || A symbol for silence of a set length.
+sa: I || Count [quarter, two eighths, half]. || 1, 2 &, 3 4.
+sa: I || Describe the half rest and whole rest. || Half sits on line 3; whole hangs below line 4.
+sa: I || How many eighths fill 4/4? || 8.
+sa: I || Why tap your foot? || To keep the beat steady.
+sa: C || Explain why you count during rests. || To enter at the right time.
+sa: C || Write and count a four-bar rhythm. || Answers vary.
+
+=== IM7.B1 1
+hook: Clapping a rhythm is one thing; playing it on an instrument while managing air, fingers and tongue is another. Today you combine counting with the five concert notes.
+sc: I can play rhythms using the five concert notes | I can keep a steady beat while changing notes | I can tongue each note and hold it for its full value
+v: steady beat :: An even pulse that doesn't speed up or slow down.
+v: time signature :: The numbers at the start of music showing beats per bar and which note gets one beat.
+v: bar line :: A vertical line dividing music into bars.
+v: double bar line :: Two lines marking the end of a piece or section.
+v: full value :: Holding a note for its whole length.
+v: repeat sign :: A sign telling you to play a section again.
+ts: Rhythm Meets Pitch || Performance || How do I play rhythms accurately on my instrument?
+tx: Rhythm-on-pitch routine (written for this lesson; percussion plays on pad or mallets): ¶ 1. Clap and count first (always). ¶ 2. Play on one note: rhythms from the last lesson on Concert B♭ at 72 BPM. ¶ 3. Change notes: | B♭ B♭ C C | D D E♭ E♭ | F (whole) | F E♭ D C | B♭ (whole) | (quarter notes on concert pitches). ¶ 4. Add eighths: | B♭ & C & D & E♭ & | F (half) F (half) |. ¶ 5. Full value: hold half and whole notes to the very end of their beats. Count in your head "1-2-3-4" while holding. ¶ 6. Repeat sign: play the 4-bar line, then repeat from the start. ¶ 7. Play with a metronome, then without; did you stay steady? ¶ Checklist: count first, check key signature (none yet, just the concert notes), tongue each note, keep air flowing, hold full value.
+src: Original activity written for this lesson.
+st: Clap and count before playing | Play rhythms on one note | Play quarter notes on changing pitches | Add eighth notes | Hold full values and follow repeat signs
+org: Line | Rhythms used | Notes used | Steady? | Full value?
+an: Did you rush when changing notes? | Were half and whole notes held fully? | Was it harder with or without the metronome? | What will you practise at home?
+pr: Play a four-bar line of quarter, eighth, half and whole notes on the five concert notes, with a repeat, at 72 BPM.
+ex: Time signature || What does 4/4 mean? || Top and bottom || 4 beats per bar; quarter note gets 1 beat || What about 3/4?
+ex: Full value || A student cuts a whole note short at beat 3. Fix? || Count while holding || Count 1-2-3-4 in your head and keep air going || Why does it matter?
+ex: Repeat sign || What do two dots before a double bar mean? || Repeat || Go back and play the section again || Where do you go back to?
+ex: Rushing || Eighth notes speed up. Fix? || Metronome || Play slowly with a metronome and count "1 &" || Then?
+p: B || What is a steady beat? || An even pulse.
+p: B || What is a time signature? || Numbers showing beats per bar and the beat note.
+p: B || What is a bar line? || A line dividing music into bars.
+p: B || What is a double bar line? || Lines marking the end of a piece or section.
+p: B || What is a repeat sign? || A sign to play a section again.
+p: I || What does 4/4 mean? || 4 beats per bar; quarter note gets one beat.
+p: I || What does 3/4 mean? || 3 beats per bar; quarter note gets one beat.
+p: I || What should you do before playing a new line? || Clap and count it.
+p: I || What tempo do you start at? || 72 BPM.
+p: I || How do you hold full value? || Count while holding and keep air going.
+p: I || What does a repeat sign look like? || Two dots before a double bar.
+p: C || Why clap before playing? || To learn the rhythm before adding notes.
+p: C || Why do players rush when changing notes? || Focusing on fingers makes them lose the beat.
+p: C || Why practise without a metronome too? || To build your own internal beat.
+p: C || Describe your four-bar performance. || Answers vary.
+mis: Cutting long notes short | Playing without counting first | Ignoring repeat signs
+et: What does 4/4 mean? | How do you hold full value?
+mc: B || A steady beat is || even | speeding up | slowing down | random || A
+mc: B || A time signature shows || beats per bar | the key | the composer | the volume || A
+mc: B || A bar line || divides music into bars | ends a song | is a note | is a rest || A
+mc: B || A double bar marks || an end | a beginning only | a note | a rest || A
+mc: B || A repeat sign means || play again | skip | stop | get louder || A
+mc: B || 4/4 has per bar || 4 beats | 3 beats | 2 beats | 8 beats || A
+mc: I || 3/4 has per bar || 3 beats | 4 beats | 2 beats | 6 beats || A
+mc: I || Before playing a line || clap and count | play fast | skip it | close the book || A
+mc: I || The starting tempo is || 72 BPM | 200 BPM | 20 BPM | no tempo || A
+mc: I || A repeat sign has || two dots before a double bar | one dot | a circle | a star || A
+mc: C || Players rush when changing notes because they || focus on fingers | count too much | breathe well | listen || A
+mc: C || Practising without a metronome builds || an internal beat | bad tone | speed only | volume || A
+sa: B || Define time signature. || Numbers showing beats per bar and which note gets one beat.
+sa: B || What is a repeat sign? || A sign to play a section again.
+sa: I || Explain 4/4. || 4 beats per bar; the quarter note gets one beat.
+sa: I || How do you hold a whole note? || Count 1-2-3-4 while keeping air going.
+sa: I || What should you do before playing a line? || Clap and count it.
+sa: I || How can you stop rushing? || Practise slowly with a metronome.
+sa: C || Explain why clapping first helps. || You learn the rhythm before adding notes.
+sa: C || Describe your line performance. || Answers vary.
+
+=== IM7.B1 2
+hook: In auditions and concerts, musicians sometimes get music they've never seen and must play it right away. That skill, sight-reading, gets easier when you have a plan for the 30 seconds before you start.
+sc: I can use a checklist to prepare to sight-read | I can keep going even if I make a mistake | I can sight-read a short line accurately
+v: sight-reading :: Playing music the first time you see it.
+v: key signature :: Sharps or flats at the start of a line that apply to the whole piece.
+v: scan :: Look quickly through music for patterns and challenges.
+v: tempo marking :: Words or numbers showing how fast to play.
+v: dynamics :: Markings showing how loud or soft to play.
+v: keep going :: Continuing past mistakes without stopping.
+ts: First Look || Performance || How can I play music I've never seen before?
+tx: Sight-reading checklist (written for this lesson), "STARS": ¶ S: Signatures: key signature (sharps or flats) and time signature. ¶ T: Tempo: marking and speed; choose a speed you can manage. ¶ A: Accidentals and articulations: any extra sharps, flats or naturals, and markings like accents. ¶ R: Rhythms: find the hardest bar and count it. ¶ S: Signs: repeats, dynamics, first and second endings. ¶ Routine: 30 seconds to scan with STARS, then silently finger through, then play. Rule: keep going; if you miss a note, jump back in on the next beat. ¶ Practice: three 4-bar lines on the five concert notes, getting gradually harder (line 1: quarters and halves; line 2: adds eighths and rests; line 3: adds a repeat and dynamics). Partner tracks how many bars were correct and whether you kept going.
+src: Original activity written for this lesson.
+st: Learn the STARS checklist | Scan for 30 seconds | Finger through silently | Play and keep going | Track accuracy with a partner
+org: Line | STARS notes | Bars correct | Kept going?
+an: Which part of STARS helped most? | Did you keep going after a mistake? | Which line was hardest and why? | How can you practise sight-reading at home?
+pr: Sight-read a new four-bar line using STARS and keep going to the end; record bars correct and one thing to improve.
+ex: Signatures || What do you check first? || S in STARS || Key and time signature || Why first?
+ex: Hardest bar || Bar 3 has eighths and a rest. What do you do? || R in STARS || Count bar 3 silently before playing || Then?
+ex: Mistake || You miss a note in bar 2. What next? || Keep going || Continue on the next beat without stopping || Why not restart?
+ex: Tempo choice || Marked allegro but it's hard. What tempo? || Manageable || A slower steady tempo you can keep || Why steady over fast?
+p: B || What is sight-reading? || Playing music the first time you see it.
+p: B || What is a key signature? || Sharps or flats applying to the whole piece.
+p: B || What does scan mean? || Look quickly for patterns and challenges.
+p: B || What is a tempo marking? || Shows how fast to play.
+p: B || What are dynamics? || Markings for loud or soft.
+p: I || What does STARS stand for? || Signatures, tempo, accidentals and articulations, rhythms, signs.
+p: I || How long do you scan? || 30 seconds.
+p: I || What do you do after scanning? || Finger through silently.
+p: I || What do you do after a mistake? || Keep going on the next beat.
+p: I || What are first and second endings? || Different endings for the first and second time through.
+p: I || What is an accidental? || A sharp, flat or natural not in the key signature.
+p: C || Why keep going after mistakes? || In an ensemble, stopping makes you lose your place.
+p: C || Why choose a steady tempo over a fast one? || Steady and accurate is better than fast and broken.
+p: C || How can you improve sight-reading? || Sight-read something new every day.
+p: C || Record your sight-reading result. || Answers vary.
+mis: Starting without scanning | Stopping at every mistake | Playing too fast to read
+et: What does STARS stand for? | What do you do after a mistake?
+mc: B || Sight-reading means || playing music the first time | memorizing | improvising only | tuning || A
+mc: B || A key signature appears || at the start of a line | at the end | nowhere | in the middle only || A
+mc: B || Scan means || look quickly for challenges | play loudly | skip music | close eyes || A
+mc: B || A tempo marking shows || speed | volume | key | composer || A
+mc: B || Dynamics show || loud or soft | fast or slow | high or low | the key || A
+mc: B || STARS starts with || signatures | speed | silence | singing || A
+mc: I || Scan for || 30 seconds | 10 minutes | 1 second | an hour || A
+mc: I || After a mistake || keep going | stop | restart | leave || A
+mc: I || An accidental is || a sharp, flat or natural outside the key | a mistake | a rest | a tempo || A
+mc: I || After scanning || finger through silently | play fast | close the book | tune || A
+mc: C || Stopping in an ensemble || loses your place | helps everyone | is required | is fine || A
+mc: C || Better to play || steady and accurate | fast and broken | silent | loud only || A
+sa: B || Define sight-reading. || Playing music the first time you see it.
+sa: B || What is a key signature? || Sharps or flats at the start applying to the piece.
+sa: I || List the STARS checklist. || Signatures, tempo, accidentals and articulations, rhythms, signs.
+sa: I || What do you do after scanning? || Finger through silently, then play.
+sa: I || What do you do after a mistake? || Keep going on the next beat.
+sa: I || What is an accidental? || A sharp, flat or natural not in the key signature.
+sa: C || Explain why you keep going. || So you don't lose your place in the ensemble.
+sa: C || Report your sight-reading result. || Answers vary.
+
+=== IM7.C1 0
+hook: Fifty musicians, one person waving a baton, and everyone plays at exactly the same moment. That's the magic of following a conductor, and the conductor's patterns are a language you can learn.
+sc: I can recognize the conductor's patterns for 2/4, 3/4 and 4/4 | I can watch the conductor while reading music | I can respond to the preparatory beat
+v: conductor :: The person who leads the ensemble, showing tempo, entrances and expression.
+v: beat pattern :: The shape the conductor draws to show beats in a bar.
+v: downbeat :: Beat 1, always shown with a downward motion.
+v: preparatory beat :: The beat before the music starts, when players breathe in.
+v: baton :: The stick a conductor may use.
+v: ictus :: The exact point of each beat in the pattern.
+ts: Reading the Baton || Performance || How do I follow a conductor?
+tx: Conducting patterns (written for this lesson): ¶ 4/4: down (1), left (2), right (3), up (4). ¶ 3/4: down (1), right (2), up (3). ¶ 2/4: down (1), up (2). ¶ The downbeat (beat 1) always goes down; the last beat always goes up. ¶ Preparatory beat: the conductor raises the baton and gives one beat before playing; breathe in with it and play on the next downbeat. ¶ Activities: 1. Everyone conducts each pattern with the right hand while counting aloud. 2. Student conductors lead the class saying "ta" on each beat; others follow. 3. Tempo changes: the conductor speeds up and slows down; players follow. 4. Eyes: practise reading a line while glancing up at the conductor at the end of each bar. Tip: put your stand so you can see the conductor just over the top of the music.
+src: Original activity written for this lesson; patterns follow standard conducting practice.
+st: Learn 4/4, 3/4 and 2/4 patterns | Conduct while counting aloud | Follow a student conductor | Respond to tempo changes | Glance up while reading
+org: Time signature | Pattern | Downbeat direction | Last beat direction
+an: Which pattern was easiest to conduct? | How did the preparatory beat help you start together? | When was it hardest to watch and read? | How should you set up your music stand?
+pr: Conduct 4/4, 3/4 and 2/4 patterns accurately, then play a line following a student conductor's tempo changes.
+ex: 4/4 pattern || Describe the 4/4 pattern. || Four directions || Down, left, right, up || Which beat is up?
+ex: 3/4 pattern || Describe the 3/4 pattern. || Three directions || Down, right, up || How is it like a triangle?
+ex: Preparatory beat || When do you breathe? || Before playing || On the preparatory beat || When do you play?
+ex: Stand setup || Where should your stand be? || Sightline || So you see the conductor just over the music || Why?
+p: B || What is a conductor? || The leader showing tempo, entrances and expression.
+p: B || What is a beat pattern? || The shape showing beats in a bar.
+p: B || What is the downbeat? || Beat 1, shown going down.
+p: B || What is a preparatory beat? || The beat before playing, when players breathe.
+p: B || What is a baton? || A conductor's stick.
+p: I || Describe 4/4. || Down, left, right, up.
+p: I || Describe 3/4. || Down, right, up.
+p: I || Describe 2/4. || Down, up.
+p: I || Which direction is the last beat? || Up.
+p: I || When do you breathe? || On the preparatory beat.
+p: I || Where should your stand be? || So you see the conductor over the music.
+p: C || Why does the downbeat always go down? || So players can always find beat 1 clearly.
+p: C || Why does watching matter even when you know the music? || The conductor shapes tempo and expression live.
+p: C || How can a conductor show louder without words? || A bigger pattern.
+p: C || Describe your conducting. || Answers vary.
+mis: Burying eyes in the music | Starting before the downbeat | Thinking the conductor just keeps time
+et: Show the 4/4 pattern. | When do you breathe?
+mc: B || A conductor shows || tempo and entrances | lyrics | fingerings | costumes || A
+mc: B || The downbeat is || beat 1 | the last beat | a rest | beat 3 || A
+mc: B || The preparatory beat is || before playing | after the end | a rest | a solo || A
+mc: B || A baton is || a stick | a drum | a stand | a reed || A
+mc: B || A beat pattern || shows beats in a bar | shows notes | shows lyrics | shows dynamics only || A
+mc: B || The last beat goes || up | down | left | nowhere || A
+mc: I || 4/4 is || down, left, right, up | down, up | down, right, up | circles || A
+mc: I || 3/4 is || down, right, up | down, left, right, up | up, down | left only || A
+mc: I || 2/4 is || down, up | down, right, up | left, right | circles || A
+mc: I || Breathe on || the preparatory beat | the downbeat | after playing | never || A
+mc: C || A bigger pattern can mean || louder | quieter | stop | slower only || A
+mc: C || Watch the conductor because they || shape the music live | are bored | play too | tune || A
+sa: B || Define downbeat. || Beat 1, always shown with a downward motion.
+sa: B || What is a preparatory beat? || The beat before playing, when players breathe in.
+sa: I || Describe the 4/4 pattern. || Down, left, right, up.
+sa: I || Describe the 3/4 pattern. || Down, right, up.
+sa: I || How should you set up your stand? || So you see the conductor over the music.
+sa: I || How might a conductor show louder? || Use a bigger pattern.
+sa: C || Explain why you watch the conductor. || They control tempo and expression live.
+sa: C || Describe your conducting. || Answers vary.
+
+=== IM7.C1 1
+hook: Nothing sounds more professional than a band starting and stopping perfectly together, and nothing sounds messier than notes trickling in and out. Clean starts and releases are a team skill.
+sc: I can breathe and start together on the conductor's cue | I can release a note together on the cut-off | I can match note lengths with my section
+v: entrance :: The moment a player or section starts playing.
+v: release :: Ending a note together, also called a cut-off.
+v: cut-off :: The conductor's gesture to stop a note.
+v: fermata :: A sign (𝄐) telling players to hold a note until the conductor releases it.
+v: attack :: The beginning of a note.
+v: together :: Starting and ending at exactly the same time.
+ts: Start and Stop Together || Performance || How does a band start and release notes together?
+tx: Together drills (written for this lesson): ¶ 1. Breath together: on the preparatory beat, everyone breathes in with the conductor's arm. Air ready = clean attack. ¶ 2. Attack drill: conductor gives a prep beat; band plays Concert B♭ on the downbeat. Repeat until the attack sounds like one instrument. ¶ 3. Fermata drill: hold Concert F under a fermata; the conductor holds as long as they like. Release on the cut-off gesture (a small loop that closes, or a closing hand). ¶ 4. Release on a beat: hold a whole note and release exactly on beat 1 of the next bar (the "release on the next downbeat" rule), unless the conductor shows otherwise. ¶ 5. Section matching: each section plays a four-bar line; others listen for ragged starts or endings. ¶ Tips: keep air steady to the end of each note; stop the sound with the end of the air, not with your tongue slamming shut.
+src: Original activity written for this lesson.
+st: Breathe together on the prep beat | Drill clean attacks | Hold and release fermatas | Release long notes on the next downbeat | Listen to sections for togetherness
+org: Drill | Together? | What went wrong | Fix
+an: What made attacks sound like one instrument? | How did you know when to release a fermata? | Which section was most together? | Why stop with air instead of tongue?
+pr: Play a four-bar line with a fermata ending, starting and releasing exactly with the conductor.
+ex: Ragged attack || Some players enter late. Cause? || Breath || They didn't breathe on the prep beat || Fix?
+ex: Fermata || How long do you hold a fermata? || Conductor decides || Until the conductor's cut-off || What does the symbol look like?
+ex: Release rule || A whole note in bar 2. When to release? || Next downbeat || On beat 1 of bar 3 || Why?
+ex: Clipped ending || A note ends with a "tut" sound. Problem? || Tongue stop || Stopping with the tongue; stop with the air instead || How does it sound better?
+p: B || What is an entrance? || When a player starts playing.
+p: B || What is a release? || Ending a note together.
+p: B || What is a cut-off? || The conductor's gesture to stop.
+p: B || What is a fermata? || Hold until the conductor releases.
+p: B || What is an attack? || The beginning of a note.
+p: I || When do you breathe for an entrance? || On the preparatory beat.
+p: I || What does a cut-off look like? || A small closing loop or closing hand.
+p: I || When do you release a long note? || On the next downbeat.
+p: I || Who decides how long a fermata lasts? || The conductor.
+p: I || How should you stop a note? || With the air, not the tongue.
+p: I || What does a ragged attack sound like? || Players starting at slightly different times.
+p: C || Why does breathing together create clean attacks? || Everyone's air is ready at the same moment.
+p: C || Why release on the next downbeat? || It gives notes full value and a common ending point.
+p: C || How does listening across sections help? || You can hear and fix differences.
+p: C || Describe your ensemble's starts and releases. || Answers vary.
+mis: Breathing late and entering late | Stopping notes with the tongue | Guessing fermata length
+et: When do you release a long note? | What is a fermata?
+mc: B || An entrance is || starting to play | stopping | tuning | sitting || A
+mc: B || A release is || ending a note | starting a note | a rest | a key || A
+mc: B || A cut-off is || a stop gesture | a start gesture | a scale | a rhythm || A
+mc: B || A fermata means || hold | skip | play fast | repeat || A
+mc: B || An attack is || a note's beginning | a note's end | a rest | volume || A
+mc: B || Together means || same time | different times | random | loud || A
+mc: I || Breathe for an entrance on || the prep beat | the downbeat | after starting | never || A
+mc: I || Release a whole note on || the next downbeat | beat 3 | any time | never || A
+mc: I || Fermata length is set by || the conductor | the player | the composer only | the audience || A
+mc: I || Stop notes with || air | tongue slam | teeth | throat || A
+mc: C || Clean attacks come from || breathing together | playing loud | late breaths | guessing || A
+mc: C || Releasing on the downbeat || gives a shared end | shortens notes | is random | is wrong || A
+sa: B || Define fermata. || A sign telling players to hold a note until the conductor releases it.
+sa: B || What is a release? || Ending a note together.
+sa: I || When do you breathe for an entrance? || On the preparatory beat.
+sa: I || When do you release a long note? || On the next downbeat.
+sa: I || How should a note end? || Stop with the air, not the tongue.
+sa: I || What causes ragged attacks? || Late breaths.
+sa: C || Explain why breathing together helps. || Air is ready at the same moment.
+sa: C || Describe your ensemble's togetherness. || Answers vary.
+
+=== IM7.C1 2
+hook: In a band you're not a soloist; you're part of a team sound. The secret is listening more than you play: matching the people around you in pitch, volume and note length.
+sc: I can listen to other players while I play | I can match my section's volume and note lengths | I can describe how my part fits the whole band
+v: ensemble :: A group of musicians performing together.
+v: section :: Players of the same instrument, such as the clarinet section.
+v: melody :: The main tune.
+v: harmony :: Parts that support the melody.
+v: bass line :: The lowest part, often played by tuba, bass clarinet or bassoon.
+v: listening ladder :: Listening to yourself, then your section, then the whole band.
+ts: Listen and Match || Performance || How do I fit my sound into the band?
+tx: Listening ladder (written for this lesson): ¶ Step 1, me: Can I hear my own steady tone? ¶ Step 2, my section: Can I hear the players beside me? If I hear only myself, I'm too loud. ¶ Step 3, the band: Can I hear the melody? The bass? If the melody is buried, accompanying parts play softer. ¶ Activities: 1. Section relay: each section plays Concert B♭ for 4 counts in turn; then all together. Could you still hear each section? 2. Volume match: one section plays at mf; the next must match. 3. Who has the melody? Play a simple band arrangement (e.g. a chorale); after each phrase, raise hands if you think you had the melody. 4. Bass-up: start a chord with low brass and low woodwinds, then add middle, then high instruments. The band sounds best built from the bottom up. 5. Reflect: describe your part's job: melody, harmony, bass or rhythm.
+src: Original activity written for this lesson.
+st: Climb the listening ladder | Play a section relay | Match volume between sections | Identify who has the melody | Build a chord from the bass up
+org: Section | Job (melody, harmony, bass, rhythm) | Volume | Notes
+an: Could you hear your neighbours while playing? | Which section had the melody? | Why build from the bass up? | What is your part's job in the piece?
+pr: Play a chorale with your section and write a short reflection on your part's job and how you matched the band.
+ex: Too loud || You only hear yourself. What now? || Ladder step 2 || Play softer until you hear your section || Why?
+ex: Melody buried || The melody can't be heard. Fix? || Balance || Accompanying parts play softer || Who decides?
+ex: Bass up || Why start chords with the low instruments? || Foundation || Low notes support the sound like a pyramid base || What happens if high is loudest?
+ex: Your job || Your part has long notes under the tune. Job? || Supporting || Harmony || How should you play it?
+p: B || What is an ensemble? || A group performing together.
+p: B || What is a section? || Players of the same instrument.
+p: B || What is melody? || The main tune.
+p: B || What is harmony? || Parts supporting the melody.
+p: B || What is the bass line? || The lowest part.
+p: I || What are the three steps of the listening ladder? || Me, my section, the band.
+p: I || If you hear only yourself, what should you do? || Play softer.
+p: I || What should harmony do when the melody is buried? || Play softer.
+p: I || Which instruments often play the bass line? || Tuba, bass clarinet, bassoon.
+p: I || Why build chords from the bottom up? || Low notes form the foundation.
+p: I || What volume did sections match? || mf.
+p: C || Why should players listen more than they play? || To blend into a team sound.
+p: C || How does knowing your part's job help? || You know when to lead and when to support.
+p: C || Why is a band sound like a pyramid? || Strong low base with lighter high parts on top.
+p: C || Write your reflection. || Answers vary.
+mis: Thinking louder is always better | Ignoring other sections | Thinking every part is the melody
+et: Name the steps of the listening ladder. | What is your part's job?
+mc: B || An ensemble is || a group performing together | a solo | a song | a key || A
+mc: B || A section is || same instruments together | a whole band | a rest | a song || A
+mc: B || Melody is || the main tune | the bass | silence | the drum only || A
+mc: B || Harmony || supports the melody | replaces it | is silence | is the conductor || A
+mc: B || Bass line is || the lowest part | the highest part | lyrics | a rest || A
+mc: B || The listening ladder starts with || me | the audience | the conductor | the composer || A
+mc: I || Hearing only yourself means || play softer | play louder | stop | leave || A
+mc: I || If melody is buried, harmony || plays softer | plays louder | stops | leaves || A
+mc: I || Bass is often played by || tuba | piccolo | triangle | flute || A
+mc: I || Build chords from || the bass up | the top down | random | silence || A
+mc: C || A band sound is like || a pyramid | a line | a circle | a square || A
+mc: C || Knowing your part's job helps you || lead or support | skip notes | play louder always | leave || A
+sa: B || Define section. || Players of the same instrument.
+sa: B || What is the listening ladder? || Listening to me, my section, then the band.
+sa: I || What should you do if you hear only yourself? || Play softer.
+sa: I || Why build from the bass up? || Low notes support the sound.
+sa: I || Name four jobs a part can have. || Melody, harmony, bass, rhythm.
+sa: I || What do you do if the melody is buried? || Accompanying parts play softer.
+sa: C || Explain why you listen more than you play. || To blend into a team sound.
+sa: C || Write your reflection. || Answers vary.
+
+=== IM7.D1 0
+hook: Imagine a movie where every actor shouts every line. Music without dynamics is the same: flat and tiring. Changing volume is how bands create drama, calm and excitement.
+sc: I can name and play dynamic levels from piano to forte | I can play crescendos and decrescendos smoothly | I can keep good tone at soft and loud levels
+v: dynamics :: The loudness or softness of music.
+v: piano (p) :: Soft.
+v: forte (f) :: Loud.
+v: mezzo (m) :: Medium, as in mezzo piano (mp) or mezzo forte (mf).
+v: crescendo :: Gradually getting louder (<).
+v: decrescendo :: Gradually getting softer (>), also called diminuendo.
+ts: Loud and Soft || Performance || How do dynamics make music expressive?
+tx: Dynamics ladder (written for this lesson): pp (pianissimo, very soft), p (piano), mp (mezzo piano), mf (mezzo forte), f (forte), ff (fortissimo, very loud). ¶ Rules of tone: Soft is not weak: keep air support; use less air, not less energy. Loud is not harsh: more air, but keep the tone round and don't force it. ¶ Activities: 1. Ladder: play Concert B♭ for 4 counts at each level, p, mp, mf, f. Partner checks: does the pitch stay steady? 2. Crescendo: 8 counts from p to f; decrescendo 8 counts f to p. Spread the change evenly ("no sudden jumps"). 3. Hairpin game: the conductor's left hand rises (louder) or lowers (softer); play to match. 4. Band: play a 4-bar line twice, first all at mf, then with written dynamics (p, cresc., f, decresc.). Which is more interesting?
+src: Original activity written for this lesson.
+st: Learn the dynamics ladder | Play one note at four levels | Play even crescendos and decrescendos | Follow the conductor's hand for volume | Compare a line with and without dynamics
+org: Marking | Italian word | Meaning | Tone tip
+an: Which dynamic level was hardest to play with good tone? | Did your crescendo grow evenly? | How did the conductor show volume? | Why was the line with dynamics more interesting?
+pr: Play a four-bar line with p, crescendo, f and decrescendo, keeping good tone at every level.
+ex: Order || Put mf, p, ff, mp in order soft to loud. || Ladder || p, mp, mf, ff || Where is f?
+ex: Soft tone || Your soft note sounds airy and weak. Fix? || Support || Keep air supported; use less air but steady energy || What is the opposite problem?
+ex: Even crescendo || 8-count crescendo jumps loud at count 7. Fix? || Spread it || Grow a little each count from p to f || How do you plan it?
+ex: Symbols || What does < mean? || Hairpin opening || Crescendo || What about >?
+p: B || What are dynamics? || Loudness or softness of music.
+p: B || What does piano mean? || Soft.
+p: B || What does forte mean? || Loud.
+p: B || What does crescendo mean? || Gradually louder.
+p: B || What does decrescendo mean? || Gradually softer.
+p: I || What does mp mean? || Medium soft.
+p: I || What does mf mean? || Medium loud.
+p: I || What does pp mean? || Very soft.
+p: I || What does ff mean? || Very loud.
+p: I || Order p, f, mp, mf from soft to loud. || p, mp, mf, f.
+p: I || What is another word for decrescendo? || Diminuendo.
+p: C || Why must soft playing still be supported? || Without support, tone becomes weak and pitch drops.
+p: C || Why shouldn't loud playing be forced? || Tone becomes harsh and out of tune.
+p: C || How do dynamics create drama? || Contrast between loud and soft keeps listeners engaged.
+p: C || Describe your dynamics performance. || Answers vary.
+mis: Thinking soft means less effort | Blasting at forte | Making crescendos happen all at once
+et: Order the dynamics from pp to ff. | What does < mean?
+mc: B || Dynamics are || loudness and softness | speed | pitch | key || A
+mc: B || Piano means || soft | loud | fast | slow || A
+mc: B || Forte means || loud | soft | fast | short || A
+mc: B || Crescendo means || gradually louder | gradually softer | faster | slower || A
+mc: B || Decrescendo means || gradually softer | gradually louder | stop | repeat || A
+mc: B || < means || crescendo | decrescendo | fermata | repeat || A
+mc: I || mp means || medium soft | medium loud | very soft | very loud || A
+mc: I || mf means || medium loud | medium soft | very loud | very soft || A
+mc: I || The softest of these is || pp | p | mp | mf || A
+mc: I || Diminuendo is the same as || decrescendo | crescendo | forte | piano || A
+mc: C || Soft playing needs || supported air | no air | weak effort | shouting || A
+mc: C || Forced loud playing sounds || harsh | sweet | soft | perfect || A
+sa: B || Define crescendo. || Gradually getting louder.
+sa: B || What does forte mean? || Loud.
+sa: I || Order pp, p, mp, mf, f, ff. || Already soft to loud: pp, p, mp, mf, f, ff.
+sa: I || How do you keep good tone soft? || Keep air supported.
+sa: I || How do you play an even crescendo? || Grow a little each count.
+sa: I || What do < and > mean? || Crescendo and decrescendo.
+sa: C || Explain how dynamics create drama. || Contrast keeps listeners engaged.
+sa: C || Describe your dynamics performance. || Answers vary.
+
+=== IM7.D1 1
+hook: A concert piece doesn't come together in one rehearsal. Bands break pieces into small sections, fix tricky spots and slowly build up to performance tempo, the way athletes train for a game.
+sc: I can identify and practise the tricky spots in a concert piece | I can use slow practice and repetition to improve | I can set and track rehearsal goals
+v: rehearsal :: A practice session to prepare a performance.
+v: tricky spot :: A short passage that is hard to play.
+v: slow practice :: Practising at a slower tempo to play accurately.
+v: rehearsal letter :: A letter or number in the music marking a place to start from.
+v: practice log :: A record of what and how long you practise.
+v: performance tempo :: The speed the piece will be played at the concert.
+ts: Building a Concert Piece || Performance || How do musicians prepare a piece for performance?
+tx: Rehearsal plan (written for this lesson): ¶ 1. Road map (5 minutes): Look through the concert piece: tempo, key signature, repeats, rehearsal letters (A, B, C) and dynamics. ¶ 2. Find tricky spots (5 minutes): circle up to three bars that are hardest for you. ¶ 3. Fix them (15 minutes): clap and count the rhythm; play at a slow tempo (e.g. 60 BPM) with a metronome; repeat correctly three times in a row; increase by 4–8 BPM; then add the bar before and after ("chunking"). ¶ 4. Full band (15 minutes): rehearse from rehearsal letters, listening for balance and togetherness. ¶ 5. Practice log and goal (5 minutes): write today's tempo for each tricky spot and a goal for next rehearsal (e.g. "Bar 17 at 88 BPM"). Home practice: 15–20 minutes, starting with long tones, then tricky spots, then the whole piece.
+src: Original activity written for this lesson.
+st: Map the piece | Circle tricky spots | Practise slowly and increase tempo | Rehearse from rehearsal letters | Log tempos and set goals
+org: Tricky spot (bar) | Problem | Today's tempo | Goal tempo
+an: What made your tricky spots hard? | How did slow practice help? | Which rehearsal letter needs the most work? | What is your goal for next rehearsal?
+pr: Complete a practice log for one week on the concert piece, showing tempo progress on two tricky spots.
+ex: Chunking || Bar 17 is fixed alone. Next step? || Add neighbours || Play bars 16–18 together || Why?
+ex: Three in a row || When do you raise the tempo? || Accuracy first || After three correct repetitions in a row || By how much?
+ex: Rehearsal letters || Conductor says "start at B." Where? || Letter in the score || At rehearsal letter B || Why use letters?
+ex: Home routine || What order for home practice? || Warm up first || Long tones, tricky spots, then the whole piece || How long?
+p: B || What is a rehearsal? || A practice session for a performance.
+p: B || What is a tricky spot? || A hard short passage.
+p: B || What is slow practice? || Practising slower to be accurate.
+p: B || What is a rehearsal letter? || A marked starting place in the music.
+p: B || What is a practice log? || A record of practice.
+p: I || How many tricky spots do you circle? || Up to three.
+p: I || What starting tempo for slow practice? || About 60 BPM.
+p: I || How many correct repetitions before speeding up? || Three in a row.
+p: I || By how much do you raise the tempo? || 4–8 BPM.
+p: I || What is chunking? || Adding the bars before and after.
+p: I || How long is home practice? || 15–20 minutes.
+p: C || Why practise slowly instead of fast? || Accuracy builds correct muscle memory.
+p: C || Why add bars before and after? || To connect the tricky spot smoothly into the music.
+p: C || Why log tempos? || To track progress and set goals.
+p: C || Show your practice log. || Answers vary.
+mis: Always playing from the start | Practising only the easy parts | Speeding up before it's accurate
+et: Name one tricky spot. | How do you fix it?
+mc: B || A rehearsal is || practice for performance | the concert | a test | a holiday || A
+mc: B || A tricky spot is || a hard passage | an easy bar | a rest | a title || A
+mc: B || Slow practice builds || accuracy | bad habits | speed only | volume || A
+mc: B || A rehearsal letter marks || a starting place | the composer | a dynamic | the key || A
+mc: B || A practice log records || practice | concerts | grades | lyrics || A
+mc: B || Performance tempo is || concert speed | slow practice | silence | a key || A
+mc: I || Circle up to || three tricky spots | thirty | none | one hundred || A
+mc: I || Speed up after || three correct in a row | one try | a mistake | never || A
+mc: I || Raise tempo by || 4–8 BPM | 50 BPM | 1 BPM | 100 BPM || A
+mc: I || Chunking adds || bars before and after | more players | dynamics | rests || A
+mc: C || Practising fast too early builds || mistakes into memory | perfect playing | good tone | confidence || A
+mc: C || Logging tempos helps || track progress | waste time | forget | nothing || A
+sa: B || Define slow practice. || Practising at a slower tempo to play accurately.
+sa: B || What is a rehearsal letter? || A letter in the music marking a place to start.
+sa: I || Describe the tricky-spot routine. || Clap, slow, three correct, raise tempo, chunk.
+sa: I || What is chunking? || Adding the bar before and after.
+sa: I || Describe a home practice routine. || Long tones, tricky spots, whole piece, 15–20 minutes.
+sa: I || When do you raise the tempo? || After three correct repetitions.
+sa: C || Explain why slow practice works. || It builds correct muscle memory.
+sa: C || Show your practice log. || Answers vary.
+
+=== IM7.D1 2
+hook: A concert starts before the first note. How you walk on, sit, wait and bow tells the audience you're a professional. Concert etiquette is the polish on all your hard work.
+sc: I can follow concert etiquette as a performer | I can explain audience etiquette | I can reflect on our concert performance
+v: concert etiquette :: Expected behaviour at a concert.
+v: concert dress :: The clothing expected for a performance, often black and white.
+v: rest position :: Holding the instrument quietly when not playing.
+v: ready position :: Holding the instrument up, ready to play.
+v: bow :: Acknowledging applause.
+v: self-assessment :: Judging your own performance against goals.
+ts: Showtime || Performance || How do musicians act professionally on stage?
+tx: Concert checklist (written for this lesson): ¶ Before: concert dress as your teacher sets (often black and white); instrument clean, reeds checked, valve oil and spare reeds packed; music in order in a folder; arrive at call time. ¶ On stage: walk on quietly in order, sit, place music; rest position (instrument on lap or held still) between pieces; no talking, waving or looking at the audience. ¶ Ready: when the conductor raises their arms, move to ready position together. ¶ After each piece: hold still until the conductor lowers their arms; then stand when signalled for applause. ¶ Audience etiquette: silence phones; clap at the end of a piece, not between movements; stay seated during pieces; enter or leave only between pieces. ¶ After the concert: self-assessment: rate tone, rhythm, dynamics, togetherness and stage behaviour 1–4 with one sentence each, and set one goal for the next concert. ¶ Practise: a full dress rehearsal of walking on, ready position, playing and bowing.
+src: Original activity written for this lesson.
+st: Review the before-concert checklist | Practise walking on and rest position | Practise ready position on the conductor's cue | Practise standing for applause | Self-assess after the concert
+org: Area | Rating 1–4 | Evidence | Goal
+an: Which etiquette rule is easiest to forget? | How did the dress rehearsal help? | What went best in the concert? | What is your goal for next time?
+pr: Perform in the concert with full etiquette and complete a self-assessment with ratings and one goal.
+ex: Between pieces || What do you do between pieces? || Rest position || Hold the instrument still and stay quiet || When do you move to ready?
+ex: End of piece || When do you relax after the last note? || Watch the conductor || When the conductor lowers their arms || Why wait?
+ex: Audience || When should the audience clap? || End of piece || At the end, not between movements || Why?
+ex: Packing || Name two items to pack. || Instrument needs || Spare reeds, valve oil || What else?
+p: B || What is concert etiquette? || Expected behaviour at a concert.
+p: B || What is concert dress? || Clothing for performance, often black and white.
+p: B || What is rest position? || Holding the instrument still when not playing.
+p: B || What is ready position? || Holding the instrument up to play.
+p: B || What is self-assessment? || Judging your own performance.
+p: I || When do you move to ready position? || When the conductor raises their arms.
+p: I || When can you relax after a piece? || When the conductor lowers their arms.
+p: I || When should the audience clap? || At the end of a piece.
+p: I || When can audience members enter? || Between pieces.
+p: I || Name three things to rate in self-assessment. || Tone, rhythm, dynamics.
+p: I || What is call time? || The time performers must arrive.
+p: C || Why hold still at the end of a piece? || Silence after the music is part of the performance.
+p: C || Why is etiquette important? || It shows respect and professionalism.
+p: C || Why set a goal after a concert? || To keep improving.
+p: C || Write your self-assessment. || Answers vary.
+mis: Relaxing before the conductor lowers their arms | Talking on stage | Clapping between movements
+et: When do you move to ready position? | Name one audience rule.
+mc: B || Concert etiquette is || expected behaviour | a piece | a key | a rest || A
+mc: B || Concert dress is often || black and white | pajamas | costumes | sports gear || A
+mc: B || Rest position means || instrument still | instrument up | playing | packing || A
+mc: B || Ready position means || instrument up | instrument away | sitting back | leaving || A
+mc: B || Self-assessment judges || your own performance | others only | the audience | the hall || A
+mc: B || Call time is || arrival time | the end | the bow | the encore || A
+mc: I || Move to ready when the conductor || raises their arms | sits | leaves | claps || A
+mc: I || Relax when the conductor || lowers their arms | starts | waves | talks || A
+mc: I || The audience claps || at the end of a piece | between movements | during solos only | never || A
+mc: I || Late audience members enter || between pieces | during pieces | anytime | never || A
+mc: C || Silence after the last note is || part of the performance | a mistake | rude | boring || A
+mc: C || Etiquette shows || respect and professionalism | nervousness | boredom | nothing || A
+sa: B || Define concert etiquette. || Expected behaviour at a concert.
+sa: B || What is rest position? || Holding the instrument quietly when not playing.
+sa: I || Describe what to do from walking on to the bow. || Walk on, rest position, ready on cue, play, hold, stand for applause.
+sa: I || Name two audience etiquette rules. || Silence phones; clap at the end.
+sa: I || What should you pack? || Spare reeds, valve oil, music.
+sa: I || When can you relax after a piece? || When the conductor lowers their arms.
+sa: C || Explain why etiquette matters. || It shows respect and professionalism.
+sa: C || Write your self-assessment. || Answers vary.
