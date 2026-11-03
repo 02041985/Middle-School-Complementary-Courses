@@ -1,0 +1,659 @@
+=== SPA7.A1 1
+hook: Spanish has two verbs for "to be." Today you'll meet the first one, ser, which you use to say who you are, where you're from and what you're like.
+sc: I can introduce myself with ser | I can say where I'm from with soy de | I can describe myself with a few adjectives
+v: ser :: to be (identity, origin, description)
+v: soy :: I am
+v: eres :: you are (informal)
+v: es :: he / she is; you are (formal)
+v: Soy de… :: I'm from…
+v: ¿De dónde eres? :: Where are you from?
+v: simpático / simpática :: nice, friendly
+v: alto / alta :: tall
+ts: ¡Mucho gusto! || Dialogue || How do I introduce myself with ser?
+tx: Dialogue (read with a partner): ¶ Lucía: ¡Hola! Me llamo Lucía. Soy de México. ¿Y tú? ¿De dónde eres? ¶ Sam: Hola, Lucía. Me llamo Sam. Soy de Canadá. Soy de Calgary. ¶ Lucía: ¡Mucho gusto, Sam! ¶ Sam: Igualmente. ¿Cómo eres? ¶ Lucía: Soy simpática y un poco tímida. ¿Y tú? ¶ Sam: Soy alto y divertido. ¶ Grammar: ser: yo soy, tú eres, él/ella/usted es. ¶ Adjectives agree: -o for masculine, -a for feminine (alto, alta). Adjectives ending in -e or a consonant don't change (inteligente, popular). ¶ Spanish punctuation: questions and exclamations start with upside-down marks: ¿…? ¡…! ¶ Activity: "Speed introductions": in two lines, students introduce themselves in 30 seconds with name, origin and two adjectives, then move to the next partner.
+src: Original dialogue written for this lesson.
+st: Read the dialogue | Learn ser in the singular | Learn adjective agreement | Use ¿ and ¡ | Practise speed introductions
+org: Nombre | ¿De dónde es? | ¿Cómo es?
+an: Where are Lucía and Sam from? | Why is it "alto" for Sam and "alta" for a girl? | What do ¿ and ¡ do? | How did your speed introductions go?
+pr: Write a five-sentence self-introduction with your name, where you're from and three adjectives with correct agreement.
+ex: Origin || Say "I'm from Canada." || Soy de + place || Soy de Canadá. || Ask a friend where they're from.
+ex: Agreement || Describe Lucía as tall. || Feminine -a || Lucía es alta. || Describe Sam.
+ex: No change || Is "inteligente" different for boys and girls? || Ends in -e || No: Él es inteligente. Ella es inteligente. || Another?
+ex: Question || Write "Where are you from?" || ¿ at the start || ¿De dónde eres? || Write "What are you like?"
+p: B || What does "soy" mean? || I am.
+p: B || What does "eres" mean? || You are.
+p: B || How do you say "I'm from Canada"? || Soy de Canadá.
+p: B || What does "simpático" mean? || Nice, friendly.
+p: B || What does "Mucho gusto" mean? || Nice to meet you.
+p: I || Conjugate ser: yo, tú, él. || Soy, eres, es.
+p: I || Feminine of alto? || Alta.
+p: I || Feminine of simpático? || Simpática.
+p: I || Feminine of inteligente? || Inteligente.
+p: I || Ask "Where are you from?" || ¿De dónde eres?
+p: I || Where is Lucía from? || México.
+p: C || Why does Spanish use ¿ at the start? || To show a question is coming.
+p: C || Translate: She is from Spain and she is friendly. || Ella es de España y es simpática.
+p: C || Translate: I am tall and fun (girl). || Soy alta y divertida.
+p: C || Write your self-introduction. || Answers vary.
+mis: Forgetting the opening ¿ | Using -o adjectives for girls | Saying "yo es"
+et: Preséntate: nombre y origen. | Describe yourself with two adjectives.
+mc: B || "Soy" means || I am | you are | he is | I have || A
+mc: B || "Eres" means || you are | I am | she is | we are || A
+mc: B || "Soy de Canadá" means || I'm from Canada | I'm in Canada | I like Canada | I'm Canadian food || A
+mc: B || "Simpático" means || nice | sympathetic only | tall | sad || A
+mc: B || "Mucho gusto" means || Nice to meet you | Thank you | Very good | Goodbye || A
+mc: B || "Alto" means || tall | stop only | short | old || A
+mc: I || Feminine of alto is || alta | alto | altas | alte || A
+mc: I || "Where are you from?" is || ¿De dónde eres? | ¿Dónde estás? | ¿Cómo eres? | ¿Quién eres? || A
+mc: I || "Él es" means || he is | I am | you are | they are || A
+mc: I || "Inteligente" for a girl is || inteligente | inteligenta | inteligenteo | inteligentes || A
+mc: C || Spanish starts questions with || ¿ | ? | ¡ | . || A
+mc: C || Adjectives ending in -o change to || -a for feminine | -e | -os only | nothing || A
+sa: B || Conjugate ser for yo, tú and él. || Soy, eres, es.
+sa: B || Say "I'm from Canada." || Soy de Canadá.
+sa: I || Describe a friend with two adjectives. || Answers vary.
+sa: I || Ask "Where are you from?" || ¿De dónde eres?
+sa: I || Give feminine forms of alto and simpático. || Alta, simpática.
+sa: I || Where is Sam from? || Calgary, Canadá.
+sa: C || Explain adjective agreement. || -o for masculine, -a for feminine.
+sa: C || Write your self-introduction. || Answers vary.
+
+=== SPA7.A1 2
+hook: Phone numbers, ages, prices, scores: numbers are everywhere. Spanish numbers 0–20 are the building blocks for everything else, and they're used across more than 20 countries.
+sc: I can count from 0 to 20 in Spanish | I can say my age with tengo … años | I can use numbers in simple addition and everyday situations
+v: cero :: zero
+v: uno, dos, tres :: one, two, three
+v: diez :: ten
+v: quince :: fifteen
+v: veinte :: twenty
+v: ¿Cuántos años tienes? :: How old are you?
+v: Tengo … años :: I am … years old
+v: más / menos / son :: plus / minus / equals
+ts: Los números || Practice || How do I count and use numbers 0–20 in Spanish?
+tx: Numbers (written for this lesson): 0 cero, 1 uno, 2 dos, 3 tres, 4 cuatro, 5 cinco, 6 seis, 7 siete, 8 ocho, 9 nueve, 10 diez, 11 once, 12 doce, 13 trece, 14 catorce, 15 quince, 16 dieciséis, 17 diecisiete, 18 dieciocho, 19 diecinueve, 20 veinte. ¶ Pattern: 16–19 combine diez y + number into one word: dieciséis = diez y seis. ¶ Age: Spanish uses tener (to have) for age: Tengo doce años (literally "I have twelve years"). ¿Cuántos años tienes? ¶ Math: Dos más tres son cinco. Diez menos cuatro son seis. ¶ Phone numbers are often read in pairs or single digits: cuatro, cero, tres… ¶ Activities: 1. Count around the circle; skip multiples of 3 (say "¡olé!"). 2. Bingo with numbers 0–20. 3. Math race: partners solve spoken problems. 4. Survey ages: ¿Cuántos años tienes?
+src: Original activity written for this lesson.
+st: Learn numbers 0–20 | Notice the 16–19 pattern | Say your age with tener | Solve spoken math problems | Play number bingo
+org: Número | En español
+an: What pattern do 16–19 follow? | Why does Spanish use tener for age? | Which numbers are hardest to remember? | How fast can you count to 20?
+pr: Write ten simple math problems in Spanish words and answer them, then write your age and two friends' ages.
+ex: Age || Say "I am 13." || Tengo + años || Tengo trece años. || Ask a friend's age.
+ex: Addition || 7 + 8 = ? || siete más ocho son… || Siete más ocho son quince. || 9 + 11?
+ex: Subtraction || 20 − 6 = ? || veinte menos seis son… || Veinte menos seis son catorce. || 18 − 5?
+ex: Pattern || Spell 17. || diez y siete together || diecisiete || Spell 19.
+p: B || What is 5? || Cinco.
+p: B || What is 10? || Diez.
+p: B || What is 12? || Doce.
+p: B || What is 15? || Quince.
+p: B || What is 20? || Veinte.
+p: I || What is 16? || Dieciséis.
+p: I || What is 14? || Catorce.
+p: I || Say "I am 12." || Tengo doce años.
+p: I || Ask "How old are you?" || ¿Cuántos años tienes?
+p: I || What is tres más cuatro? || Siete.
+p: I || What is quince menos cinco? || Diez.
+p: C || Why does Spanish say "I have 12 years"? || Spanish uses tener for age.
+p: C || What does dieciocho come from? || Diez y ocho.
+p: C || Solve: once más nueve. || Veinte.
+p: C || Write your math problems. || Answers vary.
+mis: Saying "soy doce años" | Writing "diez y seis" as separate words | Confusing doce and dos
+et: Cuenta de 10 a 20. | ¿Cuántos años tienes?
+mc: B || "Cinco" is || 5 | 4 | 6 | 15 || A
+mc: B || "Diez" is || 10 | 2 | 12 | 20 || A
+mc: B || "Quince" is || 15 | 5 | 14 | 50 || A
+mc: B || "Veinte" is || 20 | 2 | 12 | 22 || A
+mc: B || "Doce" is || 12 | 2 | 10 | 20 || A
+mc: B || "Más" in math means || plus | minus | equals | times || A
+mc: I || 16 is || dieciséis | seisdiez | diez seis | sesenta || A
+mc: I || "I am 13" is || Tengo trece años. | Soy trece años. | Estoy trece. | Tengo trece. || A
+mc: I || Siete más ocho son || quince | catorce | dieciséis | trece || A
+mc: I || Veinte menos seis son || catorce | trece | quince | doce || A
+mc: C || Spanish age uses || tener | ser | estar | hacer || A
+mc: C || 16–19 combine || diez y + number | number + diez | veinte + number | nothing || A
+sa: B || Count from 0 to 10 in Spanish. || Cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
+sa: B || Write 11 to 15. || Once, doce, trece, catorce, quince.
+sa: I || Write 16 to 20. || Dieciséis, diecisiete, dieciocho, diecinueve, veinte.
+sa: I || Say your age. || Answers vary.
+sa: I || Solve: ocho más nueve. || Diecisiete.
+sa: I || Ask a friend's age. || ¿Cuántos años tienes?
+sa: C || Explain the 16–19 pattern. || Diez y + number joined into one word.
+sa: C || Write your math problems. || Answers vary.
+
+=== SPA7.B1 0
+hook: In many Spanish-speaking families, grandparents, aunts, uncles and cousins gather every Sunday for a big meal. Family is central, so family words are among the first you'll need.
+sc: I can name family members in Spanish | I can use masculine and feminine family words | I can talk about who is in a family tree
+v: la familia :: the family
+v: el padre / la madre :: father / mother
+v: el hermano / la hermana :: brother / sister
+v: el abuelo / la abuela :: grandfather / grandmother
+v: el tío / la tía :: uncle / aunt
+v: el primo / la prima :: cousin (male / female)
+v: los padres :: parents
+v: los abuelos :: grandparents
+ts: Mi familia || Reading || Who is in a family?
+tx: Text (read aloud, written for this lesson): ¶ ¡Hola! Me llamo Diego. Esta es mi familia. Mi padre se llama Carlos y mi madre se llama Ana. Tengo una hermana, Sofía, y un hermano, Mateo. Mis abuelos se llaman José y Rosa. Mi tío Luis es el hermano de mi madre. Tengo dos primos, Pablo y Elena. ¡Mi familia es grande! ¶ Grammar: masculine -o, feminine -a: hermano/hermana, tío/tía, primo/prima. ¶ Plurals: the masculine plural can include both genders: los hermanos = brothers or brothers and sisters; los padres = parents; los abuelos = grandparents. ¶ Possession with de: el hermano de mi madre (my mother's brother). ¶ Activity: draw a family tree (real or of a famous/fictional family) and label it; then partners ask ¿Quién es…? and answer Es mi…
+src: Original text written for this lesson.
+st: Read Diego's text | Learn family words | Notice masculine and feminine pairs | Learn mixed plurals | Draw and label a family tree
+org: Persona | Relación en español
+an: How many siblings does Diego have? | Who is Luis? | Why can "los hermanos" mean brothers and sisters? | How do you show possession with de?
+pr: Draw and label a family tree with at least eight family members in Spanish, and write four sentences about it.
+ex: Relationship || Who is your mother's brother? || el hermano de mi madre || Mi tío || Who is your father's mother?
+ex: Feminine || Feminine of primo? || -o → -a || prima || Feminine of abuelo?
+ex: Plural || What does "los abuelos" mean? || Masculine plural || Grandparents (grandfather and grandmother) || What about "los tíos"?
+ex: De || Say "my sister's friend." || el amigo de || el amigo de mi hermana || Another?
+p: B || What is "la familia"? || The family.
+p: B || What is "la madre"? || The mother.
+p: B || What is "el hermano"? || The brother.
+p: B || What is "la abuela"? || The grandmother.
+p: B || What is "el tío"? || The uncle.
+p: I || Feminine of primo? || Prima.
+p: I || What does "los padres" mean? || Parents.
+p: I || What does "los hermanos" mean? || Brothers, or brothers and sisters.
+p: I || Who is Luis to Diego? || His uncle.
+p: I || Who are José and Rosa? || Diego's grandparents.
+p: I || Say "my father's sister." || La hermana de mi padre.
+p: C || Why can los hermanos include sisters? || A masculine plural can include both genders.
+p: C || Translate: My aunt is my mother's sister. || Mi tía es la hermana de mi madre.
+p: C || Translate: I have three cousins. || Tengo tres primos.
+p: C || Describe your family tree. || Answers vary.
+mis: Thinking los padres means fathers only | Using "'s" possession in Spanish | Mixing tío and tía
+et: Nombra cinco miembros de la familia. | Who is your mother's brother?
+mc: B || "La madre" is || the mother | the father | the sister | the aunt || A
+mc: B || "El hermano" is || the brother | the sister | the cousin | the uncle || A
+mc: B || "La abuela" is || the grandmother | the aunt | the mother | the cousin || A
+mc: B || "El tío" is || the uncle | the aunt | the cousin | the grandfather || A
+mc: B || "La prima" is || the female cousin | the first | the aunt | the sister || A
+mc: B || "La familia" is || the family | the friend | the house | the city || A
+mc: I || "Los padres" means || parents | fathers only | brothers | grandparents || A
+mc: I || "Los abuelos" means || grandparents | grandfathers only | uncles | parents || A
+mc: I || Your mother's brother is your || tío | primo | abuelo | hermano || A
+mc: I || "My father's sister" is || la hermana de mi padre | mi padre's hermana | la padre de mi hermana | mi hermana padre || A
+mc: C || Masculine plurals can include || both genders | only males | only females | no one || A
+mc: C || Spanish shows possession with || de | 's | of the | apostrophes || A
+sa: B || Name eight family members in Spanish. || Padre, madre, hermano, hermana, abuelo, abuela, tío, tía.
+sa: B || What does "los abuelos" mean? || Grandparents.
+sa: I || Give feminine forms of hermano, tío and primo. || Hermana, tía, prima.
+sa: I || Who is Luis in the text? || Diego's uncle, his mother's brother.
+sa: I || Say "my mother's father." || El padre de mi madre.
+sa: I || Describe two people in your tree. || Answers vary.
+sa: C || Explain mixed-gender plurals. || The masculine plural can include both genders.
+sa: C || Describe your family tree. || Answers vary.
+
+=== SPA7.B1 1
+hook: "Tengo dos hermanos. Mi hermano tiene un perro. Su perro es enorme." Tener (to have) and the words my, your and his/her let you talk about everyone in your life and what they have.
+sc: I can conjugate tener in the present | I can use possessive adjectives mi, tu, su, nuestro | I can describe what family members have
+v: tener :: to have
+v: tengo / tienes / tiene :: I have / you have / he, she has
+v: tenemos / tienen :: we have / they have
+v: mi / mis :: my
+v: tu / tus :: your
+v: su / sus :: his, her, their, your (formal)
+v: nuestro / nuestra :: our
+v: la mascota :: the pet
+ts: Tengo… || Grammar || How do I say what people have and whose things are whose?
+tx: Grammar (written for this lesson): ¶ tener (irregular): yo tengo, tú tienes, él/ella/usted tiene, nosotros tenemos, vosotros tenéis (Spain), ellos/ellas/ustedes tienen. ¶ Possessive adjectives agree with the thing owned, not the owner: mi hermano, mis hermanos; tu gato, tus gatos; su perro (his/her/their dog), sus perros; nuestro abuelo, nuestra abuela, nuestros primos. ¶ Text: Tengo una familia pequeña. Tengo un hermano. Mi hermano tiene quince años y tiene un perro. Su perro se llama Toby. Nosotros tenemos dos gatos también. Mis abuelos tienen una casa en Chile. ¿Y tú? ¿Tienes mascotas? ¶ Negative: no + verb: No tengo hermanas. ¶ Activity: "¿Tienes…?" survey: ask classmates about siblings and pets; report with tiene/tienen and su/sus.
+src: Original text written for this lesson.
+st: Conjugate tener | Learn possessive adjectives | Read the text | Make sentences negative with no | Survey classmates about siblings and pets
+org: Nombre | ¿Hermanos? | ¿Mascotas? | Frase con su/sus
+an: How many pets does the family have? | Why is it "mis abuelos" with an s? | What does su mean in "su perro"? | What did your survey show?
+pr: Write six sentences about your family and pets using four forms of tener and four possessive adjectives.
+ex: Tener || "We have a cat." || tenemos || Tenemos un gato. || "They have two dogs."
+ex: Plural possessive || "my grandparents" || plural → mis || mis abuelos || "your cousins"?
+ex: Su || "Her dog is big." || su + perro || Su perro es grande. || "Their dogs are small."
+ex: Negative || "I don't have sisters." || no + tengo || No tengo hermanas. || "She doesn't have pets."
+p: B || What does "tener" mean? || To have.
+p: B || What is "tengo"? || I have.
+p: B || What is "tienes"? || You have.
+p: B || What does "mi" mean? || My.
+p: B || What is "la mascota"? || The pet.
+p: I || Conjugate tener: nosotros. || Tenemos.
+p: I || Conjugate tener: ellos. || Tienen.
+p: I || Say "my brothers." || Mis hermanos.
+p: I || Say "our grandmother." || Nuestra abuela.
+p: I || Say "I don't have a dog." || No tengo perro.
+p: I || How old is the brother in the text? || 15.
+p: C || Why is it "nuestra abuela" not "nuestro"? || Possessives agree with the thing owned (abuela is feminine).
+p: C || How can su be unclear? || It can mean his, her, their or your (formal).
+p: C || Translate: My grandparents have a house in Chile. || Mis abuelos tienen una casa en Chile.
+p: C || Write about your family and pets. || Answers vary.
+mis: Making possessives agree with the owner | Saying "yo tiene" | Forgetting the s on mis/tus/sus
+et: ¿Tienes mascotas? | Say "our cousins."
+mc: B || "Tener" means || to have | to be | to take | to go || A
+mc: B || "Tengo" means || I have | you have | he has | we have || A
+mc: B || "Mi" means || my | your | his | our || A
+mc: B || "Tu" means || your | my | his | their || A
+mc: B || "La mascota" is || the pet | the mask | the mascot only | the house || A
+mc: B || "Tienen" means || they have | we have | you have | he has || A
+mc: I || "We have" is || tenemos | tienemos | tenimos | tienen || A
+mc: I || "My grandparents" is || mis abuelos | mi abuelos | mis abuelo | mío abuelos || A
+mc: I || "Our grandmother" is || nuestra abuela | nuestro abuela | nuestros abuela | nuestras abuela || A
+mc: I || "I don't have sisters" is || No tengo hermanas. | Tengo no hermanas. | No tiene hermanas. | No hermanas tengo. || A
+mc: C || Possessives agree with || the thing owned | the owner | the verb | nothing || A
+mc: C || "Su" can mean || his, her, their or your | only his | only my | only our || A
+sa: B || Conjugate tener for yo, tú and él. || Tengo, tienes, tiene.
+sa: B || What does "tus" mean? || Your (plural things).
+sa: I || Conjugate tener for nosotros and ellos. || Tenemos, tienen.
+sa: I || Say "Her cats are black." || Sus gatos son negros.
+sa: I || Say "We don't have pets." || No tenemos mascotas.
+sa: I || Report a survey answer with su. || Answers vary.
+sa: C || Explain possessive agreement. || They agree with the thing owned.
+sa: C || Write about your family. || Answers vary.
+
+=== SPA7.B1 2
+hook: Now you can put it all together: who's in your family, what they're like and what they have. Today you'll present your family (real, imagined or famous) in Spanish.
+sc: I can describe family members' appearance and personality | I can combine ser, tener and possessives in a description | I can present a family in Spanish
+v: el pelo :: hair
+v: los ojos :: eyes
+v: castaño / rubio / negro :: brown / blond / black (hair)
+v: azules / verdes / marrones :: blue / green / brown (eyes)
+v: bajo / baja :: short (height)
+v: divertido / divertida :: fun
+v: trabajador / trabajadora :: hard-working
+v: cariñoso / cariñosa :: affectionate
+ts: Te presento a mi familia || Presentation || How do I describe my family in Spanish?
+tx: Model (written for this lesson): ¶ Te presento a mi familia. Mi madre se llama Laura. Es alta y tiene el pelo castaño y los ojos verdes. Es muy trabajadora. Mi padre se llama Omar. Es bajo y tiene el pelo negro. Es divertido. Tengo una hermana menor. Se llama Mia, tiene ocho años y es cariñosa. Mi abuela vive con nosotros. Tiene el pelo gris y es muy simpática. ¡Me encanta mi familia! ¶ Structures: ser + personality and height (Es alta, es divertido). tener + hair and eyes (Tiene el pelo rubio, tiene los ojos azules). ¶ Order: in Spanish most adjectives come after the noun: el pelo negro, los ojos verdes. ¶ Plural adjectives add -s: ojos azules. ¶ Activity: create a poster or slide of a family (real, invented or a famous TV family) and present it in 1 minute. Classmates ask one question: ¿Cómo es tu…? ¿Cuántos años tiene…?
+src: Original model text written for this lesson.
+st: Read the model presentation | Use ser for personality | Use tener for hair and eyes | Place adjectives after nouns | Present a family and answer a question
+org: Persona | Ser (personalidad) | Tener (pelo, ojos) | Edad
+an: Why "tiene el pelo castaño" but "es alta"? | Where do adjectives go in Spanish? | Which family member was easiest to describe? | What question did a classmate ask you?
+pr: Present a family of at least four members in Spanish, describing appearance, personality and age, and answer one question.
+ex: Hair || "He has blond hair." || tener + el pelo + adjective || Tiene el pelo rubio. || "She has black hair."
+ex: Eyes || "She has blue eyes." || tener + los ojos + adjective (plural) || Tiene los ojos azules. || "I have brown eyes."
+ex: Personality || "My sister is affectionate." || ser + feminine adjective || Mi hermana es cariñosa. || "My father is hard-working."
+ex: Age || "My grandmother is 70." || tiene … años || Mi abuela tiene setenta años. || Your own?
+p: B || What is "el pelo"? || Hair.
+p: B || What are "los ojos"? || Eyes.
+p: B || What does "rubio" mean? || Blond.
+p: B || What does "divertido" mean? || Fun.
+p: B || What does "trabajador" mean? || Hard-working.
+p: I || Say "He has brown hair." || Tiene el pelo castaño.
+p: I || Say "She has green eyes." || Tiene los ojos verdes.
+p: I || Say "My mother is tall." || Mi madre es alta.
+p: I || Feminine of cariñoso? || Cariñosa.
+p: I || How old is Mia? || 8.
+p: I || What does Laura look like? || Tall, brown hair, green eyes.
+p: C || Why use tener for hair but ser for personality? || Spanish says you "have" hair and eyes but "are" a personality.
+p: C || Why "ojos azules" with an s? || Adjectives agree in number with the noun.
+p: C || Translate: My brother is short and fun and has black eyes. || Mi hermano es bajo y divertido y tiene los ojos negros.
+p: C || Present your family. || Answers vary.
+mis: Saying "es pelo rubio" | Putting adjectives before nouns | Forgetting plural agreement with ojos
+et: Describe a family member's hair and eyes. | Describe their personality.
+mc: B || "El pelo" is || hair | the dog | the ball | the head || A
+mc: B || "Los ojos" are || eyes | ears | hands | eggs || A
+mc: B || "Rubio" means || blond | red | brown | black || A
+mc: B || "Bajo" means || short | tall | thin | big || A
+mc: B || "Cariñoso" means || affectionate | careful | expensive | funny || A
+mc: B || "Trabajador" means || hard-working | lazy | tired | traveller || A
+mc: I || "She has blue eyes" is || Tiene los ojos azules. | Es ojos azules. | Tiene los azules ojos. | Tiene ojo azul. || A
+mc: I || "He has black hair" is || Tiene el pelo negro. | Es el pelo negro. | Tiene negro pelo. | Está pelo negro. || A
+mc: I || "My sister is fun" is || Mi hermana es divertida. | Mi hermana es divertido. | Mi hermana tiene divertida. | Mi hermana está divertida. || A
+mc: I || Spanish adjectives usually go || after the noun | before the noun | at the end of the sentence | nowhere || A
+mc: C || Hair and eyes use || tener | ser | estar | hacer || A
+mc: C || "Ojos azules" has -es because || adjectives agree in number | it's feminine | it's past | it's a verb || A
+sa: B || Name three hair colours. || Castaño, rubio, negro.
+sa: B || Name three eye colours. || Azules, verdes, marrones.
+sa: I || Describe someone's hair and eyes. || Answers vary.
+sa: I || Describe someone's personality with ser. || Answers vary.
+sa: I || Say a family member's age. || Answers vary.
+sa: I || Describe Omar from the model. || Es bajo, tiene el pelo negro y es divertido.
+sa: C || Explain tener vs ser in descriptions. || Tener for hair and eyes; ser for personality and height.
+sa: C || Present your family. || Answers vary.
+
+=== SPA7.C1 0
+hook: Matemáticas, ciencias, educación física: many Spanish school words look like English ones. These "cognates" give you a head start in naming your classes and school items.
+sc: I can name school subjects and supplies in Spanish | I can recognize cognates | I can say what I have in my backpack with el, la, un, una
+v: las clases / las asignaturas :: classes / subjects
+v: las matemáticas :: math
+v: las ciencias :: science
+v: la educación física :: phys ed
+v: el lápiz / los lápices :: pencil / pencils
+v: el bolígrafo :: pen
+v: la mochila :: backpack
+v: el cuaderno :: notebook
+ts: Mi mochila || Reading || What classes and school supplies can I name in Spanish?
+tx: Text (read aloud, written for this lesson): ¶ Me llamo Valentina y estoy en séptimo grado. Mis clases son matemáticas, ciencias, inglés, español, estudios sociales, arte y educación física. En mi mochila hay un cuaderno, dos lápices, un bolígrafo, una calculadora, una regla y un libro de español. ¶ Cognates: words similar in English: matemáticas, ciencias, arte, música, calculadora, computadora. ¶ Articles: masculine el/un (el cuaderno, un lápiz); feminine la/una (la mochila, una regla); plural los/unos, las/unas. ¶ Hay = there is / there are. No hay = there isn't / aren't. ¶ Plurals: add -s after a vowel (cuadernos), -es after a consonant (lápiz → lápices, z becomes c). ¶ Activity: "¿Qué hay en tu mochila?": partners guess each other's items with ¿Hay un/una…?
+src: Original text written for this lesson.
+st: Read Valentina's text | Spot cognates | Learn el, la, un, una | Use hay | Play the backpack guessing game
+org: Objeto | el/la | un/una | Plural
+an: What classes does Valentina have? | Which words are cognates? | Why does lápiz become lápices? | What's in your backpack?
+pr: Write your class list and a paragraph about your backpack using hay and correct articles.
+ex: Article || Is "mochila" masculine or feminine? || Ends in -a || Feminine: la mochila || What about cuaderno?
+ex: Hay || "There is a calculator." || hay + una || Hay una calculadora. || "There are three pencils."
+ex: Plural || Plural of lápiz? || z → c + es || lápices || Plural of regla?
+ex: Cognate || Find a cognate in the text. || Similar to English || calculadora (calculator) || Find another.
+p: B || What are "las clases"? || Classes.
+p: B || What are "las matemáticas"? || Math.
+p: B || What is "el lápiz"? || The pencil.
+p: B || What is "la mochila"? || The backpack.
+p: B || What is "el cuaderno"? || The notebook.
+p: I || What does "hay" mean? || There is / there are.
+p: I || Plural of lápiz? || Lápices.
+p: I || Say "There are two pens." || Hay dos bolígrafos.
+p: I || Say "There isn't a ruler." || No hay regla.
+p: I || What is a cognate? || A word similar in two languages.
+p: I || Name two cognates. || Calculadora, música.
+p: C || Why is it "la educación física"? || Educación is feminine.
+p: C || Translate: In my backpack there is a notebook and a calculator. || En mi mochila hay un cuaderno y una calculadora.
+p: C || Translate: My classes are math, science and art. || Mis clases son matemáticas, ciencias y arte.
+p: C || Describe your backpack. || Answers vary.
+mis: Writing "lápizes" | Assuming every cognate means the same thing | Using el with feminine nouns
+et: Nombra tres clases. | ¿Qué hay en tu mochila?
+mc: B || "Las matemáticas" is || math | music | maps | materials || A
+mc: B || "El lápiz" is || pencil | pen | paper | ruler || A
+mc: B || "La mochila" is || backpack | notebook | desk | locker || A
+mc: B || "El cuaderno" is || notebook | quarter | pencil case | book || A
+mc: B || "Hay" means || there is/are | I have | he has | hello || A
+mc: B || "El bolígrafo" is || pen | ball | pencil | glue || A
+mc: I || Plural of lápiz is || lápices | lápizes | lápizs | lápiz || A
+mc: I || "Mochila" is || feminine | masculine | plural | a verb || A
+mc: I || "There are two pencils" is || Hay dos lápices. | Hay dos lápiz. | Son dos lápices. | Tengo hay lápices. || A
+mc: I || A cognate is || similar in two languages | a type of pen | a false word | a verb || A
+mc: C || Words ending in z change to || -ces in plural | -zes | -s | nothing || A
+mc: C || "No hay regla" means || There isn't a ruler | There is a ruler | I have a rule | No rules || A
+sa: B || Name five school subjects in Spanish. || Matemáticas, ciencias, inglés, arte, educación física.
+sa: B || Name four school supplies with articles. || El lápiz, el bolígrafo, la mochila, el cuaderno.
+sa: I || Say "There is a calculator." || Hay una calculadora.
+sa: I || Give two plurals. || Lápices, cuadernos.
+sa: I || Name three cognates. || Calculadora, música, arte.
+sa: I || List Valentina's classes. || Matemáticas, ciencias, inglés, español, estudios sociales, arte, educación física.
+sa: C || Explain the lápiz plural rule. || Z changes to c and adds -es.
+sa: C || Describe your backpack. || Answers vary.
+
+=== SPA7.C1 1
+hook: "¿Qué hora es?" is useful everywhere, from catching a bus in Madrid to knowing when your next class starts. Spanish tells time with ser and a few key phrases.
+sc: I can ask and tell time in Spanish | I can use y cuarto, y media and menos cuarto | I can say when classes happen with a las…
+v: ¿Qué hora es? :: What time is it?
+v: Es la una :: It's one o'clock
+v: Son las … :: It's … o'clock (2–12)
+v: y cuarto :: quarter past
+v: y media :: half past
+v: menos cuarto :: quarter to
+v: ¿A qué hora es…? :: At what time is…?
+v: de la mañana / de la tarde :: in the morning / in the afternoon
+ts: ¿Qué hora es? || Practice || How do I tell time in Spanish?
+tx: Time guide (written for this lesson): ¶ 1:00 Es la una. 2:00 Son las dos. 3:10 Son las tres y diez. ¶ 4:15 Son las cuatro y cuarto. 4:30 Son las cuatro y media. 4:45 Son las cinco menos cuarto. 4:50 Son las cinco menos diez. ¶ Note: "Es la una" (singular) but "Son las dos, tres…" (plural). ¶ Times of day: de la mañana (a.m.), de la tarde (afternoon), de la noche (evening/night). Mediodía = noon, medianoche = midnight. ¶ When something happens: a la una, a las ocho y media. ¿A qué hora es la clase de ciencias? Es a las diez. ¶ Valentina's schedule: matemáticas a las ocho y media; español a las nueve y media; recreo a las diez y media; ciencias a las once menos cuarto; almuerzo a las doce; arte a la una. ¶ Activity: paper clocks with a partner; then answer questions about the schedule.
+src: Original activity written for this lesson.
+st: Learn es la una and son las | Learn cuarto, media and menos | Add de la mañana and de la tarde | Practise with paper clocks | Answer schedule questions
+org: Hora | En español
+an: Why "es la una" but "son las dos"? | How do you say 3:45? | What's the difference between ¿Qué hora es? and ¿A qué hora…? | When is Valentina's art class?
+pr: Write your school schedule in Spanish with times, and answer three ¿A qué hora…? questions.
+ex: One o'clock || Say 1:30. || Es la una y… || Es la una y media. || Say 2:30.
+ex: Quarter to || Say 6:45. || Next hour menos cuarto || Son las siete menos cuarto. || Say 6:50.
+ex: When || "Science is at 10:45." || a las || La clase de ciencias es a las once menos cuarto. || When is lunch?
+ex: Time of day || Say 8:00 p.m. || de la noche || Son las ocho de la noche. || Say 9:00 a.m.
+p: B || How do you ask the time? || ¿Qué hora es?
+p: B || Say 1:00. || Es la una.
+p: B || Say 3:00. || Son las tres.
+p: B || What does "y media" mean? || Half past.
+p: B || What does "y cuarto" mean? || Quarter past.
+p: I || Say 5:15. || Son las cinco y cuarto.
+p: I || Say 5:45. || Son las seis menos cuarto.
+p: I || Say 7:30. || Son las siete y media.
+p: I || What is "mediodía"? || Noon.
+p: I || When is Valentina's lunch? || A las doce.
+p: I || Ask "At what time is math?" || ¿A qué hora es la clase de matemáticas?
+p: C || Why is it "es la una"? || One is singular, so it uses es and la.
+p: C || How do you say 9:00 a.m.? || Son las nueve de la mañana.
+p: C || Translate: Art class is at one in the afternoon. || La clase de arte es a la una de la tarde.
+p: C || Write your schedule. || Answers vary.
+mis: Saying "son la una" | Confusing ¿Qué hora es? with ¿A qué hora? | Saying "las cuatro y cuarenta y cinco" only
+et: ¿Qué hora es? (4:30) | Say "at 9:15."
+mc: B || "¿Qué hora es?" means || What time is it? | What day is it? | How are you? | Where is it? || A
+mc: B || "Es la una" means || It's one o'clock | It's one | It's noon | It's the first || A
+mc: B || "Y media" means || half past | quarter past | quarter to | ten past || A
+mc: B || "Menos cuarto" means || quarter to | quarter past | half past | minus four || A
+mc: B || "Mediodía" is || noon | midnight | morning | evening || A
+mc: B || "De la mañana" means || in the morning | in the afternoon | at night | tomorrow || A
+mc: I || 2:30 is || Son las dos y media. | Es la dos y media. | Son las dos y cuarto. | Son las tres menos media. || A
+mc: I || 6:45 is || Son las siete menos cuarto. | Son las seis menos cuarto. | Son las seis y media. | Es la siete. || A
+mc: I || "At eight o'clock" is || a las ocho | son las ocho | es las ocho | en ocho || A
+mc: I || Valentina's art class is || a la una | a las ocho | a las doce | a las diez || A
+mc: C || One o'clock uses es because || one is singular | it's special | it's morning | it's a rule for noon || A
+mc: C || "¿A qué hora…?" asks || when something happens | the current time | the day | how long || A
+sa: B || Ask what time it is. || ¿Qué hora es?
+sa: B || Say 1:00 and 2:00. || Es la una. Son las dos.
+sa: I || Say 10:15, 10:30 and 10:45. || Son las diez y cuarto; diez y media; once menos cuarto.
+sa: I || Say 7:00 p.m. || Son las siete de la tarde.
+sa: I || When is Valentina's math class? || A las ocho y media.
+sa: I || Ask when science class is. || ¿A qué hora es la clase de ciencias?
+sa: C || Explain es la una vs son las dos. || Singular for one, plural for others.
+sa: C || Write your schedule. || Answers vary.
+
+=== SPA7.C1 2
+hook: Hablar, estudiar, escuchar, tomar apuntes: most school verbs in Spanish end in -ar and follow one simple pattern. Learn it once and you can describe your whole school day.
+sc: I can conjugate regular -ar verbs in the present | I can describe school activities | I can ask and answer questions about school
+v: hablar :: to speak
+v: estudiar :: to study
+v: escuchar :: to listen
+v: trabajar :: to work
+v: necesitar :: to need
+v: tomar apuntes :: to take notes
+v: practicar :: to practise
+v: llegar :: to arrive
+ts: En la escuela || Grammar || How do I describe school activities with -ar verbs?
+tx: -ar pattern (written for this lesson), using hablar: ¶ yo hablo, tú hablas, él/ella/usted habla, nosotros hablamos, vosotros habláis (Spain), ellos/ellas/ustedes hablan. ¶ Endings: -o, -as, -a, -amos, -áis, -an. ¶ Subject pronouns are often dropped because the ending shows the subject: Hablo español (I speak Spanish). ¶ Text: Llego a la escuela a las ocho. En la clase de español, hablamos y escuchamos música. En ciencias, trabajo con mi compañera. Estudiamos los planetas. En matemáticas, necesito una calculadora. Después de la escuela, mis amigos practican fútbol. ¿Y tú? ¿Qué estudias? ¶ Questions: ¿Estudias mucho? Sí, estudio mucho. / No, no estudio mucho. ¶ Activity: "Busca a alguien que…" (find someone who): ¿Hablas tres idiomas? ¿Practicas un deporte? ¿Escuchas música en la clase?
+src: Original text written for this lesson.
+st: Learn the -ar pattern | Read the school text | Drop subject pronouns | Ask and answer sí/no questions | Play "Busca a alguien que…"
+org: Pronombre | Terminación | Ejemplo
+an: What do students do in Spanish class? | Why can Spanish drop "yo"? | What does the writer need in math? | What did you find out about classmates?
+pr: Write eight sentences about your school day using at least six -ar verbs and four different subjects.
+ex: Pattern || Conjugate estudiar with nosotros. || estudi + amos || Estudiamos. || With ellos?
+ex: Dropped pronoun || What does "Necesito un lápiz" mean? || -o = yo || I need a pencil. || What does "Escuchan" mean?
+ex: Question || Ask "Do you practise sports?" || tú form || ¿Practicas deportes? || Answer it.
+ex: Negative || "I don't work on weekends." || no + verb || No trabajo los fines de semana. || Another?
+p: B || What does "hablar" mean? || To speak.
+p: B || What does "estudiar" mean? || To study.
+p: B || What does "escuchar" mean? || To listen.
+p: B || What does "necesitar" mean? || To need.
+p: B || What does "llegar" mean? || To arrive.
+p: I || Conjugate hablar: yo. || Hablo.
+p: I || Conjugate hablar: tú. || Hablas.
+p: I || Conjugate hablar: nosotros. || Hablamos.
+p: I || Conjugate hablar: ellos. || Hablan.
+p: I || Say "I study science." || Estudio ciencias.
+p: I || Say "We listen to music." || Escuchamos música.
+p: C || Why can Spanish drop the subject pronoun? || The verb ending shows who is acting.
+p: C || Translate: My friends practise soccer after school. || Mis amigos practican fútbol después de la escuela.
+p: C || Translate: Do you need a calculator? || ¿Necesitas una calculadora?
+p: C || Describe your school day. || Answers vary.
+mis: Using the infinitive after yo | Mixing -as and -a endings | Always including yo
+et: Conjugate estudiar for yo and nosotros. | ¿Qué estudias?
+mc: B || "Hablar" means || to speak | to listen | to study | to work || A
+mc: B || "Escuchar" means || to listen | to write | to read | to speak || A
+mc: B || "Estudiar" means || to study | to stand | to start | to stop || A
+mc: B || "Necesitar" means || to need | to know | to see | to want || A
+mc: B || "Llegar" means || to arrive | to leave | to read | to call || A
+mc: B || "Trabajar" means || to work | to travel | to play | to talk || A
+mc: I || "Yo" form of hablar is || hablo | habla | hablas | hablamos || A
+mc: I || "Nosotros" form of estudiar is || estudiamos | estudian | estudias | estudio || A
+mc: I || "Ellos" form of practicar is || practican | practicamos | practica | practicas || A
+mc: I || "Necesito un lápiz" means || I need a pencil | You need a pencil | He needs a pencil | We need pencils || A
+mc: C || Spanish drops pronouns because || verb endings show the subject | it's rude | it's informal | nobody knows || A
+mc: C || The -ar ending for tú is || -as | -o | -a | -an || A
+sa: B || Name six -ar verbs. || Hablar, estudiar, escuchar, trabajar, necesitar, practicar.
+sa: B || Give the -ar endings. || -o, -as, -a, -amos, -áis, -an.
+sa: I || Conjugate escuchar fully (without vosotros). || Escucho, escuchas, escucha, escuchamos, escuchan.
+sa: I || Ask "Do you speak French?" || ¿Hablas francés?
+sa: I || Answer negatively. || No, no hablo francés.
+sa: I || Say what you study in science. || Answers vary.
+sa: C || Explain dropped subject pronouns. || The ending shows the subject.
+sa: C || Describe your school day. || Answers vary.
+
+=== SPA7.D1 0
+hook: Lunes, martes, miércoles… The Spanish days of the week come from the planets and gods of ancient Rome: lunes from the Moon (luna), martes from Mars. Today you'll learn them along with everyday activities.
+sc: I can name the days of the week in Spanish | I can say what I do on different days | I can use el lunes and los lunes correctly
+v: los días de la semana :: the days of the week
+v: lunes, martes, miércoles :: Monday, Tuesday, Wednesday
+v: jueves, viernes :: Thursday, Friday
+v: sábado, domingo :: Saturday, Sunday
+v: hoy / mañana :: today / tomorrow
+v: el fin de semana :: the weekend
+v: los lunes :: on Mondays (every Monday)
+v: el lunes :: on Monday (this Monday)
+ts: Los días || Practice || How do I talk about days and activities in Spanish?
+tx: Days (written for this lesson): lunes, martes, miércoles, jueves, viernes, sábado, domingo. In Spanish, days are not capitalized, and the week usually starts on Monday. ¶ Origins: lunes (luna, Moon), martes (Marte, Mars), miércoles (Mercurio, Mercury), jueves (Júpiter), viernes (Venus); sábado comes from the Sabbath and domingo from Latin for "Lord's day." ¶ el lunes = on (this) Monday; los lunes = on Mondays (every week). ¶ Activities: Los lunes, practico fútbol. Los miércoles, tengo clase de piano. El sábado, visito a mis abuelos. Los domingos, descanso. ¶ Questions: ¿Qué día es hoy? Hoy es jueves. ¿Qué haces los sábados? ¶ Activity: make a weekly planner in Spanish with one activity per day, then share with a partner who asks ¿Qué haces los martes?
+src: Original activity written for this lesson.
+st: Learn the days | Learn the origins | Use el lunes vs los lunes | Make a weekly planner | Ask about a partner's week
+org: Día | Actividad
+an: Which day names come from planets? | Why aren't days capitalized? | What's the difference between el lunes and los lunes? | What does your partner do on Saturdays?
+pr: Create a weekly planner in Spanish with an activity for each day and five sentences using los + day.
+ex: Today || "Today is Friday." || Hoy es + day || Hoy es viernes. || "Tomorrow is Saturday."
+ex: Every week || "On Tuesdays I play basketball." || los + day || Los martes, juego al baloncesto. || Another?
+ex: This week || "On Saturday I'm visiting my grandparents." || el + day || El sábado, visito a mis abuelos. || Why el?
+ex: Origin || Where does "lunes" come from? || Latin || Luna, the Moon || What about martes?
+p: B || What is "lunes"? || Monday.
+p: B || What is "miércoles"? || Wednesday.
+p: B || What is "viernes"? || Friday.
+p: B || What is "domingo"? || Sunday.
+p: B || What does "hoy" mean? || Today.
+p: I || What is "el fin de semana"? || The weekend.
+p: I || Ask "What day is today?" || ¿Qué día es hoy?
+p: I || Say "On Mondays I study." || Los lunes, estudio.
+p: I || Which day comes from Mars? || Martes.
+p: I || Which day comes from the Moon? || Lunes.
+p: I || Are Spanish days capitalized? || No.
+p: C || What's the difference between el lunes and los lunes? || This Monday versus every Monday.
+p: C || Translate: On Sundays I rest. || Los domingos, descanso.
+p: C || Translate: Tomorrow is Thursday. || Mañana es jueves.
+p: C || Share your planner. || Answers vary.
+mis: Capitalizing days | Saying "en lunes" | Forgetting the s for repeated days
+et: Nombra los días de la semana. | ¿Qué haces los sábados?
+mc: B || "Lunes" is || Monday | Tuesday | Sunday | Moon only || A
+mc: B || "Jueves" is || Thursday | Tuesday | Friday | Wednesday || A
+mc: B || "Sábado" is || Saturday | Sunday | Friday | Monday || A
+mc: B || "Hoy" means || today | tomorrow | yesterday | now only || A
+mc: B || "Mañana" can mean || tomorrow | yesterday | evening | week || A
+mc: B || "El fin de semana" is || the weekend | the end of school | the end | the week || A
+mc: I || "On Mondays" (every week) is || los lunes | el lunes | en lunes | lunes los || A
+mc: I || "Today is Wednesday" is || Hoy es miércoles. | Hoy está miércoles. | Es hoy miércoles día. | Hoy son miércoles. || A
+mc: I || Martes comes from || Mars | the Moon | Venus | Jupiter || A
+mc: I || Spanish days are || not capitalized | always capitalized | in English | numbers || A
+mc: C || "El sábado" means || this Saturday | every Saturday | the weekend | Sunday || A
+mc: C || Viernes comes from || Venus | Mars | Mercury | Saturn || A
+sa: B || List the seven days in Spanish. || Lunes, martes, miércoles, jueves, viernes, sábado, domingo.
+sa: B || Ask what day it is. || ¿Qué día es hoy?
+sa: I || Say what you do on Mondays. || Answers vary.
+sa: I || Explain el lunes vs los lunes. || This Monday versus every Monday.
+sa: I || Name three days from planets. || Lunes, martes, miércoles.
+sa: I || Say "Tomorrow is Friday." || Mañana es viernes.
+sa: C || Explain where day names come from. || Roman planets and gods, plus Sabbath and Lord's day.
+sa: C || Share your planner. || Answers vary.
+
+=== SPA7.D1 1
+hook: "Me levanto a las siete, desayuno, voy a la escuela…" Describing your daily routine is one of the most common conversations in any language class, and it uses some new verbs that point back at yourself.
+sc: I can describe my daily routine in Spanish | I can use common reflexive verbs in the yo form | I can use time and sequence words
+v: la rutina :: the routine
+v: me despierto :: I wake up
+v: me levanto :: I get up
+v: me ducho :: I shower
+v: me visto :: I get dressed
+v: desayuno :: I have breakfast
+v: me acuesto :: I go to bed
+v: primero / luego / después :: first / then / after
+ts: Mi rutina diaria || Reading || How do I describe my daily routine in Spanish?
+tx: Text (read aloud, written for this lesson): ¶ Los días de escuela, me despierto a las seis y media. Primero, me levanto y me ducho. Luego, me visto y desayuno cereal con fruta. A las ocho, voy a la escuela en autobús. Después de las clases, hago la tarea y practico hockey. Ceno con mi familia a las seis. Por la noche, leo un libro y me acuesto a las diez. ¶ Reflexive verbs: the action is done to yourself, so they use me (myself): me levanto (I get myself up). For now, learn the yo forms as chunks. ¶ Frequency words: siempre (always), a veces (sometimes), nunca (never), todos los días (every day). ¶ Sequence: primero, luego, después, finalmente. ¶ Activity: put picture cards of a routine in order and narrate them; then write your own routine and compare with a partner.
+src: Original text written for this lesson.
+st: Read the routine text | Learn reflexive yo forms | Use sequence words | Use frequency words | Narrate and compare routines
+org: Hora | Actividad
+an: What time does the writer wake up? | Why do reflexive verbs use me? | Which part of your routine is the same as the writer's? | What do you do every day?
+pr: Write your weekday routine with at least eight activities, times, sequence words and two frequency words.
+ex: Reflexive || "I get up at seven." || me levanto + a las || Me levanto a las siete. || "I go to bed at ten."
+ex: Sequence || "First I shower, then I get dressed." || primero, luego || Primero me ducho, luego me visto. || Add a step.
+ex: Frequency || "I always have breakfast." || siempre + verb || Siempre desayuno. || "I never shower at night."
+ex: Time || "I have dinner at six." || ceno a las || Ceno a las seis. || When do you eat?
+p: B || What is "la rutina"? || The routine.
+p: B || What does "me levanto" mean? || I get up.
+p: B || What does "me ducho" mean? || I shower.
+p: B || What does "desayuno" mean? || I have breakfast.
+p: B || What does "me acuesto" mean? || I go to bed.
+p: I || Say "I wake up at 6:30." || Me despierto a las seis y media.
+p: I || Say "I get dressed." || Me visto.
+p: I || What does "a veces" mean? || Sometimes.
+p: I || What does "nunca" mean? || Never.
+p: I || What does the writer practise after school? || Hockey.
+p: I || What time does the writer go to bed? || 10:00.
+p: C || Why do reflexive verbs use me? || The action is done to yourself.
+p: C || Translate: After school, I do homework and then I eat dinner. || Después de la escuela, hago la tarea y luego ceno.
+p: C || What do sequence words add? || They show the order of events.
+p: C || Write your routine. || Answers vary.
+mis: Leaving out me with reflexive verbs | Using sequence words incorrectly | Saying "yo levanto" for "I get up"
+et: Describe your morning in three steps. | When do you go to bed?
+mc: B || "Me levanto" means || I get up | I lie down | I wash | I eat || A
+mc: B || "Me ducho" means || I shower | I dress | I sleep | I run || A
+mc: B || "Me visto" means || I get dressed | I visit | I see myself | I watch || A
+mc: B || "Desayuno" means || I have breakfast | I have dinner | I sleep | I rest || A
+mc: B || "Me acuesto" means || I go to bed | I wake up | I cost | I sit || A
+mc: B || "Primero" means || first | then | after | finally || A
+mc: I || "I always have breakfast" is || Siempre desayuno. | Nunca desayuno. | A veces desayuno. | Desayuno siempre no. || A
+mc: I || "Then" is || luego | primero | nunca | siempre || A
+mc: I || The writer goes to school || by bus | by car | on foot | by bike || A
+mc: I || "Nunca" means || never | always | sometimes | now || A
+mc: C || Reflexive verbs show actions done || to yourself | to others | in the past | in the future || A
+mc: C || Sequence words show || order | frequency | place | weather || A
+sa: B || Name five routine verbs. || Me despierto, me levanto, me ducho, me visto, me acuesto.
+sa: B || What does "después" mean? || After.
+sa: I || Describe your morning with times. || Answers vary.
+sa: I || Use two frequency words in sentences. || Answers vary.
+sa: I || Use primero, luego and finalmente. || Answers vary.
+sa: I || What does the writer do at night? || Lee un libro y se acuesta a las diez.
+sa: C || Explain reflexive verbs. || Actions done to yourself, using me.
+sa: C || Write your routine. || Answers vary.
+
+=== SPA7.D1 2
+hook: In Spain, many families eat their main meal around 2 p.m. and dinner after 9 p.m. In Mexico, the big meal, la comida, also comes in the afternoon. How does your daily routine compare?
+sc: I can describe routines in Spanish-speaking countries | I can compare them with my own routine | I can explain why routines differ across cultures
+v: la comida :: the main meal (afternoon) / food
+v: la cena :: dinner, supper
+v: el almuerzo :: lunch
+v: la siesta :: a short afternoon rest
+v: tarde / temprano :: late / early
+v: más tarde que :: later than
+v: igual que :: the same as
+v: en cambio :: on the other hand
+ts: Rutinas del mundo || Comparison || How do daily routines differ across cultures?
+tx: Background (written for this lesson; general patterns, and every family is different): ¶ España: many people eat a light breakfast, a main meal (la comida) around 2–3 p.m. and dinner (la cena) around 9–10 p.m. School often runs until early or mid-afternoon. The traditional siesta (afternoon rest) is less common in big cities today but still exists, especially in summer. ¶ México: the main meal, la comida, is often eaten in the mid-afternoon with family; dinner is usually lighter. ¶ Argentina: dinner is often eaten late, after 9 p.m. ¶ Canadá: many families eat lunch around noon and dinner around 6 p.m. ¶ Comparison sentences: En España, cenan más tarde que en Canadá. En México, la comida es la comida principal. En cambio, en Canadá, la cena es la comida principal. Igual que en Canadá, los estudiantes en México van a la escuela por la mañana. ¶ Activity: make a timeline comparing a school day in Canada with one in Spain or Mexico; write five comparison sentences and one reason why routines differ (climate, work hours, traditions).
+src: Summary of general cultural patterns written for this lesson; routines vary by family and region.
+st: Learn about meal times in Spain, Mexico and Argentina | Compare with Canada | Learn comparison phrases | Make a comparison timeline | Explain why routines differ
+org: Actividad | Canadá | España o México
+an: When is the main meal in Spain and Mexico? | What surprised you? | Why might routines differ between countries? | Would you like a late dinner? Why?
+pr: Create a comparison timeline of a school day in Canada and a Spanish-speaking country, with five comparison sentences and a reason for the differences.
+ex: Later than || Compare dinner times. || más tarde que || En España, cenan más tarde que en Canadá. || Compare lunch.
+ex: En cambio || Contrast main meals. || en cambio || En México, la comida principal es por la tarde. En cambio, en Canadá, es la cena. || Another?
+ex: Same || Find a similarity. || igual que || Igual que en Canadá, los niños van a la escuela por la mañana. || Another?
+ex: Reason || Why might people in Spain eat late? || Climate and work || Hot afternoons and later work hours || Other reasons?
+p: B || What is "la comida" in Spain and Mexico? || The main afternoon meal.
+p: B || What is "la cena"? || Dinner.
+p: B || What is "el almuerzo"? || Lunch.
+p: B || What is "la siesta"? || A short afternoon rest.
+p: B || What does "tarde" mean? || Late.
+p: I || When do many people in Spain eat dinner? || Around 9–10 p.m.
+p: I || When do many Canadians eat dinner? || Around 6 p.m.
+p: I || What does "en cambio" mean? || On the other hand.
+p: I || What does "igual que" mean? || The same as.
+p: I || Is the siesta common in big Spanish cities today? || Less common than before.
+p: I || Say "They eat dinner later than us." || Cenan más tarde que nosotros.
+p: C || Why do routines differ between countries? || Climate, work hours and traditions.
+p: C || Why should we avoid saying another culture's routine is "weird"? || Different isn't wrong; routines fit their context.
+p: C || Translate: In Argentina, people eat dinner late. || En Argentina, la gente cena tarde.
+p: C || Share your comparison timeline. || Answers vary.
+mis: Thinking everyone in Spain naps every day | Assuming all Spanish-speaking countries have the same routine | Judging routines as right or wrong
+et: ¿A qué hora cenan en España? | Write one comparison sentence.
+mc: B || "La comida" in Mexico is || the main afternoon meal | breakfast | a snack | dinner only || A
+mc: B || "La cena" is || dinner | lunch | breakfast | a party || A
+mc: B || "La siesta" is || an afternoon rest | a party | a meal | a school || A
+mc: B || "Tarde" means || late | early | tired | today || A
+mc: B || "Temprano" means || early | late | quickly | temporary || A
+mc: B || "El almuerzo" is || lunch | breakfast | dinner | dessert || A
+mc: I || Dinner in Spain is often around || 9–10 p.m. | 5 p.m. | noon | 7 a.m. || A
+mc: I || "En cambio" means || on the other hand | in exchange only | in change | also || A
+mc: I || "Igual que" means || the same as | equal to zero | different from | more than || A
+mc: I || "Más tarde que" means || later than | earlier than | as late as | the latest || A
+mc: C || Routines differ because of || climate, work and tradition | language only | luck | nothing || A
+mc: C || Different routines are || different, not wrong | wrong | weird | better || A
+sa: B || When is the main meal in Spain? || Around 2–3 p.m.
+sa: B || What does "en cambio" mean? || On the other hand.
+sa: I || Write a sentence with más tarde que. || Answers vary.
+sa: I || Write a sentence with igual que. || Answers vary.
+sa: I || Compare dinner times in Canada and Argentina. || Answers vary.
+sa: I || Is the siesta universal in Spain? || No; it's less common in big cities.
+sa: C || Explain why routines differ. || Climate, work hours and traditions.
+sa: C || Share your comparison timeline. || Answers vary.
