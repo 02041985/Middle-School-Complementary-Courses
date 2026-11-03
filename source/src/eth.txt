@@ -1,0 +1,637 @@
+=== ETH.A1 1
+hook: Two people can look at the same situation and reach different answers about what's right, not because one is careless, but because they're looking through different "lenses." Learning the main ethical lenses helps you see a problem from every angle.
+sc: I can describe five ethical lenses | I can apply each lens to a dilemma | I can explain why lenses sometimes disagree
+v: ethical lens :: A way of looking at a moral question that focuses on one kind of consideration.
+v: consequences lens :: Choosing the action that produces the most good and least harm for everyone affected.
+v: rights and duties lens :: Choosing the action that respects people's rights and keeps our duties and promises.
+v: fairness lens :: Choosing the action that treats people equally or fairly.
+v: virtue lens :: Choosing the action a person of good character would take.
+v: care lens :: Choosing the action that best protects relationships and responds to people's needs.
+ts: Looking Through Lenses || Discussion || How do different ethical lenses help us reason about right and wrong?
+tx: The five lenses (written for this lesson; a common framework in ethics education): ¶ 1. Consequences: Which option produces the most good and least harm for everyone affected? ¶ 2. Rights and duties: Which option respects everyone's rights and keeps promises and responsibilities, even if the outcome isn't the best? ¶ 3. Fairness: Which option treats people equally, or fairly given their situation? ¶ 4. Virtue: Which option shows the kind of person I want to be: honest, brave, kind, responsible? ¶ 5. Care: Which option best protects relationships and meets the needs of people who depend on me? ¶ Dilemma (fictional): Maya promised to keep her friend Sam's secret. Sam tells her he has been skipping meals to save money for a school trip and feels dizzy in class. Should Maya tell an adult? ¶ Activity: groups each take one lens, decide what it suggests, then report. Discuss where the lenses agree and where they pull apart. Which lens felt most convincing, and why?
+src: Original activity written for this lesson; the lenses summarize widely taught approaches in ethics.
+st: Learn the five lenses | Read the dilemma | Apply one lens per group | Compare what each lens suggests | Discuss which lens felt strongest
+org: Lens | Key question | What it suggests for Maya
+an: Where did the lenses agree? | Which lenses pulled in different directions? | Why might the rights and duties lens focus on the promise? | Which lens do you tend to use most?
+pr: Apply all five lenses to a dilemma of your choice and write which action you'd choose and why.
+ex: Consequences || What does the consequences lens suggest for Maya? || Most good, least harm || Telling an adult, because Sam's health could be at risk || What harm might telling cause?
+ex: Rights and duties || What duty pulls the other way? || Promise || Keeping Sam's secret || Is there a stronger duty?
+ex: Care || How does the care lens view it? || Relationship and needs || Sam needs help; caring may mean getting him support || How can Maya tell him first?
+ex: Disagreement || Why do lenses disagree? || Different focus || Each lens emphasises a different value, like outcomes or promises || How do you decide?
+p: B || What is an ethical lens? || A way of looking at a moral question.
+p: B || What does the consequences lens ask? || Which option produces the most good and least harm?
+p: B || What does the fairness lens ask? || Which option treats people fairly?
+p: B || What does the virtue lens ask? || What would a person of good character do?
+p: B || What does the care lens ask? || Which option protects relationships and meets needs?
+p: I || How many lenses are there in this framework? || Five.
+p: I || Which lens focuses on promises? || Rights and duties.
+p: I || Which lens focuses on outcomes? || Consequences.
+p: I || Which lens focuses on character? || Virtue.
+p: I || What does the consequences lens suggest for Maya? || Tell an adult to protect Sam's health.
+p: I || What is the dilemma's main conflict? || A promise versus a friend's safety.
+p: C || Why can lenses disagree? || They emphasise different values.
+p: C || How can you decide when lenses disagree? || Weigh which considerations are most serious in this case.
+p: C || Why is safety usually more important than a secret? || Harm to health outweighs keeping a promise.
+p: C || Apply the five lenses to your own dilemma. || Answers vary.
+mis: Thinking only one lens is ever right | Thinking ethics is just personal opinion | Ignoring lenses that disagree with you
+et: Name the five lenses. | What does the care lens ask?
+mc: B || An ethical lens is || a way of viewing a moral question | a camera | a rule | a law only || A
+mc: B || The consequences lens asks about || good and harm | promises | character | fairness only || A
+mc: B || The rights and duties lens focuses on || promises and rights | outcomes | feelings | money || A
+mc: B || The virtue lens asks about || good character | profit | speed | popularity || A
+mc: B || The care lens focuses on || relationships and needs | rules | numbers | winning || A
+mc: B || The fairness lens asks about || treating people fairly | speed | luck | money || A
+mc: I || The framework has || five lenses | two lenses | ten lenses | one lens || A
+mc: I || Maya's promise is weighed by the || rights and duties lens | care lens only | virtue lens only | no lens || A
+mc: I || Sam's health risk matters most to the || consequences lens | fairness lens only | no lens | rules lens || A
+mc: I || A brave, honest action fits the || virtue lens | consequences lens only | none | fairness lens only || A
+mc: C || Lenses disagree because they || emphasise different values | are wrong | are random | are rules || A
+mc: C || When lenses disagree you should || weigh the most serious considerations | flip a coin | ignore ethics | pick randomly || A
+sa: B || Define ethical lens. || A way of looking at a moral question focused on one kind of consideration.
+sa: B || What does the consequences lens ask? || Which option produces the most good and least harm.
+sa: I || List the five lenses. || Consequences, rights and duties, fairness, virtue, care.
+sa: I || Apply two lenses to Maya's dilemma. || Answers vary.
+sa: I || Which lens values promises? || Rights and duties.
+sa: I || Why might Maya tell an adult? || Sam's health is at risk.
+sa: C || Explain why lenses can disagree. || They focus on different values.
+sa: C || Apply all five lenses to your own dilemma. || Answers vary.
+
+=== ETH.A1 2
+hook: When a hard choice comes up, it's tempting to go with your first feeling. A decision-making model slows you down just enough to see the facts, the people affected and your real options, so you choose something you can stand behind.
+sc: I can follow a step-by-step ethical decision-making model | I can identify facts, stakeholders and options | I can justify a decision and reflect on it
+v: decision-making model :: A step-by-step process for making careful choices.
+v: dilemma :: A situation where every choice has a downside or where values conflict.
+v: stakeholder :: Anyone affected by a decision.
+v: option :: A possible choice.
+v: justify :: Give reasons for a decision.
+v: reflection :: Thinking back on a decision to learn from it.
+ts: Deciding Well || Discussion || How can a step-by-step model help me make ethical decisions?
+tx: The STOP-THINK-ACT model (written for this lesson): ¶ 1. Stop and recognize: Is this an ethical issue? What values are in conflict? ¶ 2. Get the facts: What do I know? What don't I know? Who can I ask? ¶ 3. Identify stakeholders: Who is affected, and how? ¶ 4. List options: at least three, including creative ones. ¶ 5. Test options with the lenses: consequences, rights and duties, fairness, virtue, care. Also try quick tests: Would I be comfortable if my decision were shared publicly? What would someone I admire do? ¶ 6. Decide and act. ¶ 7. Reflect: How did it turn out? What would I do differently? ¶ Dilemma (fictional): Jordan sees a group chat where classmates are planning to share an embarrassing edited photo of another student. Jordan's best friend is in the chat. What should Jordan do? ¶ Groups work through all seven steps, then compare decisions and reasons.
+src: Original activity written for this lesson.
+st: Learn the seven steps | Identify facts and unknowns | List stakeholders and effects | Brainstorm and test options | Decide, justify and reflect
+org: Step | Notes for Jordan's dilemma
+an: What facts were missing? | Who are the stakeholders? | Which option passed the most tests? | How did using a model change your first reaction?
+pr: Work through the seven-step model on a dilemma and write a justified decision with a reflection.
+ex: Stakeholders || Who are the stakeholders in Jordan's case? || Affected people || The student in the photo, Jordan, Jordan's friend, the group || Who else?
+ex: Options || List three options for Jordan. || Creative || Speak up in the chat, privately message the friend, tell a trusted adult || Can options combine?
+ex: Publicity test || Would Jordan be comfortable if staying silent were known? || Test || Probably not; that suggests silence isn't the right choice || What does that mean?
+ex: Reflection || Why reflect after acting? || Learning || To learn what worked and improve future decisions || When should you reflect?
+p: B || What is a decision-making model? || A step-by-step process for careful choices.
+p: B || What is a dilemma? || A situation where values conflict.
+p: B || What is a stakeholder? || Anyone affected by a decision.
+p: B || What is an option? || A possible choice.
+p: B || What does justify mean? || Give reasons for a decision.
+p: I || How many steps are in the model? || Seven.
+p: I || What is the first step? || Stop and recognize the ethical issue.
+p: I || How many options should you list? || At least three.
+p: I || What is the publicity test? || Would I be comfortable if my decision were shared?
+p: I || What is the last step? || Reflect.
+p: I || Name two of Jordan's options. || Speak up in the chat or tell a trusted adult.
+p: C || Why list several options? || The best choice may not be the first one you think of.
+p: C || Why get the facts first? || Decisions based on wrong facts can cause harm.
+p: C || Why can staying silent be a choice with consequences? || Silence can allow harm to continue.
+p: C || Write your justified decision. || Answers vary.
+mis: Deciding before knowing the facts | Thinking there are only two options | Thinking doing nothing has no consequences
+et: Name the seven steps. | What is the publicity test?
+mc: B || A decision model is || step-by-step | random | instant | a rule only || A
+mc: B || A dilemma has || conflicting values | one easy answer | no choices | no people || A
+mc: B || A stakeholder is || affected by a decision | always the decider | a judge | a tool || A
+mc: B || An option is || a possible choice | a fact | a rule | a result || A
+mc: B || Justify means || give reasons | guess | hide | copy || A
+mc: B || Reflection happens || after acting | never | before facts | randomly || A
+mc: I || The model has || seven steps | two steps | twenty steps | one step || A
+mc: I || The first step is || recognize the issue | act | reflect | ask a friend to decide || A
+mc: I || List at least || three options | one option | ten options | none || A
+mc: I || The publicity test asks if you'd be || comfortable if it were shared | rich | famous | faster || A
+mc: C || Listing many options helps because || the best may not be first | it's slower | it's required | nothing || A
+mc: C || Staying silent || can let harm continue | has no effect | is always right | is illegal || A
+sa: B || Define dilemma. || A situation where every choice has a downside or values conflict.
+sa: B || What is a stakeholder? || Anyone affected by a decision.
+sa: I || List the seven steps. || Recognize, facts, stakeholders, options, test, decide and act, reflect.
+sa: I || List Jordan's stakeholders. || The student in the photo, Jordan, the friend, the group.
+sa: I || Describe two quick tests. || Publicity test; what would someone I admire do.
+sa: I || List three options for Jordan. || Speak up, message the friend, tell an adult.
+sa: C || Explain why doing nothing is a choice. || It has consequences, like allowing harm.
+sa: C || Write your justified decision. || Answers vary.
+
+=== ETH.B1 0
+hook: Integrity is often described as doing the right thing even when no one is watching. Honesty and integrity are what make people trust you, and trust, once broken, is hard to rebuild.
+sc: I can define honesty and integrity and explain how they differ | I can give examples of honest and dishonest behaviour | I can explain why trust depends on integrity
+v: honesty :: Telling the truth and not deceiving others.
+v: integrity :: Acting consistently with your values, even when no one is watching.
+v: trust :: Confidence that someone is reliable and honest.
+v: deception :: Causing someone to believe something untrue.
+v: white lie :: A small lie told to avoid hurting someone's feelings.
+v: character :: The moral qualities that make up who a person is.
+ts: Honest to the Core || Discussion || What do honesty and integrity mean, and why do they matter?
+tx: Key ideas (written for this lesson): ¶ Honesty is about the truth of what we say and show. Integrity is wider: it means our actions match our values all the time, including keeping promises and doing our share. ¶ Kinds of dishonesty: lying, exaggerating, leaving out important facts, cheating, taking credit for others' work, pretending to be someone else online. ¶ Trust: like a bank account; honest actions are deposits, broken promises and lies are withdrawals. One big withdrawal can empty it. ¶ Activities: 1. Spectrum line: students stand on a line from "always wrong" to "sometimes OK" for statements: telling a friend you like a gift you don't; copying a homework answer; not mentioning you got extra change at a store; telling a parent you finished homework when you didn't; keeping a promise even when it's inconvenient. Discuss reasons. 2. Integrity in action: describe a time (real or fictional) when someone did the right thing with no one watching. 3. Discuss: are white lies ever acceptable? What could you say instead that is both honest and kind?
+src: Original activity written for this lesson.
+st: Define honesty and integrity | Identify kinds of dishonesty | Use the trust bank metaphor | Take positions on a spectrum line | Discuss white lies and kind honesty
+org: Situation | Honest? | Integrity? | Effect on trust
+an: How are honesty and integrity different? | Where did people disagree on the spectrum line? | Can honesty be kind? | Why is broken trust hard to rebuild?
+pr: Write about a situation that tests integrity, describing the honest choice, the temptation and the effect on trust.
+ex: Difference || Someone never lies but doesn't keep promises. Honest? Integrity? || Compare || Honest in words but lacking integrity in actions || Why both matter?
+ex: Omission || You get $5 too much change and say nothing. Dishonest? || Leaving out || Yes, keeping something you know isn't yours is dishonest || What would integrity do?
+ex: Kind honesty || A friend asks if you like their drawing and you don't. Response? || Honest and kind || "I love the colours; the face could be bigger" || Why not a white lie?
+ex: Trust bank || How do you rebuild trust? || Deposits || Admit the mistake and act honestly consistently over time || How long does it take?
+p: B || What is honesty? || Telling the truth and not deceiving.
+p: B || What is integrity? || Acting on your values even when no one watches.
+p: B || What is trust? || Confidence someone is reliable.
+p: B || What is deception? || Causing someone to believe something untrue.
+p: B || What is a white lie? || A small lie to spare feelings.
+p: I || Name three kinds of dishonesty. || Lying, cheating, taking credit for others' work.
+p: I || What are deposits in the trust bank? || Honest actions.
+p: I || What are withdrawals in the trust bank? || Lies and broken promises.
+p: I || Is leaving out important facts dishonest? || Yes, it can be.
+p: I || What makes integrity wider than honesty? || It covers all actions, not just words.
+p: I || Give an example of integrity. || Returning extra change.
+p: C || Why is broken trust hard to rebuild? || People remember betrayal and need consistent proof of change.
+p: C || How can honesty also be kind? || Say the truth with care and focus on positives.
+p: C || Why does integrity matter when no one is watching? || Character is who you are, not just what others see.
+p: C || Write about an integrity test. || Answers vary.
+mis: Thinking honesty is only about not lying | Thinking white lies never matter | Thinking integrity only counts when watched
+et: Define integrity. | How can you rebuild trust?
+mc: B || Honesty means || telling the truth | keeping secrets always | winning | hiding || A
+mc: B || Integrity means || acting on values always | only when watched | lying cleverly | winning || A
+mc: B || Trust is || confidence in reliability | money | a rule | luck || A
+mc: B || Deception || causes false beliefs | tells the truth | builds trust | is integrity || A
+mc: B || A white lie is || small, to spare feelings | huge | always helpful | the truth || A
+mc: B || Character is || moral qualities | appearance | height | wealth || A
+mc: I || Keeping extra change silently is || dishonest | honest | integrity | kind || A
+mc: I || Trust deposits are || honest actions | lies | broken promises | cheating || A
+mc: I || Taking credit for others' work is || dishonest | fair | kind | honest || A
+mc: I || Integrity covers || words and actions | only words | only thoughts | nothing || A
+mc: C || Broken trust is hard to rebuild because || people need consistent proof | it's impossible | nobody cares | rules || A
+mc: C || Honesty can be kind by || speaking truth with care | lying | staying silent always | being harsh || A
+sa: B || Define integrity. || Acting consistently with your values, even when no one is watching.
+sa: B || What is deception? || Causing someone to believe something untrue.
+sa: I || Explain how honesty and integrity differ. || Honesty is truthful words; integrity is all actions matching values.
+sa: I || Give three kinds of dishonesty. || Lying, cheating, omission.
+sa: I || Describe the trust bank. || Honest actions are deposits; lies are withdrawals.
+sa: I || Give an honest and kind response to a gift you dislike. || Answers vary.
+sa: C || Explain why trust is hard to rebuild. || It needs consistent proof over time.
+sa: C || Write about an integrity test. || Answers vary.
+
+=== ETH.B1 1
+hook: Most people who cheat or lie don't think of themselves as dishonest. They tell themselves a story: "Everyone does it," "It's not a big deal," "The test was unfair." Spotting these rationalizations is the first step to resisting them.
+sc: I can analyze cases involving cheating and truth-telling | I can identify common rationalizations | I can explain the harms of academic dishonesty
+v: rationalize :: Make excuses that make a wrong action seem acceptable.
+v: academic integrity :: Honesty in schoolwork: doing your own work and giving credit.
+v: plagiarism :: Presenting someone else's words or ideas as your own.
+v: collusion :: Working together when individual work is required.
+v: AI misuse :: Submitting AI-generated work as your own when it isn't allowed.
+v: harm :: Damage done to a person, group or community.
+ts: Excuses and Truths || Discussion || Why do people cheat or lie, and what harm does it cause?
+tx: Case studies (fictional, written for this lesson): ¶ Case 1: Lina copies a paragraph from a website into her science report without quotation marks or a source because she ran out of time. ¶ Case 2: Two friends split the questions on an individual take-home quiz and share answers. ¶ Case 3: Ahmed asks an AI tool to write his English essay and submits it unchanged when the teacher allowed AI only for brainstorming. ¶ Case 4: Priya's team gets credit for a project, but she knows one member did almost nothing. Should she tell the teacher? ¶ Common rationalizations: "Everyone does it." "No one gets hurt." "I'll only do it once." "The teacher's rules are unfair." "I didn't have time." ¶ Harms: you don't learn the skill; grades no longer show what you know; it's unfair to honest classmates; it damages trust between students and teachers; schools may apply consequences. ¶ Activity: for each case, identify the dishonesty, the rationalization, who is harmed and a better choice (e.g. ask for an extension, cite the source, use AI as allowed and be transparent).
+src: Original fictional cases written for this lesson.
+st: Read four cases | Identify the type of dishonesty | Spot the rationalization | Name who is harmed | Suggest a better choice
+org: Case | Dishonesty | Rationalization | Harm | Better choice
+an: Which rationalization is most common? | Who is harmed when someone cheats? | Which case was hardest to judge, and why? | What would you do in Priya's position?
+pr: Analyze two cases in writing: the dishonesty, the rationalization, the harms and a better choice.
+ex: Plagiarism || What is Lina's mistake? || Copying without credit || Plagiarism: using words without quotation marks or a source || What could she do instead?
+ex: Rationalization || "Everyone does it." Why weak? || Logic || Many people doing something doesn't make it right || Name another.
+ex: AI misuse || What did Ahmed do wrong? || Rules || Submitted AI-written work when AI was only allowed for brainstorming || What would be honest?
+ex: Harm || Who is harmed by collusion on a quiz? || Stakeholders || The students (no learning), honest classmates, the teacher's trust || Is anyone not harmed?
+p: B || What does rationalize mean? || Make excuses for a wrong action.
+p: B || What is academic integrity? || Honesty in schoolwork.
+p: B || What is plagiarism? || Presenting others' work as your own.
+p: B || What is collusion? || Working together when individual work is required.
+p: B || What is AI misuse? || Submitting AI work as your own against the rules.
+p: I || Name three rationalizations. || Everyone does it, no one gets hurt, only once.
+p: I || How could Lina avoid plagiarism? || Use quotation marks and cite the source.
+p: I || What could Lina do if out of time? || Ask for an extension.
+p: I || Name two harms of cheating. || You don't learn; it's unfair to others.
+p: I || How can Ahmed use AI honestly? || Only as allowed and be transparent.
+p: I || What type of dishonesty is Case 2? || Collusion.
+p: C || Why is "no one gets hurt" a weak excuse? || Cheating harms learning, fairness and trust.
+p: C || Why might Priya hesitate to tell? || Loyalty to her team and fear of conflict.
+p: C || Why do grades lose meaning with cheating? || They no longer show what students know.
+p: C || Analyze two cases. || Answers vary.
+mis: Thinking copying is fine if you change a few words | Thinking cheating only hurts the cheater | Thinking AI use is always or never allowed
+et: Define plagiarism. | Name one rationalization.
+mc: B || Rationalize means || make excuses | tell the truth | apologize | study || A
+mc: B || Academic integrity means || honest schoolwork | high grades | fast work | group work always || A
+mc: B || Plagiarism is || using others' work as yours | citing sources | studying | summarizing honestly || A
+mc: B || Collusion is || working together when not allowed | studying alone | asking teachers | reading || A
+mc: B || AI misuse is || submitting AI work against rules | using AI as allowed | never using tech | typing || A
+mc: B || Citing a source || gives credit | is cheating | is plagiarism | is collusion || A
+mc: I || "Everyone does it" is || a rationalization | a fact | a citation | integrity || A
+mc: I || Lina should have || cited the source | copied more | hidden it | deleted it || A
+mc: I || Sharing answers on an individual quiz is || collusion | teamwork | integrity | allowed || A
+mc: I || A harm of cheating is || not learning | better learning | more trust | fairness || A
+mc: C || "No one gets hurt" is weak because || cheating harms fairness and trust | it's true | nobody knows | rules || A
+mc: C || Grades lose meaning when || they don't show real learning | they're high | teachers mark | students study || A
+sa: B || Define academic integrity. || Honesty in schoolwork: doing your own work and giving credit.
+sa: B || What is plagiarism? || Presenting someone else's words or ideas as your own.
+sa: I || List three rationalizations. || Everyone does it, no one gets hurt, only once.
+sa: I || List three harms of cheating. || No learning, unfair to others, damages trust.
+sa: I || What could Ahmed have done? || Use AI only as allowed and be transparent.
+sa: I || What would you do as Priya? || Answers vary.
+sa: C || Explain why "no one gets hurt" is weak. || Cheating harms learning, fairness and trust.
+sa: C || Analyze two cases. || Answers vary.
+
+=== ETH.B1 2
+hook: Everyone makes mistakes. What shows character is what happens next: blaming others and making excuses, or owning it, apologizing and making it right. That's accountability.
+sc: I can explain accountability and why it matters | I can give a sincere apology with the key parts | I can make a plan to repair harm
+v: accountability :: Taking responsibility for your actions and their effects.
+v: responsibility :: A duty to do something or to care for something.
+v: apology :: Expressing regret and responsibility for a wrong.
+v: restitution :: Making up for harm, such as replacing or fixing something.
+v: blame-shifting :: Putting responsibility for your actions on others.
+v: growth mindset :: Believing you can learn and improve from mistakes.
+ts: Owning It || Practice || How do I take accountability for my mistakes?
+tx: Accountability guide (written for this lesson): ¶ Accountable responses: admit what you did, acknowledge the effect on others, apologize sincerely, make it right, and change future behaviour. ¶ Non-accountable responses: denying, blaming others ("he started it"), minimizing ("it was just a joke"), excuses ("I was tired"), non-apologies ("sorry if you were offended"). ¶ A sincere apology has: 1. "I'm sorry for..." (name the specific action). 2. "It was wrong because..." (show you understand the harm). 3. "To make it right, I will..." (repair). 4. "Next time, I will..." (change). 5. Optionally, "Will you forgive me?" without demanding it. ¶ Role-plays (fictional): breaking a borrowed calculator; posting a mean comment about a classmate; forgetting your part of a group project; saying something hurtful in anger. Partners practise an accountable response and the listener describes how it felt. ¶ Reflection: think of a mistake you made (keep private if you prefer); what would full accountability have looked like?
+src: Original activity written for this lesson.
+st: Compare accountable and non-accountable responses | Learn the parts of a sincere apology | Practise role-plays | Plan restitution | Reflect privately on a past mistake
+org: Situation | Non-accountable response | Accountable response | Repair
+an: Why are non-apologies unsatisfying? | Which part of an apology is hardest to say? | How did it feel to receive a sincere apology in the role-play? | Why does accountability build trust?
+pr: Write a sincere apology for a fictional situation with all four parts, plus a restitution plan.
+ex: Non-apology || What's wrong with "Sorry if you were offended"? || Responsibility || It blames the other person's feelings instead of owning the action || Rewrite it.
+ex: Sincere apology || Apologize for forgetting your group project part. || Four parts || "I'm sorry I didn't finish my section. It left you all scrambling. I'll finish it tonight and help edit. Next time I'll set a reminder." || Which part is restitution?
+ex: Blame-shifting || "He made me angry, so I yelled." Accountable? || Who chose? || No; you're responsible for how you respond || What's accountable?
+ex: Restitution || How do you make up for breaking a borrowed calculator? || Replace or fix || Replace it or pay for repair || What else?
+p: B || What is accountability? || Taking responsibility for actions and effects.
+p: B || What is an apology? || Expressing regret and responsibility.
+p: B || What is restitution? || Making up for harm.
+p: B || What is blame-shifting? || Putting your responsibility on others.
+p: B || What is a growth mindset? || Believing you can learn from mistakes.
+p: I || Name the four parts of a sincere apology. || I'm sorry for, it was wrong because, to make it right, next time.
+p: I || Name two non-accountable responses. || Denying and blaming.
+p: I || What is a non-apology? || An apology that avoids responsibility.
+p: I || Should you demand forgiveness? || No.
+p: I || How do you show changed behaviour? || Act differently next time.
+p: I || What is minimizing? || Making harm seem smaller than it was.
+p: C || Why does accountability build trust? || People see you take responsibility and change.
+p: C || Why should apologies name the specific action? || It shows you understand what you did.
+p: C || Why is a growth mindset linked to accountability? || Owning mistakes is how we learn from them.
+p: C || Write your apology and plan. || Answers vary.
+mis: Thinking apologizing makes you look weak | Using "sorry, but..." | Demanding forgiveness
+et: Name the parts of a sincere apology. | What is restitution?
+mc: B || Accountability means || taking responsibility | blaming | hiding | denying || A
+mc: B || An apology expresses || regret and responsibility | excuses | anger | blame || A
+mc: B || Restitution || makes up for harm | ignores harm | causes harm | blames || A
+mc: B || Blame-shifting puts responsibility on || others | yourself | nobody | the rules || A
+mc: B || A growth mindset believes you || can learn from mistakes | never err | can't change | are fixed || A
+mc: B || "Sorry if you were offended" is || a non-apology | sincere | restitution | accountable || A
+mc: I || A sincere apology names || the specific action | nothing | others' faults | excuses || A
+mc: I || Forgiveness should be || asked, not demanded | demanded | ignored | required || A
+mc: I || Minimizing makes harm seem || smaller | bigger | real | fixed || A
+mc: I || Replacing a broken calculator is || restitution | blame | denial | an excuse || A
+mc: C || Accountability builds trust because people || see responsibility and change | forget | are fooled | lose interest || A
+mc: C || Naming the action shows || understanding | weakness | anger | confusion || A
+sa: B || Define accountability. || Taking responsibility for your actions and their effects.
+sa: B || What is restitution? || Making up for harm.
+sa: I || List the parts of a sincere apology. || Sorry for, why wrong, make it right, next time.
+sa: I || Rewrite "sorry, but you started it." || Answers vary.
+sa: I || Name three non-accountable responses. || Denying, blaming, minimizing.
+sa: I || Why not demand forgiveness? || The other person decides when to forgive.
+sa: C || Explain how accountability builds trust. || People see responsibility and change.
+sa: C || Write your apology and plan. || Answers vary.
+
+=== ETH.C1 0
+hook: Three people try to watch a game over a fence. Give everyone the same box to stand on and the shortest still can't see. Give each person the boxes they need and everyone can. That's the difference between equality and equity.
+sc: I can distinguish equality from equity | I can apply fairness ideas to school and community situations | I can explain when equal treatment and when different treatment is fair
+v: fairness :: Treating people justly.
+v: equality :: Giving everyone the same thing.
+v: equity :: Giving people what they need so everyone has a fair chance.
+v: accommodation :: A change that helps someone access learning or activities.
+v: barrier :: Something that blocks access or opportunity.
+v: justice :: Fairness in how people are treated and how society is organized.
+ts: Fair Isn't Always Equal || Discussion || What's the difference between equality and equity?
+tx: Key ideas (written for this lesson): ¶ Equality: everyone gets the same (same test, same time, same resources). ¶ Equity: everyone gets what they need to have a fair chance (e.g. extra time for a student with a learning disability, ramps for wheelchair users, materials in a student's first language while learning English). ¶ Both matter: equal rights and equal respect for everyone; equitable support where barriers exist. ¶ Activities: 1. The fence picture: discuss what the fence (the barrier) represents and what removing it might mean. 2. Scenarios: decide whether equal or equitable treatment is fairer and explain: everyone gets the same lunch period; a student with a broken arm gets a scribe for a test; every team gets the same number of players; a new student learning English gets a word list; every student gets the same class budget for supplies regardless of project. 3. Fairness test: is the difference in treatment based on real need? Does it help everyone reach the same goal? Would I think it fair if I were in their shoes? 4. Discussion: why do some people see accommodations as "unfair advantages"?
+src: Original activity written for this lesson; the fence image is a widely used illustration of equality and equity.
+st: Define equality and equity | Discuss the fence picture | Sort scenarios | Apply the fairness test | Discuss misconceptions about accommodations
+org: Scenario | Equal or equitable? | Why fair?
+an: What does the fence represent? | Which scenario was hardest to decide? | Why aren't accommodations unfair advantages? | When is equal treatment the fairest?
+pr: Write about a school situation where equity is fairer than equality, using the fairness test.
+ex: Accommodation || A student with a broken arm gets a scribe. Fair? || Need || Yes; it removes a barrier so the test measures knowledge || Is it an advantage?
+ex: Equal is fair || Everyone gets one vote in a class election. Equal or equitable? || Rights || Equal; equal rights should be the same || Why?
+ex: Barrier || What could remove the "fence" at school? || Root cause || Ramps, captions, translated materials || Why remove barriers?
+ex: Fairness test || Apply the test to extra time for a student with dyslexia. || Need, goal, shoes || Real need, same goal, fair if in their shoes || Conclusion?
+p: B || What is fairness? || Treating people justly.
+p: B || What is equality? || Giving everyone the same.
+p: B || What is equity? || Giving people what they need for a fair chance.
+p: B || What is an accommodation? || A change that helps someone access learning.
+p: B || What is a barrier? || Something that blocks access.
+p: I || Is extra time for a student with a learning disability equal or equitable? || Equitable.
+p: I || Is one vote per student equal or equitable? || Equal.
+p: I || Name three parts of the fairness test. || Real need, same goal, in their shoes.
+p: I || Name an accommodation. || A scribe, extra time or a ramp.
+p: I || What does the fence represent? || A barrier.
+p: I || What is justice? || Fairness in treatment and society.
+p: C || Why aren't accommodations unfair advantages? || They remove barriers so everyone has the same chance.
+p: C || When is equal treatment fairest? || For rights and respect everyone shares equally.
+p: C || Why remove barriers instead of only giving boxes? || It solves the cause for everyone.
+p: C || Write your equity example. || Answers vary.
+mis: Thinking fair always means the same | Thinking accommodations are favouritism | Thinking equity means taking from others
+et: Distinguish equality and equity. | Name an accommodation.
+mc: B || Equality gives || everyone the same | what each needs | nothing | the most to one || A
+mc: B || Equity gives || what each needs | the same to all | nothing | luck || A
+mc: B || An accommodation || helps access | punishes | is a prize | is a test || A
+mc: B || A barrier || blocks access | helps access | is a ramp | is a reward || A
+mc: B || Fairness means || treating people justly | treating all identically always | favouritism | luck || A
+mc: B || Justice is || fairness in society | revenge | luck | money || A
+mc: I || Extra time for dyslexia is || equitable | equal | unfair | illegal || A
+mc: I || One vote each is || equal | equitable | unfair | random || A
+mc: I || In the picture, the fence is || a barrier | a box | a game | a reward || A
+mc: I || A scribe for a broken arm is || an accommodation | cheating | equality | a barrier || A
+mc: C || Accommodations are fair because they || remove barriers | give advantages | are random | are rare || A
+mc: C || Removing barriers || helps everyone | helps nobody | is unfair | is costly only || A
+sa: B || Define equity. || Giving people what they need so everyone has a fair chance.
+sa: B || What is a barrier? || Something that blocks access or opportunity.
+sa: I || Compare equality and equity. || Same for all versus what each needs.
+sa: I || Classify two scenarios as equal or equitable. || Answers vary.
+sa: I || List the fairness test questions. || Real need? Same goal? Fair in their shoes?
+sa: I || When is equal treatment fairest? || For shared rights and respect.
+sa: C || Explain why accommodations aren't unfair. || They remove barriers.
+sa: C || Write your equity example. || Answers vary.
+
+=== ETH.C1 1
+hook: Empathy is often called "walking in someone else's shoes." It's not the same as feeling sorry for someone. It's working to understand how they see and feel the world, which changes how we treat them.
+sc: I can explain the difference between empathy and sympathy | I can practise perspective-taking in scenarios | I can use active listening to show empathy
+v: empathy :: Understanding and sharing another person's feelings from their point of view.
+v: sympathy :: Feeling sorry for someone from your own point of view.
+v: perspective-taking :: Imagining a situation from another person's point of view.
+v: active listening :: Listening with full attention and reflecting back what you hear.
+v: compassion :: Empathy combined with a desire to help.
+v: respect :: Treating people as valuable and worthy of consideration.
+ts: In Their Shoes || Practice || How can empathy and perspective-taking change how we treat others?
+tx: Key ideas (written for this lesson): ¶ Empathy vs sympathy: sympathy says "Oh, that's too bad." Empathy says "That sounds really hard. Tell me more." Empathy stays with the person instead of judging or fixing right away. ¶ Perspective-taking steps: What might they be thinking? Feeling? What experiences might shape their view? What do they need? ¶ Active listening: face the person, put devices away, don't interrupt, reflect back ("It sounds like you felt left out when..."), ask open questions, avoid jumping to advice. ¶ Activities: 1. Scenario cards (fictional): a new student who doesn't speak much English; a classmate whose pet just died; a student who was cut from a team; a teammate who keeps missing practice because they care for a younger sibling. For each: write how they might feel and what they might need. 2. Listening pairs: one speaks for 2 minutes about a challenge (something comfortable to share); the other listens actively and reflects back; switch. 3. Debrief: how did it feel to be truly listened to?
+src: Original activity written for this lesson.
+st: Distinguish empathy from sympathy | Learn perspective-taking steps | Analyze scenario cards | Practise active listening in pairs | Debrief the experience
+org: Person | Might be thinking | Might be feeling | Might need
+an: How is empathy different from sympathy? | Which scenario changed your first judgment? | What did it feel like to be listened to? | Which listening skill was hardest?
+pr: Write an empathy response to one scenario showing perspective-taking and what you would say and do.
+ex: Sympathy vs empathy || Friend: "I failed the test." Empathetic reply? || Stay with feelings || "That sounds frustrating. How are you feeling about it?" || What's a sympathetic reply?
+ex: Reflecting back || Friend: "Nobody saved me a seat." Reflect it. || Name the feeling || "It sounds like you felt left out." || Why reflect?
+ex: Changed judgment || A teammate misses practice. First judgment vs empathy? || Context || Lazy versus caring for a sibling || How does that change your response?
+ex: Advice trap || Why not give advice right away? || Listen first || People often need to feel heard before solutions help || When is advice OK?
+p: B || What is empathy? || Understanding another's feelings from their view.
+p: B || What is sympathy? || Feeling sorry for someone from your view.
+p: B || What is perspective-taking? || Imagining a situation from another's view.
+p: B || What is active listening? || Full attention and reflecting back.
+p: B || What is compassion? || Empathy plus a desire to help.
+p: I || Name three active listening skills. || Face them, don't interrupt, reflect back.
+p: I || What are the perspective-taking questions? || Thinking, feeling, experiences, needs.
+p: I || How long does each partner speak? || 2 minutes.
+p: I || What is an empathetic phrase? || "That sounds hard. Tell me more."
+p: I || What should you do with devices when listening? || Put them away.
+p: I || Why ask open questions? || To let the person share more.
+p: C || Why can empathy change first judgments? || Understanding context reveals reasons we didn't see.
+p: C || Why is jumping to advice often unhelpful? || The person may need to feel heard first.
+p: C || How does empathy connect to fairness? || Understanding needs helps us treat people justly.
+p: C || Write your empathy response. || Answers vary.
+mis: Thinking empathy means agreeing | Confusing empathy with pity | Listening only to reply
+et: Distinguish empathy and sympathy. | Name two active listening skills.
+mc: B || Empathy is || understanding from their view | pity | agreeing | ignoring || A
+mc: B || Sympathy is || feeling sorry from your view | deep understanding | anger | advice || A
+mc: B || Perspective-taking imagines || another's view | your own only | the future | rules || A
+mc: B || Active listening includes || reflecting back | interrupting | phone use | advice first || A
+mc: B || Compassion is || empathy plus wanting to help | pity | anger | judgment || A
+mc: B || Respect treats people as || valuable | unimportant | rivals | tools || A
+mc: I || An empathetic reply is || "That sounds hard. Tell me more." | "Get over it." | "Me too, worse." | "Whatever." || A
+mc: I || Reflecting back sounds like || "It sounds like you felt..." | "You're wrong." | "Stop." | "I don't care." || A
+mc: I || Each partner speaks for || 2 minutes | 20 minutes | 2 seconds | an hour || A
+mc: I || While listening, devices should be || put away | in hand | ringing | recording || A
+mc: C || Empathy changes judgments by || revealing context | adding bias | ignoring facts | confusing || A
+mc: C || Advice too early is unhelpful because || people need to feel heard | advice is wrong | it's rude always | nobody listens || A
+sa: B || Define empathy. || Understanding and sharing another person's feelings from their point of view.
+sa: B || What is active listening? || Listening with full attention and reflecting back.
+sa: I || Compare empathy and sympathy. || Empathy understands from their view; sympathy feels sorry from yours.
+sa: I || List the perspective-taking questions. || Thinking, feeling, experiences, needs.
+sa: I || Write an empathetic reply to a friend's bad news. || Answers vary.
+sa: I || Why avoid advice right away? || People need to feel heard first.
+sa: C || Explain how empathy changes judgments. || It reveals context and reasons.
+sa: C || Write your empathy response. || Answers vary.
+
+=== ETH.C1 2
+hook: Research on bullying suggests that when a peer steps in, bullying often stops quickly. Most bullying happens with others watching, which means bystanders have real power to change what happens next.
+sc: I can recognize forms of bullying and exclusion | I can explain the roles of bystander and upstander | I can choose safe, effective ways to respond
+v: bullying :: Repeated, intentional behaviour that hurts someone, where there is a power imbalance.
+v: exclusion :: Deliberately leaving someone out.
+v: cyberbullying :: Bullying using phones, games, social media or other technology.
+v: bystander :: Someone who sees bullying but doesn't act.
+v: upstander :: Someone who takes safe action to help.
+v: power imbalance :: When one person has more strength, status or numbers than another.
+ts: From Bystander to Upstander || Practice || How can I respond ethically to bullying and exclusion?
+tx: Key ideas (written for this lesson): ¶ Forms of bullying: physical (hitting, pushing), verbal (insults, threats), social (exclusion, rumours), cyber (mean messages, sharing images, fake accounts). Conflict between equals is not always bullying; bullying is repeated and involves a power imbalance. ¶ Why bystanders don't act: fear of becoming a target, thinking someone else will help, not knowing what to do, not wanting to be a "snitch." Reporting to keep someone safe is not snitching. ¶ Safe upstander actions: 1. Support the target afterward ("That wasn't OK. Are you alright?"). 2. Distract or redirect ("Hey, the teacher's looking for you"). 3. Speak up if safe ("That's not funny"). 4. Don't join in, laugh or share. 5. Report to a trusted adult. 6. Online: don't forward, screenshot evidence, report the content, block. ¶ Activities: scenario role-plays (fictional): someone is excluded from a lunch table every day; a group chat mocks a student's clothes; a younger student is pushed in the hallway. Groups choose and act out safe upstander responses. ¶ Remember: safety first. If someone is in danger, get an adult immediately.
+src: Original activity written for this lesson.
+st: Identify forms of bullying | Distinguish bullying from conflict | Discuss why bystanders don't act | Learn safe upstander actions | Role-play responses
+org: Scenario | Form of bullying | Upstander action | Why safe and effective?
+an: Why is reporting not snitching? | Which upstander action feels most realistic for you? | How is cyberbullying different? | What could the school do to support upstanders?
+pr: Create an upstander guide for one scenario with at least three safe actions and an explanation of why each helps.
+ex: Bullying or conflict? || Two friends argue once about a game. Bullying? || Repeated and power imbalance? || No; it's a conflict between equals || When would it become bullying?
+ex: Exclusion || Someone is told daily "you can't sit here." Form? || Social || Social bullying through exclusion || What could you do?
+ex: Online || A mean meme about a classmate is shared to you. Action? || Don't spread || Don't forward, screenshot, report, tell an adult || Why screenshot?
+ex: Snitching || Is reporting bullying snitching? || Purpose || No; reporting to keep someone safe is responsible || What's the difference?
+p: B || What is bullying? || Repeated, intentional hurtful behaviour with a power imbalance.
+p: B || What is exclusion? || Deliberately leaving someone out.
+p: B || What is cyberbullying? || Bullying using technology.
+p: B || What is a bystander? || Someone who sees but doesn't act.
+p: B || What is an upstander? || Someone who takes safe action to help.
+p: I || Name four forms of bullying. || Physical, verbal, social, cyber.
+p: I || What makes bullying different from conflict? || It is repeated and has a power imbalance.
+p: I || Name three upstander actions. || Support the target, don't join in, report.
+p: I || What should you do online? || Don't forward, screenshot, report, block.
+p: I || What comes first if someone is in danger? || Get an adult immediately.
+p: I || Why might bystanders not act? || Fear or thinking someone else will help.
+p: C || Why is reporting not snitching? || It protects someone from harm.
+p: C || Why does laughing along make bullying worse? || It gives the bully an audience and approval.
+p: C || Why is supporting the target afterward powerful? || It reduces isolation and shows they're not alone.
+p: C || Share your upstander guide. || Answers vary.
+mis: Thinking every conflict is bullying | Thinking reporting is snitching | Thinking upstanders must confront bullies directly
+et: Define upstander. | Name three safe actions.
+mc: B || Bullying involves || repetition and power imbalance | one disagreement | equal friends | jokes both enjoy || A
+mc: B || Exclusion is || leaving someone out on purpose | including everyone | a game | a rule || A
+mc: B || Cyberbullying uses || technology | only words in person | sports | letters only || A
+mc: B || A bystander || sees but doesn't act | always helps | is the bully | is a teacher || A
+mc: B || An upstander || takes safe action | ignores | joins in | laughs || A
+mc: B || Social bullying includes || rumours | hitting | pushing | tripping || A
+mc: I || A one-time argument between equals is || conflict | bullying | cyberbullying | exclusion || A
+mc: I || Online you should || not forward and report | share it | like it | reply angrily || A
+mc: I || If someone is in danger || get an adult immediately | wait | film it | leave forever || A
+mc: I || Supporting the target means || checking on them | ignoring them | blaming them | laughing || A
+mc: C || Reporting to protect someone is || responsible | snitching | wrong | pointless || A
+mc: C || Laughing along || encourages the bully | stops bullying | is neutral | helps the target || A
+sa: B || Define bullying. || Repeated, intentional hurtful behaviour with a power imbalance.
+sa: B || What is an upstander? || Someone who takes safe action to help.
+sa: I || List four forms of bullying. || Physical, verbal, social, cyber.
+sa: I || List three safe upstander actions. || Support the target, don't join in, report.
+sa: I || What do you do with harmful online content? || Don't forward, screenshot, report, block.
+sa: I || Why might bystanders not act? || Fear, diffusion of responsibility, not knowing what to do.
+sa: C || Explain why reporting isn't snitching. || It protects people from harm.
+sa: C || Share your upstander guide. || Answers vary.
+
+=== ETH.D1 0
+hook: Every person in Canada has rights that no government can simply take away, like freedom of expression and equality before the law. But rights come with responsibilities, because my rights end where they harm yours.
+sc: I can explain human rights and where they come from | I can describe key rights in the Canadian Charter of Rights and Freedoms | I can explain how rights connect to responsibilities
+v: human rights :: Basic rights and freedoms that belong to every person.
+v: Charter of Rights and Freedoms :: Part of Canada's Constitution (1982) that protects rights and freedoms.
+v: Universal Declaration of Human Rights :: A 1948 United Nations document listing rights for all people.
+v: responsibility :: A duty that comes with having rights.
+v: discrimination :: Unfair treatment based on characteristics such as race, religion or disability.
+v: reasonable limits :: Limits on rights that can be justified in a free and democratic society.
+ts: Rights and Responsibilities || Discussion || What are our rights, and what responsibilities come with them?
+tx: Background (written for this lesson from public sources): ¶ Universal Declaration of Human Rights: adopted by the UN General Assembly on 10 December 1948 (now marked as Human Rights Day), with 30 articles. ¶ Convention on the Rights of the Child: a UN treaty adopted in 1989; Canada ratified it in 1991. It includes rights to education, play, protection and having a say in decisions that affect you. ¶ Canadian Charter of Rights and Freedoms (1982): fundamental freedoms (religion, expression, peaceful assembly, association) in section 2; democratic rights (voting); mobility rights; legal rights (life, liberty and security in section 7; fair treatment by police and courts); equality rights (section 15); official languages; minority language education rights. Section 1 allows "reasonable limits" that can be justified in a free and democratic society. ¶ Alberta's Human Rights Act protects people from discrimination in areas like jobs, housing and services. ¶ Rights and responsibilities pairs: freedom of expression ↔ not spreading hate or harassment; right to education ↔ respecting others' learning; equality ↔ treating others fairly. ¶ Activity: match real-life situations to Charter sections, then write a responsibility for each right.
+src: Summary from public sources: the UN, the Government of Canada and the Alberta Human Rights Commission.
+st: Learn about the UDHR and the Convention on the Rights of the Child | Explore Charter sections | Discuss reasonable limits | Match situations to rights | Pair rights with responsibilities
+org: Right | Source | Example | Matching responsibility
+an: Which Charter right do you use most in daily life? | Why might free expression have limits? | How do children's rights apply at school? | Why do rights need responsibilities?
+pr: Create a rights-and-responsibilities chart with five rights, their sources, examples and matching responsibilities.
+ex: Charter year || When did the Charter become law? || Constitution || 1982 || Which section covers equality?
+ex: Reasonable limits || Is hate speech protected by free expression? || Section 1 || No; reasonable limits apply to protect others || Who decides limits?
+ex: UDHR || When was the UDHR adopted? || UN || 10 December 1948 || What day marks it?
+ex: Responsibility || Right to education: responsibility? || Pair || Respect others' right to learn by not disrupting class || Another?
+p: B || What are human rights? || Basic rights belonging to every person.
+p: B || What is the Charter? || Part of Canada's Constitution protecting rights.
+p: B || What is the UDHR? || A 1948 UN list of rights for all people.
+p: B || What is discrimination? || Unfair treatment based on characteristics.
+p: B || What is a responsibility? || A duty that comes with rights.
+p: I || When did the Charter come into force? || 1982.
+p: I || Which Charter section lists fundamental freedoms? || Section 2.
+p: I || Which section protects equality? || Section 15.
+p: I || When was the Convention on the Rights of the Child adopted? || 1989.
+p: I || How many articles are in the UDHR? || 30.
+p: I || Which Alberta law protects against discrimination? || The Alberta Human Rights Act.
+p: C || Why can rights have reasonable limits? || To protect other people's rights and safety.
+p: C || Why do rights come with responsibilities? || My rights must not harm others' rights.
+p: C || How do children's rights apply at school? || Rights to education, safety and a say.
+p: C || Share your rights chart. || Answers vary.
+mis: Thinking rights have no limits | Thinking rights only apply to adults | Thinking responsibilities cancel rights
+et: Name two Charter rights. | Why do rights have limits?
+mc: B || Human rights belong to || every person | adults only | citizens only | leaders || A
+mc: B || The Charter is part of || the Constitution | a school rule | a bylaw | a treaty || A
+mc: B || The UDHR was adopted in || 1948 | 1982 | 1867 | 2000 || A
+mc: B || Discrimination is || unfair treatment | fairness | equality | inclusion || A
+mc: B || Rights come with || responsibilities | nothing | money | fame || A
+mc: B || Human Rights Day is || 10 December | 1 July | 1 January | 31 October || A
+mc: I || The Charter came into force in || 1982 | 1948 | 1867 | 1990 || A
+mc: I || Fundamental freedoms are in || section 2 | section 15 | section 1 | section 7 || A
+mc: I || Equality rights are in || section 15 | section 2 | section 1 | section 33 || A
+mc: I || The Convention on the Rights of the Child was adopted in || 1989 | 1948 | 1982 | 2010 || A
+mc: C || Reasonable limits protect || others' rights and safety | governments only | nobody | rules || A
+mc: C || Rights need responsibilities because || rights must not harm others | rules say | it's tradition | nothing || A
+sa: B || Define human rights. || Basic rights and freedoms that belong to every person.
+sa: B || What is the Charter of Rights and Freedoms? || Part of Canada's Constitution (1982) protecting rights and freedoms.
+sa: I || Name four fundamental freedoms. || Religion, expression, peaceful assembly, association.
+sa: I || What does section 1 allow? || Reasonable limits on rights.
+sa: I || Name two children's rights. || Education, play, protection, a say.
+sa: I || Pair a right with a responsibility. || Answers vary.
+sa: C || Explain why rights have limits. || To protect others' rights and safety.
+sa: C || Share your rights chart. || Answers vary.
+
+=== ETH.D1 1
+hook: Every post, comment, like and search leaves a trace. Online, the same ethics apply as face to face, but mistakes can spread faster, last longer and reach people you'll never meet.
+sc: I can explain digital citizenship and my digital footprint | I can apply ethics to privacy, sharing and online behaviour | I can make responsible choices online
+v: digital citizenship :: Using technology responsibly, safely and respectfully.
+v: digital footprint :: The trail of information you leave online.
+v: privacy :: Control over your personal information.
+v: consent :: Permission given freely before something is shared or done.
+v: misinformation :: False or misleading information, shared with or without intent to deceive.
+v: netiquette :: Polite, respectful behaviour online.
+ts: Ethics Online || Discussion || How do ethics apply to what I do online?
+tx: Key ideas (written for this lesson): ¶ Digital footprint: posts, photos, comments, likes, searches and data apps collect. Screenshots mean deleting doesn't guarantee something is gone. ¶ Privacy: protect personal information (full name with school, address, phone, passwords, location); check app settings; think before sharing others' information. ¶ Consent: ask before posting photos or videos of others. Sharing someone's private messages or images without permission can hurt them badly and can break the law. ¶ Misinformation: check before sharing: Who made this? What's the evidence? Do other reliable sources agree? Is it designed to make me angry? ¶ Kindness: the "would I say it face to face?" test. ¶ Activities: 1. Footprint audit: search for an imaginary student's posts (teacher-made profile); what impression do they give? 2. Scenarios (fictional): a friend's embarrassing video in a group chat; a viral post claiming a celebrity said something shocking; a game that asks for your location; someone asks for your password "just to help." For each: identify the ethical issue, the lenses, and a responsible choice. 3. Create a personal digital code of five rules.
+src: Original activity written for this lesson.
+st: Learn about digital footprints | Audit an imaginary profile | Analyze online scenarios | Practise checking misinformation | Write a personal digital code
+org: Scenario | Ethical issue | Lens | Responsible choice
+an: What impression did the imaginary profile give? | Why does consent matter online? | How can you tell if a post is misinformation? | Which rule in your code is most important to you?
+pr: Write a personal digital code of five rules, each with a reason linked to an ethical lens.
+ex: Consent || A friend's funny video: post it? || Permission || Ask first; post only if they agree || Why?
+ex: Misinformation check || A shocking post with no source. Next step? || Verify || Check reliable news sources before sharing || What if you can't confirm?
+ex: Password || A friend asks for your password. Response? || Privacy || Say no; passwords stay private even with friends || Why?
+ex: Face to face test || Would you say this comment in person? || Kindness || If not, don't post it || Why is online different?
+p: B || What is digital citizenship? || Using technology responsibly and respectfully.
+p: B || What is a digital footprint? || The trail of information you leave online.
+p: B || What is privacy? || Control over personal information.
+p: B || What is consent? || Permission given freely.
+p: B || What is misinformation? || False or misleading information.
+p: I || Name three pieces of personal information to protect. || Address, phone, passwords.
+p: I || Does deleting a post guarantee it's gone? || No; screenshots can keep it.
+p: I || What should you do before posting a photo of a friend? || Ask permission.
+p: I || Name two misinformation checks. || Who made it and do reliable sources agree.
+p: I || What is the face to face test? || Would I say it in person?
+p: I || Should you share your password with a friend? || No.
+p: C || Why do online mistakes spread faster? || Content can be copied and shared instantly.
+p: C || Why can sharing without consent cause serious harm? || It takes away someone's control over their own image or words.
+p: C || Why should we slow down before sharing? || To avoid spreading misinformation or hurting others.
+p: C || Share your digital code. || Answers vary.
+mis: Thinking deleted posts disappear | Thinking online words matter less | Sharing before checking
+et: What is a digital footprint? | Name one misinformation check.
+mc: B || Digital citizenship is || responsible tech use | gaming only | buying devices | hacking || A
+mc: B || A digital footprint is || your online trail | a shoe size | a password | a device || A
+mc: B || Privacy means || control over your information | sharing everything | being famous | hiding always || A
+mc: B || Consent is || permission freely given | forced agreement | silence | a guess || A
+mc: B || Misinformation is || false or misleading | always true | a source | a citation || A
+mc: B || Netiquette is || polite online behaviour | a virus | an app | a password || A
+mc: I || Deleted posts || may survive in screenshots | vanish forever | become private | are illegal || A
+mc: I || Before posting a friend's photo || ask permission | post quickly | edit it | tag everyone || A
+mc: I || A friend asks for your password || say no | share it | post it | change it to theirs || A
+mc: I || Before sharing a shocking post || check reliable sources | share fast | add comments | screenshot only || A
+mc: C || Online mistakes spread fast because || content copies instantly | nobody reads | it's slow | it's private || A
+mc: C || Sharing without consent || takes away control | is harmless | is kind | is required || A
+sa: B || Define digital footprint. || The trail of information you leave online.
+sa: B || What is consent? || Permission given freely before something is shared or done.
+sa: I || List three privacy rules. || Protect address, phone and passwords.
+sa: I || Describe how to check misinformation. || Check who made it, evidence and reliable sources.
+sa: I || What is the face to face test? || Would I say it in person?
+sa: I || Analyze one online scenario. || Answers vary.
+sa: C || Explain why online mistakes can be serious. || They spread fast and last.
+sa: C || Share your digital code. || Answers vary.
+
+=== ETH.D1 2
+hook: The T-shirt you're wearing may have been made by workers across the world. In 2013, the Rana Plaza factory building in Bangladesh collapsed, killing more than 1,100 garment workers. Global ethics asks what we owe to people we'll never meet.
+sc: I can explain what it means to be a global citizen | I can analyze a global ethical issue using lenses and stakeholders | I can propose ethical actions at personal and community levels
+v: global citizen :: A person who sees themselves as part of a world community with shared responsibilities.
+v: global ethical issue :: A moral problem that crosses borders, such as fair labour or climate.
+v: supply chain :: All the steps and people involved in making and delivering a product.
+v: fair trade :: A system aiming to give producers fair pay and safe conditions.
+v: interdependence :: Depending on one another across countries.
+v: advocacy :: Speaking up to support a cause.
+ts: Global Ethics || Investigation || What responsibilities do we have to people around the world?
+tx: Case study and issues (written for this lesson from public sources): ¶ Rana Plaza (24 April 2013): an eight-storey building near Dhaka, Bangladesh, housing garment factories collapsed after cracks were found the day before; more than 1,100 people died. Many global clothing brands sourced from factories there. Afterward, many brands signed an agreement to improve building and fire safety in Bangladesh factories. ¶ Questions: Who is responsible? Factory owners, brands, governments, shoppers? ¶ Other global issues to choose from: access to clean water; climate change and its unequal effects; child labour in cocoa or mining; vaccine and medicine access; refugees; e-waste shipped to other countries. ¶ Analysis steps: stakeholders and how each is affected; apply the five lenses; identify actions at three levels: personal (buy less, buy second-hand, learn where products come from), community (school fundraiser, awareness campaign, letter to a company) and global (international agreements, organizations). ¶ Product trace: pick an everyday item and trace its supply chain as far as you can; mark where ethical issues could arise.
+src: Summary from public reporting on the Rana Plaza collapse; issues are widely discussed global topics.
+st: Learn about global citizenship | Study the Rana Plaza case | Choose a global issue | Analyze stakeholders and lenses | Propose personal, community and global actions
+org: Stakeholder | Effect | Lens insight | Possible action
+an: Who do you think was responsible for Rana Plaza, and why? | How are we connected to people who make our things? | Which action level feels most effective? | What does being a global citizen mean to you?
+pr: Analyze one global ethical issue with stakeholders, the five lenses and actions at personal, community and global levels.
+ex: Responsibility || Who shares responsibility for Rana Plaza? || Stakeholders || Factory owners, brands, government inspectors, and arguably consumers || Who had most power to prevent it?
+ex: Supply chain || Trace a T-shirt. || Steps || Cotton farm, spinning, weaving, sewing factory, shipping, store || Where can problems arise?
+ex: Consequences lens || Should we boycott all clothing from a country? || Harm and good || A boycott could cost workers their jobs; pushing for safety may help more || What's better?
+ex: Personal action || Name a personal action on fast fashion. || Choices || Buy fewer, better-made or second-hand clothes || What about community action?
+p: B || What is a global citizen? || Someone who sees themselves as part of a world community.
+p: B || What is a global ethical issue? || A moral problem crossing borders.
+p: B || What is a supply chain? || The steps and people that make and deliver a product.
+p: B || What is fair trade? || A system aiming for fair pay and safe conditions.
+p: B || What is interdependence? || Countries depending on one another.
+p: I || When did Rana Plaza collapse? || 24 April 2013.
+p: I || In which country was Rana Plaza? || Bangladesh.
+p: I || About how many people died? || More than 1,100.
+p: I || What did many brands sign afterward? || A building and fire safety agreement.
+p: I || Name three levels of action. || Personal, community, global.
+p: I || Name another global ethical issue. || Access to clean water.
+p: C || Why might boycotts sometimes harm workers? || Workers can lose their jobs.
+p: C || Why are we connected to distant workers? || We buy what they make through supply chains.
+p: C || Why act at several levels? || Big problems need individual, community and global change.
+p: C || Share your global issue analysis. || Answers vary.
+mis: Thinking distant problems have nothing to do with us | Thinking one solution fixes everything | Thinking individual actions don't matter
+et: Define supply chain. | Name a personal action on a global issue.
+mc: B || A global citizen sees themselves as || part of a world community | only local | above others | alone || A
+mc: B || A supply chain is || steps making a product | a necklace | a store | a road || A
+mc: B || Fair trade aims for || fair pay and safe conditions | low prices only | no rules | profit only || A
+mc: B || Interdependence means || depending on each other | independence | isolation | competition only || A
+mc: B || Advocacy means || speaking up for a cause | staying silent | buying more | ignoring || A
+mc: B || A global ethical issue || crosses borders | is only local | is private | is solved || A
+mc: I || Rana Plaza collapsed in || 2013 | 1913 | 2003 | 2023 || A
+mc: I || Rana Plaza was in || Bangladesh | Canada | France | Brazil || A
+mc: I || Rana Plaza housed || garment factories | schools | hospitals | farms || A
+mc: I || A personal action on fast fashion is || buying second-hand | buying more | throwing clothes away | ignoring || A
+mc: C || Boycotts can harm || workers' jobs | nobody | only brands | only shoppers || A
+mc: C || Big problems need action at || several levels | one level | no level | the personal level only || A
+sa: B || Define global citizen. || A person who sees themselves as part of a world community with shared responsibilities.
+sa: B || What is a supply chain? || All the steps and people involved in making and delivering a product.
+sa: I || Describe the Rana Plaza collapse. || A Bangladesh factory building collapsed in 2013, killing more than 1,100 workers.
+sa: I || Who shares responsibility? || Owners, brands, government, consumers.
+sa: I || Trace a product's supply chain. || Answers vary.
+sa: I || Name actions at three levels. || Personal, community, global examples.
+sa: C || Explain why boycotts are complicated. || They can hurt workers.
+sa: C || Share your global issue analysis. || Answers vary.
