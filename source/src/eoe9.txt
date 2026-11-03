@@ -1,0 +1,637 @@
+=== EOE9.A1 1
+hook: Leading an outdoor activity is very different from joining one. Before anyone steps outside, a good leader has already pictured what could go wrong, planned for it and set clear expectations.
+sc: I can plan a short outdoor activity for peers with clear goals | I can complete a risk assessment and controls | I can prepare a clear briefing
+v: activity plan :: A written plan of an outdoor activity's goal, steps, timing and equipment.
+v: risk assessment :: Identifying hazards, judging their likelihood and severity, and planning controls.
+v: hazard :: Something that could cause harm.
+v: control :: An action that reduces a risk.
+v: briefing :: A short talk before an activity explaining goals, boundaries and safety.
+v: group management :: Keeping a group together, safe and on task.
+ts: Plan to Lead || Leadership || How do I plan a safe, engaging outdoor activity for my peers?
+tx: Leading task (written for this lesson): in pairs or threes, plan a 20-minute outdoor activity for classmates on the school grounds or a nearby park, e.g. a snowshoe or walking route with nature stops, a winter shelter-building challenge, a tracking hunt, a compass course, or a cooperative game. ¶ Activity plan: goal (what should participants learn or experience?); location and boundaries; timing (arrive, brief, activity, debrief); equipment; roles of each leader. ¶ Risk assessment table: hazard → likelihood (low/medium/high) → severity (minor/moderate/serious) → controls. Example: icy path (medium, moderate) → choose a route away from ice, walk not run, check footwear. Cold (medium, moderate) → check clothing at the briefing, keep moving, set a 20-minute limit, warm-up spot indoors. Lost participant (low, serious) → clear boundaries, buddy system, head counts at start and end, whistle signal. ¶ Briefing script (2 minutes): welcome, goal, boundaries, buddy system, signals (whistle = gather), safety rules, what to do if hurt, questions. ¶ Teacher approves each plan before it runs.
+src: Original activity written for this lesson.
+st: Choose an activity and goal | Write the activity plan | Complete a risk assessment table | Write a two-minute briefing | Get teacher approval
+org: Hazard | Likelihood | Severity | Controls
+an: What is the most serious hazard in your activity? | Which controls reduce it most? | How will you know everyone is back? | What makes a briefing clear?
+pr: Submit an activity plan, a risk assessment with at least four hazards and a two-minute briefing script.
+ex: Risk rating || Icy path: medium likelihood, moderate severity. Control? || Reduce || Choose another route, walk not run, check footwear || What if no other route exists?
+ex: Head count || When do you count heads? || Start and end || At the start, at each stop and at the end || Why at stops too?
+ex: Signals || Why agree on a whistle signal? || Communication || Everyone knows to gather when they hear it, even far away || What signal?
+ex: Goal || Write a goal for a tracking hunt. || Learning || "Participants identify three animal signs and record them" || Is it measurable?
+p: B || What is an activity plan? || A written plan of an activity's goal, steps, timing and equipment.
+p: B || What is a risk assessment? || Identifying hazards and planning controls.
+p: B || What is a hazard? || Something that could cause harm.
+p: B || What is a control? || An action that reduces risk.
+p: B || What is a briefing? || A short safety and goals talk before an activity.
+p: I || How long is the activity? || 20 minutes.
+p: I || How long is the briefing? || About 2 minutes.
+p: I || Name three things in a briefing. || Goal, boundaries, safety signals.
+p: I || When do you count heads? || At the start, at stops and at the end.
+p: I || What does the buddy system do? || Partners watch out for each other.
+p: I || Who approves the plan? || The teacher.
+p: C || Why rate both likelihood and severity? || A rare but serious hazard can still need strong controls.
+p: C || Why set clear boundaries? || So nobody wanders out of sight or into danger.
+p: C || Why plan a debrief time? || Reflection turns the activity into learning.
+p: C || Share your risk assessment. || Answers vary.
+mis: Thinking risk assessment means removing all risk | Skipping the briefing to save time | Forgetting head counts
+et: Name one hazard and its control. | What goes in a briefing?
+mc: B || An activity plan includes || goal, steps and timing | only snacks | nothing | music || A
+mc: B || A risk assessment plans || controls for hazards | the menu | the bus | grades || A
+mc: B || A hazard || could cause harm | is safe | is a goal | is a game || A
+mc: B || A control || reduces risk | increases risk | ignores risk | is a hazard || A
+mc: B || A briefing happens || before the activity | after | never | during lunch || A
+mc: B || The buddy system pairs || participants | leaders only | equipment | animals || A
+mc: I || The activity lasts || 20 minutes | 2 minutes | 2 hours | a day || A
+mc: I || Head counts happen || at start, stops and end | never | once | only at the end || A
+mc: I || A whistle signal means || gather | run | hide | lunch || A
+mc: I || Plans are approved by || the teacher | nobody | a participant | the internet || A
+mc: C || Rate likelihood and severity because || rare serious hazards need controls | it's fun | it's required | nothing || A
+mc: C || Boundaries prevent || wandering out of sight | fun | learning | snow || A
+sa: B || Define risk assessment. || Identifying hazards, judging likelihood and severity, and planning controls.
+sa: B || What is a briefing? || A short talk on goals, boundaries and safety before an activity.
+sa: I || List four hazards and controls for your activity. || Answers vary.
+sa: I || When do you count heads? || At the start, stops and end.
+sa: I || List the briefing items. || Welcome, goal, boundaries, buddies, signals, safety, injuries, questions.
+sa: I || Write your activity goal. || Answers vary.
+sa: C || Explain why both likelihood and severity matter. || Serious hazards need controls even if rare.
+sa: C || Share your plan. || Answers vary.
+
+=== EOE9.A1 2
+hook: Leadership day. You've planned it; now you run it. Afterwards, a debrief helps everyone understand what they learned, and helps you grow as a leader.
+sc: I can lead my planned activity safely and confidently | I can manage the group and adapt when things change | I can run a debrief and reflect on my leadership
+v: leadership :: Guiding a group toward a goal while keeping everyone safe and included.
+v: adapt :: Change plans when conditions change.
+v: debrief :: A discussion after an activity about what happened and what was learned.
+v: inclusion :: Making sure everyone can take part.
+v: feedback :: Comments that help someone improve.
+v: what-so what-now what :: A three-step debrief model.
+ts: Lead and Debrief || Leadership || How do I lead an activity and help the group learn from it?
+tx: Leading checklist (written for this lesson): ¶ Before: check equipment and route; confirm boundaries; check participants' clothing. ¶ During: give your briefing; count heads; position leaders (one at the front, one at the back, "sweep"); watch for cold, fatigue or anyone left out; adapt if needed (shorten the route, add a warm-up game, move to shelter). ¶ Debrief (5 minutes), using What? So what? Now what?: What happened? (describe). So what? (what did we learn, how did it feel?). Now what? (how will we use it?). Ask open questions, let everyone speak, keep it positive and honest. ¶ Feedback: participants complete a quick card: one thing the leaders did well, one suggestion. Teacher observes using a leadership rubric: safety, communication, group management, inclusion, adaptability. ¶ Leader reflection: what went as planned, what you adapted and why, how you would lead differently next time.
+src: Original activity written for this lesson.
+st: Check equipment and route | Give the briefing and count heads | Lead with front and sweep positions | Adapt to conditions | Debrief and collect feedback
+org: Rubric area | Evidence | Next step
+an: What did you need to adapt, and why? | How did you include everyone? | Which debrief question got the best answers? | What would you change as a leader?
+pr: Lead your activity, run a What? So what? Now what? debrief, and write a leadership reflection using participant feedback.
+ex: Sweep || Why have a leader at the back? || Nobody left behind || The sweep keeps stragglers with the group || What does the front leader do?
+ex: Adapt || Participants are getting cold. What do you do? || Change plan || Add a warm-up game or shorten the route || How do you know they're cold?
+ex: Debrief question || Turn "Did you like it?" into an open question. || Open-ended || "What was the most challenging part, and how did your team handle it?" || Why open?
+ex: Inclusion || One student hangs back from the group. Response? || Include || Check in quietly and give them a role || Why a role?
+p: B || What is leadership? || Guiding a group toward a goal safely.
+p: B || What does adapt mean? || Change plans when conditions change.
+p: B || What is a debrief? || A discussion after an activity.
+p: B || What is inclusion? || Making sure everyone can take part.
+p: B || What is feedback? || Comments to help improve.
+p: I || What are the three debrief questions? || What? So what? Now what?
+p: I || What does the sweep do? || Stays at the back so nobody is left behind.
+p: I || Name two ways to adapt for cold. || Warm-up game or shorten the route.
+p: I || How long is the debrief? || About 5 minutes.
+p: I || Name three rubric areas. || Safety, communication, inclusion.
+p: I || What goes on a feedback card? || One strength and one suggestion.
+p: C || Why use open questions in a debrief? || They get people thinking and sharing more.
+p: C || Why is adapting a leadership skill? || Conditions change and leaders must keep the group safe and engaged.
+p: C || Why give a hesitant participant a role? || It builds belonging and confidence.
+p: C || Write your leadership reflection. || Answers vary.
+mis: Sticking to the plan when conditions change | Asking yes/no debrief questions | Leading only from the front
+et: Name the three debrief questions. | What does the sweep do?
+mc: B || Leadership means || guiding a group safely | bossing | ignoring | leaving || A
+mc: B || Adapt means || change plans | give up | ignore | repeat || A
+mc: B || A debrief comes || after the activity | before | never | during lunch || A
+mc: B || Inclusion means || everyone takes part | some take part | leaders only | nobody || A
+mc: B || Feedback helps || improvement | nothing | hiding | arguing || A
+mc: B || The sweep is at || the back | the front | home | the bus || A
+mc: I || "So what?" asks || what we learned | what happened | what's next | the time || A
+mc: I || "Now what?" asks || how we'll use it | what happened | who won | the weather || A
+mc: I || For cold participants || add a warm-up game | keep standing still | remove layers | ignore it || A
+mc: I || Feedback cards ask for || a strength and a suggestion | grades | names only | nothing || A
+mc: C || Open questions || get more sharing | end talk | are rude | confuse || A
+mc: C || A role for a hesitant student || builds belonging | punishes | isolates | nothing || A
+sa: B || Define debrief. || A discussion after an activity about what happened and what was learned.
+sa: B || What does the sweep do? || Stays at the back so nobody is left behind.
+sa: I || Describe the What? So what? Now what? model. || Describe, learn, apply.
+sa: I || How did you adapt your activity? || Answers vary.
+sa: I || Write an open debrief question. || Answers vary.
+sa: I || List the rubric areas. || Safety, communication, group management, inclusion, adaptability.
+sa: C || Explain why adapting is a leadership skill. || Conditions change and safety comes first.
+sa: C || Write your leadership reflection. || Answers vary.
+
+=== EOE9.B1 0
+hook: Imagine a bank account where you only spend the interest and never touch the savings: it lasts forever. Sustainability is the same idea for the planet: living off nature's "interest" without using up the "savings."
+sc: I can define sustainability and its three pillars | I can tell sustainable from unsustainable practices | I can apply sustainability thinking to everyday choices
+v: sustainability :: Meeting present needs without compromising future generations' ability to meet theirs.
+v: renewable resource :: A resource that can be replaced naturally, such as forests, fish or sunlight.
+v: non-renewable resource :: A resource that can't be replaced in a human lifetime, such as oil, coal or minerals.
+v: three pillars :: Environmental, social and economic sustainability.
+v: conservation :: Careful use and protection of resources.
+v: carrying capacity :: The largest population an environment can support long-term.
+ts: Living Off the Interest || Discussion || What does sustainability mean, and how can we live sustainably?
+tx: Key ideas (written for this lesson): ¶ Definition: the 1987 Brundtland Report (Our Common Future) defined sustainable development as development that "meets the needs of the present without compromising the ability of future generations to meet their own needs." ¶ Three pillars: environmental (healthy ecosystems), social (fair, healthy communities), economic (jobs and stable livelihoods). A sustainable choice balances all three. ¶ Renewable resources are only sustainable if used no faster than they renew (e.g. fishing less than fish reproduce, harvesting forests within regrowth rates). ¶ Fishing game: groups share a "lake" of 20 fish crackers; each round, each person may catch fish; after each round the remaining fish double (to a maximum of 20). Groups that overfish run out. Discuss: what rules made the lake last? ¶ Everyday sort: classify practices as sustainable or not and explain with the three pillars (reusable bottles, fast fashion, local food, idling cars, repairing electronics, single-use packaging).
+src: Original activity written for this lesson; definition from the 1987 Brundtland Report.
+st: Learn the Brundtland definition | Learn the three pillars | Play the fishing game | Discuss rules that made the lake last | Sort everyday practices
+org: Practice | Environmental | Social | Economic | Sustainable?
+an: What happened to the lake in your group? | What rules made it sustainable? | How is the fishing game like real fisheries? | Which everyday change could you make?
+pr: Write a paragraph explaining sustainability using the fishing game and one everyday example, referring to all three pillars.
+ex: Definition || Put the Brundtland definition in your own words. || Now and future || Use what we need today while leaving enough for the future || Why include the future?
+ex: Fishing game || The lake has 20 fish; 4 people each take 3. What's left? Next round? || 20 − 12 = 8, doubles || 8, then 16 || What if each takes 5?
+ex: Overfishing || Each takes 5. What's left? || 20 − 20 || 0; the lake is empty || What rule would help?
+ex: Three pillars || Is repairing a phone sustainable? || Check pillars || Yes: less waste, saves money, supports local repair jobs || What about fast fashion?
+p: B || What is sustainability? || Meeting today's needs without harming future generations.
+p: B || What is a renewable resource? || One that can be naturally replaced.
+p: B || What is a non-renewable resource? || One that can't be replaced in a human lifetime.
+p: B || What are the three pillars? || Environmental, social and economic.
+p: B || What is conservation? || Careful use and protection of resources.
+p: I || Which report defined sustainable development in 1987? || The Brundtland Report.
+p: I || Is oil renewable? || No.
+p: I || Is a forest renewable? || Yes, if harvested within regrowth rates.
+p: I || 20 fish, 4 people take 2 each. Remaining after doubling? || 20 (12 doubled to 24, capped at 20).
+p: I || Name a sustainable everyday practice. || Using a reusable bottle.
+p: I || What is carrying capacity? || The largest population an environment can support.
+p: C || Why can renewable resources become unsustainable? || If used faster than they renew.
+p: C || Why include social and economic pillars? || Solutions must work for people and livelihoods too.
+p: C || How is the fishing game like real fisheries? || Overfishing collapses stocks; limits keep them healthy.
+p: C || Write your sustainability paragraph. || Answers vary.
+mis: Thinking renewable always means sustainable | Thinking sustainability is only about the environment | Thinking one person's choices don't matter
+et: Define sustainability. | Name the three pillars.
+mc: B || Sustainability meets || present needs without harming the future | only today's needs | only future needs | nobody's needs || A
+mc: B || A renewable resource || can be naturally replaced | never returns | is oil | is coal || A
+mc: B || A non-renewable resource is || oil | sunlight | wind | trees || A
+mc: B || The three pillars are || environmental, social, economic | water, air, soil | past, present, future | none || A
+mc: B || Conservation means || careful use of resources | waste | destruction | selling || A
+mc: B || The Brundtland Report was in || 1987 | 1887 | 2007 | 1957 || A
+mc: I || 20 fish minus 12 caught leaves || 8 | 12 | 20 | 0 || A
+mc: I || 8 fish doubled is || 16 | 8 | 20 | 4 || A
+mc: I || Repairing a phone is || sustainable | unsustainable | illegal | wasteful || A
+mc: I || Carrying capacity is || the max population supported | the max weight | a bag | a truck || A
+mc: C || Renewables become unsustainable when || used faster than they renew | used slowly | left alone | protected || A
+mc: C || Social and economic pillars matter because || solutions must work for people | they don't | rules | nothing || A
+sa: B || Define sustainability. || Meeting present needs without compromising future generations.
+sa: B || What are the three pillars? || Environmental, social and economic.
+sa: I || Compare renewable and non-renewable resources. || Renewable can be replaced naturally; non-renewable cannot in a lifetime.
+sa: I || What made your group's lake last? || Answers vary.
+sa: I || Classify fast fashion with the pillars. || Unsustainable: waste, poor working conditions, short-lived savings.
+sa: I || Who defined sustainable development in 1987? || The Brundtland Report.
+sa: C || Explain how renewables become unsustainable. || Used faster than they renew.
+sa: C || Write your paragraph. || Answers vary.
+
+=== EOE9.B1 1
+hook: Alberta's glaciers are shrinking, spring arrives earlier, and insects like the mountain pine beetle now survive winters that once killed them. Climate shapes every ecosystem, and when it changes, ecosystems change too.
+sc: I can explain the difference between weather and climate | I can describe how climate change affects Alberta ecosystems | I can analyze climate data and draw conclusions
+v: weather :: Short-term conditions of the atmosphere, such as today's temperature.
+v: climate :: The average weather of a place over 30 years or more.
+v: greenhouse gas :: A gas, such as carbon dioxide or methane, that traps heat in the atmosphere.
+v: glacier :: A large, slow-moving mass of ice formed from compacted snow.
+v: range shift :: When species move to new areas as conditions change.
+v: phenology :: The timing of seasonal events, like flowering or migration.
+ts: Climate and Our Ecosystems || Investigation || How does changing climate affect Alberta ecosystems?
+tx: Background (written for this lesson from public sources): ¶ Weather vs climate: a cold January day is weather; Alberta's average January temperature over 30 years is climate. ¶ Greenhouse gases trap heat; burning fossil fuels adds carbon dioxide, and global average temperatures have risen since the late 1800s. ¶ Alberta examples: the Athabasca Glacier in Jasper National Park has retreated by more than a kilometre since the late 1800s; markers along the trail show where the ice once reached. Mountain glaciers and snowpack feed rivers through summer, so their loss affects water supply. The mountain pine beetle spread across Alberta's forests partly because winters cold enough to kill the larvae became less common. Earlier springs can shift phenology: plants may flower before their pollinators are active. Warmer, drier conditions can increase wildfire risk. ¶ Data activity: groups get a table of average temperatures for an Alberta city by decade (teacher provides from Environment and Climate Change Canada's historical data) and a table of a glacier's terminus positions. Graph them, describe the trend, and connect it to an ecosystem effect.
+src: Summary from public sources such as Parks Canada and Environment and Climate Change Canada; teachers provide current data tables.
+st: Distinguish weather from climate | Learn how greenhouse gases work | Explore Alberta climate examples | Graph temperature and glacier data | Connect trends to ecosystem effects
+org: Change | Evidence | Ecosystem effect
+an: What trend did your graph show? | How could glacier loss affect prairie rivers? | Why did warmer winters help the pine beetle? | What is one effect of earlier springs?
+pr: Create a graph of an Alberta climate dataset, describe the trend and explain one effect on an Alberta ecosystem.
+ex: Weather or climate || "It's −25 today." Weather or climate? || Short term || Weather || Give a climate statement.
+ex: Pine beetle || Why did the beetle spread? || Cold kills larvae || Fewer very cold winters let more larvae survive || What did it do to forests?
+ex: Glacier water || Why does glacier loss matter downstream? || Summer flow || Glaciers and snowpack feed rivers in late summer || Who depends on that water?
+ex: Phenology || Flowers bloom before bees emerge. Effect? || Timing mismatch || Bees have less food and flowers less pollination || What causes this?
+p: B || What is weather? || Short-term atmospheric conditions.
+p: B || What is climate? || Average weather over 30 years or more.
+p: B || What is a greenhouse gas? || A gas that traps heat.
+p: B || What is a glacier? || A large, slow-moving mass of ice.
+p: B || What is phenology? || The timing of seasonal events.
+p: I || Name two greenhouse gases. || Carbon dioxide and methane.
+p: I || Which glacier in Jasper has retreated more than a kilometre? || The Athabasca Glacier.
+p: I || Which insect spread with warmer winters? || The mountain pine beetle.
+p: I || What do glaciers supply in late summer? || River water.
+p: I || How many years define climate? || 30 or more.
+p: I || What is a range shift? || Species moving to new areas.
+p: C || Why can't one cold winter disprove climate change? || Climate is a long-term average, not one season.
+p: C || How can a timing mismatch harm an ecosystem? || Species that depend on each other get out of sync.
+p: C || Why does warmer, drier weather raise wildfire risk? || Fuels dry out and fire seasons lengthen.
+p: C || Present your graph and conclusion. || Answers vary.
+mis: Confusing weather and climate | Thinking one cold day disproves warming | Thinking climate change doesn't affect local ecosystems
+et: Distinguish weather and climate. | Give one Alberta climate effect.
+mc: B || Weather is || short-term conditions | a 30-year average | a glacier | a season || A
+mc: B || Climate is || long-term average weather | today's temperature | a storm | a cloud || A
+mc: B || Greenhouse gases || trap heat | cool Earth | are solid | are rocks || A
+mc: B || A glacier is || moving ice | a lake | a forest | a cloud || A
+mc: B || Phenology is || timing of seasonal events | a disease | a rock | a map || A
+mc: B || Carbon dioxide is a || greenhouse gas | metal | mineral | glacier || A
+mc: I || The Athabasca Glacier is in || Jasper National Park | Banff town | Calgary | Edmonton || A
+mc: I || The pine beetle spread because of || fewer very cold winters | more snow | more birds | more rain || A
+mc: I || Climate averages cover || 30+ years | 1 day | 1 week | 1 year || A
+mc: I || Glaciers feed rivers in || late summer | only winter | never | only spring || A
+mc: C || One cold winter || doesn't disprove climate trends | proves cooling | ends warming | means nothing changes || A
+mc: C || Timing mismatches || harm linked species | help everyone | don't exist | stop seasons || A
+sa: B || Distinguish weather and climate. || Weather is short-term; climate is the 30-year average.
+sa: B || What is a greenhouse gas? || A gas that traps heat in the atmosphere.
+sa: I || Describe the Athabasca Glacier's change. || It has retreated more than a kilometre since the late 1800s.
+sa: I || Explain the pine beetle's spread. || Fewer very cold winters let larvae survive.
+sa: I || What is a timing mismatch? || Species' seasonal events falling out of sync.
+sa: I || Why does glacier loss matter downstream? || Less late-summer river water.
+sa: C || Explain why one cold winter doesn't disprove climate change. || Climate is a long-term average.
+sa: C || Present your graph and conclusion. || Answers vary.
+
+=== EOE9.B1 2
+hook: If everyone on Earth lived like the average Canadian, we would need several planets' worth of resources. An ecological footprint calculator shows where your own impact comes from and where you could shrink it.
+sc: I can explain what an ecological footprint measures | I can calculate and analyze my own footprint | I can set realistic goals to reduce my footprint
+v: ecological footprint :: The area of land and water needed to supply what a person uses and absorb their waste.
+v: global hectare :: A standard unit for measuring footprints and biocapacity.
+v: biocapacity :: The ability of ecosystems to produce resources and absorb waste.
+v: carbon footprint :: The greenhouse gases produced by a person's or group's activities.
+v: overshoot :: Using resources faster than nature can renew them.
+v: Earth Overshoot Day :: The date each year when humanity has used up what Earth can renew in that year.
+ts: My Footprint || Investigation || How big is my ecological footprint, and how can I reduce it?
+tx: Footprint activity (written for this lesson): ¶ What it measures: the land and water needed for food, housing, transport, goods and services, and for absorbing carbon emissions, in global hectares. The Global Footprint Network compares this with Earth's biocapacity. When humanity's demand is greater, we are in overshoot; Earth Overshoot Day marks when the year's budget is used up. Canada's average footprint per person is among the highest in the world. ¶ Calculate: use a reputable online footprint calculator (e.g. the Global Footprint Network's) or the teacher's paper version with questions on: food (meat, local, waste), home (size, heating, electricity), transport (car, bus, walking, flights), goods (new clothes, electronics, recycling). ¶ Analyze: which category is largest? Compare with class averages (anonymous). ¶ Goals: choose two realistic changes, estimate their effect with the calculator, and write SMART goals (e.g. "For four weeks, walk to school three days a week instead of being driven"). ¶ Fairness note: some choices depend on family circumstances and where you live; focus on what you can influence.
+src: Original activity written for this lesson; concepts from the Global Footprint Network.
+st: Learn what a footprint measures | Calculate your footprint | Identify your largest category | Compare anonymously with the class | Set two SMART reduction goals
+org: Category | My score | Change I could make | Estimated effect
+an: Which category was your largest? | Which change had the biggest effect in the calculator? | Which changes are realistic for you? | Why do footprints differ between countries?
+pr: Report your footprint by category and write two SMART goals with estimated effects.
+ex: Units || What unit measures footprints? || Standard || Global hectares || Why a standard unit?
+ex: Overshoot || What does overshoot mean? || Demand vs supply || Using more than nature renews in a year || When is Earth Overshoot Day?
+ex: Biggest lever || Which usually lowers footprint more: one fewer flight or turning off lights for a week? || Compare || One fewer flight, usually by far || How can you check?
+ex: SMART || Make "use less energy" SMART. || Specific and timed || "For four weeks, take 5-minute showers on school days" || Is it realistic?
+p: B || What is an ecological footprint? || Land and water needed to supply and absorb what we use.
+p: B || What is a global hectare? || A standard unit for footprints.
+p: B || What is biocapacity? || Nature's ability to produce resources and absorb waste.
+p: B || What is a carbon footprint? || Greenhouse gases from our activities.
+p: B || What is overshoot? || Using resources faster than nature renews them.
+p: I || Name four footprint categories. || Food, home, transport, goods.
+p: I || What marks the date humanity uses up the year's budget? || Earth Overshoot Day.
+p: I || How does Canada's footprint compare globally? || Among the highest.
+p: I || Name a transport change that lowers footprint. || Walking or taking the bus.
+p: I || Name a food change that lowers footprint. || Wasting less food.
+p: I || How many SMART goals do you write? || Two.
+p: C || Why do footprints differ between countries? || Different wealth, energy sources, climate and lifestyles.
+p: C || Why focus on what you can influence? || Some factors depend on family and location.
+p: C || Why are some changes bigger than others? || Some activities, like flights, use far more energy.
+p: C || Report your footprint and goals. || Answers vary.
+mis: Thinking all changes have equal effect | Blaming individuals for things they can't control | Thinking footprint is only about carbon
+et: Define ecological footprint. | What is overshoot?
+mc: B || A footprint measures || land and water needed | shoe size | weight | height || A
+mc: B || Footprints are measured in || global hectares | kilograms | litres | degrees || A
+mc: B || Biocapacity is || nature's production and absorption | a battery | a building | a car || A
+mc: B || Overshoot means || using more than nature renews | using less | saving | balance || A
+mc: B || A carbon footprint counts || greenhouse gases | footsteps | fish | trees || A
+mc: B || Canada's footprint is || among the highest | the lowest | zero | average || A
+mc: I || Earth Overshoot Day marks || using up the year's budget | New Year | Earth Day | a holiday || A
+mc: I || A footprint category is || transport | music | sport | maths || A
+mc: I || A big footprint reduction is || one fewer flight | one light off once | one less pencil | nothing || A
+mc: I || Write how many SMART goals? || Two | Ten | None | Fifty || A
+mc: C || Footprints differ between countries due to || wealth, energy and lifestyle | luck | colour | language || A
+mc: C || Focus on what you can influence because || some factors depend on family | nothing matters | blame helps | rules || A
+sa: B || Define ecological footprint. || The land and water needed to supply what a person uses and absorb their waste.
+sa: B || What is overshoot? || Using resources faster than nature can renew them.
+sa: I || What was your largest category? || Answers vary.
+sa: I || Name four footprint categories. || Food, home, transport, goods.
+sa: I || Why are flights a big part of footprints? || They use large amounts of fuel.
+sa: I || Write one SMART goal. || Answers vary.
+sa: C || Explain why footprints differ between countries. || Wealth, energy sources, climate, lifestyle.
+sa: C || Report your footprint and goals. || Answers vary.
+
+=== EOE9.C1 0
+hook: Should a wetland be drained for new houses? Should a highway get wildlife overpasses? Real environmental issues rarely have simple answers. Researching them well means finding reliable facts from several sources.
+sc: I can choose and define an Alberta environmental issue | I can research using reliable, balanced sources | I can summarize the key facts and questions
+v: environmental issue :: A problem or debate about how human activity affects the environment.
+v: reliable source :: A trustworthy source with evidence, such as government data, scientific studies or established news.
+v: bias :: A one-sided view that favours a position.
+v: research question :: A focused question that guides research.
+v: citation :: A note giving credit to a source.
+v: fact vs opinion :: A fact can be checked; an opinion is a belief or judgment.
+ts: Investigating an Issue || Research || How do I research an environmental issue fairly?
+tx: Research guide (written for this lesson): ¶ Possible Alberta issues (choose one or propose your own): wetland loss to development; wildlife-vehicle collisions and crossings; water allocation in the South Saskatchewan basin; caribou recovery and forestry or energy development; urban growth onto farmland; invasive species such as zebra and quagga mussels (Alberta inspects watercraft to keep them out); recreation pressure in mountain parks; renewable energy siting on agricultural land. ¶ 1. Write a research question (e.g. "Should our city require wildlife crossings on new highways?"). ¶ 2. Sources: at least four, including government (Alberta government, Parks Canada, ECCC), scientific or university sources, and news from established outlets; include sources from different stakeholders. ¶ 3. Check each source: Who wrote it? What is their purpose? What evidence? Is it current? What might be left out? ¶ 4. Notes: separate facts (with numbers and sources) from opinions (who holds them). ¶ 5. Summary: a one-page issue brief: background, key facts, who is affected, main questions.
+src: Original activity written for this lesson; issues are examples of real Alberta topics.
+st: Choose an issue | Write a research question | Find four reliable sources | Check each source for purpose and bias | Write an issue brief
+org: Source | Author and purpose | Key facts | Bias?
+an: Why did you choose your issue? | Which source was most reliable, and why? | Did any source show bias? | What questions remain unanswered?
+pr: Write a one-page issue brief with a research question, background, key facts with citations and the main stakeholders.
+ex: Research question || Turn "wetlands" into a research question. || Focused || "Should new subdivisions in our city be required to protect wetlands?" || Is it debatable?
+ex: Bias || An industry website says its project has no impact. Concern? || Purpose || It may present only the positives || How do you balance it?
+ex: Fact or opinion || "Wetlands are the most important ecosystem." Fact or opinion? || Can it be checked? || Opinion || Rewrite as a fact.
+ex: Current || Why check the date of a source? || Change || Data and policies change over time || How old is too old?
+p: B || What is an environmental issue? || A debate about human impact on the environment.
+p: B || What is a reliable source? || A trustworthy source with evidence.
+p: B || What is bias? || A one-sided view.
+p: B || What is a research question? || A focused question guiding research.
+p: B || What is a citation? || Credit to a source.
+p: I || How many sources do you need? || At least four.
+p: I || Name three reliable source types. || Government, scientific, established news.
+p: I || What five checks apply to sources? || Author, purpose, evidence, date, what's missing.
+p: I || How do you record opinions? || Note who holds them.
+p: I || What goes in an issue brief? || Background, facts, stakeholders, questions.
+p: I || Name an Alberta environmental issue. || Wetland loss.
+p: C || Why include sources from different stakeholders? || To understand all sides fairly.
+p: C || Why separate facts from opinions? || So your conclusions rest on evidence.
+p: C || How can a reliable source still be biased? || Its purpose may shape what it includes.
+p: C || Share your issue brief. || Answers vary.
+mis: Using only sources that agree with you | Treating opinions as facts | Ignoring source dates
+et: Write your research question. | Name one way to check a source.
+mc: B || An environmental issue is || a debate about human impact | a holiday | a sport | a recipe || A
+mc: B || A reliable source has || evidence | only opinions | no author | rumours || A
+mc: B || Bias is || one-sided | balanced | factual | neutral || A
+mc: B || A research question is || focused | random | answered | silent || A
+mc: B || A citation gives || credit | grades | money | opinions || A
+mc: B || A fact can be || checked | felt only | guessed | ignored || A
+mc: I || Use at least || four sources | one source | none | forty || A
+mc: I || A government source is || Parks Canada | a meme | an ad | a rumour || A
+mc: I || "Wetlands are best" is || an opinion | a fact | a citation | a source || A
+mc: I || An issue brief includes || key facts and stakeholders | jokes | only opinions | nothing || A
+mc: C || Sources from different stakeholders || show all sides | confuse | are biased only | waste time || A
+mc: C || Separating facts and opinions || grounds conclusions in evidence | is pointless | adds bias | hides facts || A
+sa: B || Define bias. || A one-sided view that favours a position.
+sa: B || What is a reliable source? || A trustworthy source with evidence.
+sa: I || Write your research question. || Answers vary.
+sa: I || List the five source checks. || Author, purpose, evidence, date, what's missing.
+sa: I || Give a fact and an opinion about your issue. || Answers vary.
+sa: I || Why check a source's date? || Data and policies change.
+sa: C || Explain why balanced sources matter. || To understand all sides fairly.
+sa: C || Share your issue brief. || Answers vary.
+
+=== EOE9.C1 1
+hook: On any environmental issue, people who care deeply can disagree, because they value different things: jobs, wildlife, culture, cost, recreation. Mapping their perspectives is how you find where solutions might be.
+sc: I can identify stakeholders in my issue and their perspectives | I can explain the values and evidence behind each perspective | I can identify trade-offs and common ground
+v: stakeholder :: A person or group affected by or interested in an issue.
+v: perspective :: A point of view shaped by values and experiences.
+v: trade-off :: Giving up one benefit to gain another.
+v: common ground :: Points where different stakeholders agree.
+v: values :: Beliefs about what is important.
+v: evidence :: Facts that support a claim.
+ts: Mapping Perspectives || Analysis || How do different stakeholders see my issue?
+tx: Perspective mapping (written for this lesson): ¶ 1. List stakeholders for your issue: e.g. for wildlife crossings on a highway: drivers and commuters, wildlife biologists, Indigenous nations whose territory it crosses, taxpayers and government, local businesses and tourism, insurance companies, conservation groups. ¶ 2. For each: what do they value? What do they want? What evidence do they use? How are they affected? ¶ 3. Perspective wheel: draw the issue in the centre, stakeholders around it, and lines showing agreement (green) and conflict (red). ¶ 4. Trade-offs: list what each possible decision gains and loses (e.g. crossings: fewer collisions and safer wildlife movement vs. high construction cost). ¶ 5. Common ground: where do stakeholders agree? (e.g. everyone wants fewer collisions). ¶ 6. Empathy check: write one paragraph in the voice of the stakeholder you disagree with most, presenting their view fairly.
+src: Original activity written for this lesson.
+st: List stakeholders | Record each one's values, wants and evidence | Draw a perspective wheel | List trade-offs | Find common ground and write an empathy paragraph
+org: Stakeholder | Values | Wants | Evidence | Affected how?
+an: Which stakeholders agree? Which conflict? | What common ground did you find? | Which trade-off is hardest? | How did writing in another voice change your thinking?
+pr: Create a perspective wheel for your issue with at least five stakeholders, a trade-off table and an empathy paragraph.
+ex: Values || What might a commuter value about a highway? || Daily needs || Safety and travel time || What might a biologist value?
+ex: Common ground || Where might drivers and conservationists agree? || Shared goal || Both want fewer wildlife collisions || Why does this matter?
+ex: Trade-off || Trade-off of a wetland subdivision? || Gain vs loss || New homes and tax revenue versus lost habitat and flood protection || Who bears each?
+ex: Empathy || Why write in an opposing voice? || Understanding || It helps you understand their reasons and find solutions || Is it agreement?
+p: B || What is a stakeholder? || Someone affected by an issue.
+p: B || What is a perspective? || A point of view.
+p: B || What is a trade-off? || Giving up one benefit for another.
+p: B || What is common ground? || Where stakeholders agree.
+p: B || What is evidence? || Facts supporting a claim.
+p: I || How many stakeholders go on your wheel? || At least five.
+p: I || What do green lines show? || Agreement.
+p: I || What do red lines show? || Conflict.
+p: I || Name four things to record for each stakeholder. || Values, wants, evidence, effects.
+p: I || What is an empathy paragraph? || Writing a view you disagree with fairly in that voice.
+p: I || Name a stakeholder in wildlife crossings. || Drivers, biologists or taxpayers.
+p: C || Why do people who care disagree? || They hold different values.
+p: C || Why is common ground useful? || Solutions can start where people agree.
+p: C || Does understanding a view mean agreeing? || No; it means you can explain it fairly.
+p: C || Share your perspective wheel. || Answers vary.
+mis: Thinking opponents don't care | Ignoring less powerful stakeholders | Thinking there's one obvious answer
+et: Name three stakeholders in your issue. | Give one trade-off.
+mc: B || A stakeholder || is affected by an issue | always agrees | is a referee | is a tool || A
+mc: B || A perspective is || a point of view | a fact | a law | a map || A
+mc: B || A trade-off || gives up one benefit for another | gains everything | loses all | is free || A
+mc: B || Common ground is || agreement | conflict | a field | a map || A
+mc: B || Evidence || supports claims | is opinion | is bias | is a guess || A
+mc: B || Values are || beliefs about what matters | prices | numbers | maps || A
+mc: I || Green lines show || agreement | conflict | rivers | roads || A
+mc: I || Red lines show || conflict | agreement | rivers | trails || A
+mc: I || Include at least || five stakeholders | one | none | fifty || A
+mc: I || Drivers and conservationists might agree on || fewer collisions | more collisions | no roads | nothing || A
+mc: C || People who care disagree because of || different values | ignorance always | luck | weather || A
+mc: C || Understanding a view means || explaining it fairly | agreeing | giving up | ignoring || A
+sa: B || Define trade-off. || Giving up one benefit to gain another.
+sa: B || What is common ground? || Points where different stakeholders agree.
+sa: I || List five stakeholders and their values. || Answers vary.
+sa: I || Describe one trade-off in your issue. || Answers vary.
+sa: I || Where is the common ground? || Answers vary.
+sa: I || Why write an empathy paragraph? || To understand an opposing view fairly.
+sa: C || Explain why people who care can disagree. || They hold different values.
+sa: C || Share your perspective wheel. || Answers vary.
+
+=== EOE9.C1 2
+hook: After researching facts and mapping perspectives, it's time to take a stand. A strong position isn't just an opinion: it's backed by evidence, honest about trade-offs and respectful of people who disagree.
+sc: I can form a position on my issue using evidence | I can address counter-arguments respectfully | I can present and defend my position
+v: position :: A clear stance on an issue.
+v: claim :: The main statement of your position.
+v: counter-argument :: A point an opposing side would make.
+v: rebuttal :: A response to a counter-argument.
+v: persuasion :: Convincing others with reasons and evidence.
+v: civil discourse :: Respectful discussion of disagreements.
+ts: Take a Stand || Presentation || How do I form and defend a position on an environmental issue?
+tx: Position building (written for this lesson): ¶ 1. Claim: one sentence answering your research question. ¶ 2. Reasons: three reasons, each backed by evidence from your research (with citations). ¶ 3. Counter-argument: the strongest point against your position, stated fairly. ¶ 4. Rebuttal: respond with evidence, or acknowledge the trade-off and explain why your position is still better (or how it could be modified). ¶ 5. Action: what should decision-makers (council, province, community) do? ¶ Presentation (3 minutes) or a letter to a decision-maker (e.g. city councillor or MLA; teacher reviews before sending). ¶ Defending: after each presentation, two classmates ask questions; respond with evidence, not emotion. ¶ Civil discourse norms: criticize ideas, not people; listen to understand; change your mind if the evidence is strong.
+src: Original activity written for this lesson.
+st: Write a one-sentence claim | Support it with three evidenced reasons | State and rebut the strongest counter-argument | Propose an action | Present and answer questions
+org: Part | Content | Evidence | Citation
+an: How did your research shape your position? | What was the strongest counter-argument? | Did any question make you reconsider? | How did civil discourse norms help?
+pr: Present a three-minute position (or write a letter to a decision-maker) with a claim, three evidenced reasons, a counter-argument, a rebuttal and a recommended action.
+ex: Claim || Write a claim on wildlife crossings. || One sentence || "Alberta should build wildlife crossings on highways with high collision rates." || Is it debatable?
+ex: Rebuttal || Counter: "Crossings are too expensive." Rebuttal? || Evidence or trade-off || Collisions also cost money in vehicle damage and injuries, so prevention can pay off over time || What evidence would help?
+ex: Civil discourse || A classmate says "That's a dumb idea." Better? || Ideas not people || "I see it differently because..." || Why does wording matter?
+ex: Changing your mind || Is changing your position weak? || Evidence || No; updating based on strong evidence is good reasoning || When should you?
+p: B || What is a position? || A clear stance.
+p: B || What is a claim? || The main statement of your position.
+p: B || What is a counter-argument? || An opposing point.
+p: B || What is a rebuttal? || A response to a counter-argument.
+p: B || What is civil discourse? || Respectful discussion of disagreements.
+p: I || How many reasons support your claim? || Three.
+p: I || How long is the presentation? || 3 minutes.
+p: I || Who might you write a letter to? || A city councillor or MLA.
+p: I || What should rebuttals use? || Evidence.
+p: I || What is the final part of your position? || A recommended action.
+p: I || Name one civil discourse norm. || Criticize ideas, not people.
+p: C || Why address the strongest counter-argument? || It makes your position more convincing and honest.
+p: C || Why can acknowledging trade-offs strengthen your case? || It shows you've considered all sides.
+p: C || Why is changing your mind with evidence good reasoning? || Conclusions should follow evidence.
+p: C || Present your position. || Answers vary.
+mis: Ignoring counter-arguments | Attacking people instead of ideas | Using emotion without evidence
+et: Write your claim. | What is a rebuttal?
+mc: B || A position is || a clear stance | a fact | a map | a source || A
+mc: B || A claim states || your main position | a source | a question | a rule || A
+mc: B || A counter-argument is || an opposing point | your claim | a citation | a fact || A
+mc: B || A rebuttal || responds to a counter-argument | agrees always | ignores | ends talk || A
+mc: B || Civil discourse is || respectful disagreement | shouting | silence | insults || A
+mc: B || Persuasion uses || reasons and evidence | insults | guesses | volume || A
+mc: I || Support your claim with || three reasons | one word | no evidence | ten jokes || A
+mc: I || The presentation lasts || 3 minutes | 30 minutes | 3 seconds | 3 hours || A
+mc: I || A letter could go to || an MLA | a celebrity | nobody | a cartoon || A
+mc: I || Respond to questions with || evidence | emotion only | silence | anger || A
+mc: C || Addressing strong counter-arguments || strengthens your case | weakens it | is rude | is pointless || A
+mc: C || Changing your mind with evidence is || good reasoning | weakness | cheating | forbidden || A
+sa: B || Define rebuttal. || A response to a counter-argument.
+sa: B || What is civil discourse? || Respectful discussion of disagreements.
+sa: I || Write your claim. || Answers vary.
+sa: I || State the strongest counter-argument. || Answers vary.
+sa: I || Write your rebuttal. || Answers vary.
+sa: I || Recommend an action. || Answers vary.
+sa: C || Explain why acknowledging trade-offs helps. || It shows you considered all sides.
+sa: C || Present your position. || Answers vary.
+
+=== EOE9.D1 0
+hook: Your final Outdoor Ed project brings everything together: an environmental need, a community partner, a plan you design and lead yourselves. Great projects start with a clear problem and a realistic design.
+sc: I can identify a community environmental need with evidence | I can design a stewardship project with goals, partners and resources | I can write a project proposal
+v: project plan :: A document describing a project's purpose, goals, tasks, resources and timeline.
+v: needs assessment :: Gathering evidence to show a problem exists and matters.
+v: outcome :: The change a project aims to create.
+v: output :: Something a project produces, such as trees planted or posters made.
+v: proposal :: A written request to approve or support a project.
+v: Gantt chart :: A bar chart showing tasks across a timeline.
+ts: Design a Project || Project || How do we design a stewardship project that makes a real difference?
+tx: Design steps (written for this lesson): ¶ 1. Needs assessment: choose a need from your research or community: e.g. a creek bank eroding in a local park; no recycling or composting at an event; lack of pollinator habitat; heavy litter at a bus stop; idling at school pick-up. Gather evidence: photos, counts, a short survey. ¶ 2. Partners: who already works on this? (city, stewardship group, school council, local business). ¶ 3. Goals: outputs (e.g. 150 shrubs planted) and outcomes (e.g. reduced erosion measured by photo points; 30% less idling). ¶ 4. Plan: tasks, roles, materials, budget, risks and controls, permissions. ¶ 5. Timeline: Gantt chart over 4–6 weeks. ¶ 6. Communication: how will you involve the community? ¶ 7. Proposal (1–2 pages) to the teacher and partner: need and evidence, goals, plan, timeline, budget, how success will be measured. ¶ Peer review: another group checks: Is the need clear? Are goals measurable? Is it realistic?
+src: Original activity written for this lesson.
+st: Choose a need and gather evidence | Identify partners | Set output and outcome goals | Plan tasks, budget and a Gantt chart | Write and peer-review a proposal
+org: Section | Our plan | Evidence | Questions
+an: What evidence shows the need is real? | What is the difference between your outputs and outcomes? | Is your timeline realistic? | What did peer reviewers suggest?
+pr: Write a 1–2 page project proposal with evidence of need, partners, measurable goals, a Gantt chart, budget and success measures.
+ex: Output vs outcome || "Plant 150 shrubs": output or outcome? || What's produced vs what changes || Output || What outcome might it lead to?
+ex: Evidence || How could you show idling is a problem? || Data || Count idling cars at pick-up for a week || What else?
+ex: Gantt || What does a Gantt chart show? || Bars on a timeline || Each task's start, length and overlap || Why is it useful?
+ex: Realistic || A group plans to clean the whole river in 2 weeks. Feedback? || Scope || Narrow to one section with a partner || Why?
+p: B || What is a project plan? || A document of purpose, goals, tasks, resources and timeline.
+p: B || What is a needs assessment? || Gathering evidence that a problem exists.
+p: B || What is an outcome? || The change a project creates.
+p: B || What is an output? || Something a project produces.
+p: B || What is a proposal? || A request to approve a project.
+p: I || How long is the project timeline? || 4–6 weeks.
+p: I || How long is the proposal? || 1–2 pages.
+p: I || Name three types of evidence. || Photos, counts, surveys.
+p: I || Name a possible partner. || The city parks department.
+p: I || What does a Gantt chart show? || Tasks on a timeline.
+p: I || Name three peer review questions. || Is the need clear, are goals measurable, is it realistic?
+p: C || Why measure outcomes, not just outputs? || Outcomes show real change.
+p: C || Why narrow a project's scope? || A smaller, finished project beats an unfinished big one.
+p: C || Why involve the community? || It builds support and lasting change.
+p: C || Share your proposal. || Answers vary.
+mis: Measuring only outputs | Planning projects too big to finish | Skipping evidence of need
+et: Give an output and an outcome. | What is a Gantt chart?
+mc: B || A project plan includes || goals, tasks and timeline | only ideas | nothing | songs || A
+mc: B || A needs assessment || gathers evidence of a problem | ends a project | is a party | is a map || A
+mc: B || An outcome is || the change created | an item made | a cost | a meeting || A
+mc: B || An output is || something produced | a change | a feeling | a problem || A
+mc: B || A proposal || requests approval | is a final report | is a poster | is a song || A
+mc: B || Evidence can include || photos and counts | rumours | guesses | feelings only || A
+mc: I || The timeline is || 4–6 weeks | 4–6 years | 4–6 hours | 4–6 days || A
+mc: I || The proposal is || 1–2 pages | 50 pages | one word | none || A
+mc: I || "150 shrubs planted" is || an output | an outcome | a need | a partner || A
+mc: I || A Gantt chart shows || tasks over time | budget only | photos | partners || A
+mc: C || Outcomes matter because they || show real change | look nice | are easy | are outputs || A
+mc: C || Narrowing scope helps projects || get finished | fail | grow | stall || A
+sa: B || Define outcome. || The change a project aims to create.
+sa: B || What is a needs assessment? || Gathering evidence that a problem exists and matters.
+sa: I || Give an output and an outcome for your project. || Answers vary.
+sa: I || What evidence shows your need? || Answers vary.
+sa: I || What does a Gantt chart show? || Each task's timing on a timeline.
+sa: I || Name your partner and their role. || Answers vary.
+sa: C || Explain why outcomes matter more than outputs. || They show real change.
+sa: C || Share your proposal. || Answers vary.
+
+=== EOE9.D1 1
+hook: Now you lead. Projects rarely go exactly to plan: volunteers cancel, rain falls, supplies arrive late. Strong project leaders communicate, adapt and keep the team moving.
+sc: I can lead my project tasks and team | I can communicate with partners and the community | I can track progress and solve problems as they arise
+v: project leadership :: Guiding a team to complete a project.
+v: delegation :: Giving tasks to team members.
+v: progress tracking :: Checking which tasks are done, in progress or late.
+v: contingency plan :: A backup plan if something goes wrong.
+v: stand-up meeting :: A short regular meeting where each member shares progress and problems.
+v: advocacy :: Speaking up to build support for a cause.
+ts: Leading the Project || Project || How do we lead a project through to completion?
+tx: Leadership routines (written for this lesson): ¶ Weekly stand-up (5 minutes): each member says what they did, what they'll do next and any blockers. ¶ Task board: columns To do / Doing / Done, updated every class. ¶ Delegation: match tasks to strengths; every member has a clear role and deadline. ¶ Communication: email updates to the partner (through the teacher), posters or announcements to involve the school, social media posts by the school with permission. ¶ Advocacy: a short pitch to the school council or an assembly to recruit volunteers or support. ¶ Contingency plans: rain date; backup volunteers; alternative supplier; a scaled-down version if time runs short. ¶ Problem-solving steps: define the problem, list options, choose, act, check. ¶ Log: keep a project journal with dates, decisions, photos and data.
+src: Original activity written for this lesson.
+st: Hold weekly stand-ups | Update the task board | Delegate by strengths | Communicate and advocate | Use contingency plans and solve problems
+org: Task | Owner | Status | Blocker | Solution
+an: Which task fell behind, and why? | How did your team solve a problem? | How did the community respond to your advocacy? | What leadership skill grew most?
+pr: Keep a project journal through the project with stand-up notes, task board snapshots, a solved problem and evidence of communication.
+ex: Stand-up || What three things does each member share? || Progress || Done, next, blockers || Why keep it short?
+ex: Delegation || A member is great at art. Task? || Strengths || Designing posters || Why match strengths?
+ex: Contingency || Planting day is rained out. Plan? || Backup || Use the planned rain date and notify volunteers || What else?
+ex: Problem-solving || The supplier runs out of shrubs. Steps? || Define, options, choose, act, check || Ask the partner for another nursery or switch to seeds || How do you check?
+p: B || What is project leadership? || Guiding a team to complete a project.
+p: B || What is delegation? || Giving tasks to team members.
+p: B || What is progress tracking? || Checking task status.
+p: B || What is a contingency plan? || A backup plan.
+p: B || What is advocacy? || Speaking up to build support.
+p: I || How long is a stand-up? || About 5 minutes.
+p: I || Name the three task board columns. || To do, doing, done.
+p: I || What three things are shared at a stand-up? || What I did, what's next, blockers.
+p: I || Name two contingency plans. || A rain date and backup volunteers.
+p: I || List the problem-solving steps. || Define, options, choose, act, check.
+p: I || What goes in a project journal? || Dates, decisions, photos, data.
+p: C || Why match tasks to strengths? || Work is done better and members feel valued.
+p: C || Why plan contingencies before problems happen? || You can respond quickly instead of panicking.
+p: C || Why advocate for your project? || Support brings volunteers and lasting impact.
+p: C || Share your project journal. || Answers vary.
+mis: One person doing everything | No backup plans | Hiding problems from the team
+et: Name the task board columns. | What is a contingency plan?
+mc: B || Delegation means || giving tasks | doing everything alone | quitting | ignoring || A
+mc: B || Progress tracking checks || task status | weather | grades | music || A
+mc: B || A contingency plan is || a backup | the main plan | a budget | a poster || A
+mc: B || Advocacy means || building support | staying silent | hiding | quitting || A
+mc: B || A stand-up is || a short progress meeting | a dance | a test | a party || A
+mc: B || A project journal records || decisions and data | jokes | nothing | grades || A
+mc: I || Task board columns are || to do, doing, done | yes, no | red, blue | start, stop || A
+mc: I || A stand-up lasts about || 5 minutes | 5 hours | 5 days | 5 seconds || A
+mc: I || Rained out? Use || the rain date | nothing | cancel forever | a new project || A
+mc: I || Problem-solving starts by || defining the problem | acting | quitting | blaming || A
+mc: C || Matching strengths makes work || better | worse | slower | pointless || A
+mc: C || Planning contingencies early lets you || respond quickly | panic | ignore | fail || A
+sa: B || Define delegation. || Giving tasks to team members.
+sa: B || What is a contingency plan? || A backup plan if something goes wrong.
+sa: I || Describe a stand-up meeting. || Each member shares done, next and blockers.
+sa: I || List the problem-solving steps. || Define, options, choose, act, check.
+sa: I || Name two contingency plans. || Rain date, backup volunteers.
+sa: I || How did you advocate for your project? || Answers vary.
+sa: C || Explain why delegation by strengths works. || Better work and valued members.
+sa: C || Share your project journal. || Answers vary.
+
+=== EOE9.D1 2
+hook: The project is done, but the job isn't finished until you know what changed and you've told people about it. Evaluation and sharing turn one project into inspiration for many more.
+sc: I can evaluate my project's outputs and outcomes with evidence | I can reflect on my learning and leadership | I can share results with the community and partners
+v: evaluation :: Judging how well a project met its goals.
+v: indicator :: A measure used to show progress or success.
+v: lessons learned :: What a team would keep or change next time.
+v: showcase :: An event or display where projects are shared.
+v: legacy :: The lasting effect a project leaves behind.
+v: reflection :: Thinking about experiences to learn from them.
+ts: Evaluate and Share || Project || What did our project achieve, and how do we share it?
+tx: Evaluation and sharing (written for this lesson): ¶ 1. Outputs: count what was produced (shrubs planted, kilograms of waste diverted, posters, volunteers, hours). ¶ 2. Outcomes: compare indicators with the baseline (e.g. idling cars 42 → 25; erosion photo points; survey of student awareness before and after). Calculate percentage change. ¶ 3. Partner feedback: a short interview or survey. ¶ 4. Lessons learned: what worked, what didn't, what we'd change. ¶ 5. Legacy: who will continue it? Hand over a care plan or guide. ¶ 6. Showcase: a display board or digital presentation for a community showcase (families, partners, school council, local officials invited): need, action, results, photos, thanks. ¶ 7. Personal reflection (one page): how your thinking about the environment, community and your own leadership has changed through Outdoor Ed.
+src: Original activity written for this lesson.
+st: Count outputs | Compare outcome indicators with the baseline | Gather partner feedback | Record lessons learned and plan the legacy | Present at a showcase and write a reflection
+org: Indicator | Baseline | After | % change | Goal met?
+an: Which outcome changed most? | What did the partner say? | What would you do differently? | How has Outdoor Ed changed you?
+pr: Present your project at the showcase with outputs, outcome data, lessons learned and a legacy plan, and write a one-page personal reflection.
+ex: Percent change || Idling cars 42 → 25. Percent decrease? || (42 − 25) ÷ 42 × 100 || About 40% || Did you meet a 30% goal?
+ex: Indicator || Choose an indicator for erosion. || Measurable || Photo points or the width of bare soil measured monthly || How often?
+ex: Lessons learned || Volunteers didn't show up. Lesson? || Change || Confirm volunteers a day before and recruit extras || Anything else?
+ex: Legacy || How do you make a project last? || Hand over || A care plan given to a club or partner with a schedule || Who could take it?
+p: B || What is evaluation? || Judging how well goals were met.
+p: B || What is an indicator? || A measure of progress or success.
+p: B || What are lessons learned? || What to keep or change next time.
+p: B || What is a showcase? || An event sharing projects.
+p: B || What is a legacy? || A project's lasting effect.
+p: I || 42 to 25 idling cars: percent decrease? || About 40%.
+p: I || 60 to 45 pieces of litter: percent decrease? || 25%.
+p: I || Name an erosion indicator. || Photo points.
+p: I || Who is invited to the showcase? || Families, partners, school council, local officials.
+p: I || How long is the reflection? || One page.
+p: I || What is a care plan for? || Continuing the project.
+p: C || Why compare with the baseline? || To show change caused by the project.
+p: C || Why share lessons learned honestly? || So others can improve.
+p: C || Why does a legacy plan matter? || Without one, gains can be lost.
+p: C || Write your personal reflection. || Answers vary.
+mis: Reporting only outputs | Hiding what went wrong | Ending the project without a handover
+et: Calculate one percent change. | What is your legacy plan?
+mc: B || Evaluation judges || goals met | the weather | lunch | nothing || A
+mc: B || An indicator || measures progress | is a partner | is a tool | is a poster || A
+mc: B || Lessons learned are || what to keep or change | grades | names | prizes || A
+mc: B || A showcase || shares projects | hides them | ends school | is a test || A
+mc: B || A legacy is || a lasting effect | a quick end | a cost | a rule || A
+mc: B || Reflection helps you || learn from experience | forget | hide | rush || A
+mc: I || 42 to 25 is about || 40% decrease | 17% | 60% | 25% || A
+mc: I || 60 to 45 is || 25% decrease | 15% | 45% | 75% || A
+mc: I || An erosion indicator is || photo points | music | a poster | a snack || A
+mc: I || The reflection is || one page | ten pages | one word | none || A
+mc: C || Comparing with baseline shows || change from the project | nothing | weather | cost || A
+mc: C || A legacy plan prevents || gains being lost | success | partners | learning || A
+sa: B || Define indicator. || A measure used to show progress or success.
+sa: B || What is a legacy? || The lasting effect a project leaves behind.
+sa: I || Calculate your outcome percent change. || Answers vary.
+sa: I || What did your partner say? || Answers vary.
+sa: I || List two lessons learned. || Answers vary.
+sa: I || Describe your legacy plan. || Answers vary.
+sa: C || Explain why honest lessons learned matter. || So others can improve.
+sa: C || Write your personal reflection. || Answers vary.
