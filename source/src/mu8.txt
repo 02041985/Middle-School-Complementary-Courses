@@ -1,0 +1,637 @@
+=== MU8.A1 1
+hook: Listen to almost any funk, reggae or pop song and you'll notice the accents land in unexpected places, between the beats instead of on them. That off-beat surprise is syncopation, and it's what makes music groove.
+sc: I can explain syncopation | I can count and clap syncopated rhythms | I can hear syncopation in songs
+v: syncopation :: Accenting a weak beat or an off-beat instead of the strong beat.
+v: off-beat :: The "and" between beats.
+v: accent :: Extra emphasis on a note, shown by the symbol >.
+v: tie :: A curved line joining two notes of the same pitch into one longer sound.
+v: strong beat :: A beat that is naturally stressed, such as beat 1 in 4/4.
+v: groove :: A rhythmic feel that makes people want to move.
+ts: Off the Beat || Listening || How does syncopation make rhythm exciting?
+tx: Activities (written for this lesson): ¶ 1. On-beat vs off-beat (5 minutes): Step on every beat while clapping only the "ands": 1 & 2 & 3 & 4 &. ¶ 2. The classic syncopation (10 minutes): eighth, quarter, eighth: count "1 & (2) & ". The quarter note starts on the "and" of 1 and carries over beat 2, so the strong beat is skipped. Clap it eight times, then over a steady stomp. ¶ 3. Ties (5 minutes): Two eighth notes tied across a beat sound as one note that crosses the beat. ¶ 4. Accents (5 minutes): Clap eight steady eighth notes, accenting 1, the "and" of 2, and 4 (>): this is a common Latin and pop pattern. ¶ 5. Listening (10 minutes): Clap along to the hook of a popular song with a syncopated rhythm, and to Scott Joplin's "The Entertainer" (1902), a ragtime piece where the right hand is syncopated over a steady left hand. ¶ 6. Create (5 minutes): Write one bar that uses syncopation and clap it over a partner's steady beat.
+src: Original activity written for this lesson; The Entertainer is in the public domain.
+st: Clap off-beats while stepping the beat | Clap the eighth-quarter-eighth pattern | Practise ties and accents | Clap along to syncopated music | Write and perform a syncopated bar
+org: Pattern | Count | Where the accent falls | Strong beat skipped?
+an: Why does syncopation feel surprising? | Where is the syncopation in The Entertainer? | How do ties create syncopation? | Why is syncopation common in dance music?
+pr: Write a one-bar syncopated rhythm, mark the accents, and perform it over a partner's steady beat.
+ex: Classic pattern || Count eighth-quarter-eighth. || Where does the quarter start? || "1 & (2) &": the quarter starts on the "and" of 1 || Which beat is skipped?
+ex: Ties || Two eighths tied over beat 3. Effect? || Sound continues over the beat || Beat 3 isn't attacked, so the "and" of 2 is stressed || Why is that syncopated?
+ex: Accents || Accent 1, & of 2, and 4 in eight eighth notes. Which is syncopated? || Weak positions || The "and" of 2 || Clap it.
+ex: Ragtime || What is syncopated in The Entertainer? || Two hands || The right-hand melody against a steady left-hand beat || What style is it?
+p: B || What is syncopation? || Accenting off-beats or weak beats.
+p: B || What is an off-beat? || The "and" between beats.
+p: B || What is an accent? || Extra emphasis on a note.
+p: B || What is a tie? || A curve joining two same-pitch notes into one sound.
+p: B || What is the accent symbol? || >.
+p: I || Count eighth-quarter-eighth. || 1 & (2) &.
+p: I || Which beat is skipped in that pattern? || Beat 2.
+p: I || Who composed "The Entertainer"? || Scott Joplin.
+p: I || When was "The Entertainer" published? || 1902.
+p: I || What style is "The Entertainer"? || Ragtime.
+p: I || Why do you step the beat while clapping syncopation? || To feel the off-beats against a steady pulse.
+p: C || Why does syncopation create groove? || The surprise against the steady beat makes people want to move.
+p: C || How can a tie create syncopation? || It holds a note through a strong beat so it isn't played.
+p: C || Write a syncopated bar in 4/4. || Answers vary.
+p: C || Why is a steady beat essential for syncopation? || Syncopation only works against a clear pulse.
+mis: Thinking syncopation means playing out of time | Losing the beat while clapping off-beats | Thinking ties and slurs are the same
+et: Define syncopation. | Clap eighth-quarter-eighth.
+mc: B || Syncopation accents || off-beats | only beat 1 | rests | high notes || A
+mc: B || An off-beat is || the "and" | beat 1 | a rest | the bar line || A
+mc: B || An accent means || extra emphasis | silence | slower | softer || A
+mc: B || A tie joins || two same-pitch notes | two different pitches | two bars | two songs || A
+mc: B || The accent symbol is || > | < | ~ | = || A
+mc: B || A groove makes people || want to move | sleep | stop | leave || A
+mc: I || Eighth-quarter-eighth is counted || 1 & (2) & | 1 2 3 4 | 1 & 2 & | 1 2 || A
+mc: I || The Entertainer was written by || Scott Joplin | Beethoven | Mozart | Strauss || A
+mc: I || Ragtime syncopates || the right hand | nothing | the drums only | the singer only || A
+mc: I || The Entertainer dates from || 1902 | 1802 | 2002 | 1952 || A
+mc: C || Syncopation needs || a steady beat | no beat | silence | slow tempo || A
+mc: C || A tie over a strong beat || stops it being played | makes it louder | adds a rest | speeds up || A
+sa: B || Define syncopation. || Accenting a weak beat or off-beat instead of the strong beat.
+sa: B || What is a tie? || A curved line joining two same-pitch notes into one sound.
+sa: I || Count the eighth-quarter-eighth pattern. || 1 & (2) &.
+sa: I || Where is the syncopation in ragtime? || In the right-hand melody over a steady left hand.
+sa: I || How can a tie create syncopation? || It holds a note through a strong beat.
+sa: I || Name a ragtime composer. || Scott Joplin.
+sa: C || Explain why syncopation creates groove. || The surprise against the beat makes people move.
+sa: C || Write and perform a syncopated bar. || Answers vary.
+
+=== MU8.A1 2
+hook: The same melody played slowly at a funeral and quickly at a celebration feels completely different. Composers write tempo markings, mostly in Italian, so performers know exactly how fast to go.
+sc: I can name and explain common tempo markings | I can use a metronome to perform at a set tempo | I can explain how tempo changes mood
+v: tempo :: The speed of the music.
+v: BPM :: Beats per minute; the number of beats in one minute.
+v: metronome :: A device that clicks a steady beat at a chosen tempo.
+v: allegro :: Fast and lively (about 120–160 BPM).
+v: andante :: At a walking pace (about 76–108 BPM).
+v: ritardando :: Gradually getting slower.
+ts: How Fast? || Listening || How do tempo markings shape music?
+tx: Tempo guide (written for this lesson; BPM ranges are approximate): ¶ Largo: very slow and broad (about 40–60 BPM). ¶ Adagio: slow (about 66–76). ¶ Andante: walking pace (about 76–108). ¶ Moderato: moderate (about 108–120). ¶ Allegro: fast (about 120–160). ¶ Presto: very fast (about 168–200). ¶ Changes: accelerando (accel.), getting faster; ritardando (rit.), getting slower; a tempo, return to the original speed. ¶ Activities: 1. Walk around the room to a metronome at 60, 90, 120 and 160 BPM; name each tempo. 2. Clap a dotted rhythm at andante, then at allegro. 3. Listen to two excerpts, such as Samuel Barber's Adagio for Strings (1936) and Rossini's William Tell Overture finale (1829); estimate BPM and name the tempo. 4. Perform "Happy Birthday" at largo, then presto. How does the mood change?
+src: Original activity written for this lesson; BPM ranges vary between sources.
+st: Walk to a metronome at four tempos | Learn six tempo markings | Clap a rhythm at two tempos | Estimate the tempo of two excerpts | Perform a song at contrasting tempos
+org: Marking | Meaning | Approximate BPM | Mood
+an: How did walking at 160 BPM feel compared to 60? | What mood does Barber's Adagio create? | How did "Happy Birthday" change at presto? | Why might a composer use ritardando at the end?
+pr: Perform a short rhythm at two tempo markings with a metronome, and explain how each tempo changes the mood.
+ex: Marking to speed || What does andante mean? || Walking || At a walking pace, about 76–108 BPM || What does presto mean?
+ex: Estimating BPM || 30 beats in 15 seconds. BPM? || × 4 || 120 BPM: allegro or moderato || How do you count beats?
+ex: Mood || Largo in a sad film scene. Why? || Slow tempo || A slow tempo feels heavy and sad || What tempo suits a chase?
+ex: Tempo change || What does "rit." then "a tempo" mean? || Slow then return || Slow down, then go back to the original speed || Where is rit. often used?
+p: B || What is tempo? || The speed of music.
+p: B || What does BPM mean? || Beats per minute.
+p: B || What is a metronome? || A device that clicks a steady beat.
+p: B || What does allegro mean? || Fast and lively.
+p: B || What does andante mean? || At a walking pace.
+p: I || What does largo mean? || Very slow and broad.
+p: I || What does presto mean? || Very fast.
+p: I || What does accelerando mean? || Getting faster.
+p: I || What does ritardando mean? || Getting slower.
+p: I || What does "a tempo" mean? || Return to the original speed.
+p: I || 25 beats in 15 seconds. BPM? || 100.
+p: C || Why are tempo markings in Italian? || Italian composers set many conventions in the 1600s–1700s.
+p: C || How does tempo affect mood? || Slow can feel calm or sad; fast can feel exciting or urgent.
+p: C || Why use a metronome when practising? || To keep a steady tempo and gradually build speed.
+p: C || Compare the moods of Barber's Adagio and the William Tell finale. || Slow and sorrowful versus fast and exciting.
+mis: Confusing tempo with dynamics | Thinking each Italian term means an exact BPM | Speeding up without noticing
+et: Name three tempo markings from slow to fast. | What does ritardando mean?
+mc: B || Tempo is || speed | volume | pitch | key || A
+mc: B || BPM means || beats per minute | bars per measure | bass per melody | none || A
+mc: B || A metronome || clicks a steady beat | tunes guitars | records | amplifies || A
+mc: B || Allegro means || fast | slow | soft | loud || A
+mc: B || Andante means || walking pace | very fast | very slow | silent || A
+mc: B || Largo means || very slow | very fast | loud | short || A
+mc: I || Accelerando means || getting faster | getting slower | getting louder | stopping || A
+mc: I || Ritardando means || getting slower | getting faster | getting softer | repeating || A
+mc: I || "A tempo" means || return to original speed | speed up | stop | repeat || A
+mc: I || 30 beats in 15 seconds is || 120 BPM | 60 BPM | 30 BPM | 240 BPM || A
+mc: C || Tempo markings are often Italian because || Italian composers set conventions | Italy invented music | it's shorter | rules say so || A
+mc: C || A slow tempo can feel || sad or calm | always happy | exciting | angry || A
+sa: B || Define BPM. || Beats per minute.
+sa: B || What is a metronome? || A device that clicks a steady beat at a chosen tempo.
+sa: I || List five tempo markings from slowest to fastest. || Largo, adagio, andante, allegro, presto.
+sa: I || What do accelerando and ritardando mean? || Getting faster; getting slower.
+sa: I || Calculate BPM for 20 beats in 15 seconds. || 80.
+sa: I || Describe the mood of Barber's Adagio. || Slow and sorrowful.
+sa: C || Explain how tempo changes mood. || Speed affects energy and feeling.
+sa: C || Explain your two tempo performances. || Answers vary.
+
+=== MU8.B1 0
+hook: Sing "do-re-mi-fa-so-la-ti-do." You just sang a major scale, the pattern behind countless songs from nursery rhymes to national anthems. Its secret is a recipe of whole steps and half steps.
+sc: I can explain whole steps and half steps | I can build a major scale using the W-W-H-W-W-W-H pattern | I can play and sing a major scale
+v: scale :: A set of notes in order, going up or down.
+v: major scale :: A scale following the pattern whole, whole, half, whole, whole, whole, half.
+v: half step :: The smallest distance between two notes on a keyboard, with no key between.
+v: whole step :: Two half steps.
+v: sharp (♯) :: A symbol that raises a note by a half step.
+v: tonic :: The first and home note of a scale.
+ts: The Major Scale Recipe || Listening || How is a major scale built?
+tx: Keyboard guide (written for this lesson): ¶ On a keyboard, the white keys are C D E F G A B C. Black keys sit between most white keys. ¶ Half steps: neighbouring keys with nothing between them, such as E–F and B–C (no black key between), or C–C♯. ¶ Whole steps: two half steps, such as C–D (with C♯ between). ¶ Major scale pattern: W W H W W W H. ¶ C major: C–D (W), D–E (W), E–F (H), F–G (W), G–A (W), A–B (W), B–C (H). All white keys. ¶ G major: G–A (W), A–B (W), B–C (H), C–D (W), D–E (W), E–F♯ (W), F♯–G (H). It needs F♯. ¶ Solfège: do re mi fa so la ti do. ¶ Activities: 1. Find half and whole steps on a keyboard. 2. Play C major. 3. Build G major and discover the F♯. 4. Build D major and find its two sharps (F♯, C♯). 5. Sing each scale with solfège.
+src: Original activity written for this lesson; scale patterns follow standard music theory.
+st: Find half and whole steps on a keyboard | Learn the W-W-H-W-W-W-H pattern | Play C major | Build G major and D major | Sing scales with solfège
+org: Scale | Notes | Sharps | Where the half steps fall
+an: Where are the natural half steps on the white keys? | Why does G major need an F♯? | How many sharps does D major have? | Why do all major scales sound alike even starting on different notes?
+pr: Build and play the G major and D major scales, labelling every whole and half step.
+ex: Half steps || Name the two natural half steps on white keys. || No black key between || E–F and B–C || Where are they in C major?
+ex: Pattern || What is the major scale pattern? || W and H || W W H W W W H || How many notes are in the scale?
+ex: G major || Why F♯ in G major? || E to F is a half step, but the pattern needs a whole step there || E–F♯ is a whole step and F♯–G a half step, matching the pattern || What about D major?
+ex: D major || Build D major. || Apply the pattern from D || D E F♯ G A B C♯ D || How many sharps?
+p: B || What is a scale? || A set of notes in order.
+p: B || What is a half step? || The smallest distance between two keys.
+p: B || What is a whole step? || Two half steps.
+p: B || What does a sharp do? || Raises a note by a half step.
+p: B || What is the tonic? || The first, home note of a scale.
+p: I || What is the major scale pattern? || W W H W W W H.
+p: I || Name the notes of C major. || C D E F G A B C.
+p: I || Which sharp is in G major? || F♯.
+p: I || Which sharps are in D major? || F♯ and C♯.
+p: I || Sing the solfège syllables. || Do re mi fa so la ti do.
+p: I || Where are the half steps in C major? || E–F and B–C.
+p: C || Why do all major scales sound similar? || They follow the same pattern of steps.
+p: C || Why must sharps be added when starting on G? || To keep the W-W-H pattern.
+p: C || Build A major. || A B C♯ D E F♯ G♯ A.
+p: C || Why is the tonic called "home"? || Melodies feel finished when they return to it.
+mis: Thinking every neighbouring white key is a whole step | Thinking scales must start on C | Confusing sharps with flats
+et: State the major scale pattern. | Name the sharp in G major.
+mc: B || A scale is || notes in order | a single chord | a rest | a rhythm || A
+mc: B || A half step is || the smallest distance | two keys apart | an octave | a whole note || A
+mc: B || A whole step equals || two half steps | one half step | an octave | three half steps || A
+mc: B || A sharp || raises a note a half step | lowers it | doubles it | silences it || A
+mc: B || The tonic is || the home note | the highest note | a rest | a chord || A
+mc: B || C major uses || only white keys | only black keys | two sharps | one flat || A
+mc: I || The major scale pattern is || W W H W W W H | W H W W H W W | H H W W | W W W W || A
+mc: I || G major has || F♯ | C♯ | B♭ | no sharps || A
+mc: I || D major has || F♯ and C♯ | F♯ only | no sharps | three flats || A
+mc: I || Natural half steps are || E–F and B–C | C–D and F–G | A–B only | none || A
+mc: C || All major scales sound similar because they || share a step pattern | start on C | use white keys | are loud || A
+mc: C || A major's notes include || C♯, F♯, G♯ | B♭ | no sharps | only F♯ || A
+sa: B || Define half step. || The smallest distance between two notes on a keyboard.
+sa: B || What is the major scale pattern? || W W H W W W H.
+sa: I || Build G major. || G A B C D E F♯ G.
+sa: I || Build D major. || D E F♯ G A B C♯ D.
+sa: I || Where are the natural half steps? || E–F and B–C.
+sa: I || What does the tonic do? || It is the home note of the scale.
+sa: C || Explain why G major needs F♯. || To keep the major-scale pattern of steps.
+sa: C || Build and label a major scale of your choice. || Answers vary.
+
+=== MU8.B1 1
+hook: Strum three notes at once and you get a chord. Most of the world's songs, from campfire singalongs to stadium hits, can be played with just three chords built on the first, fourth and fifth notes of a scale.
+sc: I can build a triad from a root | I can form the I, IV and V chords in a major key | I can play I, IV and V on a keyboard or ukulele
+v: chord :: Three or more notes played together.
+v: triad :: A chord of three notes built in skips: root, third and fifth.
+v: root :: The note a chord is built on and named after.
+v: Roman numerals :: Symbols (I, IV, V) showing which scale note a chord is built on.
+v: primary chords :: The I, IV and V chords of a key.
+v: inversion :: A chord with a note other than the root on the bottom.
+ts: The Three-Chord Toolkit || Composition || How are chords built, and why are I, IV and V so important?
+tx: Chord guide (written for this lesson): ¶ Build a triad: start on a root, skip a note, add the next, skip again, add the next. C triad = C (skip D) E (skip F) G. ¶ In C major: I = C E G (C major); IV = F A C (F major); V = G B D (G major). ¶ In G major: I = G B D; IV = C E G; V = D F♯ A. ¶ Why these three? Together they contain every note of the scale, so they can accompany most melodies in that key. The V chord pulls strongly back to I. ¶ Activities: 1. Build triads on every note of C major. 2. Play I–IV–V–I in C on keyboards (right hand) or ukuleles (C, F, G chords). 3. Hear the "pull": play I–IV–V and stop. Does it feel finished? Then play I. 4. Try inversions: C E G, E G C, G C E. Which is smoothest moving from C to F?
+src: Original activity written for this lesson; chord construction follows standard music theory.
+st: Build a triad by skipping notes | Name I, IV and V in C major | Play I–IV–V–I | Listen for V pulling to I | Try inversions for smoother movement
+org: Chord | Roman numeral | Notes | Feeling
+an: How do you build a triad? | Why does V feel like it wants to go to I? | Which inversion made changes smoother? | Why can three chords accompany so many songs?
+pr: Write the notes of I, IV and V in C and G major, and play I–IV–V–I in one key.
+ex: Building || Build a triad on F. || Skip-skip || F A C || What chord is it in C major?
+ex: Roman numerals || What is V in C major? || Fifth note is G || G B D || What is IV?
+ex: G major || What is V in G major? || Fifth note is D || D F♯ A || Why the F♯?
+ex: Pull to home || Why does V–I feel finished? || Tension and release || V contains the leading note B, which pulls up to C || Where do songs often end?
+p: B || What is a chord? || Three or more notes played together.
+p: B || What is a triad? || A three-note chord of root, third and fifth.
+p: B || What is the root? || The note a chord is built on.
+p: B || What are primary chords? || I, IV and V.
+p: B || What is an inversion? || A chord with a non-root note on the bottom.
+p: I || What are the notes of C major (I)? || C E G.
+p: I || What are the notes of IV in C? || F A C.
+p: I || What are the notes of V in C? || G B D.
+p: I || What is I in G major? || G B D.
+p: I || What is V in G major? || D F♯ A.
+p: I || What is IV in G major? || C E G.
+p: C || Why can I, IV and V accompany most melodies? || Together they contain every note of the scale.
+p: C || Why does V lead to I? || Its notes create tension that resolves on I.
+p: C || Why use inversions? || To move between chords smoothly with less hand movement.
+p: C || Name a song you think uses I, IV and V. || Answers vary.
+mis: Thinking any three notes make a triad | Thinking Roman numerals are chord names | Jumping the whole hand between chords instead of using inversions
+et: Build a triad on G. | Name I, IV and V in C major.
+mc: B || A chord is || three or more notes together | one note | a rest | a rhythm || A
+mc: B || A triad has || three notes | two notes | four notes | eight notes || A
+mc: B || The root is || the note a chord is built on | the top note | a rest | the tonic always || A
+mc: B || Primary chords are || I, IV, V | II, III, VI | I only | VII || A
+mc: B || An inversion puts || another note on the bottom | the root on top only | no root | a rest || A
+mc: B || The C triad is || C E G | C D E | C F A | C G B || A
+mc: I || IV in C major is || F A C | G B D | C E G | D F A || A
+mc: I || V in C major is || G B D | F A C | C E G | A C E || A
+mc: I || V in G major is || D F♯ A | D F A | C E G | G B D || A
+mc: I || Triads are built by || skipping notes | using neighbours | random notes | octaves || A
+mc: C || V pulls to I because of || tension and release | volume | speed | rhythm || A
+mc: C || Inversions help by || smoothing chord changes | making chords louder | removing notes | adding rhythm || A
+sa: B || Define triad. || A three-note chord built in skips: root, third and fifth.
+sa: B || What are primary chords? || The I, IV and V chords of a key.
+sa: I || Write I, IV and V in C major. || C E G; F A C; G B D.
+sa: I || Write I, IV and V in G major. || G B D; C E G; D F♯ A.
+sa: I || Why does V–I sound finished? || V creates tension that resolves on I.
+sa: I || What is an inversion? || A chord with a note other than the root on the bottom.
+sa: C || Explain why three chords can accompany many songs. || They contain every scale note.
+sa: C || Play and describe I–IV–V–I. || Answers vary.
+
+=== MU8.B1 2
+hook: Give a singer a melody and a guitarist three chords, and you have a band. Accompanying means choosing the right chord at the right moment so the melody sounds full and supported.
+sc: I can choose I, IV or V to fit melody notes | I can follow a chord chart | I can accompany a song with chords in time
+v: accompaniment :: Music that supports a melody, often with chords.
+v: chord chart :: A chart showing which chord to play in each bar.
+v: harmony :: Notes sounding together to support a melody.
+v: chord change :: Moving from one chord to the next.
+v: strumming pattern :: A rhythm used to play chords on guitar or ukulele.
+v: chord tone :: A melody note that belongs to the chord being played.
+ts: Back the Melody || Performance || How do I choose and play chords that fit a melody?
+tx: Activities (written for this lesson): ¶ 1. Matching chords (10 minutes): For each melody note in C major, find which primary chord contains it: C is in I and IV; D is in V; E is in I; F is in IV; G is in I and V; A is in IV; B is in V. On strong beats, choose a chord that contains the melody note. ¶ 2. Chord chart (10 minutes): "Twinkle, Twinkle, Little Star" in C: | C | C | F | C | F | C | G | C |. Play one chord per bar while a partner sings or plays the melody. ¶ 3. Patterns (10 minutes): Keyboard: block chord on beat 1, or broken chord (root, fifth, third, fifth). Ukulele: down, down-up, down, down-up. ¶ 4. Your turn (15 minutes): In pairs, use chord tones to write a chord chart for "Mary Had a Little Lamb" in C using only I and V, then perform it.
+src: Original activity written for this lesson; the melodies are traditional.
+st: Match melody notes to I, IV or V | Read a chord chart | Accompany Twinkle, Twinkle with a partner | Practise a keyboard or ukulele pattern | Write and perform a chord chart for a new melody
+org: Bar | Melody notes | Chord chosen | Chord tone?
+an: How did you decide which chord fits a bar? | Which chord change was hardest? | How did the strumming or broken-chord pattern change the feel? | Did your chord chart for Mary Had a Little Lamb sound right?
+pr: Write a chord chart for Mary Had a Little Lamb using I and V and perform it with a partner singing or playing the melody.
+ex: Matching || Melody note F on beat 1. Which chord? || Which primary chord contains F? || IV (F A C) || What about B?
+ex: Chart reading || How many chords are in the Twinkle chart? || Read the bars || Three different chords: C, F and G, across 8 bars || Where is the V chord?
+ex: Clash || Melody note D over a C chord. Problem? || D isn't in C E G || It clashes; try V (G B D) || When might a clash be OK?
+ex: Mary || Bar 1 melody is E D C D. Which chord? || Mostly I notes || I (C) || Which bar might need V?
+p: B || What is accompaniment? || Music supporting a melody.
+p: B || What is a chord chart? || A chart showing chords for each bar.
+p: B || What is harmony? || Notes sounding together to support a melody.
+p: B || What is a chord tone? || A melody note that belongs to the chord.
+p: B || What is a strumming pattern? || A rhythm for playing chords.
+p: I || Which chords contain G in C major? || I and V.
+p: I || Which chord contains B in C major? || V.
+p: I || Which chord contains A in C major? || IV.
+p: I || What is a simple ukulele strum? || Down, down-up, down, down-up.
+p: I || What is a broken chord? || Playing chord notes one at a time.
+p: I || What chords does the Twinkle chart use? || C, F and G.
+p: C || Why choose chords by the notes on strong beats? || Strong beats are most noticeable, so they should match.
+p: C || Why does a wrong chord sound like a clash? || The melody and chord notes conflict.
+p: C || How does the accompaniment pattern change the style? || Block chords sound steady; strumming or broken chords add rhythm and energy.
+p: C || Write a chord chart for a short melody. || Answers vary.
+mis: Changing chords on every melody note | Thinking any chord fits any melody | Losing the beat during chord changes
+et: Which chord fits melody note F in C major? | Name one accompaniment pattern.
+mc: B || Accompaniment || supports a melody | replaces it | is silence | is a rest || A
+mc: B || A chord chart shows || chords for each bar | lyrics only | tempo only | dynamics || A
+mc: B || Harmony is || notes together supporting melody | a single note | rhythm | silence || A
+mc: B || A chord tone is || a melody note in the chord | a wrong note | a rest | a drum || A
+mc: B || A strumming pattern is || a rhythm for chords | a melody | a key | a scale || A
+mc: B || A broken chord plays notes || one at a time | all at once | never | backwards only || A
+mc: I || Note F fits || IV | V | I only | none || A
+mc: I || Note B fits || V | IV | I | none || A
+mc: I || The Twinkle chart uses || C, F and G | C only | D and E | A and B || A
+mc: I || D over a C chord || clashes | fits perfectly | is silent | is a chord tone || A
+mc: C || Chords are chosen by || notes on strong beats | the weakest notes | the title | random || A
+mc: C || Strumming instead of block chords adds || rhythm and energy | silence | pitch | a key change || A
+sa: B || Define chord chart. || A chart showing which chord to play in each bar.
+sa: B || What is a chord tone? || A melody note that belongs to the chord.
+sa: I || Match each C-major scale note to I, IV or V. || C: I/IV; D: V; E: I; F: IV; G: I/V; A: IV; B: V.
+sa: I || Describe a keyboard and a ukulele pattern. || Block or broken chords; down, down-up strum.
+sa: I || Why does a wrong chord clash? || Its notes conflict with the melody.
+sa: I || Which chords does Twinkle use? || C, F, G.
+sa: C || Explain how to choose chords for a melody. || Match chord tones on strong beats.
+sa: C || Write and perform a chord chart for Mary Had a Little Lamb. || Answers vary.
+
+=== MU8.C1 0
+hook: Watch a horror movie with the sound off and it's barely scary. Turn the music back on and your heart races. Film composers use tempo, harmony, instruments and silence to tell you how to feel.
+sc: I can analyze how music creates mood in film and games | I can describe musical choices using elements of music | I can explain the difference between diegetic and non-diegetic sound
+v: soundtrack :: All the music and sound in a film, game or show.
+v: underscore :: Background music that supports the action.
+v: diegetic sound :: Sound that characters can hear, such as a radio playing in a scene.
+v: non-diegetic sound :: Sound only the audience hears, such as background music.
+v: mood :: The feeling a scene creates.
+v: dissonance :: Notes that clash and create tension.
+ts: Scored Emotions || Listening || How does music tell us how to feel?
+tx: Activities (written for this lesson): ¶ 1. Same clip, three scores (15 minutes): Watch a 30-second clip of someone walking down a hallway (filmed at school or a neutral public-domain clip) three times with different music: a cheerful ukulele tune, a slow tense string drone with dissonance, and an action drum track. How does the meaning change? ¶ 2. Analysis (15 minutes): For each version, describe the tempo, dynamics, instruments (timbre), harmony (consonant or dissonant) and mood. ¶ 3. Diegetic or not? (10 minutes): Classify examples: a band playing at a party scene (diegetic); scary strings while a character opens a door (non-diegetic); a character's phone ringing (diegetic); music over the end credits (non-diegetic). ¶ 4. Discuss: Famous examples include the two-note shark theme in Jaws (1975) by John Williams, which gets faster as danger approaches.
+src: Original activity written for this lesson.
+st: Watch one clip with three soundtracks | Describe each soundtrack's elements | Explain how mood changes | Classify diegetic and non-diegetic sounds | Discuss a famous film score
+org: Version | Tempo | Instruments | Harmony | Mood
+an: How did the same clip change meaning with different music? | Which element created the most tension? | Why does the Jaws theme work so well? | When might a director choose silence instead of music?
+pr: Write an analysis comparing two soundtracks for the same clip, using at least four musical elements and explaining the mood each creates.
+ex: Tension || Why do slow, dissonant strings create tension? || Clash and slowness || Dissonance sounds unresolved and slow tempo builds suspense || What happens when it resolves?
+ex: Diegetic || A character turns on a radio. Diegetic or non-diegetic? || Can the character hear it? || Diegetic || Give a non-diegetic example.
+ex: Jaws || How does the Jaws theme show danger approaching? || Tempo || The two notes repeat faster and louder as the shark gets closer || What instruments play it?
+ex: Silence || Why might a director use silence? || Contrast || Silence can make a moment feel shocking or emotional || Give an example.
+p: B || What is a soundtrack? || All music and sound in a film or game.
+p: B || What is underscore? || Background music supporting action.
+p: B || What is diegetic sound? || Sound characters can hear.
+p: B || What is non-diegetic sound? || Sound only the audience hears.
+p: B || What is dissonance? || Clashing notes that create tension.
+p: I || Who composed the music for Jaws? || John Williams.
+p: I || When was Jaws released? || 1975.
+p: I || Is music over end credits diegetic? || No; non-diegetic.
+p: I || Is a band playing at a party scene diegetic? || Yes.
+p: I || What mood might cheerful ukulele create? || Light and happy.
+p: I || What mood might a slow dissonant drone create? || Tense or scary.
+p: C || How can music change the meaning of the same scene? || It tells the audience what to feel and expect.
+p: C || Why does faster tempo increase tension? || It suggests urgency and rising danger.
+p: C || Why is silence powerful in film? || Contrast makes the audience focus and feel the moment.
+p: C || Write your comparison of two soundtracks. || Answers vary.
+mis: Thinking soundtrack only means songs | Thinking all background music is diegetic | Thinking music is just decoration in film
+et: Define diegetic sound. | How does music change mood in a scene?
+mc: B || A soundtrack includes || all film music and sound | only dialogue | only credits | silence || A
+mc: B || Underscore is || background music | dialogue | a sound effect | the credits || A
+mc: B || Diegetic sound is heard by || the characters | only the audience | nobody | the director || A
+mc: B || Non-diegetic sound is heard by || only the audience | the characters | nobody | the actors || A
+mc: B || Dissonance creates || tension | calm always | silence | speed || A
+mc: B || Mood is || the feeling of a scene | the plot | the actors | the camera || A
+mc: I || The Jaws theme was composed by || John Williams | Beethoven | Hans Zimmer | Mozart || A
+mc: I || A phone ringing in a scene is || diegetic | non-diegetic | underscore | silence || A
+mc: I || Scary strings as someone opens a door are || non-diegetic | diegetic | dialogue | a prop || A
+mc: I || The Jaws theme gets || faster as danger approaches | slower | quieter | silent || A
+mc: C || Music changes scene meaning because it || guides feelings | adds dialogue | changes the plot | shows actors || A
+mc: C || Silence can make a moment feel || shocking or emotional | boring always | cheaper | longer only || A
+sa: B || Define underscore. || Background music that supports the action.
+sa: B || What is the difference between diegetic and non-diegetic sound? || Characters can hear diegetic; only the audience hears non-diegetic.
+sa: I || How does the Jaws theme create tension? || Two notes repeat faster and louder.
+sa: I || Classify a radio playing in a scene. || Diegetic.
+sa: I || Name four elements to analyze in a soundtrack. || Tempo, dynamics, timbre, harmony.
+sa: I || Why might a director use silence? || For contrast and emotional impact.
+sa: C || Explain how music changes the meaning of a scene. || It guides the audience's feelings.
+sa: C || Write your soundtrack comparison. || Answers vary.
+
+=== MU8.C1 1
+hook: Hear a few notes of a famous villain's theme and you know he's about to appear, before you see him. Composers attach short musical ideas to characters, places and feelings. These are called leitmotifs.
+sc: I can explain what a leitmotif is | I can identify leitmotifs in film and game music | I can describe how a leitmotif changes to show story
+v: leitmotif :: A short musical theme connected to a character, place or idea.
+v: theme :: A recognizable melody used in a piece.
+v: variation :: A changed version of a theme.
+v: major/minor :: Key qualities that often sound bright or dark.
+v: orchestration :: Choosing which instruments play each part.
+v: motif :: A short musical idea.
+ts: Themes With Meaning || Listening || How do composers use leitmotifs to tell stories?
+tx: Background (summary written for this lesson): The idea of the leitmotif is strongly linked to the German composer Richard Wagner, who used themes for characters and ideas in his operas, such as The Ring cycle (1876). Film composers adopted the technique. ¶ Examples to discuss (teachers play short public clips): John Williams's themes for Star Wars (1977 onward), such as the heroic main theme and the Imperial March for the villain; Howard Shore's music for The Lord of the Rings films (2001–2003), with themes for the Shire and other places; video-game themes such as Koji Kondo's music for Super Mario Bros. (1985), where the main theme returns in different versions. ¶ How leitmotifs change: a hero's theme in a major key with brass can return in a minor key with solo strings when the hero is defeated; a slower, softer version can show memory or sadness. ¶ Task: Listen to three examples. For each, name the character or idea, describe the theme (instruments, tempo, major or minor) and explain why it fits. Then describe how one theme changes later in the story.
+src: Summary written for this lesson; teachers play short clips from public sources.
+st: Learn what a leitmotif is | Listen to three examples | Describe each theme's elements | Explain why each fits its character or idea | Describe how a theme changes with the story
+org: Leitmotif | Character or idea | Instruments | Major or minor | Why it fits
+an: How does the villain's theme differ from the hero's? | Why might a composer change a theme's instruments? | How does a minor version change the meaning? | Why do leitmotifs help audiences follow a story?
+pr: Analyze one leitmotif: what it represents, its musical features and how it changes during the story.
+ex: Villain theme || Why are villain themes often low brass in a minor key? || Weight and darkness || Low brass sounds heavy and powerful; minor sounds dark || How is a hero theme different?
+ex: Variation || A hero's theme returns slowly on solo violin. Meaning? || Changed instruments and tempo || Sadness, loss or memory || When might it return triumphantly?
+ex: Wagner || Who is linked to the leitmotif? || Opera || Richard Wagner || In which work?
+ex: Game music || Why does a game theme change versions? || Different levels || Versions match places, like underwater or underground levels || Name another game theme.
+p: B || What is a leitmotif? || A short theme connected to a character, place or idea.
+p: B || What is a theme? || A recognizable melody.
+p: B || What is a variation? || A changed version of a theme.
+p: B || What is orchestration? || Choosing instruments for each part.
+p: B || What is a motif? || A short musical idea.
+p: I || Which composer is linked to leitmotifs in opera? || Richard Wagner.
+p: I || Who composed the Star Wars music? || John Williams.
+p: I || Who composed The Lord of the Rings film music? || Howard Shore.
+p: I || Who composed Super Mario Bros. music? || Koji Kondo.
+p: I || What key often sounds dark? || Minor.
+p: I || What instruments often play heroic themes? || Brass.
+p: C || How can changing orchestration change a theme's meaning? || Different instruments create different moods.
+p: C || Why do leitmotifs help audiences? || They signal characters and ideas even before they appear.
+p: C || How could you show a villain becoming good through music? || Change the villain's theme to a major key or softer instruments.
+p: C || Write your leitmotif analysis. || Answers vary.
+mis: Thinking a leitmotif is the whole soundtrack | Thinking themes never change | Thinking only films use leitmotifs
+et: Define leitmotif. | How can a theme change to show sadness?
+mc: B || A leitmotif is linked to || a character, place or idea | the credits | the camera | lighting || A
+mc: B || A theme is || a recognizable melody | a rest | a costume | a scene || A
+mc: B || A variation is || a changed theme | a new film | silence | a rest || A
+mc: B || Orchestration is || choosing instruments | writing lyrics | filming | acting || A
+mc: B || Minor keys often sound || dark | bright always | silent | fast || A
+mc: B || Heroic themes often use || brass | silence | kazoo | whispers || A
+mc: I || Leitmotifs are linked to || Richard Wagner | Scott Joplin | Taylor Swift | Hokusai || A
+mc: I || Star Wars music is by || John Williams | Koji Kondo | Howard Shore | Wagner || A
+mc: I || Super Mario Bros. music is by || Koji Kondo | John Williams | Wagner | Joplin || A
+mc: I || A slow solo violin version of a hero theme suggests || sadness or memory | victory | comedy | danger || A
+mc: C || Leitmotifs help audiences by || signalling characters and ideas | replacing dialogue | ending scenes | adding credits || A
+mc: C || A villain turning good could be shown by || changing the theme to major | removing music | speeding up | adding drums only || A
+sa: B || Define leitmotif. || A short musical theme connected to a character, place or idea.
+sa: B || What is orchestration? || Choosing which instruments play each part.
+sa: I || Compare a typical hero and villain theme. || Hero: major, bright brass; villain: minor, low and heavy.
+sa: I || Name three composers who use leitmotifs. || Wagner, John Williams, Howard Shore.
+sa: I || How can a theme show sadness? || Slower, softer, minor key, solo instrument.
+sa: I || Why do game themes have versions? || To match different levels or places.
+sa: C || Explain how leitmotifs help tell a story. || They signal and develop characters and ideas.
+sa: C || Analyze one leitmotif. || Answers vary.
+
+=== MU8.C1 2
+hook: Professional film composers watch a scene dozens of times, marking the exact second a door slams or a character smiles, then write music that hits those moments. Today you score a short clip yourself.
+sc: I can plan music that matches the action and mood of a video clip | I can use tempo, dynamics and instruments for effect | I can create and present a short score
+v: score (film) :: Music composed for a film or video.
+v: hit point :: An exact moment in a scene where the music changes or accents.
+v: cue sheet :: A list of timings and musical ideas for a scene.
+v: sound effect :: A non-musical sound such as footsteps or thunder.
+v: loop :: A short section of music that repeats.
+v: mickey-mousing :: Music that copies every action exactly, like in cartoons.
+ts: Score a Scene || Composition || How do I compose music that matches a scene?
+tx: Scoring task (written for this lesson): ¶ Clip: a 30–45-second silent clip (filmed by students or a public-domain clip), for example a cat stalking a toy, a sunrise time-lapse or a student racing to class. ¶ 1. Watch three times (5 minutes). ¶ 2. Cue sheet (10 minutes): list times of hit points: "0:08 cat crouches," "0:15 pounce," "0:22 toy flies off." ¶ 3. Plan music for each section: mood, tempo, dynamics, instruments (classroom instruments, voices, body percussion or a free music app). ¶ 4. Create (20 minutes): Use a loop or ostinato for the background and accents for hit points. Decide whether to use mickey-mousing or a more general mood. Add one or two sound effects. ¶ 5. Perform live with the video or record it. ¶ 6. Explain: two sentences on how your music supports the scene.
+src: Original activity written for this lesson.
+st: Watch the clip three times | Write a cue sheet of hit points | Plan mood, tempo and instruments for each section | Create the score with loops and accents | Perform or record it with the video
+org: Time | Action | Mood | Musical idea
+an: Which hit point was most important? | Did you use mickey-mousing or general mood? Why? | How did tempo change through your score? | How did the audience react?
+pr: Create and present a score for a 30–45-second clip with a cue sheet and a two-sentence explanation.
+ex: Hit points || The cat pounces at 0:15. What might the music do? || Sudden accent || A loud cymbal crash or a sudden chord on the pounce || What comes before it?
+ex: Building tension || How can music build to the pounce? || Tempo and dynamics || Slow, quiet ostinato that gets faster and louder || What happens after?
+ex: Mickey-mousing || What is mickey-mousing? || Copying actions || Music matching every movement, like a slide whistle for falling || When does it suit a scene?
+ex: Loops || Why use a loop as background? || Repetition || It provides a steady base while you add accents || How do you stop it?
+p: B || What is a film score? || Music composed for a film or video.
+p: B || What is a hit point? || An exact moment where music changes or accents.
+p: B || What is a cue sheet? || A list of timings and musical ideas.
+p: B || What is a sound effect? || A non-musical sound like footsteps.
+p: B || What is a loop? || A repeating section of music.
+p: I || What is mickey-mousing? || Music copying every action exactly.
+p: I || How long is the clip? || 30–45 seconds.
+p: I || How many times do you watch the clip first? || Three.
+p: I || How can you build tension before a hit point? || Get faster and louder.
+p: I || Name a sound for a sudden hit point. || A cymbal crash.
+p: I || How many sound effects should you add? || One or two.
+p: C || When might a general mood score work better than mickey-mousing? || In serious or emotional scenes where copying actions would seem silly.
+p: C || Why do composers mark exact times? || So music lines up precisely with the action.
+p: C || How can silence work in a score? || A sudden stop can make a moment stand out.
+p: C || Explain how your music supports the scene. || Answers vary.
+mis: Thinking any music works with any scene | Missing hit points by not timing them | Making the music louder than the action needs
+et: Name one hit point and your musical idea. | Did you use mickey-mousing?
+mc: B || A film score is || music for a film | the credits | the script | a review || A
+mc: B || A hit point is || an exact moment for a musical change | the title | the end | a costume || A
+mc: B || A cue sheet lists || timings and musical ideas | actors | costumes | tickets || A
+mc: B || A sound effect is || a non-musical sound | a melody | a chord | a rest || A
+mc: B || A loop || repeats | ends | silences | tunes || A
+mc: B || Mickey-mousing is || copying every action in music | silence | dialogue | a camera move || A
+mc: I || Watch the clip || three times | once | never | ten times || A
+mc: I || A pounce might get || a cymbal crash | silence always | a lullaby | nothing || A
+mc: I || Tension builds by getting || faster and louder | slower and softer | silent | higher only || A
+mc: I || The clip lasts || 30–45 seconds | 30 minutes | 3 seconds | 3 hours || A
+mc: C || Mickey-mousing may seem silly in || serious scenes | cartoons | comedies | chases || A
+mc: C || Exact timings make music || line up with action | longer | quieter | random || A
+sa: B || Define hit point. || An exact moment where the music changes or accents.
+sa: B || What is mickey-mousing? || Music that copies every action exactly.
+sa: I || Write three hit points from your cue sheet. || Answers vary.
+sa: I || How can music build to a big moment? || Get faster and louder.
+sa: I || Why use a loop? || It gives a steady base for accents.
+sa: I || When is general mood better than mickey-mousing? || In serious or emotional scenes.
+sa: C || Explain how your music supports the scene. || Answers vary.
+sa: C || Present your cue sheet and score. || Answers vary.
+
+=== MU8.D1 0
+hook: The first four notes of Beethoven's Fifth Symphony, "da-da-da-DUM," are only a tiny idea, yet he built a whole movement from them. Composers start small: a motif. Today you write a melody from a motif using notes of a scale.
+sc: I can create a short motif using notes of a major scale | I can develop a motif by repeating and changing it | I can write a four-bar melody that ends on the tonic
+v: motif :: A short musical idea, often two to five notes.
+v: melody :: A sequence of pitches forming a tune.
+v: repetition :: Playing a musical idea again.
+v: sequence :: Repeating a motif starting on a different pitch.
+v: inversion :: Turning a motif upside down so up becomes down.
+v: tonic :: The home note of the key.
+ts: From Motif to Melody || Composition || How do composers grow a melody from a small idea?
+tx: Composition steps (written for this lesson), in C major using C D E F G A B C: ¶ 1. Listen: the opening of Beethoven's Symphony No. 5 (1808): three short notes and a long one, repeated lower as a sequence. ¶ 2. Create a motif (5 minutes): 3–5 notes with a clear rhythm, e.g. C D E (quarter, quarter, half). ¶ 3. Develop it (15 minutes): Repetition: play it again. Sequence: start it one step higher (D E F). Inversion: turn it upside down (C B A). Rhythm change: same notes, new rhythm. ¶ 4. Build four bars (15 minutes): Bar 1 = motif; bar 2 = sequence or repeat; bar 3 = a development; bar 4 = an ending that lands on C (the tonic) with a long note. ¶ 5. Notate on the treble staff and play it on keyboard or xylophone.
+src: Original activity written for this lesson; Beethoven's Fifth is in the public domain.
+st: Listen to Beethoven's famous motif | Create a three-to-five-note motif | Develop it with repetition, sequence and inversion | Build a four-bar melody ending on the tonic | Notate and play it
+org: Bar | Technique | Notes | Rhythm
+an: How did Beethoven develop his motif? | Which development technique did you like best? | How does ending on C make the melody feel finished? | How does your melody's contour look?
+pr: Compose, notate and play a four-bar melody in C major built from a motif, using at least two development techniques and ending on C.
+ex: Sequence || Motif C D E. What is a sequence one step up? || Shift each note up one || D E F || What about one step down?
+ex: Inversion || Invert C D E. || Up becomes down || C B A || How does it sound?
+ex: Rhythm change || Same notes C D E with a new rhythm? || Change durations || Two eighths and a dotted half || Does it still sound related?
+ex: Ending || Why end on C? || Home note || C is the tonic, so the melody sounds complete || What happens if you end on D?
+p: B || What is a motif? || A short musical idea.
+p: B || What is repetition? || Playing an idea again.
+p: B || What is a sequence? || Repeating a motif on a different pitch.
+p: B || What is an inversion? || Turning a motif upside down.
+p: B || What is the tonic of C major? || C.
+p: I || Describe Beethoven's Fifth motif. || Three short notes and a long note.
+p: I || When was Beethoven's Fifth premiered? || 1808.
+p: I || Sequence C E G one step up. || D F A.
+p: I || Invert E F G. || E D C.
+p: I || How many bars long is your melody? || Four.
+p: I || How should your melody end? || On C with a long note.
+p: C || Why do composers develop motifs instead of writing all-new ideas? || It makes music unified and memorable.
+p: C || Why does ending on a note other than the tonic sound unfinished? || The ear expects to return home.
+p: C || How could you make your melody's climax stand out? || Put the highest note in bar 3 with a longer value.
+p: C || Explain the techniques used in your melody. || Answers vary.
+mis: Thinking composing means writing random notes | Never repeating ideas | Ending on any note
+et: Write a motif. | Write it as a sequence.
+mc: B || A motif is || a short musical idea | a whole symphony | a rest | a key || A
+mc: B || Repetition means || playing an idea again | changing it completely | stopping | tuning || A
+mc: B || A sequence repeats a motif || on a different pitch | backwards | silently | louder only || A
+mc: B || An inversion turns a motif || upside down | backwards | louder | faster || A
+mc: B || The tonic of C major is || C | G | F | D || A
+mc: B || Beethoven's Fifth opens with || three short notes and a long one | a long solo | silence | a drum roll || A
+mc: I || C D E as a sequence one step up is || D E F | C D E | E F G | B C D || A
+mc: I || C D E inverted is || C B A | E D C | C E G | D E F || A
+mc: I || Beethoven's Fifth premiered in || 1808 | 1908 | 1708 | 2008 || A
+mc: I || Your melody ends on || C | B | D | F || A
+mc: C || Developing motifs makes music || unified | random | shorter | quieter || A
+mc: C || Ending away from the tonic sounds || unfinished | finished | louder | faster || A
+sa: B || Define sequence. || Repeating a motif starting on a different pitch.
+sa: B || What is an inversion? || Turning a motif upside down.
+sa: I || Write a sequence of C E D one step up. || D F E.
+sa: I || Invert G A B. || G F E.
+sa: I || Why end on the tonic? || It sounds finished.
+sa: I || Describe Beethoven's famous motif. || Three short notes and a long note.
+sa: C || Explain why composers develop motifs. || It creates unity and memorability.
+sa: C || Compose and notate a four-bar melody. || Answers vary.
+
+=== MU8.D1 1
+hook: Songwriters often start with chords and then sing over them until a melody fits. The trick is knowing which notes sound best on each chord, and where the melody should rest so the music feels like it's breathing.
+sc: I can write a melody that fits a chord progression | I can use chord tones on strong beats | I can shape phrases with cadences
+v: chord progression :: A series of chords in order.
+v: chord tone :: A note that belongs to the chord being played.
+v: passing note :: A non-chord note that connects two chord tones by step.
+v: phrase :: A musical sentence, often four bars.
+v: cadence :: The ending of a phrase that sounds like a pause or a finish.
+v: perfect cadence :: V to I, which sounds finished.
+ts: Melody Over Chords || Composition || How do melodies and chords work together?
+tx: Composition guide (written for this lesson), in C major: ¶ Progression (8 bars): | C | F | G | C | C | F | G | C |. ¶ Rules of thumb: 1. On beat 1 of each bar, use a chord tone (C: C E G; F: F A C; G: G B D). 2. Between chord tones, move by step using passing notes. 3. Phrase 1 (bars 1–4) is a "question": end bar 4 on a note that feels open, such as E or G, or end on G over a G chord for a half cadence. 4. Phrase 2 (bars 5–8) is the "answer": use the same start as phrase 1, then end with G (V) to C (I), a perfect cadence, landing on C. ¶ Steps: play the progression on keyboard or ukulele; sing or play notes over it until you find a first phrase; write it down; build the answer phrase; perform the melody with a partner playing chords.
+src: Original activity written for this lesson.
+st: Play the eight-bar progression | Choose chord tones for each beat 1 | Connect them with passing notes | Write a question phrase and an answer phrase | Perform with a partner on chords
+org: Bar | Chord | Chord tone on beat 1 | Other notes | Phrase role
+an: Which chord tones did you choose for beat 1? | Where did you use passing notes? | Does phrase 1 sound like a question? | Does the perfect cadence sound finished?
+pr: Compose, notate and perform an eight-bar melody over the progression with a question phrase and an answer phrase ending in a perfect cadence.
+ex: Chord tone || Bar 2 has an F chord. Which notes fit beat 1? || F A C || F, A or C || What about a G chord?
+ex: Passing note || Connect E to G with a passing note. || Step between || E F G: F is the passing note || Is F a chord tone of C?
+ex: Question phrase || Why end phrase 1 on G? || Open feeling || It sounds unfinished, like a question || Where does the answer end?
+ex: Perfect cadence || What is V–I in C major? || Chord names || G to C || Why does it sound final?
+p: B || What is a chord progression? || A series of chords in order.
+p: B || What is a chord tone? || A note belonging to the current chord.
+p: B || What is a passing note? || A non-chord note connecting chord tones by step.
+p: B || What is a cadence? || The ending of a phrase.
+p: B || What is a perfect cadence? || V to I.
+p: I || What are the chord tones of G? || G, B, D.
+p: I || What should be on beat 1? || A chord tone.
+p: I || How long is each phrase? || Four bars.
+p: I || What is the question phrase? || The first phrase that sounds open.
+p: I || What note should the melody end on? || C.
+p: I || What is a half cadence? || A phrase ending on V, sounding unfinished.
+p: C || Why put chord tones on strong beats? || They sound stable and match the harmony.
+p: C || Why does starting the answer like the question work? || It connects the phrases and sounds balanced.
+p: C || Why do passing notes make melodies smoother? || They move by step instead of jumping.
+p: C || Explain your question and answer phrases. || Answers vary.
+mis: Using non-chord notes on every strong beat | Writing phrases that never pause | Ending the melody on V
+et: Name the chord tones of F. | What is a perfect cadence?
+mc: B || A chord progression is || a series of chords | a single note | a rhythm | a scale || A
+mc: B || A chord tone || belongs to the chord | clashes always | is a rest | is a drum || A
+mc: B || A passing note || connects chord tones by step | ends songs | is a chord | is a rest || A
+mc: B || A cadence is || the ending of a phrase | the first note | a chord name | a tempo || A
+mc: B || A perfect cadence is || V to I | I to IV | IV to V | I to I || A
+mc: B || A phrase is || a musical sentence | a single note | a key | a rest || A
+mc: I || G chord tones are || G B D | G A B | C E G | F A C || A
+mc: I || F chord tones are || F A C | F G A | C E G | G B D || A
+mc: I || Beat 1 should usually be || a chord tone | a passing note | a rest | a clash || A
+mc: I || E F G uses F as a || passing note | chord tone of C | rest | cadence || A
+mc: C || Chord tones on strong beats sound || stable | clashing | silent | faster || A
+mc: C || Starting the answer like the question || balances the phrases | confuses | ends early | breaks rules || A
+sa: B || Define cadence. || The ending of a phrase that sounds like a pause or finish.
+sa: B || What is a passing note? || A non-chord note connecting chord tones by step.
+sa: I || List chord tones for C, F and G. || C E G; F A C; G B D.
+sa: I || Explain question and answer phrases. || The first sounds open; the second ends home.
+sa: I || What is a perfect cadence in C major? || G to C.
+sa: I || Where should you put chord tones? || On strong beats.
+sa: C || Explain why chord tones on strong beats work. || They match the harmony and sound stable.
+sa: C || Compose an eight-bar melody over the progression. || Answers vary.
+
+=== MU8.D1 2
+hook: Even famous composers revised constantly. Beethoven's sketchbooks are full of crossed-out melodies and new versions. Your first draft is a starting point; revision is where it becomes music you're proud of.
+sc: I can perform my melody with accompaniment | I can give and use feedback to revise a composition | I can explain the changes I made and why
+v: draft :: An early version of a composition.
+v: revision :: Changing a composition to improve it.
+v: notation :: The written form of music.
+v: peer feedback :: Comments from classmates to help improve work.
+v: final copy :: The finished, neat version of a composition.
+v: composer's note :: A short explanation of a piece written by its composer.
+ts: Revise and Perform || Performance || How does revision make a composition stronger?
+tx: Revision workshop (written for this lesson): ¶ 1. Perform the draft (10 minutes): In groups of three, each composer's melody is played with chords by a partner. ¶ 2. Feedback checklist: Does the melody fit the chords on strong beats? Is there a clear motif that returns? Does phrase 1 sound like a question and phrase 2 an answer? Does it end on the tonic with a perfect cadence? Is there a high point (climax)? Is the rhythm interesting but playable? ¶ 3. Revise (15 minutes): Make at least two changes, such as fixing a clashing note, adding a climax in bar 6, changing a rhythm, or repeating the motif more clearly. Keep your draft so you can compare. ¶ 4. Final copy (10 minutes): Write a neat final copy with title, composer name, time signature and clef. ¶ 5. Composer's note (5 minutes): 3–4 sentences about your idea, techniques and changes. ¶ 6. Final performance for the class.
+src: Original activity written for this lesson.
+st: Perform your draft with chords | Get feedback using the checklist | Make at least two revisions | Write a neat final copy | Write a composer's note and perform
+org: Feedback | Change I made | Why it's better
+an: What feedback was most useful? | Which revision improved your melody most? | How did your final version compare with the draft? | What would you write next?
+pr: Submit your draft, final copy and composer's note, and perform your revised melody with accompaniment.
+ex: Fixing a clash || The melody has B over an F chord on beat 1. Fix? || Chord tones of F || Change B to A or C || Why does B clash?
+ex: Adding a climax || Feedback: the melody feels flat. Fix? || High point || Add the highest note in bar 6 with a longer value || Why bar 6?
+ex: Motif clarity || Feedback: no clear idea returns. Fix? || Repetition || Repeat the bar-1 motif in bar 5 || How does that help?
+ex: Composer's note || Write one sentence for a composer's note. || Idea or technique || "I used a sequence in bar 2 to make the opening motif climb" || Write another.
+p: B || What is a draft? || An early version.
+p: B || What is revision? || Changing work to improve it.
+p: B || What is notation? || The written form of music.
+p: B || What is a final copy? || The finished, neat version.
+p: B || What is a composer's note? || A short explanation of a piece by its composer.
+p: I || Name three items on the feedback checklist. || Fits chords, motif returns, ends on tonic.
+p: I || How many revisions should you make? || At least two.
+p: I || What must a final copy include? || Title, composer, time signature and clef.
+p: I || Where might you put a climax in an eight-bar melody? || Around bar 6.
+p: I || Why keep your draft? || To compare and show changes.
+p: I || How long is the composer's note? || 3–4 sentences.
+p: C || Why do composers revise? || First ideas can always be improved.
+p: C || Why do climaxes often come near the end but not at the very end? || It builds tension before resolving home.
+p: C || How can feedback be both kind and useful? || Point to specific bars and suggest changes.
+p: C || Write your composer's note. || Answers vary.
+mis: Thinking revision means starting over | Thinking good composers get it right first time | Ignoring feedback you disagree with without trying it
+et: Name one revision you made. | Why did it improve your melody?
+mc: B || A draft is || an early version | the final copy | a review | a ticket || A
+mc: B || Revision means || improving work | deleting everything | copying | performing || A
+mc: B || Notation is || written music | a recording | a dance | a chord || A
+mc: B || A final copy is || neat and finished | a sketch | a draft | blank || A
+mc: B || A composer's note || explains the piece | is a melody | is a chord | is a rest || A
+mc: B || Peer feedback comes from || classmates | the composer | nobody | the audience only || A
+mc: I || B over an F chord on beat 1 || clashes | fits | is a chord tone | is silent || A
+mc: I || A climax often comes around || bar 6 | bar 1 | bar 8 always | never || A
+mc: I || Make at least || two revisions | ten revisions | none | one hundred || A
+mc: I || A final copy includes || title and time signature | only notes | nothing | lyrics only || A
+mc: C || Composers revise because || ideas can be improved | rules require | it's faster | drafts are lost || A
+mc: C || Useful feedback points to || specific bars | nothing | the composer's name | the price || A
+sa: B || Define revision. || Changing a composition to improve it.
+sa: B || What is a composer's note? || A short explanation of a piece by its composer.
+sa: I || Name four feedback checklist items. || Fits chords, motif returns, question-answer phrases, ends on tonic.
+sa: I || How would you fix a clashing note? || Change it to a chord tone.
+sa: I || Where might you add a climax? || Around bar 6.
+sa: I || What must a final copy include? || Title, composer, time signature, clef.
+sa: C || Explain why composers revise. || First ideas can always be improved.
+sa: C || Submit your composer's note. || Answers vary.
