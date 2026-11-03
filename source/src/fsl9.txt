@@ -1,0 +1,659 @@
+=== FSL9.A1 1
+hook: "Les réseaux sociaux, c'est génial !" "À mon avis, c'est une perte de temps." Giving and defending opinions is what turns French practice into real conversation.
+sc: I can give opinions using à mon avis, je pense que and je trouve que | I can justify opinions with reasons and examples | I can agree and disagree politely
+v: À mon avis… :: In my opinion…
+v: Je pense que… :: I think that…
+v: Je trouve que… :: I find that…
+v: Je suis d'accord :: I agree
+v: Je ne suis pas d'accord :: I disagree
+v: un avantage / un inconvénient :: an advantage / a disadvantage
+v: d'un côté… de l'autre côté… :: on one hand… on the other hand…
+v: par exemple :: for example
+ts: À mon avis… || Debate || How do I give and justify opinions in French?
+tx: Opinion toolkit (written for this lesson): ¶ Starters: À mon avis, … / Je pense que… / Je trouve que… / Pour moi, … ¶ Reasons: parce que… / car… (because) / par exemple… ¶ Balancing: D'un côté, les téléphones sont utiles. De l'autre côté, on passe trop de temps devant l'écran. ¶ Agree/disagree: Je suis d'accord avec toi. / Je ne suis pas d'accord parce que… / Tu as raison. (You're right.) / C'est vrai, mais… ¶ Adjectives: utile (useful), dangereux (dangerous), amusant (fun), important, une perte de temps (a waste of time). ¶ Statements for a mini-debate: 1. Les élèves devraient avoir un téléphone à l'école. 2. Les jeux vidéo sont bons pour le cerveau. 3. Les réseaux sociaux rapprochent les gens. ¶ Activity: four corners (tout à fait d'accord / d'accord / pas d'accord / pas du tout d'accord), then each corner gives one reason in French.
+src: Original statements and activity written for this lesson.
+st: Learn opinion starters | Learn to give reasons and examples | Practise agreeing and disagreeing politely | Play four corners | Write a balanced opinion
+org: Affirmation | Mon opinion | Raison | Exemple
+an: Which statement did you feel most strongly about? | How did you justify your opinion? | How can you disagree politely? | Did anyone change your mind?
+pr: Write a balanced opinion paragraph on one statement with an advantage, a disadvantage, your view and two reasons.
+ex: Opinion || Give an opinion on video games. || À mon avis + adjective + parce que || À mon avis, les jeux vidéo sont amusants parce qu'on joue avec des amis. || Add an example.
+ex: Disagree || Disagree politely. || Je ne suis pas d'accord parce que… || Je ne suis pas d'accord parce que c'est une perte de temps. || Give another reason.
+ex: Balance || Balance phones at school. || D'un côté… de l'autre côté… || D'un côté, c'est utile. De l'autre côté, c'est une distraction. || What's your conclusion?
+ex: Agree partly || "That's true, but…" || C'est vrai, mais… || C'est vrai, mais il faut des limites. || When is this useful?
+p: B || What does "À mon avis" mean? || In my opinion.
+p: B || What does "Je suis d'accord" mean? || I agree.
+p: B || What does "un inconvénient" mean? || A disadvantage.
+p: B || What does "par exemple" mean? || For example.
+p: B || What does "Tu as raison" mean? || You're right.
+p: I || Say "I think that social media is useful." || Je pense que les réseaux sociaux sont utiles.
+p: I || Say "I disagree." || Je ne suis pas d'accord.
+p: I || What does "une perte de temps" mean? || A waste of time.
+p: I || Give a phrase for balancing. || D'un côté… de l'autre côté…
+p: I || What does "car" mean? || Because.
+p: I || Say "That's true, but…" || C'est vrai, mais…
+p: C || Why give examples with opinions? || They make arguments more convincing.
+p: C || Why is a balanced paragraph stronger? || It shows you considered both sides.
+p: C || Translate: In my opinion, video games are fun, but they can be a waste of time. || À mon avis, les jeux vidéo sont amusants, mais ils peuvent être une perte de temps.
+p: C || Write your opinion paragraph. || Answers vary.
+mis: Saying "je suis d'accord avec" without reasons | Using "je pense que" without que | Translating "I am agree" literally
+et: Donne ton opinion sur les téléphones à l'école. | Say "I disagree because…"
+mc: B || "À mon avis" means || In my opinion | In my house | I agree | I think not || A
+mc: B || "Je suis d'accord" means || I agree | I disagree | I'm ready | I'm right || A
+mc: B || "Un avantage" is || an advantage | an adventure | a disadvantage | an opinion || A
+mc: B || "Par exemple" means || for example | for sure | by the way | for now || A
+mc: B || "Utile" means || useful | useless | fun | dangerous || A
+mc: B || "Tu as raison" means || You're right | You have a reason | You're wrong | You agree || A
+mc: I || "I disagree" is || Je ne suis pas d'accord. | Je suis pas accord. | Je n'accord pas. | Je pas d'accord. || A
+mc: I || "Une perte de temps" means || a waste of time | a lost watch | a long time | free time || A
+mc: I || "D'un côté" means || on one hand | on the side | one time | once || A
+mc: I || "Car" in an argument means || because | car | but | so || A
+mc: C || Examples make arguments || more convincing | shorter | weaker | confusing || A
+mc: C || A balanced paragraph shows || both sides | one side only | no opinion | facts only || A
+sa: B || Give three opinion starters. || À mon avis, je pense que, je trouve que.
+sa: B || How do you say "I agree"? || Je suis d'accord.
+sa: I || Give an opinion on social media with a reason. || Answers vary.
+sa: I || Disagree politely with a reason. || Answers vary.
+sa: I || Write a balancing sentence. || Answers vary.
+sa: I || What does "C'est vrai, mais…" do? || Partly agrees before disagreeing.
+sa: C || Explain why balance strengthens an argument. || It shows both sides were considered.
+sa: C || Write your opinion paragraph. || Answers vary.
+
+=== FSL9.A1 2
+hook: "Hier, j'ai regardé une série, j'ai joué à un jeu et j'ai texté mes amis." To talk about what you did, French uses the passé composé, the most common past tense in conversation.
+sc: I can form the passé composé with avoir | I can use common irregular past participles | I can describe what I did yesterday or last weekend
+v: le passé composé :: the compound past tense
+v: hier :: yesterday
+v: le week-end dernier :: last weekend
+v: j'ai regardé :: I watched
+v: j'ai fait :: I did / made
+v: j'ai vu :: I saw
+v: j'ai lu :: I read
+v: je suis allé(e) :: I went
+ts: Hier, j'ai… || Grammar || How do I talk about the past in French?
+tx: Passé composé (written for this lesson): ¶ Most verbs: present of avoir + past participle. -er verbs: drop -er, add -é: regarder → regardé. J'ai regardé, tu as regardé, il a regardé, nous avons regardé, vous avez regardé, ils ont regardé. ¶ -ir verbs: finir → fini. -re verbs: vendre → vendu. ¶ Common irregular participles: faire → fait; voir → vu; lire → lu; prendre → pris; boire → bu; avoir → eu; être → été; écrire → écrit. ¶ Negative: ne … pas around avoir: Je n'ai pas regardé la télé. ¶ Some movement verbs use être (agree with the subject): aller → je suis allé(e), venir → je suis venu(e), rester → je suis resté(e). ¶ Text: Le week-end dernier, j'ai fait du vélo avec mon frère. Samedi soir, nous avons regardé un film. Dimanche, j'ai lu un livre et j'ai joué à des jeux en ligne. Ma sœur est allée au centre commercial. Je n'ai pas fait mes devoirs ! ¶ Activity: "Qu'est-ce que tu as fait hier ?": interview three classmates and report.
+src: Original text written for this lesson.
+st: Learn avoir + past participle | Form regular participles | Learn irregular participles | Use être with aller | Interview classmates about their weekend
+org: Infinitif | Participe passé | Phrase
+an: What did the writer do last weekend? | Why "est allée" for the sister? | Which participles are irregular? | What did your classmates do yesterday?
+pr: Write a paragraph about last weekend with at least eight passé composé verbs, including three irregular participles and one negative.
+ex: Regular || "I watched a video." || avoir + regardé || J'ai regardé une vidéo. || "We played soccer."
+ex: Irregular || "She did her homework." || faire → fait || Elle a fait ses devoirs. || "I saw a film."
+ex: Negative || "I didn't read the book." || ne … pas around ai || Je n'ai pas lu le livre. || "They didn't drink milk."
+ex: Être || "My sister went to the mall." || aller → allée || Ma sœur est allée au centre commercial. || "My brother went to the park."
+p: B || What is the passé composé? || A past tense for completed actions.
+p: B || What does "hier" mean? || Yesterday.
+p: B || What does "j'ai regardé" mean? || I watched.
+p: B || What does "j'ai fait" mean? || I did / made.
+p: B || What does "le week-end dernier" mean? || Last weekend.
+p: I || Past participle of jouer? || Joué.
+p: I || Past participle of voir? || Vu.
+p: I || Past participle of prendre? || Pris.
+p: I || Past participle of lire? || Lu.
+p: I || Say "We watched a film." || Nous avons regardé un film.
+p: I || Say "I didn't do my homework." || Je n'ai pas fait mes devoirs.
+p: C || Why "elle est allée" with an extra e? || Être verbs agree with a feminine subject.
+p: C || Translate: Yesterday I read a book and I drank tea. || Hier, j'ai lu un livre et j'ai bu du thé.
+p: C || Translate: They went to the cinema. || Ils sont allés au cinéma.
+p: C || Write about your weekend. || Answers vary.
+mis: Forgetting avoir ("je regardé") | Using avoir with aller | Putting pas after the participle
+et: Qu'est-ce que tu as fait hier ? | Give the past participles of faire and voir.
+mc: B || "Hier" means || yesterday | today | tomorrow | here || A
+mc: B || "J'ai regardé" means || I watched | I watch | I will watch | I'm watching || A
+mc: B || "J'ai vu" means || I saw | I lived | I wanted | I read || A
+mc: B || "J'ai lu" means || I read | I lied | I looked | I liked || A
+mc: B || "Le week-end dernier" means || last weekend | next weekend | this weekend | every weekend || A
+mc: B || "Je suis allé" means || I went | I am going | I'm here | I left || A
+mc: I || Past participle of faire is || fait | fairé | faisé | fé || A
+mc: I || Past participle of prendre is || pris | prendu | prené | prit || A
+mc: I || "We played" is || Nous avons joué. | Nous sommes joué. | Nous jouons. | Nous avons jouer. || A
+mc: I || "I didn't watch" is || Je n'ai pas regardé. | Je n'ai regardé pas. | Je pas ai regardé. | Je ne regardé pas. || A
+mc: C || Aller in the passé composé uses || être | avoir | faire | aller || A
+mc: C || "Elle est allée" has an extra e because || it agrees with elle | it's plural | it's a typo | it's future || A
+sa: B || How do you form the passé composé of -er verbs? || Avoir + stem + é.
+sa: B || What does "hier" mean? || Yesterday.
+sa: I || Give six irregular participles. || Fait, vu, lu, pris, bu, eu.
+sa: I || Say "She saw a film yesterday." || Hier, elle a vu un film.
+sa: I || Make "J'ai joué" negative. || Je n'ai pas joué.
+sa: I || Say "I went to the park" (girl). || Je suis allée au parc.
+sa: C || Explain être agreement. || Être verbs' participles agree with the subject.
+sa: C || Write about your weekend. || Answers vary.
+
+=== FSL9.B1 0
+hook: Wildfire smoke, plastic in oceans, melting glaciers: environmental problems are in the news every week. Talking about them in French lets you join a global conversation, because many environmental organizations work in French too.
+sc: I can name environmental problems in French | I can describe causes and effects | I can talk about environmental problems in Canada and the world
+v: l'environnement :: the environment
+v: la pollution :: pollution
+v: le changement climatique :: climate change
+v: les déchets :: waste, garbage
+v: le plastique :: plastic
+v: les feux de forêt :: forest fires, wildfires
+v: une espèce menacée :: an endangered species
+v: à cause de :: because of
+ts: Notre planète || Reading || What environmental problems affect our world?
+tx: Text (read aloud, written for this lesson): ¶ Notre planète a beaucoup de problèmes. La pollution de l'air vient des voitures et des usines. Il y a trop de déchets et de plastique dans les océans. À cause du changement climatique, les glaciers fondent et il y a plus de feux de forêt. En Alberta, la fumée des feux de forêt peut rendre l'air dangereux pour la santé. Beaucoup d'espèces sont menacées, comme le caribou des bois au Canada. ¶ Cause and effect: à cause de + noun (à cause de la pollution); donc (so); ça cause… (that causes…). ¶ Problem words: la pollution de l'air / de l'eau, le gaspillage (waste of resources), la déforestation, la sécheresse (drought), les inondations (floods). ¶ Activity: cause-and-effect chains: groups link three cards in French, e.g. les voitures → la pollution de l'air → des problèmes de santé.
+src: Original text written for this lesson.
+st: Read the text | Learn environmental vocabulary | Use à cause de and donc | Build cause-and-effect chains | Discuss problems in Alberta
+org: Problème | Cause | Conséquence
+an: What causes air pollution in the text? | What happens because of climate change? | Which problem affects Alberta most? | What other species are endangered?
+pr: Write five cause-and-effect sentences about environmental problems using à cause de and donc.
+ex: Cause || "Because of pollution, the air is dirty." || à cause de la || À cause de la pollution, l'air est sale. || Another?
+ex: Donc || "There is too much plastic, so the oceans are polluted." || donc || Il y a trop de plastique, donc les océans sont pollués. || Your own?
+ex: Alberta || What problem in the text affects Alberta? || Read || Wildfire smoke makes the air dangerous || Have you experienced it?
+ex: Species || Name an endangered species in Canada. || Text || Le caribou des bois || Why is it threatened?
+p: B || What is "l'environnement"? || The environment.
+p: B || What is "la pollution"? || Pollution.
+p: B || What is "le changement climatique"? || Climate change.
+p: B || What are "les déchets"? || Waste, garbage.
+p: B || What are "les feux de forêt"? || Wildfires.
+p: I || What does "à cause de" mean? || Because of.
+p: I || What does "donc" mean? || So, therefore.
+p: I || What is "la sécheresse"? || Drought.
+p: I || What are "les inondations"? || Floods.
+p: I || Where does air pollution come from in the text? || Cars and factories.
+p: I || What is "une espèce menacée"? || An endangered species.
+p: C || Why is à cause du used with changement? || À cause de + le contracts to du.
+p: C || Translate: Because of climate change, there are more droughts. || À cause du changement climatique, il y a plus de sécheresses.
+p: C || How does wildfire smoke affect health? || It makes the air dangerous to breathe.
+p: C || Write your cause-and-effect sentences. || Answers vary.
+mis: Saying "à cause de le" | Confusing déchets and gaspillage | Using parce que before a noun
+et: Nomme trois problèmes environnementaux. | Use à cause de in a sentence.
+mc: B || "La pollution" is || pollution | politics | population | position || A
+mc: B || "Les déchets" are || garbage | decisions | desserts | days || A
+mc: B || "Le changement climatique" is || climate change | a weather report | a change of clothes | seasons || A
+mc: B || "Les feux de forêt" are || wildfires | fireworks | forest trails | campfires only || A
+mc: B || "Une espèce menacée" is || an endangered species | a dangerous species | a new species | a pet || A
+mc: B || "La sécheresse" is || drought | flood | storm | snow || A
+mc: I || "À cause de" means || because of | so | although | in spite of || A
+mc: I || "Donc" means || so | but | because | or || A
+mc: I || "Because of pollution" is || à cause de la pollution | parce que la pollution | à cause pollution | donc pollution || A
+mc: I || "Les inondations" are || floods | fires | droughts | storms || A
+mc: C || À cause de + le becomes || à cause du | à cause de le | à cause au | à cause des || A
+mc: C || A threatened Canadian species in the text is || the woodland caribou | the penguin | the panda | the tiger || A
+sa: B || Name five environmental problems in French. || La pollution, le changement climatique, les déchets, les feux de forêt, la sécheresse.
+sa: B || What does "à cause de" mean? || Because of.
+sa: I || Write a sentence with donc. || Answers vary.
+sa: I || What causes air pollution? || Les voitures et les usines.
+sa: I || How does climate change affect glaciers? || Les glaciers fondent.
+sa: I || Build a cause-and-effect chain in French. || Answers vary.
+sa: C || Explain à cause du. || À cause de + le contracts to du.
+sa: C || Write your cause-and-effect sentences. || Answers vary.
+
+=== FSL9.B1 1
+hook: Recognizing problems is the first step; proposing solutions is the next. "Il faut recycler. On devrait prendre l'autobus. Éteignons les lumières !" French gives you several ways to suggest action.
+sc: I can suggest solutions with il faut, on devrait and the imperative | I can match solutions to problems | I can explain what I personally do for the environment
+v: il faut + infinitif :: we must, it's necessary to
+v: on devrait :: we should
+v: recycler :: to recycle
+v: réutiliser :: to reuse
+v: réduire :: to reduce
+v: composter :: to compost
+v: éteindre :: to turn off
+v: protéger :: to protect
+ts: Des solutions || Practice || How do I suggest solutions to environmental problems?
+tx: Solution toolkit (written for this lesson): ¶ Il faut + infinitive: Il faut recycler le plastique. Il ne faut pas gaspiller l'eau. ¶ On devrait + infinitive (we should): On devrait prendre le vélo ou l'autobus. ¶ Nous imperative (let's): Réduisons nos déchets ! Éteignons les lumières ! Plantons des arbres ! ¶ The 3 R's: réduire, réutiliser, recycler. ¶ Problem → solution examples: la pollution de l'air → On devrait marcher ou prendre les transports en commun. les déchets → Il faut composter et recycler. le gaspillage d'eau → Il faut prendre des douches plus courtes. les feux de forêt → Il faut respecter les interdictions de feu. ¶ Personal: Moi, je recycle, j'utilise une bouteille réutilisable et je marche à l'école. ¶ Activity: problem-solution matching cards, then each student writes three things they do and two things they will do (futur proche): Je vais composter.
+src: Original activity written for this lesson.
+st: Learn il faut and on devrait | Use nous imperatives | Learn the 3 R's in French | Match problems to solutions | Write personal actions
+org: Problème | Solution (il faut) | Solution (on devrait)
+an: Which solution is easiest for you? | How is "on devrait" different from "il faut"? | What do you already do for the environment? | What will you start doing?
+pr: Write five problem-solution pairs and a paragraph about what you do and will do for the environment.
+ex: Il faut || Solution for plastic waste. || Il faut + infinitive || Il faut utiliser des sacs réutilisables. || Another?
+ex: On devrait || Solution for car pollution. || On devrait + infinitive || On devrait prendre l'autobus. || Another?
+ex: Imperative || "Let's plant trees!" || nous imperative || Plantons des arbres ! || "Let's turn off the lights!"
+ex: Future || "I'm going to compost." || futur proche || Je vais composter. || Add another.
+p: B || What does "recycler" mean? || To recycle.
+p: B || What does "réutiliser" mean? || To reuse.
+p: B || What does "réduire" mean? || To reduce.
+p: B || What does "on devrait" mean? || We should.
+p: B || What does "protéger" mean? || To protect.
+p: I || Say "We must recycle." || Il faut recycler.
+p: I || Say "We should walk." || On devrait marcher.
+p: I || Say "Let's turn off the lights!" || Éteignons les lumières !
+p: I || Say "We must not waste water." || Il ne faut pas gaspiller l'eau.
+p: I || What are the 3 R's in French? || Réduire, réutiliser, recycler.
+p: I || Say "I use a reusable bottle." || J'utilise une bouteille réutilisable.
+p: C || How is "on devrait" softer than "il faut"? || It's a suggestion, not an obligation.
+p: C || Translate: To reduce pollution, we should take public transit. || Pour réduire la pollution, on devrait prendre les transports en commun.
+p: C || Why is réduire listed first in the 3 R's? || Reducing prevents waste in the first place.
+p: C || Write your environment paragraph. || Answers vary.
+mis: Conjugating the verb after il faut | Confusing réduire and recycler | Forgetting the infinitive after on devrait
+et: Propose deux solutions. | Say "Let's recycle!"
+mc: B || "Recycler" means || to recycle | to reuse | to reduce | to repair || A
+mc: B || "Réutiliser" means || to reuse | to recycle | to return | to reduce || A
+mc: B || "On devrait" means || we should | we must | we did | we will || A
+mc: B || "Protéger" means || to protect | to protest | to pollute | to project || A
+mc: B || "Éteindre" means || to turn off | to turn on | to extend | to eat || A
+mc: B || "Composter" means || to compost | to compose | to compare | to complain || A
+mc: I || "We must recycle" is || Il faut recycler. | Il faut recycle. | On faut recycler. | Il recycle faut. || A
+mc: I || "Let's plant trees!" is || Plantons des arbres ! | Plantez des arbres ! | Plante des arbres ! | Planter arbres ! || A
+mc: I || "We should walk" is || On devrait marcher. | On devrait marche. | On doit marché. | On marcher devrait. || A
+mc: I || The 3 R's are || réduire, réutiliser, recycler | rouge, rose, roux | rire, rouler, rêver | none || A
+mc: C || "On devrait" is || a suggestion | an obligation | a question | the past || A
+mc: C || Réduire comes first because || it prevents waste | it's easiest | it's alphabetical | it's newest || A
+sa: B || Name the 3 R's in French. || Réduire, réutiliser, recycler.
+sa: B || What does "il faut" mean? || We must / it's necessary.
+sa: I || Give a solution for air pollution. || On devrait prendre l'autobus.
+sa: I || Give a solution for waste. || Il faut composter et recycler.
+sa: I || Write two nous imperatives. || Plantons des arbres ! Éteignons les lumières !
+sa: I || Say what you do for the environment. || Answers vary.
+sa: C || Compare il faut and on devrait. || Obligation versus suggestion.
+sa: C || Write your paragraph. || Answers vary.
+
+=== FSL9.B1 2
+hook: A great awareness poster stops people in their tracks: a bold slogan, a striking image and a clear action. Today you'll design one in French for your school.
+sc: I can write a catchy slogan in French | I can create an awareness poster with facts and calls to action | I can present my poster persuasively
+v: une affiche :: a poster
+v: un slogan :: a slogan
+v: sensibiliser :: to raise awareness
+v: agir :: to act
+v: ensemble :: together
+v: le saviez-vous ? :: did you know?
+v: chaque geste compte :: every action counts
+v: la planète :: the planet
+ts: Affiche de sensibilisation || Project || How do I create a persuasive environmental poster in French?
+tx: Poster guide (written for this lesson): ¶ 1. Choose a problem relevant to your school or community: waste in the cafeteria, idling cars at pick-up, lights left on, water bottles, wildfire prevention. ¶ 2. Slogan: short, catchy, with rhyme or repetition. Examples: "Recycle aujourd'hui pour un meilleur demain !" "Éteins la lumière, sauve la Terre !" "Moins de plastique, plus de vie !" ¶ 3. "Le saviez-vous ?" box: one or two facts (from reliable sources, translated simply). ¶ 4. Calls to action: three imperatives: Apporte ta bouteille ! Composte tes restes ! Prends le vélo ! ¶ 5. Image: a clear drawing or symbol. ¶ 6. Present (1 minute): explain the problem, the slogan and why your actions matter, using il faut, on devrait and à cause de. ¶ Display posters in the school with the class's permission; vote on the most persuasive.
+src: Original project written for this lesson.
+st: Choose a school-relevant problem | Write a catchy slogan | Add a "Le saviez-vous ?" fact box | Write three calls to action | Present and display the poster
+org: Élément | Mon affiche
+an: What makes a slogan memorable? | Which calls to action are realistic for students? | Which classmate's poster was most persuasive, and why? | How can posters change behaviour?
+pr: Create and present an environmental awareness poster in French with a slogan, a fact box, three calls to action and an image.
+ex: Slogan || Make a slogan about water. || Short and rhyming || "Ferme le robinet, la planète te dit merci !" || Make one about waste.
+ex: Call to action || Write an imperative for cafeteria waste. || tu imperative || Composte tes restes ! || Another?
+ex: Fact || Start a fact box. || Le saviez-vous ? || Le saviez-vous ? Le plastique peut prendre des centaines d'années à se décomposer. || Where do you check facts?
+ex: Presentation || Begin your presentation. || Problem first || À cause des déchets à la cafétéria, notre école… || What comes next?
+p: B || What is "une affiche"? || A poster.
+p: B || What does "sensibiliser" mean? || To raise awareness.
+p: B || What does "agir" mean? || To act.
+p: B || What does "ensemble" mean? || Together.
+p: B || What does "Le saviez-vous ?" mean? || Did you know?
+p: I || What does "chaque geste compte" mean? || Every action counts.
+p: I || How many calls to action are on the poster? || Three.
+p: I || Write an imperative about bikes. || Prends le vélo !
+p: I || How long is the presentation? || About 1 minute.
+p: I || Translate the slogan "Éteins la lumière, sauve la Terre !" || Turn off the light, save the Earth!
+p: I || Name a school-relevant environmental problem. || Cafeteria waste.
+p: C || Why do slogans use rhyme? || They're easier to remember.
+p: C || Why use facts on a poster? || They make the message credible.
+p: C || Why choose a school-relevant problem? || Students can take real action.
+p: C || Present your poster. || Answers vary.
+mis: Writing long paragraphs on a poster | Using unreliable facts | Forgetting a clear action
+et: Écris un slogan. | Write one call to action.
+mc: B || "Une affiche" is || a poster | a fish | a flag | a story || A
+mc: B || "Sensibiliser" means || to raise awareness | to feel | to sense | to sell || A
+mc: B || "Agir" means || to act | to age | to agree | to argue || A
+mc: B || "Ensemble" means || together | alone | everything | example || A
+mc: B || "Le saviez-vous ?" means || Did you know? | Do you agree? | Where are you? | Are you sure? || A
+mc: B || "Chaque geste compte" means || every action counts | every game counts | each guest counts | nothing counts || A
+mc: I || A poster needs || three calls to action | ten paragraphs | no image | no slogan || A
+mc: I || "Composte tes restes !" is a || call to action | fact | slogan only | question || A
+mc: I || The presentation is about || 1 minute | 10 minutes | 10 seconds | an hour || A
+mc: I || Slogans should be || short and catchy | long | in English | secret || A
+mc: C || Rhyme makes slogans || memorable | longer | confusing | serious || A
+mc: C || Facts make posters || credible | boring | shorter | false || A
+sa: B || Define "sensibiliser." || To raise awareness.
+sa: B || What goes on an awareness poster? || Slogan, fact box, calls to action, image.
+sa: I || Write a slogan with rhyme. || Answers vary.
+sa: I || Write three calls to action. || Answers vary.
+sa: I || Write a "Le saviez-vous ?" fact. || Answers vary.
+sa: I || Why choose a school problem? || Students can act on it.
+sa: C || Explain what makes a poster persuasive. || Catchy slogan, credible facts, clear actions.
+sa: C || Present your poster. || Answers vary.
+
+=== FSL9.C1 0
+hook: Doctor, engineer, chef, programmer, nurse: in French, job titles often change for men and women. Knowing professions helps you talk about your future and understand job ads in bilingual Canada.
+sc: I can name professions in French | I can use masculine and feminine forms of job titles | I can describe what people in different jobs do
+v: les métiers / les professions :: jobs / professions
+v: un médecin :: a doctor
+v: un infirmier / une infirmière :: a nurse
+v: un ingénieur / une ingénieure :: an engineer
+v: un enseignant / une enseignante :: a teacher
+v: un programmeur / une programmeuse :: a programmer
+v: un cuisinier / une cuisinière :: a cook
+v: travailler :: to work
+ts: Les métiers || Reading || What jobs can I name and describe in French?
+tx: Job titles (written for this lesson): ¶ Patterns: -ier → -ière (infirmier, infirmière); -eur → -euse (vendeur, vendeuse); -teur → -trice (acteur, actrice; agriculteur, agricultrice); -ien → -ienne (électricien, électricienne); same form with un/une (un/une journaliste, un/une architecte, un/une pilote). In Canadian French, many titles add -e: un ingénieur, une ingénieure; un médecin, une médecin. ¶ Note: no article after être with professions: Elle est infirmière. (not "une infirmière") ¶ Descriptions: Un infirmier soigne les patients à l'hôpital. Une programmeuse crée des applications. Un enseignant travaille dans une école. Une agricultrice cultive le blé en Alberta. ¶ Activity: "Qui suis-je ?": students describe a job in three clues (Je travaille dans un hôpital. Je porte un uniforme. J'aide les malades.) and the class guesses.
+src: Original activity written for this lesson.
+st: Learn job titles | Learn masculine and feminine patterns | Use être without an article | Describe what people do | Play "Qui suis-je ?"
+org: Masculin | Féminin | Lieu de travail | Activité
+an: Which job titles have the same form for men and women? | Why "Elle est infirmière" without une? | What jobs are common in Alberta? | Which job interests you?
+pr: Describe five professions in French with masculine and feminine forms, where they work and what they do.
+ex: Feminine || Feminine of vendeur? || -eur → -euse || vendeuse || Feminine of acteur?
+ex: -trice || Feminine of agriculteur? || -teur → -trice || agricultrice || What does she do?
+ex: No article || "My mother is a nurse." || Être + job, no article || Ma mère est infirmière. || "My brother is an engineer."
+ex: Description || What does a programmer do? || Verb + object || Une programmeuse crée des applications. || What does a cook do?
+p: B || What are "les métiers"? || Jobs.
+p: B || What is "un médecin"? || A doctor.
+p: B || What is "une infirmière"? || A nurse (woman).
+p: B || What is "un enseignant"? || A teacher.
+p: B || What does "travailler" mean? || To work.
+p: I || Feminine of cuisinier? || Cuisinière.
+p: I || Feminine of acteur? || Actrice.
+p: I || Feminine of électricien? || Électricienne.
+p: I || Feminine of programmeur? || Programmeuse.
+p: I || Say "She is an engineer." || Elle est ingénieure.
+p: I || Name a job with the same form for both. || Journaliste.
+p: C || Why no article after être with jobs? || French grammar omits it.
+p: C || Translate: My father is a farmer in Alberta. || Mon père est agriculteur en Alberta.
+p: C || Translate: A nurse works in a hospital. || Un infirmier travaille dans un hôpital.
+p: C || Describe five professions. || Answers vary.
+mis: Saying "elle est une infirmière" | Using masculine forms for women | Forgetting -euse/-trice patterns
+et: Nomme cinq métiers. | Say "He is a teacher."
+mc: B || "Un médecin" is || a doctor | a medicine | a pharmacy | a nurse || A
+mc: B || "Une infirmière" is || a nurse | a doctor | an engineer | a farmer || A
+mc: B || "Un enseignant" is || a teacher | a student | a singer | a scientist || A
+mc: B || "Travailler" means || to work | to travel | to play | to study || A
+mc: B || "Un cuisinier" is || a cook | a cousin | a kitchen | a customer || A
+mc: B || "Les métiers" are || jobs | metals | meters | messages || A
+mc: I || Feminine of acteur is || actrice | acteuse | acteure | actrice e || A
+mc: I || Feminine of vendeur is || vendeuse | vendrice | vendeure | vendeuse e || A
+mc: I || "She is a nurse" is || Elle est infirmière. | Elle est une infirmière. | Elle est infirmier. | Elle infirmière est. || A
+mc: I || Feminine of électricien is || électricienne | électricienne e | électricière | électricette || A
+mc: C || After être, jobs take || no article | une always | le | des || A
+mc: C || Agriculteur becomes || agricultrice | agriculteuse | agricultière | agricultienne || A
+sa: B || Name five jobs in French. || Médecin, infirmier, enseignant, ingénieur, cuisinier.
+sa: B || What does travailler mean? || To work.
+sa: I || Give feminine forms of infirmier, vendeur and acteur. || Infirmière, vendeuse, actrice.
+sa: I || Say "My sister is a programmer." || Ma sœur est programmeuse.
+sa: I || Describe what a teacher does. || Un enseignant travaille dans une école et aide les élèves.
+sa: I || Write three "Qui suis-je ?" clues. || Answers vary.
+sa: C || Explain why there's no article after être. || French omits it with professions.
+sa: C || Describe five professions. || Answers vary.
+
+=== FSL9.C1 1
+hook: "Dans dix ans, je vais être ingénieure. Je vais travailler à Calgary." Talking about your future combines everything: the futur proche, professions, places and reasons.
+sc: I can describe future plans using the futur proche | I can explain my goals with reasons | I can ask others about their future plans
+v: l'avenir :: the future
+v: dans dix ans :: in ten years
+v: je vais devenir :: I'm going to become
+v: je voudrais être :: I would like to be
+v: le but :: the goal
+v: étudier à l'université :: to study at university
+v: un emploi :: a job
+v: voyager :: to travel
+ts: Mon avenir || Speaking || What are my plans for the future?
+tx: Text (read aloud, written for this lesson): ¶ Dans dix ans, je vais avoir vingt-quatre ans. Je vais étudier à l'université. Je voudrais devenir infirmière parce que j'aime aider les gens. Je vais habiter à Edmonton, mais je vais aussi voyager en France et au Sénégal. Mon but, c'est d'avoir un emploi intéressant et de parler trois langues ! ¶ Structures: Je vais + infinitive (I'm going to): Je vais étudier. Je vais devenir… Je voudrais + infinitive (I would like to): Je voudrais être pilote. Mon but, c'est de + infinitive: Mon but, c'est d'aider les autres. ¶ Questions: Qu'est-ce que tu vas faire après l'école secondaire ? Qu'est-ce que tu voudrais devenir ? Pourquoi ? Où vas-tu habiter ? ¶ Activity: partners interview each other with the questions, then write a "Dans dix ans" paragraph about their partner, using il/elle va.
+src: Original text written for this lesson.
+st: Read the "Mon avenir" text | Practise je vais, je voudrais and mon but c'est de | Learn future questions | Interview a partner | Write about your partner's future
+org: Question | Réponse de mon partenaire
+an: What does the writer want to become, and why? | What is the difference between je vais and je voudrais? | What are your partner's goals? | How might French help in your future?
+pr: Write a "Dans dix ans" paragraph about yourself with at least six futur proche sentences, one je voudrais and one reason.
+ex: Futur proche || "I'm going to study at university." || je vais + étudier || Je vais étudier à l'université. || "I'm going to travel."
+ex: Je voudrais || "I would like to be a pilot." || je voudrais être || Je voudrais être pilote. || Why?
+ex: Goal || "My goal is to help others." || c'est de + infinitive || Mon but, c'est d'aider les autres. || Your goal?
+ex: About a partner || "She is going to live in Montreal." || elle va || Elle va habiter à Montréal. || What will she do?
+p: B || What is "l'avenir"? || The future.
+p: B || What does "dans dix ans" mean? || In ten years.
+p: B || What does "le but" mean? || The goal.
+p: B || What is "un emploi"? || A job.
+p: B || What does "je voudrais être" mean? || I would like to be.
+p: I || Say "I'm going to become an engineer." || Je vais devenir ingénieur(e).
+p: I || Ask "What would you like to become?" || Qu'est-ce que tu voudrais devenir ?
+p: I || Say "He is going to work in Calgary." || Il va travailler à Calgary.
+p: I || Why does the writer want to be a nurse? || She likes helping people.
+p: I || How old will the writer be in ten years? || 24.
+p: I || Say "My goal is to speak three languages." || Mon but, c'est de parler trois langues.
+p: C || How is je voudrais different from je vais? || A wish versus a plan.
+p: C || Why is it "d'aider" not "de aider"? || De becomes d' before a vowel.
+p: C || Translate: After high school, I'm going to travel in Africa. || Après l'école secondaire, je vais voyager en Afrique.
+p: C || Write your "Dans dix ans" paragraph. || Answers vary.
+mis: Conjugating the second verb | Using an article after être with jobs | Writing "de aider"
+et: Qu'est-ce que tu vas faire dans dix ans ? | Say "I would like to be a doctor."
+mc: B || "L'avenir" means || the future | the past | the present | the evening || A
+mc: B || "Dans dix ans" means || in ten years | ten years ago | for ten years | every ten years || A
+mc: B || "Le but" means || the goal | the bus | the butter | the boot || A
+mc: B || "Un emploi" is || a job | an employee | a use | an email || A
+mc: B || "Je voudrais être" means || I would like to be | I am | I was | I will be || A
+mc: B || "Étudier" means || to study | to stand | to stay | to start || A
+mc: I || "I'm going to travel" is || Je vais voyager. | Je vais voyage. | Je voyager vais. | Je vas voyager. || A
+mc: I || "She is going to work" is || Elle va travailler. | Elle vas travailler. | Elle va travaille. | Elle travailler va. || A
+mc: I || "My goal is to help" is || Mon but, c'est d'aider. | Mon but, c'est de aider. | Mon but est aider. | But mon aider. || A
+mc: I || "What would you like to become?" is || Qu'est-ce que tu voudrais devenir ? | Que tu deviens ? | Tu voudrais quoi être ? | Qui tu deviens ? || A
+mc: C || Je voudrais expresses || a wish | a fact | a past event | an order || A
+mc: C || De + aider becomes || d'aider | de aider | du aider | des aider || A
+sa: B || Define l'avenir. || The future.
+sa: B || Say "In ten years…" || Dans dix ans…
+sa: I || Write three futur proche plans. || Answers vary.
+sa: I || Say what you'd like to become and why. || Answers vary.
+sa: I || Ask two future questions. || Qu'est-ce que tu vas faire ? Où vas-tu habiter ?
+sa: I || Write your goal with "Mon but, c'est de…" || Answers vary.
+sa: C || Explain je vais versus je voudrais. || Plan versus wish.
+sa: C || Write your paragraph. || Answers vary.
+
+=== FSL9.C1 2
+hook: Canada is officially bilingual, and many jobs, from federal government and diplomacy to tourism, health care and aviation, value people who speak French and English. Your French could open doors.
+sc: I can explain why French is useful in careers and life | I can name jobs that use French | I can present a persuasive argument for learning French
+v: bilingue :: bilingual
+v: un avantage :: an advantage
+v: la fonction publique :: the public service
+v: le tourisme :: tourism
+v: communiquer :: to communicate
+v: les possibilités :: opportunities
+v: le monde du travail :: the working world
+v: apprendre :: to learn
+ts: Pourquoi le français ? || Persuasive speech || Why is learning French useful for my future?
+tx: Reasons (written for this lesson from public sources): ¶ Canada's two official languages are English and French, and many federal government jobs require or prefer bilingualism. ¶ Jobs that use French: fonctionnaire fédéral (federal public servant), enseignant(e) de français ou d'immersion, interprète, traducteur/traductrice, infirmier/infirmière in bilingual hospitals, agent(e) de bord (flight attendant) with Canadian airlines that serve both languages, guide touristique, diplomate, journaliste at Radio-Canada. ¶ Beyond jobs: travel to more than 50 countries where French is used, study in Quebec, France or Belgium, enjoy francophone music, films and books, and connect with francophone communities in Alberta. ¶ Learning: research suggests learning a second language strengthens skills such as problem-solving and attention. ¶ Speech structure (1–2 minutes): introduction with a hook; three reasons with examples; conclusion with a call to action ("Continuez à apprendre le français !"). Use: D'abord, … Ensuite, … Enfin, … ¶ Activity: write and deliver the speech; the class votes on the most persuasive.
+src: Summary written for this lesson; job examples are general.
+st: Learn why French is useful | Name jobs that use French | Plan three reasons with examples | Use d'abord, ensuite, enfin | Deliver a persuasive speech
+org: Raison | Exemple | Phrase en français
+an: Which reason is most convincing to you? | Which French-using job interests you? | How did d'abord, ensuite, enfin help your speech? | Whose speech was most persuasive, and why?
+pr: Deliver a 1–2 minute persuasive speech in French giving three reasons to learn French, with examples and a call to action.
+ex: Reason || Give a career reason. || D'abord + job || D'abord, beaucoup d'emplois au gouvernement fédéral demandent le français. || Give a travel reason.
+ex: Example || Name a job using French. || Bilingual job || Traductrice ou interprète || What do they do?
+ex: Conclusion || Write a call to action. || Imperative || Continuez à apprendre le français ! || Another?
+ex: Connector || Order three reasons. || D'abord, ensuite, enfin || D'abord… Ensuite… Enfin… || Why use connectors?
+p: B || What does "bilingue" mean? || Bilingual.
+p: B || What is "la fonction publique"? || The public service.
+p: B || What does "communiquer" mean? || To communicate.
+p: B || What are "les possibilités"? || Opportunities.
+p: B || What does "apprendre" mean? || To learn.
+p: I || Name three jobs that use French. || Translator, interpreter, diplomat.
+p: I || What does "d'abord" mean? || First.
+p: I || What does "enfin" mean? || Finally.
+p: I || What are Canada's official languages? || English and French.
+p: I || What is "un agent de bord"? || A flight attendant.
+p: I || How long is the speech? || 1–2 minutes.
+p: C || Why do federal jobs value French? || Canada serves people in both official languages.
+p: C || Translate: Speaking French is an advantage in the working world. || Parler français est un avantage dans le monde du travail.
+p: C || How can French help beyond jobs? || Travel, study, culture and community.
+p: C || Deliver your speech. || Answers vary.
+mis: Thinking French is only useful in Quebec | Listing reasons without examples | Reading the speech word for word
+et: Donne une raison d'apprendre le français. | Name a job that uses French.
+mc: B || "Bilingue" means || bilingual | bilateral | billing | biological || A
+mc: B || "Communiquer" means || to communicate | to commute | to compete | to compute || A
+mc: B || "Apprendre" means || to learn | to approach | to appear | to apply || A
+mc: B || "Un avantage" is || an advantage | an adventure | an average | a vantage || A
+mc: B || "D'abord" means || first | finally | then | above || A
+mc: B || "Enfin" means || finally | first | at the end of the street | again || A
+mc: I || Canada's official languages are || English and French | French only | English only | English, French, Cree || A
+mc: I || A job using French is || interpreter | none | only chef | only farmer || A
+mc: I || "Un agent de bord" is || a flight attendant | a board member | a border guard | a sailor || A
+mc: I || "Ensuite" means || then | first | finally | before || A
+mc: C || Federal jobs value French because || Canada serves both official languages | it's required in all jobs | it's easier | nobody knows || A
+mc: C || A strong speech includes || reasons with examples | only opinions | no conclusion | English only || A
+sa: B || Define bilingue. || Bilingual: speaking two languages.
+sa: B || Name four jobs that use French. || Translator, interpreter, diplomat, teacher.
+sa: I || Give three reasons to learn French. || Jobs, travel, culture.
+sa: I || Use d'abord, ensuite and enfin. || Answers vary.
+sa: I || Write a call to action. || Continuez à apprendre le français !
+sa: I || Why do federal jobs value French? || Canada serves both official languages.
+sa: C || Explain how French helps beyond jobs. || Travel, study, culture and community.
+sa: C || Deliver your speech. || Answers vary.
+
+=== FSL9.D1 0
+hook: When it's −25 °C outside, francophone Canadians throw a party. Winnipeg's Festival du Voyageur and the Carnaval de Québec are two of the biggest winter festivals in the country.
+sc: I can describe the Festival du Voyageur and the Carnaval de Québec in French | I can explain the history behind each festival | I can name traditional activities, foods and symbols
+v: le festival / le carnaval :: the festival / carnival
+v: les voyageurs :: fur-trade canoe travellers
+v: Bonhomme Carnaval :: the snowman mascot of the Carnaval de Québec
+v: une sculpture de neige :: a snow sculpture
+v: le palais de glace :: the ice palace
+v: la course en canot :: the canoe race
+v: la soupe aux pois :: pea soup
+v: célébrer l'hiver :: to celebrate winter
+ts: Fêtes d'hiver || Reading || How do francophone Canadians celebrate winter?
+tx: Background (written for this lesson from public sources): ¶ Le Festival du Voyageur: held every February in Saint-Boniface, Winnipeg's French quarter, since 1970. It celebrates the voyageurs, the Métis and francophone history of western Canada. Activities: snow sculptures, fiddle music and jigging, a beard-growing contest, sugar shack treats, and the festival cry "Hé ho !" Typical food: soupe aux pois, tourtière, tire sur la neige. ¶ Le Carnaval de Québec: one of the world's largest winter carnivals, held in Québec City in late January and February; it has run every year since 1955, with earlier carnivals dating back to 1894. Its mascot, Bonhomme Carnaval, wears a red tuque and a ceinture fléchée (arrow sash). Activities: the ice palace, night parades, snow baths, and a famous canoe race across the icy St. Lawrence River. ¶ Text: Au Festival du Voyageur, on écoute du violon, on mange de la soupe aux pois et on crie « Hé ho ! ». Au Carnaval de Québec, on visite le palais de glace de Bonhomme et on regarde la course en canot sur le fleuve Saint-Laurent. ¶ Activity: groups make a fact sheet for one festival: où, quand, depuis quand, pourquoi, activités, nourriture, symboles.
+src: Summary from public sources about the Festival du Voyageur and the Carnaval de Québec.
+st: Read about both festivals | Learn festival vocabulary | Identify history and purpose | Make a fact sheet | Share with the class
+org: Festival | Où ? | Quand ? | Activités | Nourriture | Symboles
+an: What does the Festival du Voyageur celebrate? | Who is Bonhomme Carnaval? | Which activity would you most like to try? | Why do people celebrate winter?
+pr: Create a French fact sheet about one festival with location, date, history, three activities, food and a symbol.
+ex: Where || Where is the Festival du Voyageur? || Winnipeg || À Saint-Boniface, à Winnipeg || When?
+ex: Mascot || Describe Bonhomme. || Clothing || Il porte une tuque rouge et une ceinture fléchée. || What is a ceinture fléchée?
+ex: Activity || Describe the canoe race. || Where || Une course en canot sur le fleuve Saint-Laurent gelé || Why is it hard?
+ex: History || Since when has the Festival du Voyageur run? || Date || Depuis 1970 || What does it celebrate?
+p: B || What is "le carnaval"? || The carnival.
+p: B || Who is Bonhomme Carnaval? || The mascot of the Carnaval de Québec.
+p: B || What is "une sculpture de neige"? || A snow sculpture.
+p: B || What is "le palais de glace"? || The ice palace.
+p: B || What is "la soupe aux pois"? || Pea soup.
+p: I || Where is the Festival du Voyageur? || Saint-Boniface, Winnipeg.
+p: I || When is the Festival du Voyageur? || February.
+p: I || Since when has the Festival du Voyageur run? || 1970.
+p: I || What is the Festival du Voyageur's cry? || Hé ho !
+p: I || What does Bonhomme wear? || A red tuque and a ceinture fléchée.
+p: I || Where is the canoe race? || On the St. Lawrence River.
+p: C || Why does the Festival du Voyageur celebrate voyageurs? || To honour francophone and Métis fur-trade history.
+p: C || Translate: At the carnival, people visit the ice palace. || Au carnaval, on visite le palais de glace.
+p: C || Why might people celebrate winter instead of hiding from it? || It brings communities together in a long, cold season.
+p: C || Present your fact sheet. || Answers vary.
+mis: Thinking both festivals are in Quebec | Thinking the festivals are only for tourists | Confusing Bonhomme with Santa
+et: Où est le Festival du Voyageur ? | Who is Bonhomme?
+mc: B || "Le carnaval" is || the carnival | the car | the canal | the card || A
+mc: B || "Une sculpture de neige" is || a snow sculpture | a snowball | a ski | a sled || A
+mc: B || "Le palais de glace" is || the ice palace | the ice cream | the glass house | the hockey rink || A
+mc: B || "La soupe aux pois" is || pea soup | fish soup | onion soup | tomato soup || A
+mc: B || "La course en canot" is || the canoe race | the ski race | the dog race | the car race || A
+mc: B || Bonhomme Carnaval is || a snowman mascot | a voyageur | a king | a hockey player || A
+mc: I || The Festival du Voyageur is in || Winnipeg | Québec City | Edmonton | Moncton || A
+mc: I || The Festival du Voyageur began in || 1970 | 1894 | 1955 | 2000 || A
+mc: I || Bonhomme wears || a red tuque and arrow sash | a top hat | a crown | a cape || A
+mc: I || The canoe race crosses || the St. Lawrence River | Lake Louise | the Red River | the Bow River || A
+mc: C || The Festival du Voyageur honours || fur-trade and Métis history | Christmas | summer | sports only || A
+mc: C || Winter festivals help communities || come together | stay inside | cancel school | travel away || A
+sa: B || Name the two winter festivals. || Le Festival du Voyageur, le Carnaval de Québec.
+sa: B || Who is Bonhomme? || The Carnaval de Québec mascot.
+sa: I || Describe three Festival du Voyageur activities. || Snow sculptures, fiddle music, beard contest.
+sa: I || Describe two Carnaval activities. || Ice palace, canoe race.
+sa: I || Name two traditional foods. || Soupe aux pois, tire sur la neige.
+sa: I || What does the Festival du Voyageur celebrate? || Voyageurs, Métis and francophone history.
+sa: C || Explain why people celebrate winter. || To bring communities together.
+sa: C || Present your fact sheet. || Answers vary.
+
+=== FSL9.D1 1
+hook: Bastille Day in France, la Fête nationale in Quebec, Kanaval in Haiti, la Fête de la musique: francophone celebrations range from national holidays to street parties. How do they compare with each other, and with yours?
+sc: I can describe francophone celebrations from different countries | I can compare celebrations using comparatives | I can explain what celebrations show about a culture
+v: la fête nationale :: the national holiday
+v: le défilé :: the parade
+v: les feux d'artifice :: fireworks
+v: plus … que :: more … than
+v: moins … que :: less … than
+v: aussi … que :: as … as
+v: en commun :: in common
+v: la différence :: the difference
+ts: Comparer les fêtes || Analysis || How do francophone celebrations compare?
+tx: Celebrations (written for this lesson from public sources): ¶ Le 14 juillet (France): la Fête nationale, often called Bastille Day in English, marks the 1789 storming of the Bastille. Military parade in Paris, fireworks, dances. ¶ Le 24 juin (Québec): la Fête nationale du Québec (Saint-Jean-Baptiste): bonfires, concerts, blue-and-white flags. ¶ Le 15 août (Acadie): Fête nationale de l'Acadie: the Tintamarre, a noisy parade with pots and pans. ¶ Kanaval (Haïti): carnival before Lent, with costumes, music and parades. ¶ La Fête de la musique (21 juin, France, since 1982, now worldwide): free music in the streets on the longest day. ¶ Comparatives: Le Carnaval de Québec est plus froid que le Kanaval. La Fête de la musique est moins officielle que le 14 juillet. Le Tintamarre est aussi bruyant qu'un concert ! ¶ Activity: groups compare two celebrations on a chart (date, origin, activities, food, symbols), then write five comparative sentences and one sentence about what each celebration shows about the culture.
+src: Summary from public sources about francophone celebrations.
+st: Learn about five celebrations | Learn plus, moins and aussi … que | Compare two celebrations on a chart | Write comparative sentences | Reflect on what celebrations show
+org: Critère | Fête 1 | Fête 2
+an: What do the national holidays have in common? | How is the Tintamarre different from a parade? | Which celebration is the most similar to one you know? | What do celebrations show about a culture?
+pr: Write a comparison of two francophone celebrations with five comparative sentences and a reflection on culture.
+ex: Plus que || Compare the weather of two festivals. || plus … que || Le Carnaval de Québec est plus froid que le Kanaval. || Write another.
+ex: Moins que || Compare how official two events are. || moins … que || La Fête de la musique est moins officielle que le 14 juillet. || Another?
+ex: Aussi que || Compare noise. || aussi … que || Le Tintamarre est aussi bruyant qu'un concert. || Another?
+ex: In common || What do 14 juillet and 24 juin have in common? || Similarities || Les deux sont des fêtes nationales avec des feux d'artifice. || Differences?
+p: B || What is "la fête nationale"? || The national holiday.
+p: B || What is "le défilé"? || The parade.
+p: B || What are "les feux d'artifice"? || Fireworks.
+p: B || What does "en commun" mean? || In common.
+p: B || What does "plus … que" mean? || More … than.
+p: I || When is la Fête nationale in France? || 14 July.
+p: I || When is la Fête nationale du Québec? || 24 June.
+p: I || What is the Tintamarre? || A noisy Acadian parade on 15 August.
+p: I || What is Kanaval? || Haiti's carnival.
+p: I || When is la Fête de la musique? || 21 June.
+p: I || Since when has la Fête de la musique existed? || 1982.
+p: C || Why is la Fête de la musique on 21 June? || It's the longest day of the year.
+p: C || Translate: Kanaval is more colourful than the parade. || Le Kanaval est plus coloré que le défilé.
+p: C || What do celebrations show about a culture? || Its history, values and pride.
+p: C || Write your comparison. || Answers vary.
+mis: Saying "plus froid de" instead of que | Thinking all francophone celebrations are French | Comparing without examples
+et: Compare deux fêtes avec plus … que. | When is la Fête nationale du Québec?
+mc: B || "La fête nationale" is || the national holiday | a birthday | a party | a parade || A
+mc: B || "Le défilé" is || the parade | the film | the flag | the meal || A
+mc: B || "Les feux d'artifice" are || fireworks | campfires | lights | candles || A
+mc: B || "En commun" means || in common | in town | in the community | commonly bad || A
+mc: B || "Plus … que" means || more … than | less … than | as … as | the most || A
+mc: B || "Moins … que" means || less … than | more … than | as … as | the least || A
+mc: I || France's national holiday is || 14 July | 24 June | 1 July | 15 August || A
+mc: I || Quebec's Fête nationale is || 24 June | 14 July | 1 July | 21 June || A
+mc: I || The Tintamarre is on || 15 August | 24 June | 14 July | 21 June || A
+mc: I || Kanaval is from || Haiti | France | Belgium | Senegal || A
+mc: C || La Fête de la musique is on the || longest day | shortest day | first day of school | New Year || A
+mc: C || "Aussi bruyant que" means || as noisy as | more noisy than | less noisy than | very quiet || A
+sa: B || Name five francophone celebrations. || 14 juillet, Fête nationale du Québec, Tintamarre, Kanaval, Fête de la musique.
+sa: B || What does "le défilé" mean? || The parade.
+sa: I || Write a plus … que sentence. || Answers vary.
+sa: I || Write a moins … que sentence. || Answers vary.
+sa: I || Write an aussi … que sentence. || Answers vary.
+sa: I || What does 14 juillet commemorate? || The 1789 storming of the Bastille.
+sa: C || Explain what celebrations show about culture. || History, values and pride.
+sa: C || Write your comparison. || Answers vary.
+
+=== FSL9.D1 2
+hook: Your final French 9 project: become an expert on one francophone celebration and present it so vividly that your audience can almost hear the music and taste the food.
+sc: I can research and present a francophone celebration in French | I can use the present, passé composé and futur proche in one presentation | I can answer audience questions in French
+v: la présentation :: the presentation
+v: le public :: the audience
+v: une question :: a question
+v: répondre :: to answer
+v: expliquer :: to explain
+v: chaque année :: every year
+v: l'année dernière :: last year
+v: l'année prochaine :: next year
+ts: Présente une fête || Presentation || How do I present a francophone celebration in French?
+tx: Project guide (written for this lesson): ¶ Choose a celebration: Festival du Voyageur, Carnaval de Québec, Fête nationale du Québec, Tintamarre, 14 juillet, Kanaval, Fête de la musique, Rendez-vous de la Francophonie (March, across Canada), le temps des sucres, la Chandeleur, or another with teacher approval. ¶ Content (3 minutes): 1. Introduction: name, place, date (present). 2. History: how it began (passé composé: La fête a commencé en…). 3. Activities, food, music and symbols (present: chaque année, on…). 4. A comparison with a celebration you know (plus/moins/aussi … que). 5. Your plan: Un jour, je vais aller… (futur proche). ¶ Visuals: slides or a poster with images and key words (no long sentences). ¶ Speaking tips: practise pronunciation, look at the audience, speak slowly. ¶ Questions: each presenter answers two questions: Quand est la fête ? Qu'est-ce qu'on mange ? Pourquoi est-ce important ? ¶ Rubric: content, three tenses used correctly, vocabulary, pronunciation, visuals, answering questions.
+src: Original project written for this lesson.
+st: Choose and research a celebration | Write five content sections | Use present, passé composé and futur proche | Prepare visuals | Present and answer questions
+org: Section | Temps du verbe | Mes phrases
+an: Why did you choose your celebration? | Which tense was hardest to use? | What question did you find hardest to answer? | What did you learn from classmates' presentations?
+pr: Present a three-minute presentation on a francophone celebration using three tenses, a comparison and visuals, and answer two questions in French.
+ex: Introduction || Introduce the Carnaval de Québec. || Present || Le Carnaval de Québec a lieu chaque année à Québec en février. || What comes next?
+ex: History || "The festival began in 1970." || passé composé || Le festival a commencé en 1970. || Another history sentence?
+ex: Future || "One day I'm going to go to Winnipeg." || futur proche || Un jour, je vais aller à Winnipeg. || Why?
+ex: Answer || Q: Qu'est-ce qu'on mange ? || Present || On mange de la soupe aux pois et de la tire sur la neige. || Another answer?
+p: B || What is "le public"? || The audience.
+p: B || What does "répondre" mean? || To answer.
+p: B || What does "expliquer" mean? || To explain.
+p: B || What does "chaque année" mean? || Every year.
+p: B || What does "l'année prochaine" mean? || Next year.
+p: I || Which tense describes the history? || Passé composé.
+p: I || Which tense describes yearly activities? || Present.
+p: I || Which tense describes your plans? || Futur proche.
+p: I || How long is the presentation? || 3 minutes.
+p: I || How many questions do you answer? || Two.
+p: I || When are the Rendez-vous de la Francophonie? || March.
+p: C || Why use three tenses? || To show history, present traditions and future plans.
+p: C || Translate: Last year, my family went to the sugar shack. || L'année dernière, ma famille est allée à la cabane à sucre.
+p: C || Why use key words instead of sentences on slides? || So the audience listens and you speak naturally.
+p: C || Give your presentation. || Answers vary.
+mis: Using only the present | Reading slides | Answering questions in English
+et: Name your celebration and its date. | Write one sentence in each tense.
+mc: B || "Le public" is || the audience | the public pool | the publisher | the pub || A
+mc: B || "Répondre" means || to answer | to repeat | to respond to email only | to rest || A
+mc: B || "Expliquer" means || to explain | to explore | to explode | to expect || A
+mc: B || "Chaque année" means || every year | each day | last year | next year || A
+mc: B || "L'année dernière" means || last year | next year | this year | every year || A
+mc: B || "L'année prochaine" means || next year | last year | this year | every year || A
+mc: I || History uses the || passé composé | futur proche | imperative | infinitive only || A
+mc: I || Yearly activities use the || present | past | future | imperative || A
+mc: I || "One day I'm going to go" uses the || futur proche | present | passé composé | imperative || A
+mc: I || "The festival began in 1970" is || Le festival a commencé en 1970. | Le festival commence en 1970. | Le festival va commencer en 1970. | Le festival commencé 1970. || A
+mc: C || Slides should have || key words and images | long paragraphs | nothing | English only || A
+mc: C || Using three tenses shows || past, present and future | only facts | confusion | nothing || A
+sa: B || Define "le public." || The audience.
+sa: B || What does "chaque année" mean? || Every year.
+sa: I || Write a history sentence in the passé composé. || Answers vary.
+sa: I || Write a present-tense sentence about activities. || Answers vary.
+sa: I || Write a futur proche sentence about your plans. || Answers vary.
+sa: I || Write a comparison sentence. || Answers vary.
+sa: C || Explain why you use three tenses. || To show history, traditions and plans.
+sa: C || Give your presentation. || Answers vary.
