@@ -1,0 +1,659 @@
+=== SPA8.A1 1
+hook: In Spanish you don't say "I like pizza." You say "Me gusta la pizza," which really means "Pizza is pleasing to me." It looks backwards at first, but once it clicks, you can talk about anything you like.
+sc: I can use me gusta and me gustan correctly | I can ask others what they like with te gusta | I can express degrees of liking and disliking
+v: Me gusta… :: I like… (one thing or an activity)
+v: Me gustan… :: I like… (plural things)
+v: ¿Te gusta…? :: Do you like…?
+v: Le gusta… :: He / she likes…
+v: Me encanta(n)… :: I love…
+v: No me gusta(n)… :: I don't like…
+v: A mí también :: Me too
+v: A mí tampoco :: Me neither
+ts: ¿Te gusta? || Grammar || How do I talk about what I like with gustar?
+tx: Gustar guide (written for this lesson): ¶ Gustar agrees with the thing liked, not the person: Me gusta la pizza (one thing). Me gustan las fresas (plural). Me gusta bailar (activities use gusta). ¶ Who likes it: me (me), te (you), le (him/her/you formal), nos (us), les (them). Le gusta el chocolate. Nos gustan los tacos. ¶ Use the article: Me gusta el queso (not "me gusta queso"). ¶ Degrees: Me encanta(n) (I love) > Me gusta(n) mucho > Me gusta(n) > No me gusta(n) mucho > No me gusta(n) nada (I don't like at all). ¶ Reactions: A mí también (me too, after a positive). A mí tampoco (me neither, after a negative). A mí no / A mí sí (I don't / I do). ¶ Activity: food survey: ¿Te gusta el brócoli? ¿Te gustan las papas fritas? Record answers and report with le gusta / le gustan.
+src: Original activity written for this lesson.
+st: Learn gusta vs gustan | Learn me, te, le, nos, les | Learn degrees of liking | Practise reactions | Survey classmates and report
+org: Comida | Me gusta(n)… | A mi compañero le gusta(n)…
+an: Why "me gustan las fresas" but "me gusta la pizza"? | Why do we need the article? | When do you say a mí tampoco? | What food does the class like most?
+pr: Write eight sentences about food likes and dislikes using gusta, gustan, encanta and three different pronouns.
+ex: Singular || "I like rice." || one thing → gusta || Me gusta el arroz. || "I like oranges."
+ex: Plural || "I like oranges." || plural → gustan || Me gustan las naranjas. || "She likes tomatoes."
+ex: Third person || "She likes chocolate." || le gusta || Le gusta el chocolate. || "We like tacos."
+ex: Reaction || Friend: "No me gusta el pescado." You agree. || negative → tampoco || A mí tampoco. || If you disagree?
+p: B || What does "me gusta" mean? || I like.
+p: B || When do you use "me gustan"? || With plural things.
+p: B || What does "me encanta" mean? || I love.
+p: B || How do you ask "Do you like…?" || ¿Te gusta…?
+p: B || What does "a mí también" mean? || Me too.
+p: I || Say "I like apples." || Me gustan las manzanas.
+p: I || Say "I like to dance." || Me gusta bailar.
+p: I || Say "He likes cheese." || Le gusta el queso.
+p: I || Say "We love tacos." || Nos encantan los tacos.
+p: I || Say "I don't like fish at all." || No me gusta nada el pescado.
+p: I || What does "a mí tampoco" mean? || Me neither.
+p: C || Why does gustar agree with the thing liked? || It means "to be pleasing," so the thing is the subject.
+p: C || Translate: They like strawberries but they don't like bananas. || Les gustan las fresas pero no les gustan los plátanos.
+p: C || Translate: Do you like to cook? || ¿Te gusta cocinar?
+p: C || Write your food sentences. || Answers vary.
+mis: Saying "yo gusto la pizza" | Using gusta with plurals | Leaving out the article
+et: ¿Te gustan las verduras? | Say "She loves chocolate."
+mc: B || "Me gusta" means || I like | I want | I have | I eat || A
+mc: B || "Me encanta" means || I love | I hate | I need | I eat || A
+mc: B || "¿Te gusta?" means || Do you like? | Do I like? | Does he like? | Do we like? || A
+mc: B || "A mí también" means || Me too | Me neither | Not me | Also you || A
+mc: B || "Le gusta" means || he/she likes | I like | you like (tú) | we like || A
+mc: B || "No me gusta" means || I don't like | I like | I love | I need || A
+mc: I || "I like apples" is || Me gustan las manzanas. | Me gusta las manzanas. | Yo gusto manzanas. | Me gustan manzanas. || A
+mc: I || "I like to swim" is || Me gusta nadar. | Me gustan nadar. | Yo gusto nadar. | Me nadar gusta. || A
+mc: I || "We like tacos" is || Nos gustan los tacos. | Nos gusta los tacos. | Nosotros gustamos tacos. | Les gustan los tacos. || A
+mc: I || After a negative, "me neither" is || A mí tampoco | A mí también | A mí sí | Yo también || A
+mc: C || Gustar agrees with || the thing liked | the person | the time | nothing || A
+mc: C || Gustar literally means || to be pleasing | to taste | to want | to eat || A
+sa: B || When do you use gusta vs gustan? || Gusta with one thing or activity; gustan with plurals.
+sa: B || Say "I love pizza." || Me encanta la pizza.
+sa: I || Say "He doesn't like vegetables." || No le gustan las verduras.
+sa: I || Ask a friend if they like soccer. || ¿Te gusta el fútbol?
+sa: I || List the indirect object pronouns. || Me, te, le, nos, les.
+sa: I || Report a classmate's food preference. || Answers vary.
+sa: C || Explain why gustar seems backwards. || It means "to be pleasing to," so the thing is the subject.
+sa: C || Write your food sentences. || Answers vary.
+
+=== SPA8.A1 2
+hook: "¡Buen provecho!" In restaurants from Mexico City to Madrid, ordering politely and asking for the bill are the skills you'll use most. Today you'll eat, at least in a role-play.
+sc: I can order food politely with quisiera | I can ask questions about the menu and prices | I can role-play a restaurant conversation
+v: el menú / la carta :: the menu
+v: Quisiera… :: I would like…
+v: Para mí… :: For me…
+v: ¿Qué desea? :: What would you like? (formal)
+v: el camarero / la camarera :: the server
+v: La cuenta, por favor :: The bill, please
+v: ¿Cuánto cuesta? :: How much does it cost?
+v: ¡Buen provecho! :: Enjoy your meal!
+ts: En el restaurante || Role-play || How do I order in a restaurant in Spanish?
+tx: Dialogue (read in threes): ¶ Camarero: Buenas tardes. ¿Qué desean? ¶ Ana: Buenas tardes. Para mí, una ensalada y una quesadilla, por favor. ¶ Leo: Quisiera los tacos de pollo y un agua de jamaica. ¶ Camarero: ¿Y para beber, señorita? ¶ Ana: Un jugo de naranja, por favor. ¶ (más tarde) Camarero: ¿Algo más? ¿Un postre? ¶ Leo: ¿Cuánto cuesta el flan? ¶ Camarero: Cuesta cuatro dólares. ¶ Leo: Sí, un flan, por favor. ¶ Ana: La cuenta, por favor. ¶ Menu (Restaurante Sol, in dollars): ensalada 6; quesadilla 8; tacos de pollo 10; enchiladas 11; agua de jamaica (hibiscus drink) 3; jugo de naranja 3; flan 4; churros 5. ¶ Culture: agua de jamaica is a popular hibiscus drink in Mexico; flan is a caramel custard dessert; in many Spanish-speaking countries you must ask for the bill, because the server won't bring it until you do. ¶ Activity: role-play in threes; the server totals the bill.
+src: Original dialogue and menu written for this lesson.
+st: Read the restaurant dialogue | Learn polite ordering phrases | Read the menu | Role-play in threes | Total the bill
+org: Cliente | Pedido | Precio
+an: What does each customer order? | Why use quisiera instead of quiero? | Why do you need to ask for the bill? | What was your group's total?
+pr: Perform a restaurant role-play with six polite phrases, and write the order and total bill.
+ex: Ordering || Order a quesadilla politely. || Quisiera + item + por favor || Quisiera una quesadilla, por favor. || Order a drink.
+ex: Para mí || Order with para mí. || Para mí + item || Para mí, los tacos de pollo. || Another?
+ex: Price || Ask the price of churros. || ¿Cuánto cuestan? (plural) || ¿Cuánto cuestan los churros? || Answer?
+ex: Bill || Ana's food: ensalada + quesadilla + jugo. || 6 + 8 + 3 || 17 dólares || And Leo's?
+p: B || What does "Quisiera" mean? || I would like.
+p: B || How do you ask for the bill? || La cuenta, por favor.
+p: B || What does "¿Qué desea?" mean? || What would you like?
+p: B || What does "¡Buen provecho!" mean? || Enjoy your meal.
+p: B || What is "el camarero"? || The server.
+p: I || Order chicken tacos politely. || Quisiera los tacos de pollo, por favor.
+p: I || Ask "How much is the flan?" || ¿Cuánto cuesta el flan?
+p: I || What is agua de jamaica? || A hibiscus drink.
+p: I || What is flan? || A caramel custard dessert.
+p: I || How much are enchiladas? || 11 dólares.
+p: I || What does "¿Algo más?" mean? || Anything else?
+p: C || Total Leo's order: tacos, agua de jamaica, flan. || 17 dólares.
+p: C || Why ask for the bill in many Spanish-speaking countries? || Servers wait so they don't rush you.
+p: C || Why is cuestan used for churros? || Churros is plural.
+p: C || Perform your role-play. || Answers vary.
+mis: Saying "quiero" bluntly to servers | Using cuesta with plural items | Waiting for a bill that won't come
+et: Pide una comida con quisiera. | Ask for the bill.
+mc: B || "Quisiera" means || I would like | I want now | I have | I ate || A
+mc: B || "La cuenta" is || the bill | the count | the menu | the table || A
+mc: B || "El camarero" is || the server | the camera | the cook | the customer || A
+mc: B || "¡Buen provecho!" means || Enjoy your meal | Good luck | Goodbye | Thank you || A
+mc: B || "La carta" in a restaurant is || the menu | the card only | the letter | the bill || A
+mc: B || "¿Algo más?" means || Anything else? | Is that all? | How much? | What time? || A
+mc: I || Tacos de pollo cost || 10 dólares | 8 dólares | 4 dólares | 6 dólares || A
+mc: I || Ensalada + quesadilla + jugo is || 17 dólares | 14 dólares | 20 dólares | 11 dólares || A
+mc: I || "How much are the churros?" is || ¿Cuánto cuestan los churros? | ¿Cuánto cuesta los churros? | ¿Cuántos churros? | ¿Qué churros? || A
+mc: I || Agua de jamaica is made from || hibiscus | oranges | rice | chocolate || A
+mc: C || Quisiera is polite because it is || softer than quiero | shorter | slang | rude || A
+mc: C || In many Spanish-speaking countries the bill || must be requested | comes immediately | is free | is on the menu || A
+sa: B || Order a drink politely. || Quisiera un jugo de naranja, por favor.
+sa: B || Ask for the bill. || La cuenta, por favor.
+sa: I || Ask the price of an item. || ¿Cuánto cuesta…?
+sa: I || Total Leo's order. || 17 dólares.
+sa: I || Explain agua de jamaica. || A hibiscus drink popular in Mexico.
+sa: I || List five polite restaurant phrases. || Buenas tardes, quisiera, por favor, gracias, la cuenta.
+sa: C || Explain why you ask for the bill. || Servers don't rush customers.
+sa: C || Perform your role-play. || Answers vary.
+
+=== SPA8.B1 0
+hook: Home, sweet home: "Mi casa es tu casa" is a famous Spanish expression of welcome. Today you'll learn to describe the rooms and furniture of a home.
+sc: I can name rooms and furniture in Spanish | I can describe my home with hay and tiene | I can describe a dream home
+v: la casa / el apartamento :: the house / the apartment
+v: la cocina :: the kitchen
+v: la sala :: the living room
+v: el dormitorio :: the bedroom
+v: el baño :: the bathroom
+v: el comedor :: the dining room
+v: la cama / el sofá :: the bed / the sofa
+v: el jardín :: the garden, yard
+ts: Mi casa es tu casa || Reading || How do I describe a home in Spanish?
+tx: Text (read aloud, written for this lesson): ¶ Vivo en una casa en Edmonton. Mi casa tiene dos pisos. En el primer piso, hay una sala grande, una cocina moderna y un comedor. En el segundo piso, hay tres dormitorios y dos baños. Mi dormitorio es pequeño pero bonito. Tiene una cama, un escritorio, una silla y una ventana. Detrás de la casa, hay un jardín con un árbol. ¡Mi casa es tu casa! ¶ Grammar: hay (there is/are); tener (it has): Mi casa tiene tres dormitorios. ¶ Furniture: la mesa (table), la silla (chair), el escritorio (desk), el armario (closet), la lámpara (lamp), el refrigerador (fridge), la estufa (stove), la ducha (shower). ¶ Adjectives: grande, pequeño/a, moderno/a, bonito/a, cómodo/a (comfortable). ¶ Activity: draw a floor plan of your home (real or dream) and label rooms and furniture in Spanish; describe it to a partner who draws it from your description.
+src: Original text written for this lesson.
+st: Read the home description | Learn rooms and furniture | Use hay and tiene | Draw a labelled floor plan | Describe it for a partner to draw
+org: Habitación | Muebles
+an: How many bedrooms are in the house? | What's in the writer's bedroom? | What's the difference between hay and tiene? | Did your partner's drawing match your home?
+pr: Draw and label a floor plan of a real or dream home, and write six sentences describing it.
+ex: Hay || "There is a big kitchen." || hay + una + noun + adjective || Hay una cocina grande. || "There are two bathrooms."
+ex: Tiene || "My room has a bed and a desk." || tiene + items || Mi dormitorio tiene una cama y un escritorio. || Describe your room.
+ex: Adjective || "The living room is comfortable." || es + adjective agreeing || La sala es cómoda. || "The kitchen is modern."
+ex: Location word || "Behind the house there is a garden." || detrás de || Detrás de la casa hay un jardín. || "In front of the house…"
+p: B || What is "la cocina"? || The kitchen.
+p: B || What is "el dormitorio"? || The bedroom.
+p: B || What is "el baño"? || The bathroom.
+p: B || What is "la sala"? || The living room.
+p: B || What is "la cama"? || The bed.
+p: I || Say "There are three bedrooms." || Hay tres dormitorios.
+p: I || Say "My house has a garden." || Mi casa tiene un jardín.
+p: I || What is "el escritorio"? || The desk.
+p: I || What is "el comedor"? || The dining room.
+p: I || What does "cómodo" mean? || Comfortable.
+p: I || How many floors does the house have? || Two.
+p: C || What does "Mi casa es tu casa" express? || Welcome and hospitality.
+p: C || Translate: My bedroom is small but pretty. || Mi dormitorio es pequeño pero bonito.
+p: C || Translate: In the kitchen there is a fridge and a stove. || En la cocina hay un refrigerador y una estufa.
+p: C || Describe your floor plan. || Answers vary.
+mis: Saying "está una cocina" for "there is a kitchen" | Forgetting adjective agreement | Putting adjectives before nouns
+et: Nombra cinco habitaciones. | Describe tu dormitorio.
+mc: B || "La cocina" is || the kitchen | the bedroom | the car | the cook || A
+mc: B || "El baño" is || the bathroom | the bedroom | the bath toy | the balcony || A
+mc: B || "La sala" is || the living room | the salad | the salt | the hall || A
+mc: B || "La cama" is || the bed | the camera | the chair | the kitchen || A
+mc: B || "El jardín" is || the garden | the jar | the garage | the gym || A
+mc: B || "La silla" is || the chair | the table | the window | the shelf || A
+mc: I || "There are two bathrooms" is || Hay dos baños. | Están dos baños. | Son dos baños. | Tiene dos baños hay. || A
+mc: I || "My house has a garden" is || Mi casa tiene un jardín. | Mi casa hay un jardín. | Mi casa es un jardín. | Mi casa está jardín. || A
+mc: I || "Cómodo" means || comfortable | comedy | dining | common || A
+mc: I || "El escritorio" is || the desk | the writer | the school | the closet || A
+mc: C || "Mi casa es tu casa" expresses || hospitality | ownership | sale | rules || A
+mc: C || Spanish adjectives usually go || after the noun | before | at the end only | nowhere || A
+sa: B || Name six rooms in Spanish. || Cocina, sala, dormitorio, baño, comedor, jardín.
+sa: B || Name four pieces of furniture. || Cama, silla, mesa, escritorio.
+sa: I || Describe your bedroom in two sentences. || Answers vary.
+sa: I || Use hay and tiene in sentences. || Answers vary.
+sa: I || How many bedrooms does the text's house have? || Three.
+sa: I || Translate: The living room is big. || La sala es grande.
+sa: C || Explain "Mi casa es tu casa." || An expression of welcome.
+sa: C || Describe your floor plan. || Answers vary.
+
+=== SPA8.B1 1
+hook: "¿Dónde están mis llaves?" Spanish has a second verb for "to be": estar. You use it for where things are and how people feel, and you'll use it every time you look for something.
+sc: I can conjugate estar | I can say where things and people are with prepositions of place | I can explain when to use estar instead of ser
+v: estar :: to be (location, feelings, conditions)
+v: estoy / estás / está :: I am / you are / he, she, it is
+v: estamos / están :: we are / they are
+v: encima de / debajo de :: on top of / under
+v: al lado de :: next to
+v: delante de / detrás de :: in front of / behind
+v: entre :: between
+v: cerca de / lejos de :: near / far from
+ts: ¿Dónde está? || Grammar || How do I say where things are with estar?
+tx: Estar (written for this lesson): yo estoy, tú estás, él/ella/usted está, nosotros estamos, vosotros estáis (Spain), ellos/ellas/ustedes están. ¶ Ser vs estar (first look): ser for identity, origin, description, time (Soy de Canadá. Son las dos.); estar for location and feelings (Estoy en la cocina. Estoy cansado.). A memory trick: "How you feel and where you are, always use estar." ¶ Prepositions: El gato está encima de la cama. Mis zapatos están debajo de la mesa. La lámpara está al lado del sofá. (de + el = del) El perro está detrás de la puerta. La silla está entre la mesa y la ventana. ¶ Activity: "¿Dónde está el gato?": the teacher hides a toy cat in the classroom; students ask ¿Está debajo de…? ¿Está cerca de…? Then partners describe where objects are in a picture of a messy bedroom.
+src: Original activity written for this lesson.
+st: Conjugate estar | Learn ser vs estar for location | Learn prepositions of place | Play "¿Dónde está el gato?" | Describe a messy bedroom picture
+org: Objeto | ¿Dónde está?
+an: Why do we use estar for location? | Why "al lado del sofá" not "de el"? | Where was the cat hidden? | What's the trick for remembering estar?
+pr: Describe the location of eight objects in your bedroom or a picture using estar and six different prepositions.
+ex: Location || "The book is on the table." || está encima de || El libro está encima de la mesa. || "The shoes are under the bed."
+ex: Plural || "The shoes are under the bed." || están debajo de || Los zapatos están debajo de la cama. || "The pencils are in the box."
+ex: Del || "next to the sofa" || de + el = del || al lado del sofá || "behind the desk"?
+ex: Ser or estar || "I am in Calgary" or "I am from Calgary"? || Location vs origin || Estoy en Calgary. Soy de Calgary. || Why different?
+p: B || What does "estar" mean? || To be (location, feelings).
+p: B || Conjugate estar: yo. || Estoy.
+p: B || Conjugate estar: ellos. || Están.
+p: B || What does "debajo de" mean? || Under.
+p: B || What does "al lado de" mean? || Next to.
+p: I || Say "The cat is on the bed." || El gato está encima de la cama.
+p: I || Say "We are in the kitchen." || Estamos en la cocina.
+p: I || What is de + el? || Del.
+p: I || Say "The lamp is next to the sofa." || La lámpara está al lado del sofá.
+p: I || What does "entre" mean? || Between.
+p: I || Say "The school is near my house." || La escuela está cerca de mi casa.
+p: C || Why is it "Estoy en Calgary" but "Soy de Calgary"? || Estar for location, ser for origin.
+p: C || Give the estar memory trick. || How you feel and where you are, always use estar.
+p: C || Translate: My keys are between the book and the phone. || Mis llaves están entre el libro y el teléfono.
+p: C || Describe your bedroom. || Answers vary.
+mis: Using ser for location | Saying "de el" | Saying "estan" without the accent
+et: ¿Dónde está tu mochila? | Say "The dog is behind the door."
+mc: B || "Estar" is used for || location and feelings | origin | identity | time || A
+mc: B || "Estoy" means || I am | you are | he is | we are || A
+mc: B || "Debajo de" means || under | on top of | next to | behind || A
+mc: B || "Al lado de" means || next to | far from | between | in front of || A
+mc: B || "Detrás de" means || behind | in front of | above | inside || A
+mc: B || "Cerca de" means || near | far from | between | under || A
+mc: I || "The cat is on the bed" is || El gato está encima de la cama. | El gato es encima de la cama. | El gato está debajo cama. | El gato hay en la cama. || A
+mc: I || "They are in the garden" is || Están en el jardín. | Son en el jardín. | Está en el jardín. | Estamos jardín. || A
+mc: I || De + el becomes || del | de el | al | dello || A
+mc: I || "Entre" means || between | inside | among only | enter || A
+mc: C || "I'm from Calgary" uses || ser | estar | tener | hay || A
+mc: C || "I'm in Calgary" uses || estar | ser | tener | ir || A
+sa: B || Conjugate estar for yo, tú, él. || Estoy, estás, está.
+sa: B || Name four prepositions of place. || Encima de, debajo de, al lado de, detrás de.
+sa: I || Describe where three objects are. || Answers vary.
+sa: I || Explain ser vs estar with location and origin. || Estar for where; ser for origin.
+sa: I || Say "next to the desk." || Al lado del escritorio.
+sa: I || Say "We are far from school." || Estamos lejos de la escuela.
+sa: C || Give the estar memory trick. || How you feel and where you are, use estar.
+sa: C || Describe your bedroom. || Answers vary.
+
+=== SPA8.B1 2
+hook: You're in Barcelona and need the nearest pharmacy. "Siga todo recto y gire a la derecha." Understanding and giving directions is a survival skill for any traveller.
+sc: I can name places in a neighbourhood | I can ask for directions politely | I can give directions using commands and direction words
+v: el barrio :: the neighbourhood
+v: ¿Dónde está…? :: Where is…?
+v: a la derecha / a la izquierda :: to the right / to the left
+v: todo recto / derecho :: straight ahead
+v: Gire / Doble :: Turn (formal command)
+v: Siga :: Continue, keep going (formal command)
+v: la esquina :: the corner
+v: la cuadra :: the block
+ts: ¿Cómo llego a…? || Role-play || How do I ask for and give directions in Spanish?
+tx: Directions guide (written for this lesson): ¶ Places: el parque, la biblioteca, el supermercado, el hospital, la farmacia, el banco, el cine, la parada de autobús, la estación de tren, el museo, la plaza. ¶ Asking: Perdón, ¿dónde está la farmacia? / ¿Cómo llego a la biblioteca? / ¿Está lejos? ¶ Giving (formal usted commands, polite with strangers): Siga todo recto. Gire a la derecha. Doble a la izquierda en la esquina. Cruce la calle. Está a dos cuadras. Está al lado del banco. ¶ Note: in Spain people often say "todo recto"; in Mexico and much of Latin America, "derecho" or "todo derecho." ¶ Dialogue: ¶ Turista: Perdón, señora. ¿Dónde está el museo? ¶ Señora: Siga todo recto dos cuadras. En la esquina, gire a la izquierda. El museo está al lado de la plaza. ¶ Turista: ¡Muchas gracias! ¶ Señora: De nada. ¶ Activity: with a town map, partners take turns asking and giving directions from the station to different places; the asker traces the route.
+src: Original dialogue and activity written for this lesson.
+st: Learn neighbourhood places | Learn to ask politely | Learn direction commands | Read the dialogue | Practise with a town map
+org: Desde | Hasta | Instrucciones
+an: How do you ask for directions politely? | Why use usted commands with strangers? | What's the difference between todo recto and derecho? | Did your partner reach the right place?
+pr: Write directions from your school to three places in your neighbourhood (real or imagined) using at least five direction phrases.
+ex: Ask || Ask where the bank is. || Perdón + ¿Dónde está…? || Perdón, ¿dónde está el banco? || Ask how to get to the park.
+ex: Turn || "Turn right at the corner." || Gire + a la derecha + en la esquina || Gire a la derecha en la esquina. || "Turn left."
+ex: Distance || "It's two blocks away." || Está a dos cuadras || Está a dos cuadras. || "It's near the park."
+ex: Full route || From the station to the museum? || Read the dialogue || Siga todo recto dos cuadras, gire a la izquierda; está al lado de la plaza. || Write another.
+p: B || What is "el barrio"? || The neighbourhood.
+p: B || What does "a la derecha" mean? || To the right.
+p: B || What does "a la izquierda" mean? || To the left.
+p: B || What does "todo recto" mean? || Straight ahead.
+p: B || What is "la esquina"? || The corner.
+p: I || Ask "How do I get to the library?" || ¿Cómo llego a la biblioteca?
+p: I || Say "Turn left." (usted) || Gire a la izquierda.
+p: I || Say "Keep going straight." || Siga todo recto.
+p: I || Say "Cross the street." || Cruce la calle.
+p: I || What is "la cuadra"? || The block.
+p: I || What is "la parada de autobús"? || The bus stop.
+p: C || Why use usted commands with strangers? || It's polite and respectful.
+p: C || Translate: The pharmacy is next to the bank, two blocks away. || La farmacia está al lado del banco, a dos cuadras.
+p: C || How is "derecho" different in Spain and Mexico? || In Mexico it often means straight ahead; in Spain todo recto is common.
+p: C || Write your directions. || Answers vary.
+mis: Confusing derecha (right) and derecho (straight) | Using tú commands with strangers | Forgetting Perdón before asking
+et: Ask where the park is. | Give a two-step direction.
+mc: B || "A la derecha" means || to the right | to the left | straight | behind || A
+mc: B || "A la izquierda" means || to the left | to the right | ahead | down || A
+mc: B || "Todo recto" means || straight ahead | all right | turn around | stop || A
+mc: B || "La esquina" is || the corner | the street | the block | the square || A
+mc: B || "El barrio" is || the neighbourhood | the bar | the bank | the river || A
+mc: B || "La biblioteca" is || the library | the bookstore | the bible | the bank || A
+mc: I || "Turn right" (usted) is || Gire a la derecha. | Gira derecha. | Doblar derecha. | Gire derecho. || A
+mc: I || "Keep going" (usted) is || Siga | Sigue | Seguir | Sigo || A
+mc: I || "It's two blocks away" is || Está a dos cuadras. | Es dos cuadras. | Hay dos cuadras. | Tiene dos cuadras. || A
+mc: I || "How do I get to…?" is || ¿Cómo llego a…? | ¿Dónde es…? | ¿Qué llego? | ¿Cuándo llego? || A
+mc: C || Usted commands are used with || strangers, politely | close friends only | pets | nobody || A
+mc: C || "Derecha" vs "derecho": derecha means || right | straight | left | back || A
+sa: B || Ask politely where the pharmacy is. || Perdón, ¿dónde está la farmacia?
+sa: B || Name six places in a neighbourhood. || Parque, biblioteca, supermercado, banco, cine, farmacia.
+sa: I || Give three direction commands. || Siga todo recto. Gire a la derecha. Cruce la calle.
+sa: I || Say "It's next to the cinema." || Está al lado del cine.
+sa: I || Explain derecha vs derecho. || Right versus straight.
+sa: I || Give directions to the museum from the dialogue. || Siga todo recto dos cuadras, gire a la izquierda; está al lado de la plaza.
+sa: C || Explain why usted is used. || Politeness with strangers.
+sa: C || Write your directions. || Answers vary.
+
+=== SPA8.C1 0
+hook: Soccer (fútbol) is the most popular sport across most of the Spanish-speaking world, but people also love baseball in the Caribbean, cycling in Colombia and basketball in Spain. What do you do in your free time?
+sc: I can name hobbies and sports in Spanish | I can say what I do in my free time | I can use frequency words to say how often
+v: los pasatiempos :: hobbies
+v: el tiempo libre :: free time
+v: el fútbol / el béisbol / el baloncesto :: soccer / baseball / basketball
+v: nadar / correr :: to swim / to run
+v: leer / dibujar :: to read / to draw
+v: tocar la guitarra :: to play the guitar
+v: montar en bicicleta :: to ride a bike
+v: ver la tele :: to watch TV
+ts: En mi tiempo libre || Reading || What hobbies and sports can I talk about in Spanish?
+tx: Text (read aloud, written for this lesson): ¶ En mi tiempo libre, me gusta mucho dibujar y leer. También toco la guitarra. Mi hermano es muy deportista: juega al fútbol y al baloncesto, y monta en bicicleta todos los días. Mi mejor amiga nada en el equipo de la escuela. Los fines de semana, mi familia y yo vemos películas. ¿Y tú? ¿Qué haces en tu tiempo libre? ¶ Note: tocar for instruments (tocar el piano); jugar for sports and games (jugar al fútbol). ¶ Sports culture: fútbol is hugely popular in Spain, Mexico, Argentina and beyond; béisbol is very popular in the Dominican Republic, Cuba, Venezuela and Puerto Rico; cycling has a strong following in Colombia. ¶ Frequency: todos los días, a menudo (often), a veces, casi nunca (almost never), nunca. ¶ Activity: class survey ¿Qué haces en tu tiempo libre? ¿Con qué frecuencia? Make a bar graph with Spanish labels.
+src: Original text written for this lesson.
+st: Read the text | Learn hobby and sport words | Learn tocar vs jugar | Use frequency words | Survey and graph the class
+org: Pasatiempo | ¿Con qué frecuencia? | ¿Con quién?
+an: What does the writer do in free time? | Why tocar for guitar but jugar for soccer? | Which sports are popular in which countries? | What's the class's favourite hobby?
+pr: Write six sentences about your free time with at least five hobbies and three frequency words.
+ex: Hobby || "I like to draw." || Me gusta + infinitive || Me gusta dibujar. || "I like to swim."
+ex: Instrument || "I play the piano." || tocar || Toco el piano. || "She plays guitar."
+ex: Frequency || "I often read." || a menudo || Leo a menudo. || "I almost never run."
+ex: Culture || Where is baseball very popular? || Caribbean || In the Dominican Republic, Cuba and Venezuela || What about cycling?
+p: B || What are "los pasatiempos"? || Hobbies.
+p: B || What is "el tiempo libre"? || Free time.
+p: B || What is "el baloncesto"? || Basketball.
+p: B || What does "dibujar" mean? || To draw.
+p: B || What does "nadar" mean? || To swim.
+p: I || Which verb is used for instruments? || Tocar.
+p: I || Say "I play the guitar." || Toco la guitarra.
+p: I || Say "I ride my bike every day." || Monto en bicicleta todos los días.
+p: I || What does "a menudo" mean? || Often.
+p: I || What does "casi nunca" mean? || Almost never.
+p: I || Ask "What do you do in your free time?" || ¿Qué haces en tu tiempo libre?
+p: C || Why tocar vs jugar? || Tocar for instruments, jugar for sports and games.
+p: C || Translate: My brother plays soccer and basketball. || Mi hermano juega al fútbol y al baloncesto.
+p: C || Name a country where cycling is popular. || Colombia.
+p: C || Write about your free time. || Answers vary.
+mis: Using jugar for instruments | Forgetting al after jugar | Thinking soccer is the only popular sport everywhere
+et: ¿Qué haces en tu tiempo libre? | Say "I play the piano."
+mc: B || "Los pasatiempos" are || hobbies | past times | passports | pastries || A
+mc: B || "El baloncesto" is || basketball | baseball | volleyball | soccer || A
+mc: B || "Dibujar" means || to draw | to drive | to dive | to dig || A
+mc: B || "Leer" means || to read | to leave | to learn | to lie || A
+mc: B || "Nadar" means || to swim | nothing | to run | to skate || A
+mc: B || "El tiempo libre" is || free time | the weather | a library | free food || A
+mc: I || Instruments use || tocar | jugar | hacer | ir || A
+mc: I || "I play the guitar" is || Toco la guitarra. | Juego la guitarra. | Juego a la guitarra. | Hago guitarra. || A
+mc: I || "A menudo" means || often | never | always | at a minute || A
+mc: I || Baseball is very popular in || the Dominican Republic | Argentina only | Spain only | Chile only || A
+mc: C || Jugar is used for || sports and games | instruments | reading | cooking || A
+mc: C || Cycling has a strong following in || Colombia | Iceland | Canada only | Japan only || A
+sa: B || Name six hobbies in Spanish. || Dibujar, leer, nadar, correr, ver la tele, tocar la guitarra.
+sa: B || What is "el tiempo libre"? || Free time.
+sa: I || Explain tocar vs jugar. || Tocar for instruments; jugar for sports and games.
+sa: I || Use two frequency words in sentences. || Answers vary.
+sa: I || Ask a classmate about free time. || ¿Qué haces en tu tiempo libre?
+sa: I || Name two countries where baseball is popular. || The Dominican Republic and Cuba.
+sa: C || Explain sports culture differences. || Different sports are popular in different countries.
+sa: C || Write about your free time. || Answers vary.
+
+=== SPA8.C1 1
+hook: "Este sábado voy a jugar al fútbol." With ir a + infinitive, you can talk about any plan, and with jugar you can play anything. Together they make weekend plans easy.
+sc: I can conjugate jugar (u → ue) | I can talk about future plans with ir a + infinitive | I can describe my weekend plans
+v: jugar (u → ue) :: to play (sports, games)
+v: juego / juegas / juega :: I play / you play / he, she plays
+v: jugamos / juegan :: we play / they play
+v: ir :: to go
+v: voy / vas / va / vamos / van :: I go / you go / he goes / we go / they go
+v: ir a + infinitivo :: going to (do something)
+v: este fin de semana :: this weekend
+v: mañana / el próximo sábado :: tomorrow / next Saturday
+ts: ¿Qué vas a hacer? || Grammar || How do I talk about plans with ir a + infinitive?
+tx: Grammar (written for this lesson): ¶ jugar is a stem-changing verb (u → ue) except in nosotros/vosotros: juego, juegas, juega, jugamos, jugáis, juegan. Use jugar a + sport: juego al fútbol (a + el = al), juego a las cartas. ¶ ir (to go) is irregular: voy, vas, va, vamos, vais, van. ¶ Futuro próximo: ir + a + infinitive: Voy a nadar. ¿Vas a jugar al béisbol? Vamos a ver una película. Van a visitar a sus abuelos. ¶ Text: Este fin de semana voy a estar muy ocupado. El sábado por la mañana, voy a jugar al hockey. Por la tarde, mis amigos y yo vamos a ir al cine. El domingo, mi familia va a visitar a mis tíos. ¿Y tú? ¿Qué vas a hacer? ¶ Activity: plan a weekend in a calendar; interview a partner and find a time when you can do something together.
+src: Original text written for this lesson.
+st: Conjugate jugar | Conjugate ir | Form ir a + infinitive | Read the weekend text | Plan a weekend with a partner
+org: Día | Hora | Plan
+an: Why does jugar change to juego? | Which forms of jugar don't change? | What is the writer going to do on Saturday? | When can you and your partner meet?
+pr: Write a weekend plan with at least six ir a + infinitive sentences, including two with jugar.
+ex: Jugar || "We play basketball." || nosotros: no change || Jugamos al baloncesto. || "They play cards."
+ex: Ir a || "I'm going to swim." || voy a + infinitive || Voy a nadar. || "She's going to read."
+ex: Question || "Are you going to play soccer?" || vas a jugar || ¿Vas a jugar al fútbol? || Answer it.
+ex: Plan || "Tomorrow we're going to go to the park." || vamos a ir || Mañana vamos a ir al parque. || Another plan?
+p: B || What does "jugar" mean? || To play (sports, games).
+p: B || Conjugate jugar: yo. || Juego.
+p: B || Conjugate ir: yo. || Voy.
+p: B || Conjugate ir: nosotros. || Vamos.
+p: B || What does "este fin de semana" mean? || This weekend.
+p: I || Conjugate jugar: nosotros. || Jugamos.
+p: I || Conjugate jugar: ellos. || Juegan.
+p: I || Say "I'm going to play hockey." || Voy a jugar al hockey.
+p: I || Say "They're going to watch a movie." || Van a ver una película.
+p: I || Ask "What are you going to do?" || ¿Qué vas a hacer?
+p: I || What is a + el? || Al.
+p: C || Why does nosotros not change in jugar? || The stem changes only when stressed.
+p: C || Translate: Next Saturday my sister is going to run a race. || El próximo sábado mi hermana va a correr una carrera.
+p: C || Translate: We're not going to play cards. || No vamos a jugar a las cartas.
+p: C || Write your weekend plan. || Answers vary.
+mis: Saying "jugo" for I play | Forgetting a in ir a + infinitive | Conjugating the second verb
+et: ¿Qué vas a hacer este fin de semana? | Conjugate jugar for yo and nosotros.
+mc: B || "Jugar" means || to play sports or games | to play instruments | to go | to judge || A
+mc: B || "Voy" means || I go | you go | he goes | we go || A
+mc: B || "Vamos" means || we go | they go | I go | you go || A
+mc: B || "Este fin de semana" means || this weekend | last weekend | end of the week | every weekend || A
+mc: B || "Mañana" means || tomorrow | today | yesterday | afternoon || A
+mc: B || "Van" means || they go | we go | I go | he goes || A
+mc: I || "I play" is || juego | jugo | jugamos | juga || A
+mc: I || "We play" is || jugamos | juegamos | juegan | jugan || A
+mc: I || "I'm going to swim" is || Voy a nadar. | Voy nadar. | Voy a nado. | Vas a nadar. || A
+mc: I || "Are you going to play?" is || ¿Vas a jugar? | ¿Vas jugar? | ¿Va a juegas? | ¿Voy a jugar? || A
+mc: C || Jugar's stem doesn't change in || nosotros | yo | tú | ellos || A
+mc: C || A + el becomes || al | ael | del | el || A
+sa: B || Conjugate ir fully (without vosotros). || Voy, vas, va, vamos, van.
+sa: B || How do you form ir a + infinitive? || Ir + a + infinitive.
+sa: I || Conjugate jugar fully (without vosotros). || Juego, juegas, juega, jugamos, juegan.
+sa: I || Write two plans for Saturday. || Answers vary.
+sa: I || Ask a partner about their weekend. || ¿Qué vas a hacer este fin de semana?
+sa: I || What is the writer doing on Sunday? || Visiting aunt and uncle with family.
+sa: C || Explain the jugar stem change. || U becomes ue except in nosotros and vosotros.
+sa: C || Write your weekend plan. || Answers vary.
+
+=== SPA8.C1 2
+hook: "¿Quieres ir al cine el sábado?" Inviting a friend, accepting enthusiastically or turning down politely: these are some of the most useful social phrases in any language.
+sc: I can invite someone to an activity | I can accept or decline an invitation politely with a reason | I can arrange a time and place to meet
+v: ¿Quieres…? :: Do you want to…?
+v: ¿Te gustaría…? :: Would you like to…?
+v: ¡Claro! / ¡Por supuesto! :: Of course!
+v: ¡Me encantaría! :: I'd love to!
+v: Lo siento, no puedo :: Sorry, I can't
+v: Tengo que… :: I have to…
+v: ¿A qué hora nos vemos? :: What time shall we meet?
+v: ¿Dónde nos encontramos? :: Where shall we meet?
+ts: ¿Quieres venir? || Role-play || How do I invite friends and respond to invitations?
+tx: Phrases (written for this lesson): ¶ Inviting: ¿Quieres ir al parque? ¿Te gustaría jugar al tenis conmigo? ¿Vamos al centro comercial? ¶ Accepting: ¡Claro! / ¡Sí, me encantaría! / ¡Buena idea! / ¡Vale! (Spain) / ¡Órale! (Mexico, informal) ¶ Declining: Lo siento, no puedo. Tengo que estudiar. / Gracias, pero voy a visitar a mis abuelos. / Qué lástima, estoy ocupado/a. ¶ Tener que + infinitive = to have to: Tengo que hacer la tarea. ¶ Arranging: ¿A qué hora nos vemos? A las tres. ¿Dónde nos encontramos? En la entrada del parque. ¶ Text messages: ¶ Leo: Hola, Sara. ¿Quieres ir al cine el sábado? ¶ Sara: ¡Me encantaría! ¿A qué hora? ¶ Leo: A las siete. ¿Nos vemos en la parada de autobús a las seis y media? ¶ Sara: ¡Perfecto! Hasta el sábado. ¶ Activity: each student gets three invitation cards and a personal calendar with some busy times; mingle, invite, accept or decline with a reason, and schedule three meetings.
+src: Original phrases and activity written for this lesson.
+st: Learn ways to invite | Learn to accept | Learn to decline with reasons | Use tener que | Mingle and schedule meetings
+org: Amigo/a | Actividad | ¿Sí o no? | Día y hora | Lugar
+an: Which acceptance phrase is most enthusiastic? | How do you decline politely? | Where and when are Leo and Sara meeting? | How many meetings did you schedule?
+pr: Write two text-message conversations in Spanish: one accepted invitation with time and place, and one polite refusal with a reason.
+ex: Invite || Invite a friend to play tennis. || ¿Quieres + infinitive? || ¿Quieres jugar al tenis? || Use te gustaría.
+ex: Decline || Decline because you must study. || Lo siento + tengo que || Lo siento, no puedo. Tengo que estudiar. || Another reason?
+ex: Arrange || Ask where to meet. || ¿Dónde nos encontramos? || ¿Dónde nos encontramos? En el parque. || Ask the time.
+ex: Accept || Accept enthusiastically. || Strong phrase || ¡Me encantaría! || Another?
+p: B || What does "¿Quieres…?" mean? || Do you want to…?
+p: B || What does "¡Claro!" mean? || Of course!
+p: B || What does "Lo siento, no puedo" mean? || Sorry, I can't.
+p: B || What does "Tengo que" mean? || I have to.
+p: B || What does "¡Me encantaría!" mean? || I'd love to!
+p: I || Invite a friend to the cinema. || ¿Quieres ir al cine?
+p: I || Say "I have to do homework." || Tengo que hacer la tarea.
+p: I || Ask "What time shall we meet?" || ¿A qué hora nos vemos?
+p: I || Where are Leo and Sara meeting? || At the bus stop.
+p: I || What time is the movie? || At 7:00.
+p: I || What does "¿Te gustaría…?" mean? || Would you like to…?
+p: C || Why give a reason when declining? || It's polite and shows you're not rejecting the person.
+p: C || Translate: Would you like to go to the park with me? || ¿Te gustaría ir al parque conmigo?
+p: C || What is a regional way to say OK in Spain? || ¡Vale!
+p: C || Write your text conversations. || Answers vary.
+mis: Declining with only "no" | Saying "tengo estudiar" without que | Saying "con mí" instead of conmigo
+et: Invita a un amigo. | Decline politely with a reason.
+mc: B || "¿Quieres…?" means || Do you want to…? | Who are you? | Where? | Why? || A
+mc: B || "¡Claro!" means || Of course! | Clear! | No way! | Maybe || A
+mc: B || "Lo siento" means || I'm sorry | I feel it | I sit | I know || A
+mc: B || "No puedo" means || I can't | I don't want | I don't know | I'm not || A
+mc: B || "Tengo que" means || I have to | I have that | I want | I can || A
+mc: B || "¡Me encantaría!" means || I'd love to! | I'm enchanted | I hate it | I'm tired || A
+mc: I || "I have to study" is || Tengo que estudiar. | Tengo estudiar. | Tengo a estudiar. | Tengo que estudio. || A
+mc: I || "What time shall we meet?" is || ¿A qué hora nos vemos? | ¿Qué hora es? | ¿Dónde nos vemos? | ¿Cuándo es? || A
+mc: I || "With me" is || conmigo | con mí | con yo | mi con || A
+mc: I || Leo and Sara meet at || the bus stop | the cinema | school | the park || A
+mc: C || Giving a reason when declining is || polite | rude | unnecessary | strange || A
+mc: C || ¡Vale! is common in || Spain | Mexico only | Argentina only | Chile only || A
+sa: B || Invite someone to the cinema. || ¿Quieres ir al cine?
+sa: B || Accept an invitation. || ¡Claro! / ¡Me encantaría!
+sa: I || Decline with a reason. || Lo siento, no puedo. Tengo que…
+sa: I || Ask where to meet. || ¿Dónde nos encontramos?
+sa: I || Use tener que in a sentence. || Answers vary.
+sa: I || Say "Would you like to play with me?" || ¿Te gustaría jugar conmigo?
+sa: C || Explain why reasons matter when declining. || They're polite and show you value the person.
+sa: C || Write your text conversations. || Answers vary.
+
+=== SPA8.D1 0
+hook: Bright orange marigolds, sugar skulls and family altars covered with photos and favourite foods: Día de los Muertos isn't a sad holiday. It's a joyful celebration of remembering loved ones.
+sc: I can describe the traditions of Día de los Muertos | I can explain the meaning of the ofrenda and its symbols | I can compare it respectfully with how other cultures remember loved ones
+v: el Día de los Muertos :: the Day of the Dead
+v: la ofrenda :: the altar of offerings
+v: el cempasúchil :: the Mexican marigold
+v: el pan de muerto :: bread of the dead
+v: la calavera de azúcar :: the sugar skull
+v: el papel picado :: cut-paper banners
+v: recordar :: to remember
+v: los antepasados :: ancestors
+ts: Día de los Muertos || Reading || How and why is Día de los Muertos celebrated?
+tx: Background (written for this lesson from public sources): ¶ Día de los Muertos is celebrated mainly in Mexico on 1 and 2 November, with roots in Indigenous traditions blended with Catholic All Saints' and All Souls' Days. UNESCO recognized Mexico's Indigenous festivity dedicated to the dead as part of the Intangible Cultural Heritage of Humanity in 2008. ¶ Families believe the spirits of loved ones return to visit, so they build an ofrenda (altar) at home with: photos of the person, their favourite foods and drinks, candles, cempasúchil (bright orange marigolds whose colour and scent are said to guide spirits), pan de muerto, calaveras de azúcar (decorated sugar skulls, often with names), and papel picado (colourful cut-paper banners). Many families visit and decorate graves at the cemetery, share food and tell stories. ¶ La Catrina, an elegant skeleton figure, comes from early 20th-century artwork by José Guadalupe Posada and is now a popular symbol. ¶ Respect: this is a family and cultural tradition, not Halloween. ¶ Activity: label a diagram of an ofrenda in Spanish and explain three symbols; then share (if comfortable) how your family or culture remembers loved ones.
+src: Summary from public sources including UNESCO.
+st: Learn when and where it's celebrated | Learn the ofrenda and its symbols | Learn about La Catrina | Label an ofrenda diagram | Share how other cultures remember loved ones
+org: Símbolo | Significado
+an: Why is Día de los Muertos joyful rather than sad? | What do the marigolds do? | How is it different from Halloween? | How does your family remember loved ones?
+pr: Label an ofrenda diagram in Spanish with six symbols and write three sentences explaining their meaning.
+ex: Date || When is Día de los Muertos? || November || El 1 y el 2 de noviembre || Where is it mainly celebrated?
+ex: Marigold || Why use cempasúchil? || Colour and scent || They're said to guide spirits home || What colour are they?
+ex: Ofrenda || What goes on an ofrenda? || Symbols || Photos, favourite foods, candles, marigolds, pan de muerto || Why favourite foods?
+ex: Not Halloween || How is it different from Halloween? || Purpose || It's about remembering and honouring loved ones, not scaring || How should we treat it?
+p: B || What is "la ofrenda"? || An altar of offerings.
+p: B || What is "el cempasúchil"? || The Mexican marigold.
+p: B || What is "el pan de muerto"? || Bread of the dead.
+p: B || What does "recordar" mean? || To remember.
+p: B || What are "los antepasados"? || Ancestors.
+p: I || When is Día de los Muertos? || 1 and 2 November.
+p: I || Where is it mainly celebrated? || Mexico.
+p: I || What is papel picado? || Colourful cut-paper banners.
+p: I || What are calaveras de azúcar? || Decorated sugar skulls.
+p: I || Who created the original Catrina artwork? || José Guadalupe Posada.
+p: I || When did UNESCO recognize the tradition? || 2008.
+p: C || Why is it a joyful celebration? || It celebrates and remembers loved ones' lives.
+p: C || Why is it important not to treat it as Halloween? || It's a meaningful family and cultural tradition.
+p: C || Translate: We remember our ancestors. || Recordamos a nuestros antepasados.
+p: C || Explain your ofrenda diagram. || Answers vary.
+mis: Calling it "Mexican Halloween" | Thinking it's sad or scary | Thinking the skulls are meant to be frightening
+et: ¿Qué es una ofrenda? | Name three symbols of Día de los Muertos.
+mc: B || "La ofrenda" is || an altar of offerings | a costume | a parade | a song || A
+mc: B || "El cempasúchil" is || a marigold | a skull | a bread | a candle || A
+mc: B || "Recordar" means || to remember | to record only | to forget | to celebrate || A
+mc: B || "Los antepasados" are || ancestors | grandchildren | friends | neighbours || A
+mc: B || "El papel picado" is || cut-paper banners | spicy paper | a book | a skull || A
+mc: B || "La calavera de azúcar" is || a sugar skull | a sugar cane | a cake | a candle || A
+mc: I || Día de los Muertos is on || 1–2 November | 31 October only | 25 December | 16 September || A
+mc: I || It is mainly celebrated in || Mexico | Spain | Argentina | Chile || A
+mc: I || La Catrina comes from artwork by || José Guadalupe Posada | Frida Kahlo | Picasso | Goya || A
+mc: I || UNESCO recognized it in || 2008 | 1908 | 1998 | 2018 || A
+mc: C || The celebration focuses on || remembering loved ones | scaring people | costumes only | candy only || A
+mc: C || Marigolds are said to || guide spirits home | scare spirits | feed animals | decorate cakes only || A
+sa: B || When and where is Día de los Muertos celebrated? || 1–2 November, mainly in Mexico.
+sa: B || What is an ofrenda? || A home altar of offerings for loved ones.
+sa: I || Name five ofrenda symbols. || Photos, foods, candles, marigolds, pan de muerto.
+sa: I || What do marigolds represent? || They guide spirits home.
+sa: I || Who is La Catrina? || An elegant skeleton figure from Posada's art.
+sa: I || How is it different from Halloween? || It honours loved ones rather than scaring.
+sa: C || Explain why it is joyful. || It celebrates the lives of loved ones.
+sa: C || Explain your ofrenda diagram. || Answers vary.
+
+=== SPA8.D1 1
+hook: Giant burning statues in Valencia, an Inca sun festival in the Andes, a tomato fight in a Spanish town: festivals across the Spanish-speaking world are as varied as the countries themselves.
+sc: I can describe festivals from different Spanish-speaking countries | I can compare festivals using más … que, menos … que and tan … como | I can explain what festivals reveal about history and culture
+v: la fiesta :: the festival, party
+v: el desfile :: the parade
+v: los fuegos artificiales :: fireworks
+v: quemar :: to burn
+v: el sol :: the sun
+v: más … que / menos … que :: more … than / less … than
+v: tan … como :: as … as
+v: tanto como :: as much as
+ts: Fiestas del mundo hispano || Comparison || How do festivals in Spanish-speaking countries compare?
+tx: Festivals (written for this lesson from public sources): ¶ Las Fallas (Valencia, España, 15–19 March): neighbourhoods build huge papier-mâché and wooden figures called ninots, some as tall as buildings. On the last night, la Cremà (19 March), they are burned in giant bonfires. UNESCO recognized Las Fallas in 2016. ¶ Inti Raymi (Cusco, Perú, 24 June): the Festival of the Sun, an Inca celebration of the sun god Inti at the winter solstice in the southern hemisphere. Today it's re-enacted with costumes, music and dance at Sacsayhuamán, near Cusco. ¶ La Tomatina (Buñol, España, last Wednesday of August): a giant, messy tomato fight in the streets. ¶ Carnaval de Barranquilla (Colombia, before Lent): parades, music, dance and costumes; UNESCO-recognized. ¶ Comparatives: Las Fallas son más grandes que La Tomatina. Inti Raymi es más antiguo que Las Fallas. La Tomatina es tan divertida como el Carnaval. ¶ Activity: groups make a comparison chart of two festivals (country, date, origin, activities, symbols) and write five comparative sentences.
+src: Summary from public sources including UNESCO.
+st: Learn about four festivals | Learn comparatives | Fill in a comparison chart | Write five comparative sentences | Share what festivals reveal
+org: Fiesta | País | Fecha | Origen | Actividades
+an: Which festival is oldest? | What happens at la Cremà? | Why is Inti Raymi in June? | What does each festival show about its culture?
+pr: Compare two festivals in a chart and write five comparative sentences, including one with tan … como.
+ex: Más que || Compare size. || más … que || Las Fallas son más grandes que La Tomatina. || Another?
+ex: Tan como || Compare fun. || tan … como || La Tomatina es tan divertida como el Carnaval. || Another?
+ex: Burning || What happens on 19 March in Valencia? || la Cremà || The ninots are burned || Why burn them?
+ex: Solstice || Why is Inti Raymi in June? || Southern hemisphere || It's the winter solstice there || What does it honour?
+p: B || What is "la fiesta"? || The festival, party.
+p: B || What is "el desfile"? || The parade.
+p: B || What are "los fuegos artificiales"? || Fireworks.
+p: B || What does "quemar" mean? || To burn.
+p: B || What does "tan … como" mean? || As … as.
+p: I || Where are Las Fallas? || Valencia, Spain.
+p: I || What are ninots? || Large papier-mâché figures.
+p: I || When is Inti Raymi? || 24 June.
+p: I || Where is Inti Raymi celebrated? || Cusco, Peru.
+p: I || What is La Tomatina? || A tomato fight in Buñol, Spain.
+p: I || What country is the Carnaval de Barranquilla in? || Colombia.
+p: C || What do festivals reveal about culture? || History, beliefs, community and values.
+p: C || Translate: Inti Raymi is older than Las Fallas. || Inti Raymi es más antiguo que Las Fallas.
+p: C || Why does Inti Raymi honour the sun? || Inti was the Inca sun god.
+p: C || Write your comparison. || Answers vary.
+mis: Saying "más grande de" instead of que | Thinking all festivals are in Spain | Treating sacred traditions as just parties
+et: Compare two festivals with más … que. | What is Inti Raymi?
+mc: B || "El desfile" is || the parade | the film | the flag | the meal || A
+mc: B || "Los fuegos artificiales" are || fireworks | wildfires | candles | lights || A
+mc: B || "Quemar" means || to burn | to stay | to want | to complain || A
+mc: B || "El sol" is || the sun | the floor | the salt | the song || A
+mc: B || "Tan … como" means || as … as | more than | less than | so much || A
+mc: B || "Más … que" means || more … than | less … than | as … as | the most || A
+mc: I || Las Fallas are in || Valencia | Madrid | Cusco | Buñol || A
+mc: I || Inti Raymi honours || the sun | the moon | the rain | the sea || A
+mc: I || La Tomatina is in || Buñol | Valencia | Lima | Bogotá || A
+mc: I || La Cremà is on || 19 March | 24 June | 1 November | 25 August || A
+mc: C || Inti Raymi is in June because || it's the southern winter solstice | it's summer in Peru | it's spring | it's random || A
+mc: C || Festivals reveal || history and values | nothing | only food | only weather || A
+sa: B || Name four festivals from the Spanish-speaking world. || Las Fallas, Inti Raymi, La Tomatina, Carnaval de Barranquilla.
+sa: B || What does "tan … como" mean? || As … as.
+sa: I || Describe Las Fallas. || Huge figures built and burned in Valencia in March.
+sa: I || Describe Inti Raymi. || An Inca sun festival in Cusco on 24 June.
+sa: I || Write a más … que sentence. || Answers vary.
+sa: I || Write a tan … como sentence. || Answers vary.
+sa: C || Explain what festivals reveal about culture. || History, beliefs and values.
+sa: C || Write your comparison. || Answers vary.
+
+=== SPA8.D1 2
+hook: Your mission: become the class expert on one festival from the Spanish-speaking world and present it so vividly that everyone wants to go.
+sc: I can research a festival from a Spanish-speaking country | I can present it in Spanish using the present and ir a + infinitive | I can answer questions about my festival
+v: la presentación :: the presentation
+v: se celebra :: it is celebrated
+v: la gente :: people
+v: llevar :: to wear, carry
+v: bailar :: to dance
+v: tradicional :: traditional
+v: el origen :: the origin
+v: me gustaría :: I would like to
+ts: Presenta una fiesta || Presentation || How do I present a festival in Spanish?
+tx: Project guide (written for this lesson): ¶ Choose a festival: Día de los Muertos, Las Fallas, Inti Raymi, La Tomatina, Carnaval de Barranquilla, Semana Santa in Seville, Los Sanfermines (Pamplona), La Guelaguetza (Oaxaca), Fiestas Patrias (Chile), Noche de San Juan, Día de la Independencia in Mexico (16 September), or another with teacher approval. ¶ Content (2 minutes): 1. ¿Qué es? ¿Dónde y cuándo se celebra? 2. ¿Cuál es el origen? 3. ¿Qué hace la gente? (La gente baila, come…, lleva…) 4. ¿Qué comidas y símbolos hay? 5. Me gustaría ir porque… / Voy a ir… ¶ Use "se celebra" (it is celebrated): Las Fallas se celebran en Valencia en marzo. ¶ Visuals: images and key words only. ¶ Questions: each presenter answers two questions: ¿Cuándo es? ¿Qué comen? ¿Por qué es importante? ¶ Rubric: content, accuracy (present and ir a), vocabulary, pronunciation, visuals, answering questions.
+src: Original project written for this lesson.
+st: Choose and research a festival | Organize five content sections | Use se celebra, the present and ir a | Prepare visuals | Present and answer questions
+org: Sección | Mis frases
+an: Why did you choose your festival? | What is its origin? | What would you most like to do there? | What did you learn from classmates?
+pr: Present a 2-minute festival presentation in Spanish with five sections and visuals, and answer two questions.
+ex: Introduction || Introduce La Guelaguetza. || se celebra + place + month || La Guelaguetza se celebra en Oaxaca, México, en julio. || What happens?
+ex: Activities || "People dance and wear traditional clothes." || la gente + verb (singular) || La gente baila y lleva ropa tradicional. || Add food.
+ex: Future || "I'd like to go because…" || me gustaría + infinitive || Me gustaría ir porque la música es increíble. || Another reason?
+ex: Answer || Q: ¿Qué comen? || Present || Comen tamales y chocolate. || Another answer?
+p: B || What does "se celebra" mean? || It is celebrated.
+p: B || What does "la gente" mean? || People.
+p: B || What does "llevar" mean? || To wear, carry.
+p: B || What does "tradicional" mean? || Traditional.
+p: B || What is "el origen"? || The origin.
+p: I || Why is "la gente" followed by a singular verb? || La gente is grammatically singular.
+p: I || Say "People eat tamales." || La gente come tamales.
+p: I || Say "I would like to go." || Me gustaría ir.
+p: I || How long is the presentation? || 2 minutes.
+p: I || When is Mexico's Independence Day? || 16 September.
+p: I || Where are Los Sanfermines? || Pamplona, Spain.
+p: C || Why use se celebra? || It describes the festival without naming who.
+p: C || Translate: The festival is celebrated in June in Peru. || La fiesta se celebra en junio en Perú.
+p: C || Why use key words on slides? || So the audience listens and you speak naturally.
+p: C || Give your presentation. || Answers vary.
+mis: Saying "la gente bailan" | Reading slides word for word | Choosing a festival without researching its origin
+et: Name your festival and where it's celebrated. | Say what people do.
+mc: B || "Se celebra" means || it is celebrated | they celebrate themselves | celebrate! | it was celebrated || A
+mc: B || "La gente" means || people | the gentleman | the gent | the family || A
+mc: B || "Llevar" means || to wear, carry | to arrive | to call | to cry || A
+mc: B || "Bailar" means || to dance | to sing | to eat | to swim || A
+mc: B || "El origen" is || the origin | the oregano | the organ | the end || A
+mc: B || "Me gustaría" means || I would like | I like | I liked | I am || A
+mc: I || "People dance" is || La gente baila. | La gente bailan. | Las gentes baila. | Gente bailamos. || A
+mc: I || "I would like to go" is || Me gustaría ir. | Me gusta iría. | Yo gustaría ir. | Me gustaría voy. || A
+mc: I || Mexico's Independence Day is || 16 September | 4 July | 1 July | 25 December || A
+mc: I || Los Sanfermines are in || Pamplona | Valencia | Cusco | Oaxaca || A
+mc: C || La gente takes a || singular verb | plural verb | no verb | past verb only || A
+mc: C || Slides should show || images and key words | full paragraphs | nothing | English only || A
+sa: B || What does "se celebra" mean? || It is celebrated.
+sa: B || What does "la gente" mean? || People.
+sa: I || Introduce your festival in one sentence. || Answers vary.
+sa: I || Describe two activities. || Answers vary.
+sa: I || Explain why you'd like to go. || Answers vary.
+sa: I || Answer "¿Por qué es importante?" || Answers vary.
+sa: C || Explain why la gente is singular. || It's a collective noun treated as singular.
+sa: C || Give your presentation. || Answers vary.
