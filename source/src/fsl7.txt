@@ -1,0 +1,659 @@
+=== FSL7.A1 1
+hook: Imagine describing your best friend to someone who's never met them. In French, the words you use (tall, funny, kind) change shape to match the person. Today you'll learn to describe people with être and adjectives.
+sc: I can describe people using il est and elle est | I can make adjectives agree with masculine and feminine nouns | I can describe myself and a friend in French
+v: Il est… / Elle est… :: He is… / She is…
+v: grand / grande :: tall
+v: petit / petite :: short, small
+v: drôle :: funny (same for masculine and feminine)
+v: gentil / gentille :: kind
+v: sportif / sportive :: athletic
+v: intelligent / intelligente :: intelligent
+v: timide :: shy (same for masculine and feminine)
+ts: Qui est-ce ? || Reading || How do I describe people in French?
+tx: Text (read aloud): ¶ Voici mon ami Karim. Il est grand et sportif. Il est très drôle ! ¶ Voici mon amie Chloé. Elle est petite et intelligente. Elle est gentille, mais un peu timide. ¶ Et moi ? Je suis grand et un peu timide. Je ne suis pas sportif, mais je suis drôle ! ¶ Grammar: être (to be): je suis, tu es, il est, elle est. ¶ Adjective agreement: for a feminine person, add -e (grand → grande). If the adjective already ends in -e, no change (drôle, timide). Some change more: gentil → gentille, sportif → sportive. ¶ Negative: ne … pas goes around the verb: Je ne suis pas timide. ¶ Activity: "Qui est-ce ?": describe a classmate or a famous person with three adjectives; the class guesses who it is.
+src: Original text written for this lesson.
+st: Read the descriptions aloud | Learn être in the singular | Practise adjective agreement | Use ne … pas | Play "Qui est-ce ?"
+org: Personne | Adjectif masculin | Adjectif féminin
+an: What adjectives describe Karim? | Why does grand become grande for Chloé? | Which adjectives don't change? | How do you make a sentence negative?
+pr: Write five sentences describing yourself and a friend using at least six adjectives with correct agreement and one negative sentence.
+ex: Agreement || Describe Chloé as tall. || Feminine: add -e || Elle est grande. || Describe Karim as tall.
+ex: No change || Is "drôle" different for a girl? || Ends in -e || No: Il est drôle. Elle est drôle. || Find another.
+ex: Special forms || Make "sportif" feminine. || -if → -ive || sportive || What about gentil?
+ex: Negative || Say "I am not shy." || ne … pas around suis || Je ne suis pas timide. || Say "She is not tall."
+p: B || How do you say "He is"? || Il est.
+p: B || How do you say "She is"? || Elle est.
+p: B || What does "drôle" mean? || Funny.
+p: B || What does "gentil" mean? || Kind.
+p: B || How do you say "I am"? || Je suis.
+p: I || Feminine of grand? || Grande.
+p: I || Feminine of petit? || Petite.
+p: I || Feminine of sportif? || Sportive.
+p: I || Feminine of gentil? || Gentille.
+p: I || Translate: She is intelligent. || Elle est intelligente.
+p: I || Translate: I am not athletic (boy). || Je ne suis pas sportif.
+p: C || Why do adjectives change in French? || They agree with the gender of the person.
+p: C || Why don't drôle and timide change? || They already end in -e.
+p: C || Translate: My friend (girl) is tall and kind. || Mon amie est grande et gentille.
+p: C || Describe yourself in three sentences. || Answers vary.
+mis: Forgetting to add -e for feminine | Adding an extra -e to drôle or timide | Putting ne … pas in the wrong place
+et: Décris un ami ou une amie avec deux adjectifs. | Make "petit" feminine.
+mc: B || "Il est" means || He is | She is | I am | You are || A
+mc: B || "Elle est" means || She is | He is | We are | They are || A
+mc: B || "Drôle" means || funny | tall | shy | kind || A
+mc: B || "Je suis" means || I am | you are | he is | I have || A
+mc: B || "Timide" means || shy | tall | sporty | smart || A
+mc: B || "Gentil" means || kind | mean | tall | small || A
+mc: I || Feminine of grand is || grande | grand | grands | grandes || A
+mc: I || Feminine of sportif is || sportive | sportife | sportif | sportiffe || A
+mc: I || Feminine of gentil is || gentille | gentile | gentil | gentilles || A
+mc: I || "I am not shy" is || Je ne suis pas timide. | Je suis pas ne timide. | Ne je suis timide. | Je timide pas. || A
+mc: C || Adjectives change to agree with || gender | the weather | the verb only | the day || A
+mc: C || "Elle est drôle" is correct because drôle || already ends in -e | is masculine | is plural | is a verb || A
+sa: B || Translate: He is tall. || Il est grand.
+sa: B || Translate: She is funny. || Elle est drôle.
+sa: I || Make petit, intelligent and sportif feminine. || Petite, intelligente, sportive.
+sa: I || Write a negative sentence about yourself. || Answers vary.
+sa: I || Conjugate être: je, tu, il, elle. || Je suis, tu es, il est, elle est.
+sa: I || Translate: My friend (boy) is kind and athletic. || Mon ami est gentil et sportif.
+sa: C || Explain adjective agreement. || Adjectives match the gender of the person.
+sa: C || Describe yourself and a friend. || Answers vary.
+
+=== FSL7.A1 2
+hook: Getting to know someone in French means asking questions: Where do you live? What do you like? Do you have brothers or sisters? Today you'll ask and answer the questions people ask on a first meeting.
+sc: I can ask personal questions in French | I can answer with full sentences | I can hold a short getting-to-know-you conversation
+v: Où habites-tu ? :: Where do you live?
+v: Tu as des frères ou des sœurs ? :: Do you have brothers or sisters?
+v: J'ai un frère / une sœur :: I have a brother / a sister
+v: Je n'ai pas de… :: I don't have any…
+v: Qu'est-ce que tu aimes ? :: What do you like?
+v: Tu es d'où ? :: Where are you from?
+v: Je viens de… :: I come from…
+v: Et toi ? :: And you?
+ts: Faisons connaissance || Dialogue || How do I ask and answer personal questions?
+tx: Dialogue (read with a partner): ¶ Nadia : Salut ! Tu es d'où ? ¶ Lucas : Je viens de Montréal, mais j'habite à Edmonton maintenant. Et toi ? ¶ Nadia : Je viens du Liban. J'habite à Calgary. Tu as des frères ou des sœurs ? ¶ Lucas : Oui, j'ai un frère et une sœur. Et toi ? ¶ Nadia : Non, je n'ai pas de frères ni de sœurs. Je suis fille unique. ¶ Lucas : Qu'est-ce que tu aimes ? ¶ Nadia : J'aime le soccer et la musique. Et toi ? ¶ Lucas : Moi, j'aime les jeux vidéo ! ¶ Grammar: avoir (to have): j'ai, tu as, il a, elle a. After a negative, un/une/des become de: J'ai un frère → Je n'ai pas de frère. ¶ Three ways to ask a question: rising intonation (Tu as un chien ?), est-ce que (Est-ce que tu as un chien ?), inversion (As-tu un chien ?). ¶ Activity: interview three classmates and record their answers in a chart.
+src: Original dialogue written for this lesson.
+st: Read the dialogue with a partner | Learn avoir and negative de | Practise three ways to ask questions | Interview three classmates | Report one classmate's answers
+org: Nom | Il/Elle habite à… | Frères/sœurs | Il/Elle aime…
+an: Where is Lucas from, and where does he live now? | Why does Nadia say "pas de frères"? | Which question form is easiest for you? | What did you learn about a classmate?
+pr: Interview a classmate with five questions and write a short paragraph about them in French.
+ex: Question || Ask "Do you have a dog?" with est-ce que. || Est-ce que + statement || Est-ce que tu as un chien ? || Ask it with intonation.
+ex: Negative de || Say "I don't have a sister." || un/une → de || Je n'ai pas de sœur. || Say "I don't have a cat."
+ex: Avoir || "She has a brother." || elle a || Elle a un frère. || "You have a sister."
+ex: Reporting || Report: Lucas lives in Edmonton. || il habite || Il habite à Edmonton. || Report what he likes.
+p: B || How do you ask "Where do you live?" || Où habites-tu ?
+p: B || How do you say "I have a brother"? || J'ai un frère.
+p: B || What does "Et toi ?" mean? || And you?
+p: B || How do you say "I come from…"? || Je viens de…
+p: B || What does "Qu'est-ce que tu aimes ?" mean? || What do you like?
+p: I || Conjugate avoir: je, tu, il. || J'ai, tu as, il a.
+p: I || Say "I don't have a sister." || Je n'ai pas de sœur.
+p: I || Ask "Do you have a cat?" with est-ce que. || Est-ce que tu as un chat ?
+p: I || Where is Lucas from? || Montréal.
+p: I || What does Nadia like? || Soccer and music.
+p: I || What does "fille unique" mean? || Only child (girl).
+p: C || Why does un become de after a negative? || French grammar uses de after ne … pas.
+p: C || Name three ways to ask a question in French. || Intonation, est-ce que, inversion.
+p: C || Translate: She lives in Calgary and has two brothers. || Elle habite à Calgary et elle a deux frères.
+p: C || Write a paragraph about a classmate. || Answers vary.
+mis: Saying "je n'ai pas un frère" | Forgetting "Et toi ?" to keep a conversation going | Confusing habiter and venir de
+et: Pose deux questions à un camarade. | Say "I don't have a dog."
+mc: B || "Où habites-tu ?" means || Where do you live? | How old are you? | What's your name? | What do you like? || A
+mc: B || "J'ai un frère" means || I have a brother | I am a brother | I like my brother | I have a sister || A
+mc: B || "Et toi ?" means || And you? | Goodbye | Thank you | Me too || A
+mc: B || "Je viens de" means || I come from | I live in | I like | I have || A
+mc: B || "Une sœur" is || a sister | a brother | a mother | a friend || A
+mc: B || "Tu as" means || you have | you are | I have | he has || A
+mc: I || "I don't have a sister" is || Je n'ai pas de sœur. | Je n'ai pas une sœur. | Je pas ai sœur. | J'ai ne sœur. || A
+mc: I || Est-ce que questions begin with || Est-ce que | Où | Qui | Et || A
+mc: I || "Il a" means || he has | he is | I have | she is || A
+mc: I || Nadia likes || soccer and music | video games | nothing | dogs || A
+mc: C || After ne … pas, un/une become || de | des | le | la || A
+mc: C || "As-tu un chien ?" uses || inversion | est-ce que | intonation only | a negative || A
+sa: B || Ask "Where do you live?" || Où habites-tu ?
+sa: B || Say "I have a sister." || J'ai une sœur.
+sa: I || Conjugate avoir for je, tu, il, elle. || J'ai, tu as, il a, elle a.
+sa: I || Say "I don't have any brothers." || Je n'ai pas de frères.
+sa: I || Ask "Do you like music?" two ways. || Tu aimes la musique ? / Est-ce que tu aimes la musique ?
+sa: I || Where does Lucas live now? || À Edmonton.
+sa: C || Explain the negative with de. || Un, une, des become de after ne … pas.
+sa: C || Write about a classmate. || Answers vary.
+
+=== FSL7.B1 0
+hook: Math, science, gym, art: you spend every day surrounded by school subjects and supplies. Learning their French names lets you talk about the place you know best.
+sc: I can name school subjects in French | I can name school supplies with the correct article | I can say what's in my backpack
+v: les matières :: school subjects
+v: les maths :: math
+v: les sciences :: science
+v: l'éducation physique :: phys ed
+v: le français / l'anglais :: French / English
+v: un crayon / un stylo :: a pencil / a pen
+v: une calculatrice :: a calculator
+v: un cahier :: a notebook
+ts: Mon sac à dos || Reading || What subjects and supplies do I have at school?
+tx: Text (read aloud): ¶ Bonjour ! Je m'appelle Théo. Je suis en septième année. Mes matières sont les maths, les sciences, le français, l'anglais, les études sociales, l'art et l'éducation physique. ¶ Dans mon sac à dos, il y a un cahier, deux crayons, un stylo bleu, une gomme, une règle et une calculatrice. Il n'y a pas de livre aujourd'hui ! ¶ Grammar: articles. Masculine: un / le (un cahier, le cahier). Feminine: une / la (une règle, la règle). Before a vowel: l' (l'anglais). Plural: des / les. ¶ Il y a = there is / there are. Il n'y a pas de = there isn't / there aren't any. ¶ Activity: "Qu'est-ce qu'il y a dans ton sac ?": partners guess items in each other's bags using Il y a un/une… ?
+src: Original text written for this lesson.
+st: Read Théo's text | Name subjects and supplies | Learn un, une, le, la, l' and des | Use il y a | Play the backpack guessing game
+org: Objet | Masculin ou féminin ? | un/une | le/la/l'
+an: What subjects does Théo have? | What is in his backpack? | How do you know if a noun is masculine or feminine? | What does il n'y a pas de mean?
+pr: Write a list of your subjects and a paragraph about what's in your backpack, using il y a and correct articles.
+ex: Article || Is "règle" masculine or feminine? || Check the text: une règle || Feminine || What article for "cahier"?
+ex: Il y a || Say "There is a calculator." || il y a + une || Il y a une calculatrice. || Say "There are two pens."
+ex: Negative || Say "There isn't a book." || il n'y a pas de || Il n'y a pas de livre. || Say "There isn't a ruler."
+ex: Before vowel || Why "l'anglais"? || Vowel || le becomes l' before a vowel sound || Another example?
+p: B || What does "les matières" mean? || School subjects.
+p: B || How do you say "math"? || Les maths.
+p: B || What is "un crayon"? || A pencil.
+p: B || What is "un cahier"? || A notebook.
+p: B || What is "une calculatrice"? || A calculator.
+p: I || Is "règle" masculine or feminine? || Feminine.
+p: I || What does "il y a" mean? || There is / there are.
+p: I || Say "There are two pencils." || Il y a deux crayons.
+p: I || Say "There isn't a pen." || Il n'y a pas de stylo.
+p: I || Why do we write l'éducation physique? || Le/la becomes l' before a vowel.
+p: I || How do you say "phys ed"? || L'éducation physique.
+p: C || How can you learn a noun's gender? || Learn it with its article.
+p: C || Translate: In my backpack there is a ruler and an eraser. || Dans mon sac à dos, il y a une règle et une gomme.
+p: C || Translate: My subjects are math, science and French. || Mes matières sont les maths, les sciences et le français.
+p: C || Describe what's in your backpack. || Answers vary.
+mis: Learning nouns without their article | Saying "il n'y a pas un" | Forgetting l' before a vowel
+et: Nomme trois matières. | Qu'est-ce qu'il y a dans ton sac ?
+mc: B || "Les maths" means || math | science | art | music || A
+mc: B || "Un stylo" is || a pen | a pencil | a ruler | a book || A
+mc: B || "Un cahier" is || a notebook | a calculator | a backpack | a desk || A
+mc: B || "Il y a" means || there is/are | he has | I have | she is || A
+mc: B || "Une règle" is || a ruler | a rule book | a pencil | a teacher || A
+mc: B || "L'éducation physique" is || phys ed | physics | art | music || A
+mc: I || The feminine indefinite article is || une | un | le | des || A
+mc: I || "There isn't a book" is || Il n'y a pas de livre. | Il y a un livre. | Il n'y a pas un livre. | Il y a pas livre. || A
+mc: I || Before a vowel, le becomes || l' | la | les | un || A
+mc: I || "Une calculatrice" is || feminine | masculine | plural | a verb || A
+mc: C || Learn gender by || memorizing nouns with articles | guessing | spelling | colour || A
+mc: C || "Il y a deux crayons" means || There are two pencils | He has two pencils | I have two pens | There is one pencil || A
+sa: B || Name four school subjects in French. || Les maths, les sciences, le français, l'art.
+sa: B || Name four school supplies with articles. || Un crayon, un stylo, une règle, un cahier.
+sa: I || Say "There is a calculator." || Il y a une calculatrice.
+sa: I || Say "There isn't a ruler." || Il n'y a pas de règle.
+sa: I || When do you use l'? || Before a vowel sound.
+sa: I || List Théo's subjects. || Maths, sciences, français, anglais, études sociales, art, éducation physique.
+sa: C || Explain why we learn nouns with articles. || To know their gender.
+sa: C || Describe your backpack. || Answers vary.
+
+=== FSL7.B1 1
+hook: "What time is it?" is one of the most useful questions in any language: for catching a bus, meeting a friend or knowing when class ends. French uses a 24-hour clock in schedules, just like transit timetables.
+sc: I can ask and tell the time in French | I can use et quart, et demie and moins le quart | I can read a schedule using the 24-hour clock
+v: Quelle heure est-il ? :: What time is it?
+v: Il est … heures :: It is … o'clock
+v: et quart :: quarter past
+v: et demie :: half past
+v: moins le quart :: quarter to
+v: midi / minuit :: noon / midnight
+v: l'horaire :: the schedule
+v: à … heures :: at … o'clock
+ts: Quelle heure est-il ? || Practice || How do I tell time in French?
+tx: Time guide (written for this lesson): ¶ Il est une heure. Il est deux heures. Il est huit heures dix. ¶ Il est trois heures et quart (3:15). Il est trois heures et demie (3:30). Il est quatre heures moins le quart (3:45). Il est quatre heures moins dix (3:50). ¶ Il est midi (12:00 p.m.). Il est minuit (12:00 a.m.). ¶ 24-hour clock (schedules, transit, TV): 13 h = 1 p.m., 15 h 30 = 3:30 p.m., 20 h 45 = 8:45 p.m. ¶ Théo's schedule: 8 h 30: les maths; 9 h 30: le français; 10 h 30: la récréation; 10 h 45: les sciences; 12 h: le dîner; 13 h: l'éducation physique; 14 h: l'art; 15 h 15: fin des cours. ¶ Note: in Canada, "le dîner" usually means lunch and "le souper" means supper. ¶ Activity: partners use paper clocks; one sets a time, the other says it. Then answer: "À quelle heure est le cours de sciences ?"
+src: Original activity written for this lesson.
+st: Learn hours and minutes | Learn quart, demie and moins | Practise with paper clocks | Read the 24-hour schedule | Ask when classes start
+org: Heure | En français | 24 heures
+an: How do you say half past? | Why do schedules use the 24-hour clock? | What does "le dîner" mean in Canada? | When does Théo have phys ed?
+pr: Write your own school schedule in French using the 24-hour clock, and answer three "À quelle heure…?" questions.
+ex: Quarter past || Say 7:15. || et quart || Il est sept heures et quart. || Say 7:30.
+ex: Quarter to || Say 5:45. || Next hour moins le quart || Il est six heures moins le quart. || Say 5:50.
+ex: 24-hour || What is 15 h 30? || Subtract 12 || 3:30 p.m. || What is 20 h?
+ex: À quelle heure ? || When is science? || Read the schedule || Le cours de sciences est à dix heures quarante-cinq. || When is art?
+p: B || How do you ask "What time is it?" || Quelle heure est-il ?
+p: B || Say "It is two o'clock." || Il est deux heures.
+p: B || What does "et demie" mean? || Half past.
+p: B || What is "midi"? || Noon.
+p: B || What is "minuit"? || Midnight.
+p: I || Say 9:15. || Il est neuf heures et quart.
+p: I || Say 9:30. || Il est neuf heures et demie.
+p: I || Say 9:45. || Il est dix heures moins le quart.
+p: I || What is 14 h in 12-hour time? || 2 p.m.
+p: I || When does Théo have math? || À 8 h 30.
+p: I || What is "le dîner" in Canada? || Lunch.
+p: C || Why does 3:45 use quatre? || French says "four minus a quarter."
+p: C || Why do schedules use the 24-hour clock? || To avoid confusing a.m. and p.m.
+p: C || Translate: Art class is at two o'clock. || Le cours d'art est à deux heures.
+p: C || Write your schedule. || Answers vary.
+mis: Saying "trois heures quarante-cinq" only and not knowing moins le quart | Forgetting heures after the number | Mixing up midi and minuit
+et: Quelle heure est-il ? (3:30) | What is 18 h?
+mc: B || "Quelle heure est-il ?" means || What time is it? | How are you? | Where is it? | What day is it? || A
+mc: B || "Et demie" means || half past | quarter past | quarter to | o'clock || A
+mc: B || "Midi" is || noon | midnight | morning | evening || A
+mc: B || "Et quart" means || quarter past | half past | quarter to | ten past || A
+mc: B || "L'horaire" is || the schedule | the hour | the clock | the class || A
+mc: B || "Minuit" is || midnight | noon | morning | lunch || A
+mc: I || 4:45 is || cinq heures moins le quart | quatre heures moins le quart | quatre heures et demie | cinq heures et quart || A
+mc: I || 15 h is || 3 p.m. | 5 p.m. | 1 p.m. | 3 a.m. || A
+mc: I || 8:30 is || huit heures et demie | huit heures et quart | neuf heures moins le quart | huit heures || A
+mc: I || In Canada, "le dîner" is usually || lunch | breakfast | supper | a snack || A
+mc: C || The 24-hour clock avoids || a.m./p.m. confusion | French words | minutes | numbers || A
+mc: C || "À quelle heure ?" asks || at what time | what time is it now | how long | which day || A
+sa: B || Ask what time it is. || Quelle heure est-il ?
+sa: B || Say 1:00. || Il est une heure.
+sa: I || Say 6:15, 6:30 and 6:45. || Six heures et quart; six heures et demie; sept heures moins le quart.
+sa: I || Convert 20 h 30. || 8:30 p.m.
+sa: I || When is Théo's lunch? || À midi.
+sa: I || Say "Science is at 10:45." || Le cours de sciences est à dix heures quarante-cinq.
+sa: C || Explain moins le quart. || The next hour minus a quarter.
+sa: C || Write your schedule. || Answers vary.
+
+=== FSL7.B1 2
+hook: Everyone has a favourite class and one they could live without. Saying what you like, don't like and why is the start of real conversation in French.
+sc: I can say what I like and don't like with j'aime and je n'aime pas | I can give a reason with parce que | I can name my favourite subject
+v: J'aime… :: I like…
+v: Je n'aime pas… :: I don't like…
+v: J'adore… :: I love…
+v: Je déteste… :: I hate…
+v: préféré / préférée :: favourite
+v: parce que :: because
+v: facile / difficile :: easy / difficult
+v: intéressant / ennuyeux :: interesting / boring
+ts: Ma matière préférée || Survey || How do I talk about what I like at school?
+tx: Text (read aloud): ¶ J'adore l'éducation physique parce que c'est amusant. J'aime aussi les sciences parce que c'est intéressant. Je n'aime pas beaucoup les maths parce que c'est difficile pour moi. Ma matière préférée, c'est l'art ! ¶ Grammar: after aimer, adorer and détester, use le, la, l' or les: J'aime les sciences (not "j'aime sciences"). ¶ C'est + adjective (masculine form): C'est facile. C'est ennuyeux. ¶ Préféré agrees: mon sport préféré, ma matière préférée. ¶ Survey activity: ask five classmates: Quelle est ta matière préférée ? Pourquoi ? Record answers, then make a class bar graph with French labels. ¶ Talk: Moi aussi ! (Me too!) / Moi non plus ! (Me neither!) / Pas moi ! (Not me!)
+src: Original text written for this lesson.
+st: Read the opinion text | Learn aimer, adorer, détester | Give reasons with parce que | Survey five classmates | Graph and discuss results
+org: Nom | Matière préférée | Pourquoi ?
+an: Why does the writer love phys ed? | Why do we say "j'aime les sciences," not "j'aime sciences"? | What is the class's favourite subject? | When do you say "moi non plus"?
+pr: Write four sentences about your school likes and dislikes with reasons, including your favourite subject.
+ex: Opinion || Say "I like French because it's interesting." || j'aime + le + parce que || J'aime le français parce que c'est intéressant. || Say it with adore.
+ex: Article || Fix "J'aime maths." || Add les || J'aime les maths. || Fix "Je déteste art."
+ex: Préférée || "My favourite subject is science." || Feminine: matière || Ma matière préférée, c'est les sciences. || Say your own.
+ex: Reply || Friend: "Je n'aime pas les maths." You agree. || Negative agreement || Moi non plus ! || What if you disagree?
+p: B || What does "j'aime" mean? || I like.
+p: B || What does "je déteste" mean? || I hate.
+p: B || What does "parce que" mean? || Because.
+p: B || What does "facile" mean? || Easy.
+p: B || What does "ennuyeux" mean? || Boring.
+p: I || Say "I love art." || J'adore l'art.
+p: I || Say "I don't like science." || Je n'aime pas les sciences.
+p: I || Ask "What is your favourite subject?" || Quelle est ta matière préférée ?
+p: I || How do you say "Me too"? || Moi aussi.
+p: I || How do you say "Me neither"? || Moi non plus.
+p: I || What follows aimer before a noun? || Le, la, l' or les.
+p: C || Why is it "ma matière préférée"? || Matière is feminine, so préféré adds -e.
+p: C || Translate: I hate math because it's difficult. || Je déteste les maths parce que c'est difficile.
+p: C || Translate: My favourite sport is soccer. || Mon sport préféré, c'est le soccer.
+p: C || Write about your likes and dislikes. || Answers vary.
+mis: Leaving out the article after aimer | Using "moi aussi" to agree with a negative | Forgetting préféré agreement
+et: Quelle est ta matière préférée ? Pourquoi ? | Say "Me neither."
+mc: B || "J'adore" means || I love | I hate | I have | I am || A
+mc: B || "Je n'aime pas" means || I don't like | I like | I love | I am not || A
+mc: B || "Parce que" means || because | but | and | or || A
+mc: B || "Difficile" means || difficult | easy | fun | boring || A
+mc: B || "Intéressant" means || interesting | boring | easy | sad || A
+mc: B || "Préféré" means || favourite | prepared | difficult | finished || A
+mc: I || "I like science" is || J'aime les sciences. | J'aime sciences. | Je sciences aime. | J'aime la science les. || A
+mc: I || "Me neither" is || Moi non plus | Moi aussi | Pas moi | Toi aussi || A
+mc: I || "My favourite subject" is || ma matière préférée | mon matière préféré | ma matière préféré | mes matière || A
+mc: I || "C'est facile" means || It's easy | It's difficult | It's fun | It's boring || A
+mc: C || After aimer we use || an article | no article | a verb only | a number || A
+mc: C || To agree with "Je n'aime pas les maths" say || Moi non plus | Moi aussi | Oui | Merci || A
+sa: B || Say "I like French." || J'aime le français.
+sa: B || Say "I hate homework." || Je déteste les devoirs.
+sa: I || Give an opinion with a reason. || Answers vary.
+sa: I || Ask a classmate their favourite subject. || Quelle est ta matière préférée ?
+sa: I || When do you use moi non plus? || To agree with a negative statement.
+sa: I || Report your survey's favourite subject. || Answers vary.
+sa: C || Explain why we say "ma matière préférée." || Matière is feminine.
+sa: C || Write about your likes and dislikes. || Answers vary.
+
+=== FSL7.C1 0
+hook: Croissants, poutine, tourtière, crêpes: French-speaking cultures have given the world some famous foods. Learning food vocabulary is also learning about culture.
+sc: I can name common foods and drinks in French | I can say what I eat at each meal | I can say what I like to eat and drink
+v: le pain :: bread
+v: le fromage :: cheese
+v: la pomme :: apple
+v: le poulet :: chicken
+v: les légumes :: vegetables
+v: le lait / le jus :: milk / juice
+v: le petit-déjeuner :: breakfast
+v: manger / boire :: to eat / to drink
+ts: Bon appétit ! || Reading || What foods and drinks do I eat in a day?
+tx: Text (read aloud): ¶ Au petit-déjeuner, je mange des céréales et une banane. Je bois du lait. ¶ Au dîner, à l'école, je mange un sandwich au poulet et une pomme. Je bois de l'eau. ¶ Au souper, avec ma famille, nous mangeons du riz, du poisson et des légumes. ¶ Le week-end, mon père prépare des crêpes. Miam ! ¶ Food culture: poutine (fries, cheese curds and gravy) comes from Quebec; tourtière is a meat pie eaten at holidays in Quebec; crêpes are thin pancakes from France. ¶ Verbs: manger (je mange, tu manges, il mange, nous mangeons); boire (je bois, tu bois, il boit). ¶ Activity: sort food pictures into breakfast, lunch and supper; then ask a partner: Qu'est-ce que tu manges au petit-déjeuner ?
+src: Original text written for this lesson.
+st: Read the meals text | Learn food and drink words | Learn manger and boire | Sort foods by meal | Interview a partner
+org: Repas | Je mange… | Je bois…
+an: What does the writer eat for breakfast? | What is poutine? | What do you eat for supper? | How are mealtime words in Canada different from France?
+pr: Describe what you eat and drink at each meal in a short paragraph, using manger and boire.
+ex: Meal || Say "For breakfast I eat bread." || Au petit-déjeuner, je mange… || Au petit-déjeuner, je mange du pain. || Add a drink.
+ex: Boire || "I drink juice." || je bois || Je bois du jus. || "She drinks milk."
+ex: Culture || What is poutine? || Quebec dish || Fries with cheese curds and gravy || Where is it from?
+ex: Nous || "We eat chicken." || nous mangeons || Nous mangeons du poulet. || Why the e in mangeons?
+p: B || What is "le pain"? || Bread.
+p: B || What is "le fromage"? || Cheese.
+p: B || What is "la pomme"? || Apple.
+p: B || What is "le poulet"? || Chicken.
+p: B || What is "le petit-déjeuner"? || Breakfast.
+p: I || Say "I eat an apple." || Je mange une pomme.
+p: I || Say "I drink water." || Je bois de l'eau.
+p: I || Conjugate boire: je, tu, il. || Je bois, tu bois, il boit.
+p: I || Where is poutine from? || Quebec.
+p: I || What is tourtière? || A meat pie.
+p: I || What is "le souper" in Canada? || Supper.
+p: C || Why is it "nous mangeons" with an e? || To keep the soft g sound.
+p: C || Translate: For lunch I eat a chicken sandwich. || Au dîner, je mange un sandwich au poulet.
+p: C || Translate: On weekends my mother makes crêpes. || Le week-end, ma mère prépare des crêpes.
+p: C || Describe your meals. || Answers vary.
+mis: Saying "je mange pain" without an article | Confusing manger and boire | Thinking dîner always means supper
+et: Qu'est-ce que tu manges au petit-déjeuner ? | Say "I drink milk."
+mc: B || "Le pain" is || bread | cheese | apple | milk || A
+mc: B || "Le fromage" is || cheese | bread | chicken | juice || A
+mc: B || "La pomme" is || apple | potato | pear | orange || A
+mc: B || "Manger" means || to eat | to drink | to cook | to like || A
+mc: B || "Boire" means || to drink | to eat | to see | to buy || A
+mc: B || "Le petit-déjeuner" is || breakfast | lunch | supper | dessert || A
+mc: I || "I drink juice" is || Je bois du jus. | Je mange du jus. | Je bois jus. | J'ai jus. || A
+mc: I || "Nous" form of manger is || mangeons | mangons | mangez | mangent || A
+mc: I || Poutine comes from || Quebec | France | Belgium | Haiti || A
+mc: I || Tourtière is || a meat pie | a drink | a cheese | a dessert || A
+mc: C || Mangeons keeps an e to || keep the soft g | look nice | show plural only | nothing || A
+mc: C || In Canada, "le dîner" is usually || lunch | breakfast | supper | a snack || A
+sa: B || Name four foods in French. || Le pain, le fromage, la pomme, le poulet.
+sa: B || Name two drinks. || Le lait, le jus.
+sa: I || Conjugate manger for je, tu, nous. || Je mange, tu manges, nous mangeons.
+sa: I || What is poutine? || Fries with cheese curds and gravy.
+sa: I || Say what you eat for breakfast. || Answers vary.
+sa: I || Say "I drink water." || Je bois de l'eau.
+sa: C || Explain mangeons. || The e keeps the soft g sound.
+sa: C || Describe your meals. || Answers vary.
+
+=== FSL7.C1 1
+hook: In English we say "I eat bread" or "some bread." In French you can't leave the article out: je mange du pain. These little words (du, de la, des) are called partitive articles, and they're used every time you talk about food.
+sc: I can use du, de la, de l' and des for "some" | I can use de after negatives and quantities | I can describe a meal with correct articles
+v: du :: some (masculine): du pain
+v: de la :: some (feminine): de la salade
+v: de l' :: some (before a vowel): de l'eau
+v: des :: some (plural): des fraises
+v: pas de :: no / not any
+v: beaucoup de :: a lot of
+v: un peu de :: a little
+v: une bouteille de :: a bottle of
+ts: Du, de la, des || Grammar || How do I say "some" in French?
+tx: Partitive guide (written for this lesson): ¶ Use partitives for an unknown amount of something: ¶ Masculine: du (du fromage, du poulet). Feminine: de la (de la soupe, de la tarte). Before a vowel: de l' (de l'eau, de l'ananas). Plural: des (des pommes, des légumes). ¶ After a negative, all become de (d' before a vowel): Je ne mange pas de viande. Je ne bois pas d'eau gazeuse. ¶ After quantities, use de: beaucoup de fromage, un peu de sucre, une bouteille d'eau, un kilo de pommes. ¶ But after aimer, adorer, détester (general likes), use le/la/les: J'aime le fromage (cheese in general). ¶ Activity: "Le pique-nique": groups plan a picnic basket and write sentences: Dans le panier, il y a du pain, de la limonade, des fraises… Then a partner asks Est-ce qu'il y a du chocolat ? → Non, il n'y a pas de chocolat.
+src: Original activity written for this lesson.
+st: Learn du, de la, de l', des | Learn de after negatives | Learn de after quantities | Compare partitives with aimer + le | Plan a picnic basket in French
+org: Nourriture | Genre | Partitif | Négatif
+an: Why is it de l'eau? | Why does du become de after ne … pas? | Why is it "j'aime le fromage" but "je mange du fromage"? | What's in your picnic basket?
+pr: Write a picnic list of eight items with correct partitives, then two negative sentences and two sentences with quantities.
+ex: Masculine || "I eat some cheese." || Fromage is masculine || Je mange du fromage. || "some soup"?
+ex: Feminine || "I eat some soup." || Soupe is feminine || Je mange de la soupe. || "some water"?
+ex: Negative || "I don't eat meat." || de after pas || Je ne mange pas de viande. || "I don't drink milk."
+ex: Aimer vs manger || "I like cheese" vs "I eat cheese". || General vs some || J'aime le fromage. Je mange du fromage. || Why the difference?
+p: B || What is "du" used for? || Some, with masculine nouns.
+p: B || What is "de la" used for? || Some, with feminine nouns.
+p: B || When do you use "de l'"? || Before a vowel.
+p: B || When do you use "des"? || With plural nouns.
+p: B || What does "beaucoup de" mean? || A lot of.
+p: I || "Some bread"? || Du pain.
+p: I || "Some salad"? || De la salade.
+p: I || "Some water"? || De l'eau.
+p: I || "Some apples"? || Des pommes.
+p: I || "I don't eat cheese." || Je ne mange pas de fromage.
+p: I || "A bottle of water"? || Une bouteille d'eau.
+p: C || Why do partitives become de after a negative? || French grammar requires de after ne … pas.
+p: C || Why "j'aime le chocolat," not "du chocolat"? || Aimer talks about things in general and uses le/la/les.
+p: C || Translate: There is a lot of cheese but no bread. || Il y a beaucoup de fromage mais il n'y a pas de pain.
+p: C || Write your picnic list. || Answers vary.
+mis: Leaving out the partitive | Saying "pas du" after a negative | Using du after aimer
+et: Complete: Je bois ___ lait. | Say "I don't eat fish."
+mc: B || "Du" is used with || masculine nouns | feminine nouns | plurals | vowels only || A
+mc: B || "De la" is used with || feminine nouns | masculine nouns | plurals | verbs || A
+mc: B || "Some water" is || de l'eau | du eau | de la eau | des eau || A
+mc: B || "Some apples" is || des pommes | du pommes | de la pommes | de pommes || A
+mc: B || "Beaucoup de" means || a lot of | a little | none | some || A
+mc: B || "Un peu de" means || a little | a lot | none | all || A
+mc: I || "I don't eat meat" is || Je ne mange pas de viande. | Je ne mange pas de la viande. | Je mange pas viande. | Je ne mange de viande. || A
+mc: I || "Some soup" is || de la soupe | du soupe | des soupe | de soupe || A
+mc: I || "A bottle of juice" is || une bouteille de jus | une bouteille du jus | une bouteille des jus | une jus bouteille || A
+mc: I || "I like cheese" is || J'aime le fromage. | J'aime du fromage. | J'aime de fromage. | J'aime fromage. || A
+mc: C || After ne … pas, du becomes || de | des | le | du || A
+mc: C || After aimer we use || le/la/les | du/de la | de | nothing || A
+sa: B || Give the four partitive forms. || Du, de la, de l', des.
+sa: B || Say "some bread." || Du pain.
+sa: I || Say "I eat some salad and some apples." || Je mange de la salade et des pommes.
+sa: I || Say "I don't drink juice." || Je ne bois pas de jus.
+sa: I || Say "a lot of chocolate." || Beaucoup de chocolat.
+sa: I || Compare "j'aime le fromage" and "je mange du fromage." || General like versus eating some.
+sa: C || Explain the negative rule. || Partitives become de after ne … pas.
+sa: C || Write your picnic list. || Answers vary.
+
+=== FSL7.C1 2
+hook: Walk into a café in Quebec City, Moncton or Paris and you'll hear "Bonjour, je voudrais…" over and over. Ordering politely is one of the most practical skills a French learner can have.
+sc: I can order politely in a café using je voudrais | I can ask for prices and the bill | I can role-play a café conversation
+v: Je voudrais… :: I would like…
+v: s'il vous plaît :: please (polite)
+v: Vous désirez ? :: What would you like?
+v: Et avec ça ? :: Anything else?
+v: C'est combien ? :: How much is it?
+v: L'addition, s'il vous plaît :: The bill, please
+v: un chocolat chaud :: a hot chocolate
+v: un croissant :: a croissant
+ts: Au café || Role-play || How do I order politely in a café?
+tx: Dialogue (read in threes): ¶ Serveur : Bonjour ! Vous désirez ? ¶ Amira : Bonjour ! Je voudrais un chocolat chaud et un croissant, s'il vous plaît. ¶ Serveur : Et pour vous ? ¶ Ben : Je voudrais un jus d'orange et une crêpe au sucre, s'il vous plaît. ¶ Serveur : Et avec ça ? ¶ Ben : C'est tout, merci. ¶ (plus tard) ¶ Amira : L'addition, s'il vous plaît. C'est combien ? ¶ Serveur : Ça fait douze dollars cinquante. ¶ Amira : Voilà. Merci, au revoir ! ¶ Café menu (in dollars): chocolat chaud 3,50 $; café au lait 3,75 $; jus d'orange 3,00 $; croissant 2,75 $; crêpe au sucre 4,25 $; sandwich jambon-fromage 7,50 $. ¶ Note: French writes decimals with a comma (3,50) and in Canada the $ often comes after the number. ¶ Politeness: use vous with servers; always start with Bonjour. ¶ Activity: role-play in threes with the menu; the server totals the bill.
+src: Original dialogue and menu written for this lesson.
+st: Read the café dialogue | Learn polite ordering phrases | Read the menu and prices | Role-play ordering in threes | Total the bill in French
+org: Client | Commande | Prix
+an: How does Amira order politely? | Why does the server say vous? | How is 3,50 $ written differently from English? | What did your group's bill total?
+pr: Perform a café role-play using at least six polite phrases, and write the order and total bill in French.
+ex: Ordering || Order a hot chocolate politely. || Je voudrais + s'il vous plaît || Je voudrais un chocolat chaud, s'il vous plaît. || Order a croissant too.
+ex: Price || Say 7,50 $ in French. || dollars + cents || sept dollars cinquante || Say 4,25 $.
+ex: Bill || Add a croissant and a juice. || 2,75 + 3,00 || 5,75 $: cinq dollars soixante-quinze || Add a crêpe.
+ex: Politeness || Why "je voudrais" instead of "je veux"? || Conditional || It's more polite, like "I would like" || When might "je veux" be OK?
+p: B || What does "Je voudrais" mean? || I would like.
+p: B || How do you say please formally? || S'il vous plaît.
+p: B || What does "Vous désirez ?" mean? || What would you like?
+p: B || How do you ask for the bill? || L'addition, s'il vous plaît.
+p: B || What does "C'est combien ?" mean? || How much is it?
+p: I || Order a juice politely. || Je voudrais un jus, s'il vous plaît.
+p: I || What does "Et avec ça ?" mean? || Anything else?
+p: I || How do you say "That's all"? || C'est tout.
+p: I || How much is a croissant on the menu? || 2,75 $.
+p: I || Say 3,50 $ in French. || Trois dollars cinquante.
+p: I || What does "Ça fait…" mean? || That comes to…
+p: C || Why use vous with a server? || It's polite with people you don't know.
+p: C || What is a croissant + hot chocolate? || 6,25 $.
+p: C || Why is je voudrais more polite than je veux? || It's softer, like "I would like."
+p: C || Write your café order and bill. || Answers vary.
+mis: Saying "je veux" to a server | Forgetting Bonjour first | Using tu with a server
+et: Commande un croissant poliment. | How do you ask for the bill?
+mc: B || "Je voudrais" means || I would like | I want now | I have | I am || A
+mc: B || Formal please is || s'il vous plaît | merci | bonjour | voilà || A
+mc: B || "L'addition" is || the bill | the menu | the server | the table || A
+mc: B || "C'est combien ?" means || How much is it? | What is it? | Where is it? | Who is it? || A
+mc: B || "Et avec ça ?" means || Anything else? | And you? | That's all | Goodbye || A
+mc: B || "C'est tout" means || That's all | It's everything good | It's expensive | It's late || A
+mc: I || A croissant costs || 2,75 $ | 7,50 $ | 4,25 $ | 3,75 $ || A
+mc: I || 3,50 $ is said || trois dollars cinquante | trois cinquante dollars | trente-cinq dollars | trois dollars cinq || A
+mc: I || Croissant + jus d'orange is || 5,75 $ | 6,75 $ | 4,75 $ | 7,50 $ || A
+mc: I || With a server, use || vous | tu | toi | nothing || A
+mc: C || "Je voudrais" is polite because it is || softer than je veux | shorter | slang | informal || A
+mc: C || French decimals use || a comma | a period | a slash | nothing || A
+sa: B || Order a hot chocolate politely. || Je voudrais un chocolat chaud, s'il vous plaît.
+sa: B || Ask for the bill. || L'addition, s'il vous plaît.
+sa: I || Say 4,25 $ in French. || Quatre dollars vingt-cinq.
+sa: I || Total a crêpe and a café au lait. || 8,00 $.
+sa: I || Why use vous with servers? || It's polite.
+sa: I || List four polite café phrases. || Bonjour, je voudrais, s'il vous plaît, merci.
+sa: C || Explain why je voudrais is polite. || It's softer, like "I would like."
+sa: C || Write your café order and bill. || Answers vary.
+
+=== FSL7.D1 0
+hook: Most French verbs end in -er, and they all follow the same pattern. Learn one, like jouer or regarder, and you can use hundreds: danser, chanter, nager, skier…
+sc: I can conjugate regular -er verbs in the present tense | I can talk about my leisure activities | I can say how often I do things
+v: les loisirs :: leisure activities
+v: jouer :: to play
+v: regarder :: to watch
+v: écouter :: to listen to
+v: danser / chanter :: to dance / to sing
+v: nager :: to swim
+v: souvent :: often
+v: le week-end :: on weekends
+ts: Mes loisirs || Grammar || How do I talk about my activities with -er verbs?
+tx: -er verb pattern (written for this lesson), using parler (to speak): ¶ je parle, tu parles, il/elle/on parle, nous parlons, vous parlez, ils/elles parlent. ¶ Endings: -e, -es, -e, -ons, -ez, -ent. The -e, -es, -e and -ent forms all sound the same! ¶ Text: Le week-end, je regarde des films et j'écoute de la musique. Ma sœur danse et chante. Mes amis et moi, nous nageons à la piscine. Mes parents regardent le hockey. Et vous, qu'est-ce que vous aimez faire ? ¶ Frequency: toujours (always), souvent (often), parfois (sometimes), rarement (rarely), ne … jamais (never): Je ne danse jamais ! ¶ Activity: "Trouve quelqu'un qui…" (find someone who…): circulate and ask Tu nages souvent ? Tu chantes ? and write names.
+src: Original text written for this lesson.
+st: Learn the -er pattern with parler | Read the leisure text | Practise frequency words | Play "Trouve quelqu'un qui…" | Write about your weekend
+org: Pronom | Terminaison | Exemple
+an: Which -er forms sound the same? | What does the family do on weekends? | Where does ne … jamais go? | What did you find out about classmates?
+pr: Write six sentences about leisure activities using different subject pronouns and three frequency words.
+ex: Pattern || Conjugate écouter with nous. || stem écout + ons || Nous écoutons. || With vous?
+ex: Ils || "They watch TV." || stem regard + ent || Ils regardent la télé. || Is the -ent pronounced?
+ex: Frequency || "I often swim." || Adverb after verb || Je nage souvent. || "I never dance."
+ex: Never || "I never sing." || ne … jamais || Je ne chante jamais. || "She never swims."
+p: B || What is "les loisirs"? || Leisure activities.
+p: B || What does "regarder" mean? || To watch.
+p: B || What does "écouter" mean? || To listen to.
+p: B || What does "nager" mean? || To swim.
+p: B || What does "souvent" mean? || Often.
+p: I || Conjugate parler with je. || Je parle.
+p: I || Conjugate parler with nous. || Nous parlons.
+p: I || Conjugate parler with vous. || Vous parlez.
+p: I || Conjugate parler with ils. || Ils parlent.
+p: I || Say "She dances." || Elle danse.
+p: I || Say "I never swim." || Je ne nage jamais.
+p: C || Why do parle, parles and parlent sound alike? || The endings -e, -es and -ent are silent.
+p: C || Translate: We often listen to music on weekends. || Nous écoutons souvent de la musique le week-end.
+p: C || Translate: My friends watch hockey. || Mes amis regardent le hockey.
+p: C || Write about your weekend. || Answers vary.
+mis: Pronouncing the -ent ending | Using the infinitive after je | Putting jamais without ne
+et: Conjugate jouer for je and nous. | Say "I often watch films."
+mc: B || "Regarder" means || to watch | to play | to swim | to sing || A
+mc: B || "Écouter" means || to listen | to speak | to eat | to watch || A
+mc: B || "Nager" means || to swim | to dance | to skate | to run || A
+mc: B || "Souvent" means || often | never | always | rarely || A
+mc: B || "Chanter" means || to sing | to dance | to play | to talk || A
+mc: B || "Les loisirs" are || leisure activities | school subjects | foods | clothes || A
+mc: I || "Nous" form of parler is || parlons | parlez | parlent | parle || A
+mc: I || "Vous" form of parler is || parlez | parlons | parles | parlent || A
+mc: I || "They dance" is || Ils dansent | Ils danse | Ils dansons | Ils dansez || A
+mc: I || "I never swim" is || Je ne nage jamais | Je nage jamais ne | Je jamais nage | Je ne jamais nage || A
+mc: C || The -ent ending is || silent | pronounced "ent" | pronounced "on" | pronounced "ez" || A
+mc: C || Frequency adverbs usually go || after the verb | before je | at the end always | nowhere || A
+sa: B || Name four -er verbs. || Jouer, regarder, écouter, danser.
+sa: B || What does "parfois" mean? || Sometimes.
+sa: I || Conjugate jouer fully. || Je joue, tu joues, il joue, nous jouons, vous jouez, ils jouent.
+sa: I || Say "We swim on weekends." || Nous nageons le week-end.
+sa: I || Say "She never sings." || Elle ne chante jamais.
+sa: I || Which forms sound the same? || Je, tu, il and ils forms.
+sa: C || Explain the -er pattern. || Stem plus -e, -es, -e, -ons, -ez, -ent.
+sa: C || Write about your weekend. || Answers vary.
+
+=== FSL7.D1 1
+hook: In English, you "play" soccer and "play" piano, and you "do" yoga. French makes the same kind of distinction with jouer à, jouer de and faire de, and the little words change with each activity.
+sc: I can use jouer à for sports and games and jouer de for instruments | I can use faire de for activities | I can talk about sports and hobbies with correct contractions
+v: jouer à :: to play (a sport or game)
+v: jouer de :: to play (an instrument)
+v: faire de :: to do (an activity)
+v: au / à la / aux :: à + le / à + la / à + les
+v: du / de la / de l' :: de + le / de + la / de + l'
+v: le hockey / le soccer :: hockey / soccer
+v: la guitare / le piano :: guitar / piano
+v: le vélo / la natation :: cycling / swimming
+ts: Jouer ou faire ? || Grammar || How do I talk about sports, games and instruments?
+tx: Guide (written for this lesson): ¶ Faire (to do / make) is irregular: je fais, tu fais, il fait, nous faisons, vous faites, ils font. ¶ jouer à + sport or game: à + le = au: Je joue au hockey. à + la = à la: Je joue à la balle. à + les = aux: Je joue aux cartes. ¶ jouer de + instrument: de + le = du: Je joue du piano. de + la = de la: Je joue de la guitare. ¶ faire de + activity: Je fais du vélo. Je fais de la natation. Je fais du ski. Je fais de l'escalade. ¶ Canadian context: hockey and ringuette are popular across Canada; ringuette was invented in Ontario in 1963. ¶ Activity: class survey: Tu fais du sport ? Tu joues d'un instrument ? Make a chart, then write five sentences about the class: Six élèves jouent au soccer…
+src: Original activity written for this lesson.
+st: Learn faire | Learn jouer à with au, à la, aux | Learn jouer de with du, de la | Learn faire de | Survey and report on the class
+org: Activité | jouer à / jouer de / faire de | Phrase
+an: Why is it "au hockey" not "à le hockey"? | How do you know when to use jouer à or jouer de? | Which activities use faire? | What was the most popular class activity?
+pr: Write six sentences about sports, games and instruments that you and others do, using jouer à, jouer de and faire de correctly.
+ex: Jouer à || "I play soccer." || à + le = au || Je joue au soccer. || "I play cards."
+ex: Jouer de || "She plays guitar." || de + la || Elle joue de la guitare. || "He plays piano."
+ex: Faire de || "We go cycling." || faire du vélo || Nous faisons du vélo. || "They swim."
+ex: Faire || Conjugate faire with ils. || Irregular || Ils font. || And vous?
+p: B || What does "jouer à" go with? || Sports and games.
+p: B || What does "jouer de" go with? || Instruments.
+p: B || What is "à + le"? || Au.
+p: B || What is "de + le"? || Du.
+p: B || What is "le vélo"? || Cycling.
+p: I || Say "I play hockey." || Je joue au hockey.
+p: I || Say "I play piano." || Je joue du piano.
+p: I || Say "I play guitar." || Je joue de la guitare.
+p: I || Say "I ski." || Je fais du ski.
+p: I || Conjugate faire with nous. || Nous faisons.
+p: I || Conjugate faire with vous. || Vous faites.
+p: C || Why does à + les become aux? || French contracts à and les.
+p: C || When was ringuette invented? || 1963.
+p: C || Translate: My brother plays the drums and goes swimming. || Mon frère joue de la batterie et fait de la natation.
+p: C || Write about your activities. || Answers vary.
+mis: Saying "à le" or "de le" | Using jouer à with instruments | Conjugating faire like an -er verb
+et: Say "I play basketball." | Say "I play the violin."
+mc: B || Jouer à is for || sports and games | instruments | food | school || A
+mc: B || Jouer de is for || instruments | sports | games | weather || A
+mc: B || À + le becomes || au | à le | du | aux || A
+mc: B || De + le becomes || du | de le | au | des || A
+mc: B || "Le vélo" is || cycling | swimming | skiing | hockey || A
+mc: B || "La natation" is || swimming | cycling | skating | running || A
+mc: I || "I play hockey" is || Je joue au hockey. | Je joue du hockey. | Je joue à le hockey. | Je fais au hockey. || A
+mc: I || "I play guitar" is || Je joue de la guitare. | Je joue à la guitare. | Je joue au guitare. | Je fais guitare. || A
+mc: I || "Nous" form of faire is || faisons | faisez | fons | faites || A
+mc: I || "Ils" form of faire is || font | faisent | faient | fais || A
+mc: C || À + les becomes || aux | à les | des | au || A
+mc: C || Ringuette was invented in || Ontario | France | Quebec City | Alberta || A
+sa: B || When do you use jouer à? || With sports and games.
+sa: B || When do you use jouer de? || With instruments.
+sa: I || Conjugate faire fully. || Je fais, tu fais, il fait, nous faisons, vous faites, ils font.
+sa: I || Say "I play cards." || Je joue aux cartes.
+sa: I || Say "She skis." || Elle fait du ski.
+sa: I || Say "He plays piano." || Il joue du piano.
+sa: C || Explain au and du. || Contractions of à + le and de + le.
+sa: C || Write about your activities. || Answers vary.
+
+=== FSL7.D1 2
+hook: French isn't just spoken in France. In Canada, about one in five people speak it as their first language, and there are francophone communities from Nova Scotia to British Columbia, including right here in Alberta.
+sc: I can name francophone communities and celebrations in Canada | I can describe francophone culture in Alberta | I can compare a francophone tradition with my own
+v: francophone :: French-speaking
+v: la culture :: culture
+v: une fête :: a celebration
+v: le drapeau :: the flag
+v: une communauté :: a community
+v: acadien / acadienne :: Acadian
+v: franco-albertain :: Franco-Albertan
+v: célébrer :: to celebrate
+ts: Le Canada francophone || Research || Where is French spoken in Canada, and how is it celebrated?
+tx: Background (written for this lesson from public sources): ¶ French is one of Canada's two official languages. Quebec is the largest francophone province; New Brunswick is officially bilingual; there are francophone communities in every province and territory. ¶ Francophone communities and celebrations: Quebec: la Fête nationale du Québec on 24 June; le Carnaval de Québec in winter. Acadie (New Brunswick, Nova Scotia, PEI): la Fête nationale de l'Acadie on 15 August with the noisy Tintamarre parade. Manitoba: le Festival du Voyageur in Winnipeg every February, celebrating fur-trade history. ¶ Alberta: francophone communities include Bonnie Doon in Edmonton, Saint-Paul, Bonnyville, Falher, Legal, Plamondon and Beaumont. The University of Alberta's Campus Saint-Jean teaches in French. The Franco-Albertan flag (blue and white with a fleur-de-lis and a wild rose) was adopted in 1982. ¶ Activities: 1. Map: mark francophone communities in Canada and Alberta. 2. Choose one celebration; find out when, where, what people do and what it celebrates. 3. Compare it with a celebration from your own family or culture in a Venn diagram, with French labels.
+src: Summary from public sources about francophone communities in Canada and Alberta.
+st: Learn where French is spoken in Canada | Map francophone communities in Alberta | Research one francophone celebration | Compare it with your own | Share in French and English
+org: Fête | Où ? | Quand ? | Activités | Comparaison
+an: Which francophone community in Alberta is closest to you? | What does the Franco-Albertan flag show? | What is the Tintamarre? | How is the celebration like one from your culture?
+pr: Create a Venn diagram comparing a francophone celebration with one of your own, with at least six French labels and a short presentation.
+ex: Date || When is the Fête nationale de l'Acadie? || August || Le 15 août || What happens?
+ex: Festival du Voyageur || Where and when? || Manitoba || In Winnipeg, every February || What does it celebrate?
+ex: Alberta || Name two francophone communities in Alberta. || Map || Saint-Paul and Falher || Any near you?
+ex: Flag || What symbols are on the Franco-Albertan flag? || Two flowers || A fleur-de-lis and a wild rose || Why the wild rose?
+p: B || What does "francophone" mean? || French-speaking.
+p: B || What is "une fête"? || A celebration.
+p: B || What is "le drapeau"? || The flag.
+p: B || What are Canada's official languages? || English and French.
+p: B || What does "célébrer" mean? || To celebrate.
+p: I || When is la Fête nationale du Québec? || 24 June.
+p: I || What is the Tintamarre? || A noisy Acadian parade on 15 August.
+p: I || Where is the Festival du Voyageur? || Winnipeg.
+p: I || Name a French-language campus in Alberta. || Campus Saint-Jean.
+p: I || When was the Franco-Albertan flag adopted? || 1982.
+p: I || Which province is officially bilingual? || New Brunswick.
+p: C || Why is the wild rose on the Franco-Albertan flag? || It's Alberta's provincial flower.
+p: C || Why do francophone communities hold festivals? || To celebrate and keep their culture and language alive.
+p: C || How is the Festival du Voyageur connected to history? || It celebrates fur-trade voyageurs.
+p: C || Present your Venn diagram. || Answers vary.
+mis: Thinking French is only spoken in Quebec | Thinking all francophone cultures are the same | Thinking Alberta has no francophone history
+et: Nomme une fête francophone. | Name a francophone community in Alberta.
+mc: B || Francophone means || French-speaking | English-speaking | from France only | Canadian || A
+mc: B || "Une fête" is || a celebration | a party hat | a flag | a city || A
+mc: B || Canada's official languages are || English and French | French only | English only | French and Spanish || A
+mc: B || "Le drapeau" is || the flag | the dress | the map | the song || A
+mc: B || "Célébrer" means || to celebrate | to sing | to eat | to dance || A
+mc: B || The officially bilingual province is || New Brunswick | Alberta | Ontario | Quebec || A
+mc: I || The Festival du Voyageur is in || Winnipeg | Edmonton | Quebec City | Halifax || A
+mc: I || The Tintamarre is || Acadian | Albertan | from Paris | Manitoban || A
+mc: I || La Fête nationale du Québec is on || 24 June | 1 July | 15 August | 14 July || A
+mc: I || The Franco-Albertan flag shows || a fleur-de-lis and wild rose | a maple leaf only | a star | a beaver || A
+mc: C || Festivals help communities || keep culture alive | forget history | stop speaking French | sell flags only || A
+mc: C || The wild rose represents || Alberta | Quebec | France | Manitoba || A
+sa: B || Define francophone. || French-speaking.
+sa: B || Name two francophone celebrations in Canada. || Carnaval de Québec, Festival du Voyageur.
+sa: I || Name three francophone communities in Alberta. || Saint-Paul, Bonnyville, Falher.
+sa: I || Describe the Franco-Albertan flag. || Blue and white with a fleur-de-lis and a wild rose.
+sa: I || When is la Fête nationale de l'Acadie? || 15 August.
+sa: I || What does the Festival du Voyageur celebrate? || Fur-trade history and voyageurs.
+sa: C || Explain why festivals matter to communities. || They keep language and culture alive.
+sa: C || Present your comparison. || Answers vary.
