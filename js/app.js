@@ -58,7 +58,7 @@ const ICONS = {
 const ic = n => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="${ICONS[n]}"/></svg>`;
 const NAV = [
   {group:null, items:[["home","Overview","home","Home"]]},
-  {group:"Plan", items:[["curriculum","Curriculum","book","Outcomes"],["week","Weekly plan","calendar","Week"],["day","Daily plan","clock","Day"],["folder","Plans folder","book","Folder"]]},
+  {group:"Plan", items:[["curriculum","Curriculum","book","Outcomes"],["week","Weekly plan","calendar","Week"],["calendar","Calendar","calendar","Calendar"],["day","Daily plan","clock","Day"],["folder","Plans folder","book","Folder"]]},
   {group:"Teach", items:[["lessons","Lessons","lesson","Lessons"]]},
   {group:"Assess", items:[["marks","Markbook","marks","Marks"],["tracker","Assessment tracker","chart","Tracker"],["board","Smart board","pen","Board"],["analysis","Analysis","chart","Data"],["test","Test builder","test","Tests"],["students","Students","users","Students"]]}
 ];
@@ -252,7 +252,7 @@ function sessions(plan){
     if (plan.review) list.push({type:"review", code:c, title:`Review and informal check: ${so.title}`});
     if (plan.quiz) list.push({type:"quiz", code:c, title:`Formal assessment: ${so.title}`});
   });
-  const skip = new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean));
+  const skip = (typeof schoolSkip === "function" ? schoolSkip(plan.skip).set : (typeof schoolSkip === "function" ? schoolSkip(plan.skip).set : (typeof schoolSkip === "function" ? schoolSkip(plan.skip).set : new Set((plan.skip||"").split(/[\s,]+/).filter(Boolean)))));
   let d = parseISO(plan.start), guard = 0;
   const evd = new Set(planEvents(plan).map(e => e.date)), spans = plan.spans || {}, out = [];
   if (plan._mig) list.forEach(s => { if (s.type === "quiz" && aKind(plan, s.code) === "summative") { s.akind = "summative"; s.title = String(s.title).replace(/^Formal assessment/, "Summative assessment"); } });
@@ -327,7 +327,7 @@ const ptSectionOpts = (course, cur) => {
 };
 function ptFillSection(){ const s = document.getElementById("ptSection"), g = document.getElementById("ptGrade"); if (s && g && !s.dataset.f) { s.innerHTML = ptSectionOpts(g.value); s.dataset.f = "1"; } }
 function render(){
-  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome), board:(window.rBoard || rHome), folder:(window.rFolder || rHome)}[S.tab] || rHome;
+  const R = {home:rHome, curriculum:rCurriculum, week:rWeek, day:rDay, lessons:rLessons, marks:rMarks, analysis:rAnalysis, test:rTest, students:rStudents, tracker:(window.rTracker || rHome), board:(window.rBoard || rHome), calendar:(window.rCalendar || rHome), folder:(window.rFolder || rHome)}[S.tab] || rHome;
   pbFixState();
   $("#app").innerHTML = R();
   pbRestrictDom($("#app")); ptFillSection();
@@ -452,7 +452,7 @@ function rWeek(){
   const weeks = [];
   if (list.length) { let mon = mondayOf(list[0].date); const lastEv = planEvents(S.plan).filter(e => e.kind === "summative").pop(), last = lastEv && parseISO(lastEv.date) > list[list.length-1].date ? parseISO(lastEv.date) : list[list.length-1].date; while (mon <= last) { weeks.push(mon); mon = addDays(mon, 7); } }
   const byDate = Object.fromEntries(list.map(s => [iso(s.date), s])), evBy = Object.fromEntries(planEvents(S.plan).map(e => [e.date, e]));
-  const skip = new Set((p.skip||"").split(/[\s,]+/).filter(Boolean));
+  const skip = (typeof schoolSkip === "function" ? schoolSkip(p.skip).set : (typeof schoolSkip === "function" ? schoolSkip(p.skip).set : (typeof schoolSkip === "function" ? schoolSkip(p.skip).set : new Set((p.skip||"").split(/[\s,]+/).filter(Boolean)))));
   const nL = list.filter(s => s.type === "lesson").length;
   return `
   ${ph("Weekly plan", "Lessons laid out on your teaching days, with a practice workshop, a review day and a check-in quiz after each outcome. Select a day to open its plan. Set how many days each lesson takes and add other activities in Plan settings.")}
@@ -466,7 +466,7 @@ function rWeek(){
           <label class="f" style="width:90px;flex:none">Minutes<input type="number" id="pPeriod" min="30" max="120" step="5" value="${p.period}"></label>
         </div>
         <div class="stack" style="gap:6px"><span class="eyebrow">Teaching days</span><div class="chips">${[1,2,3,4,5].map(d => `<label class="pick"><input type="checkbox" data-act="pday" data-d="${d}" ${p.days.includes(d)?"checked":""}>${DOW[d]}</label>`).join("")}</div></div>
-        <label class="f">No-school dates<input id="pSkip" placeholder="2026-11-11, 2026-11-12" value="${esc(p.skip)}"></label>
+        <label class="f">No-school dates<input id="pSkip" placeholder="2026-11-11, 2026-11-12" value="${esc(p.skip)}"></label>${typeof schoolCalNote === "function" ? schoolCalNote() : ""}
         <div class="stack" style="gap:6px"><span class="eyebrow">Other activities</span><span class="xs muted">Formal assessment days, assemblies, trips or events. Lessons move to the next teaching day.</span>
           <div class="row" style="gap:6px;align-items:flex-end"><select id="evKind" data-act="evkind" aria-label="Type of day" style="flex:1 1 150px;min-width:0"><option value="">Other activity</option><option value="formal">Formal assessment</option></select><input type="date" id="evDate" aria-label="Date" style="flex:1 1 130px;min-width:0"><input id="evTitle" maxlength="60" placeholder="Name, e.g. Sports day" aria-label="Name" style="flex:2 1 120px;min-width:0"><button type="button" class="btn sm" data-act="evadd">Add</button></div>
           <div id="evOutc" class="stack" style="gap:4px" hidden><span class="xs muted">Outcomes it covers. Leave all unticked to use the outcomes finished since the last one. Leave the name empty to name it from the outcomes.</span>
@@ -494,7 +494,7 @@ function rWeek(){
       ${weeks.map((mon,wi) => `<div class="wk"><div class="wk-h"><b>Week ${wi+1}</b><span class="small muted">${fmtS(mon)} – ${fmtS(addDays(mon,4))}</span><button type="button" class="btn quiet sm wk-print" data-fp="weekboth" data-w="${wi+1}" title="Print this week's weekly and daily plans">${ic("print")}Print</button></div>
         <div class="days">${[0,1,2,3,4].map(k => { const d = addDays(mon,k), key = iso(d), s = byDate[key], ev = evBy[key];
           if (ev && !s) return `<div class="dc ev ${key===d0?"today":""}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${evBadge(ev)}</div><span class="t">${esc(ev.title)}</span><button type="button" class="linkbtn xs" data-act="evdel" data-date="${key}">Remove</button></div>`;
-          if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
+          if (!s) return `<div class="dc off"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span><span class="xs">${skip.has(key) ? ((typeof schoolOff === "function" && schoolOff(key)) || "No school") : p.days.includes(d.getDay()) ? "" : "No lesson"}</span></div>`;
           return `<button class="dc ${key===d0?"today":""}" data-act="openday" data-ix="${s.ix}"><div class="top"><span class="dn">${DOW[d.getDay()]} ${d.getDate()}</span>${sBadge(s)}</div><span class="t">${esc(s.title)}${dayTag(s)}</span>${checkTag(s)}<span class="o"><span class="code">${sc(s.code)}</span>${s.type==="lesson" ? ` Lesson ${s.i+1} of ${SO[s.code].lessons.length}` : ""}</span></button>`; }).join("")}</div></div>`).join("")}`
       : `<div class="card"><div class="empty"><h2>No outcomes selected</h2><p>Tick one or more outcomes in Plan settings to build the calendar.</p></div></div>`}
     </section>

@@ -18,7 +18,7 @@
   function data() {
     const p = S.plan, list = sessions(p);
     const evs = typeof planEvents === "function" ? planEvents(p) : [];
-    const skip = typeof skipDates === "function" ? skipDates(p.skip).set : new Set();
+    const skip = typeof schoolSkip === "function" ? schoolSkip(p.skip).set : typeof skipDates === "function" ? skipDates(p.skip).set : new Set();
     const first = list[0]?.date, last = list[list.length - 1]?.date;
     const weeks = [];
     if (first) { let mon = mondayOf(first); while (mon <= last) { weeks.push(mon); mon = addDays(mon, 7); } }
@@ -95,7 +95,7 @@
       let what, type, out = "";
       if (s) { what = `<b>${e_(s.title)}</b>${typeof dayTag === "function" ? e_(dayTag(s)) : ""}${s.type === "lesson" && SO[s.code] ? `<div class="mut">Lesson ${s.i + 1} of ${SO[s.code].lessons.length}</div>` : ""}`; type = typeName(s.type); out = s.code ? codeLabel(s.code) : ""; if (s.akind === "summative") type = "Summative assessment"; }
       else if (ev) { what = `<b>${e_(ev.title)}</b>`; type = ev.kind === "summative" ? "Summative assessment" : ev.kind === "formal" ? "Formal assessment" : "Activity"; out = (ev.outcomes || []).map(codeLabel).join(", "); }
-      else { what = `<span class="mut">${D.skip.has(key) ? "No school" : p.days.includes(d.getDay()) ? "Open day" : "No class"}</span>`; type = ""; }
+      else { what = `<span class="mut">${D.skip.has(key) ? ((typeof schoolOff === "function" && schoolOff(key)) || "No school") : p.days.includes(d.getDay()) ? "Open day" : "No class"}</span>`; type = ""; }
       return `<tr><td><b>${DN[d.getDay()]}</b><div class="mut">${shortD(d)}</div></td><td><b>${e_(out)}</b></td><td>${what}</td><td>${e_(type)}</td><td class="lines"></td></tr>`; }).join("");
     return `<section class="pg"><header class="ph2"><div><div class="k">Weekly plan · Week ${w}</div><h2>${e_(longDate(mon))} – ${e_(longDate(addDays(mon, 4)))}</h2></div><div class="r">${e_(courseOf(D))}<br>${e_(f.teacher || "")}${clsText() ? " · " + e_(clsText()) : ""}</div></header>
       <table class="wt"><thead><tr><th style="width:11%">Day</th><th style="width:10%">Outcome</th><th>Plan</th><th style="width:15%">Type</th><th style="width:26%">Notes and homework</th></tr></thead><tbody>${rows}</tbody></table>
